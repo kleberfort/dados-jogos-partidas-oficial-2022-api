@@ -1,99 +1,82 @@
 [
     {
-   "nome": "América-MG",
-   "imagem": "https://www.imagensempng.com.br/wp-content/uploads/2021/01/Escudo-America-MG-Png-1024x1024.png"
-  }, 
-  
+        "nome": "América-MG",
+         "imagem": "https://www.imagensempng.com.br/wp-content/uploads/2021/01/Escudo-America-MG-Png-1024x1024.png"
+    }, 
     {
-   "nome": "Atlético-PR",
-   "imagem": "https://logodetimes.com/wp-content/uploads/athletico-paranaense.png"
-  }, 
-  {
-   "nome": "Atlético-MG",
-   "imagem": "https://logodetimes.com/wp-content/uploads/atletico-mineiro.png"
-  },
-  
+         "nome": "Atlético-PR",
+         "imagem": "https://logodetimes.com/wp-content/uploads/athletico-paranaense.png"
+    }, 
     {
-   "nome": "Atlético-GO",
-   "imagem": "https://logodetimes.com/wp-content/uploads/atletico-goianiense.png"
-  },
-  
-  {
-   "nome": "Avaí",
-   "imagem": "https://logodetimes.com/wp-content/uploads/avai.png"
-  },
-  
-  
-  {
-   "nome": "Botafogo",
-   "imagem": "https://logodetimes.com/wp-content/uploads/botafogo.png"
-  },
- 
-  {
-   "nome": "Bragantino",
-   "imagem": "https://logodetimes.com/wp-content/uploads/red-bull-bragantino.png"
-  },
-  
-  {
-   "nome": "Ceará",
-   "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png"
-  },
-   {
-  "nome": "Corinthians",
-  "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"
-  },
-  
-  {
-   "nome": "Coritiba",
-   "imagem": "https://logodetimes.com/wp-content/uploads/coritiba.png"
-  },
-  
-  {
-   "nome": "Cuiabá",
-   "imagem": "https://logodetimes.com/wp-content/uploads/cuiaba.png"
-  },
-  {
-   "nome": "Flamengo",
-   "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png"
-  },
-  {
-   "nome": "Fluminense",
-   "imagem": "https://logodetimes.com/wp-content/uploads/fluminense.png"
-  },
-   {
-   "nome": "Fortaleza",
-   "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png"
-  },
-  
-   {
-   "nome": "Goiás",
-   "imagem": "https://logodetimes.com/wp-content/uploads/goias-esporte-clube.png"
-  },
-  
-   {
-   "nome": "Juventude",
-   "imagem": "https://logodetimes.com/wp-content/uploads/juventude-rs.png"
-  },
-  
-  
-   {
-   "nome": "Internacional",
-   "imagem": "https://logodetimes.com/wp-content/uploads/internacional.png"
-  },
-  
-  
-   {
-   "nome": "Palmeiras",
-   "imagem": "https://logodetimes.com/wp-content/uploads/palmeiras.png"
-  },
-   
-   {
-   "nome": "Santos"
-   "imagem": "https://logodetimes.com/wp-content/uploads/santos.png"
-  },
-    
-   {
-   "nome": "São-Paulo",
-   "imagem": "https://logodetimes.com/wp-content/uploads/sao-paulo.png"
-  },
+          "nome": "Atlético-MG",
+          "imagem": "https://logodetimes.com/wp-content/uploads/atletico-mineiro.png"
+    },
+    {
+          "nome": "Atlético-GO",
+          "imagem": "https://logodetimes.com/wp-content/uploads/atletico-goianiense.png"
+    },
+    {
+           "nome": "Avaí",
+           "imagem": "https://logodetimes.com/wp-content/uploads/avai.png"
+    },
+    {
+            "nome": "Botafogo",
+            "imagem": "https://logodetimes.com/wp-content/uploads/botafogo.png"
+    },
+    {
+            "nome": "Bragantino",
+            "imagem": "https://logodetimes.com/wp-content/uploads/red-bull-bragantino.png"
+    },
+    {
+            "nome": "Ceará",
+            "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png"
+    },
+    {
+           "nome": "Corinthians",
+            "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"
+    },
+    {
+           "nome": "Coritiba",
+           "imagem": "https://logodetimes.com/wp-content/uploads/coritiba.png"
+    },
+    {
+      "nome": "Cuiabá",
+      "imagem": "https://logodetimes.com/wp-content/uploads/cuiaba.png"
+    },
+    {
+      "nome": "Flamengo",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png"
+    },
+    {
+      "nome": "Fluminense",
+      "imagem": "https://logodetimes.com/wp-content/uploads/fluminense.png"
+    },
+    {
+      "nome": "Fortaleza",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png"
+    },
+    {
+      "nome": "Goiás",
+      "imagem": "https://logodetimes.com/wp-content/uploads/goias-esporte-clube.png"
+    },
+    {
+      "nome": "Juventude",
+      "imagem": "https://logodetimes.com/wp-content/uploads/juventude-rs.png"
+    }, 
+    {
+      "nome": "Internacional",
+      "imagem": "https://logodetimes.com/wp-content/uploads/internacional.png"
+    },
+    {
+      "nome": "Palmeiras",
+      "imagem": "https://logodetimes.com/wp-content/uploads/palmeiras.png"
+    },
+    {
+      "nome": "Santos",
+      "imagem": "https://logodetimes.com/wp-content/uploads/santos.png"
+    },
+    {
+     "nome": "São-Paulo",
+     "imagem": "https://logodetimes.com/wp-content/uploads/sao-paulo.png"
+   },
 ]
