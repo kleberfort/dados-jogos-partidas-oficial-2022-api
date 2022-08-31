@@ -35,25 +35,8 @@
     "classificacao": 7,
     "placar": 1
     }
-  },
-  
-  {
-        "descricao": "Brasileiro Série A 2022",
-        "rodada": 6,
-        "data": "14.05.22",
-        "mandante": {
-            "nome": "Ceará",
-            "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png",
-            "classificacao": 17,
-            "placar": 2
-        },
-        "visitante": {
-            "nome": "Flamengo",
-            "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
-            "classificacao": 14,
-            "placar": 2
-        }
-    }
+  }
+
 
 
   ]
