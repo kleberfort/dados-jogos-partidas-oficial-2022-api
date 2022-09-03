@@ -1,6 +1,6 @@
 
 [
-  {
+ {
       "descricao": "Brasileiro Série A 2022",
       "rodada": 1,
       "data": "09.04.22",
@@ -19,6 +19,27 @@
       "placar": 3
       }
     
+}, 
+ {
+      "descricao": "Brasileiro Série A 2022",
+      "rodada": 3 ,
+      "data": "01.06.22",
+    
+      "mandante": {
+      "nome": "Fortaleza",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
+      "classificacao": 17,
+      "placar": 1
+      },
+
+      "visitante": {
+      "nome": "Ceará",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+      "classificacao": 14,
+      "placar": 0
+      }
+    
 }
+
         
 ]
