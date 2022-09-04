@@ -259,9 +259,27 @@
       "placar": 1
       }
       
- }
- 
+ },
+  {
+      "descricao": "Brasileiro Série A 2022",
+      "rodada": 28,
+      "data": "28.09.22",
+    
+      "mandante": {
+      "nome": "Coritiba",
+      "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png",
+      "classificacao": 0,
+      "placar": 0
+      },
 
+      "visitante": {
+      "nome": "Ceará",
+      "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png",
+      "classificacao": 0, 
+      "placar": 0
+      }
+      
+ }
 
         
 ]
