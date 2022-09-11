@@ -1,1 +1,22 @@
 
+[
+  {
+    "descricao": "Brasileiro Série A 2022",
+    "rodada": 2,
+    "data": "17.04.22",
+    
+    "mandante": {
+    "nome": "São-Paulo",
+    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
+    "classificacao": 1,
+    "placar": 4
+  },
+    "visitante": {
+    "nome": "Atlético-PR",
+    "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
+    "classificacao": 1,
+    "placar": 0
+    }
+  }
+ 
+  ]
