@@ -1,1 +1,22 @@
-
+[
+  {
+    "descricao": "Brasileiro Série A 2022",
+    "rodada": 2,
+    "data": "16.04.22",
+    
+    "mandante": {
+    ,
+    "nome": "Goiás",
+    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_96x96.png",
+    "classificacao": 19,
+    "placar": 1
+  },
+    "visitante": {
+    "nome": "Palmeiras",
+    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png" ,
+    "classificacao": 14,
+    "placar": 1
+    }
+  }
+  
+]
