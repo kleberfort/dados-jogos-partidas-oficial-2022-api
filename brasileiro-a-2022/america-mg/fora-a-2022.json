@@ -11,10 +11,10 @@
     "classificacao": 5,
     "placar": 1,
       "escanteiosPrimeiroMandante": {
-        "tres": "",
-        "cinco": "",
-        "sete": "",
-        "nove": ""
+        "tres": "SIM",
+        "cinco": "NÃO",
+        "sete": "SIM",
+        "nove": "SIM"
       }
   },
     "visitante": {
@@ -23,10 +23,10 @@
     "classificacao": 17,
     "placar": 3,
         "escanteiosPrimeiroMandante": {
-        "tres": "",
-        "cinco": "",
-        "sete": "",
-        "nove": ""
+        "tres": "NÃO",
+        "cinco": "SIM",
+        "sete": "NÃO",
+        "nove": "NÃO"
       }
     }
   }
