@@ -9,14 +9,15 @@
     "nome": "Ceará",
     "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png",
     "classificacao": 5,
-    "placar": 1
+    "placar": 1,
+      "escanteiosPrimeiroMandante": {
+        "tres": "SIM",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO",
+      }
+      
   },
-     "escanteiosPrimeiroMandante": {
-      "tres": "SIM",
-      "cinco": "NÃO",
-      "sete": "NÃO", 
-      "nove": "NÃO"
-    },
     
     "visitante": {
     "nome": "Botafogo",
@@ -24,13 +25,7 @@
     "classificacao": 17,
     "placar": 3
    },
-        "escanteiosPrimeiroVisitante": {
-        "tres" : "NÃO", 
-        "cinco": "NÃO", 
-        "sete": "NÃO",
-        "nove": "NÃO"
-        
-    }
+  
   },
     
      {
