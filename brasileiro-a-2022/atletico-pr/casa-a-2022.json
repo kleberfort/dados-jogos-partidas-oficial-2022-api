@@ -1,5 +1,4 @@
 [
-    
     {
     "descricao": "Brasileiro Série A 2022",
     "rodada": 2,
@@ -14,8 +13,7 @@
         "tres": "SIM",
         "cinco": "NÃO",
         "sete": "NÃO",
-        "nove": "NÃO",
-      }    
+        "nove": "NÃO" }    
   },  
     "visitante": {
     "nome": "Botafogo",
@@ -26,11 +24,9 @@
         "tres": "SIM",
         "cinco": "NÃO",
         "sete": "NÃO",
-        "nove": "NÃO",
-      }
+        "nove": "NÃO" }
    }
   
-  }
-    
+} 
 
 ]
