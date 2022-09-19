@@ -12,10 +12,10 @@
     "placar": 1   
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM", 
-      "cinco": "NÃO",
-      "sete": "NÃO",
-      "nove": "NÃO"
+      "tres": true, 
+      "cinco": false,
+      "sete": true,
+      "nove": false
     },
     "visitante": {
     "nome": "Botafogo",
@@ -24,10 +24,10 @@
     "placar": 3
    },
     "escanteiosPrimeiroVisitante":{
-      "tres": "NÃO",
-      "cinco": "NÃO", 
-      "sete": "NÃO",
-      "nove": "NÃO"
+      "tres": false,
+      "cinco": true, 
+      "sete": false,
+      "nove": false
     }
   },
     
