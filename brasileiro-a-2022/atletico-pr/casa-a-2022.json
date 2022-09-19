@@ -10,10 +10,10 @@
     "classificacao": 20,
     "placar": 0,
     "escanteiosPrimeiro":{
-        "tres": "false",
-        "cinco": "false",
-        "sete": "false",
-        "nove": "false" }
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO" }
   },  
     "visitante": {
     "nome": "Atlético-MG",
@@ -21,10 +21,10 @@
     "classificacao": 17,
     "placar": 1,
     "escanteiosPrimeiro": {
-        "tres": "true",
-        "cinco": "true",
-        "sete": "false",
-        "nove": "false" }
+        "tres": "SIM",
+        "cinco": "SIM",
+        "sete": "NÃO",
+        "nove": "NÃO" }
   
      } 
 }
