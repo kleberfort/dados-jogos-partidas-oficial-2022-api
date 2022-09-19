@@ -1,33 +1,32 @@
 [
 {
-"descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "17.04.22",
-
-"mandante": {
-     "nome": "Atlético-PR",
-    "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
-    "classificacao": 20,
-    "placar": 0
-    },
-"escanteiosPrimeiroMandante": {
-    "tres": "NÃO",
-    "cinco": "NÃO", 
-    "sete": "NÃO",
-    "nove": "NÃO" },
-
-"visitante": {
-    "nome": "Atlético-MG",
-    "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
-    "classificacao": 17,
-    "placar": 1
-    },
-"escanteiosPrimeiroVisitante": {
-        "tres": "SIM",
-        "cinco": "SIM",
-        "sete": "NÃO",
-        "nove": "NÃO" }
-
+   "descricao":"Brasileiro Série A 2022",
+   "rodada":2,
+   "data":"17.04.22",
+   "mandante":{
+      "nome":"Atlético-PR",
+      "imagem":"https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
+      "classificacao":20,
+      "placar":0,
+      "escanteiosPrimeiro":{
+         "tres":"false",
+         "cinco":"false",
+         "sete":"false",
+         "nove":"false"
+      }
+   },
+   "visitante":{
+      "nome":"Atlético-MG",
+      "imagem":"https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
+      "classificacao":17,
+      "placar":1,
+      "escanteiosPrimeiro":{
+         "tres":"true",
+         "cinco":"true",
+         "sete":"false",
+         "nove":"false"
+      }
+   }
 }
 
 ]
