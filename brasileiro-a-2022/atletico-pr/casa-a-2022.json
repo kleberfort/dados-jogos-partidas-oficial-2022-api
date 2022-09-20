@@ -29,33 +29,29 @@
         "nove": "NÃO" }
 }, 
     {
-"descricao": "Brasileiro Série A 2022",
-"rodada": 3,
-"data": "23.04.22",
-"mandante": {
-"nome": "Atlético-PR",
-"imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
-"classificacao": 20,
-"placar": 1
-},
-"escanteiosPrimeiroMandante": {
-"tres": "",
-"cinco": "",
-"sete": "",
-"nove": ""
-},
-"visitante": {
- "nome": "Flamengo",
- "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
-"classificacao": 4,
-"placar": 0
-},
-"escanteiosPrimeiroVisitante": {
-"tres": "",
-"cinco": "",
-"sete": "",
-"nove": ""
-}
-}
+    "descricao": "Brasileiro Série A 2022",
+    "rodada": 3,
+    "data": "23.04.22",
+        "mandante": {
+        "nome": "Atlético-PR",
+        "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
+        "classificacao": 20,
+        "placar": 1 },
+            "escanteiosPrimeiroMandante": {
+            "tres": "NÃO",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO" },
+        "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+        "classificacao": 4,
+        "placar": 0 },
+            "escanteiosPrimeiroVisitante": {
+             "tres": "SIM",
+            "cinco": "SIM",
+            "sete": "NÃO",
+            "nove": "NÃO"}
+    }
 
 ]
