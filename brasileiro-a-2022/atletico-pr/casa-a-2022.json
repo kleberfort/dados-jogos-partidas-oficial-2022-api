@@ -52,6 +52,57 @@
             "cinco": "SIM",
             "sete": "NÃO",
             "nove": "NÃO"}
+    },
+    
+    {
+    "descricao": "Brasileiro Série A 2022",
+    "rodada": 5,
+    "data": "07.05.22",
+        "mandante": {
+        "nome": "Atlético-PR",
+        "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
+        "classificacao": 17,
+        "placar": 1 },
+            "escanteiosPrimeiroMandante": {
+            "tres": "NÃO",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO" },
+        "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png",
+        "classificacao": 15,
+        "placar": 0 },
+            "escanteiosPrimeiroVisitante": {
+             "tres": "SIM",
+            "cinco": "SIM",
+            "sete": "SIM",
+            "nove": "SIM"}
+    },
+        {
+    "descricao": "Brasileiro Série A 2022",
+    "rodada": 7,
+    "data": "22.05.22",
+        "mandante": {
+        "nome": "Atlético-PR",
+        "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
+        "classificacao": 17,
+        "placar": 2 },
+            "escanteiosPrimeiroMandante": {
+            "tres": "SIM",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO" },
+        "visitante": {
+         "nome": "Avaí",
+        "imagem": "https://www.escudosfc.com.br/images/avai.gif",
+        "classificacao": 7,
+        "placar": 1 },
+            "escanteiosPrimeiroVisitante": {
+             "tres": "NÃO",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO"}
     }
 
 ]
