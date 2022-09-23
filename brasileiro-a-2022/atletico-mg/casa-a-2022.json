@@ -266,8 +266,8 @@
   },
        "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
       "nove": "NÃO" },
     "visitante": {
     "nome": "Corinthians",
@@ -293,10 +293,10 @@
     "placar": 2
   },
       "escanteiosPrimeiroMandante":{
-      "tres": "NÃO",
+      "tres": "SIM",
       "cinco": "SIM",
-      "sete": "NÃO",
-      "nove": "NÃO" },
+      "sete": "SIM",
+      "nove": "SIM" },
     "visitante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
@@ -304,7 +304,7 @@
     "placar": 3
     },
       "escanteiosPrimeiroVisitante": {
-      "tres": "SIM",
+      "tres": "NÃO",
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" }
@@ -323,7 +323,7 @@
       "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "NÃO",
+      "sete": "SIM",
       "nove": "NÃO" },
     "visitante": {
     "nome": "Goiás",
@@ -350,7 +350,7 @@
   },
       "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "NÃO",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "visitante": {
@@ -361,7 +361,7 @@
     },
       "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
-      "cinco": "SIM",
+      "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" }
   }
