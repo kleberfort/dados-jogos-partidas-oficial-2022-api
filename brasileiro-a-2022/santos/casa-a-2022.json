@@ -17,12 +17,7 @@
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
-    "estatisticaJogoCasa":{
-      "escanteiosPrimeiroTempo":2 ,
-      "escanteiosSegundoTempo": 2,
-     "golsPrimeiroTempo": 2,
-     "golsSegundoTempo": 0}, 
-    
+  
     "visitante": {
     "nome": "Coritiba",
     "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png",
@@ -33,12 +28,8 @@
       "tres": "SIM",
       "cinco": "SIM",
       "sete": "SIM",
-      "nove": "NÃO" },
-    "estatisticaJogoFora":{
-      "escanteiosPrimeiroTempo": 4 ,
-      "escanteiosSegundoTempo": 3,
-     "golsPrimeiroTempo": 1,
-     "golsSegundoTempo": 0}
+      "nove": "NÃO" }
+
   }
   
   
