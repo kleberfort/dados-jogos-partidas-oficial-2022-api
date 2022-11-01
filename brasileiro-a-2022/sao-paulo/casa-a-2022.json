@@ -285,7 +285,7 @@
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "NÃO",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatistiticaJogoMandante":{
@@ -328,7 +328,7 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":3,
+      "escanteiosPrimeiroTempo":2,
       "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo":1},
@@ -363,7 +363,7 @@
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "NÃO",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatistiticaJogoMandante":{
