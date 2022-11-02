@@ -2,7 +2,7 @@
   {
     "descricao": "Brasileiro Série A 2022",
     "rodada": 2,
-    "data": "16.04.22",
+    "data": "17.04.22",
     
     "mandante": {
     "nome": "Atlético-PR",
@@ -11,12 +11,12 @@
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
+      "escanteiosPrimeiroTempo":2,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":0},
@@ -27,27 +27,27 @@
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 3,
+    "data": "23.04.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -79,14 +79,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 5,
+    "data": "07.05.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -118,14 +118,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 7,
+    "data": "22.05.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 2
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -141,7 +141,7 @@
            "nome": "Avaí",
            "imagem": "https://www.escudosfc.com.br/images/avai.gif",
     "classificacao": 0,
-    "placar": 0
+    "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
@@ -157,14 +157,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 9,
+    "data": "04.06.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 2
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -180,7 +180,7 @@
       "nome": "Santos",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png",
     "classificacao": 0,
-    "placar": 0
+    "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
@@ -196,14 +196,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 12,
+    "data": "15.06.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar":1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -219,7 +219,7 @@
            "nome": "Corinthians",
             "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
     "classificacao": 0,
-    "placar": 0
+    "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
@@ -235,14 +235,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 14,
+    "data": "25.06.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 4
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -258,7 +258,7 @@
             "nome": "Bragantino",
             "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
     "classificacao": 0,
-    "placar": 0
+    "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
@@ -274,8 +274,8 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 17,
+    "data": "16.07.22",
     
     "mandante": {
     "nome": "Atlético-PR",
@@ -313,14 +313,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 18,
+    "data": "20.07.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 4
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -336,7 +336,7 @@
           "nome": "Atlético-GO",
           "imagem": "https://www.escudosfc.com.br/images/atlego.png",
     "classificacao": 0,
-    "placar": 0
+    "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
@@ -352,14 +352,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 20,
+    "data": "31.07.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -391,14 +391,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 23,
+    "data": "21.08.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -414,7 +414,7 @@
         "nome": "América-MG",
          "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
     "classificacao": 0,
-    "placar": 0
+    "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
@@ -430,14 +430,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 25,
+    "data": "03.09.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -469,14 +469,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 27,
+    "data": "18.09.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 2
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -492,7 +492,7 @@
       "nome": "Cuiabá",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
     "classificacao": 0,
-    "placar": 0
+    "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
@@ -508,14 +508,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 29,
+    "data": "01.10.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 2
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -547,14 +547,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 30,
+    "data": "05.10.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -570,7 +570,7 @@
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
     "classificacao": 0,
-    "placar": 0
+    "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
@@ -586,14 +586,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 32,
+    "data": "16.10.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -625,14 +625,14 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 2,
-    "data": "16.04.22",
+    "rodada": 34,
+    "data": "25.10.22",
     
     "mandante": {
     "nome": "Atlético-PR",
     "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
     "classificacao":0,
-    "placar": 0
+    "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -648,7 +648,7 @@
       "nome": "Palmeiras",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
     "classificacao": 0,
-    "placar": 0
+    "placar": 3
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
