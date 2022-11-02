@@ -24,7 +24,7 @@
     "nome": "Atlético-MG",
     "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
     "classificacao": 0,
-    "placar": 0
+    "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "SIM",
@@ -50,14 +50,14 @@
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Flamengo",
@@ -66,12 +66,12 @@
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 5,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
@@ -89,15 +89,15 @@
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
             "nome": "Ceará",
             "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png",
@@ -105,13 +105,13 @@
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
-      "nove": "NÃO" },
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -130,12 +130,12 @@
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
       "golsSegundoTempo":0},
     "visitante": {
            "nome": "Avaí",
@@ -150,9 +150,9 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
   
   {
@@ -170,12 +170,12 @@
       "tres": "SIM",
       "cinco": "SIM",
       "sete": "SIM",
-      "nove": "SIM" },
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
     "visitante": {
       "nome": "Santos",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png",
@@ -188,10 +188,10 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
   },
   
   {
@@ -211,10 +211,10 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":8,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
            "nome": "Corinthians",
             "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
@@ -227,9 +227,9 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
   
@@ -245,15 +245,15 @@
     "placar": 4
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo":1},
     "visitante": {
             "nome": "Bragantino",
             "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
@@ -261,15 +261,15 @@
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
-      "nove": "NÃO" },
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 8,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 2}
   },
   
   {
@@ -284,13 +284,13 @@
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":0},
     "visitante": {
@@ -300,12 +300,12 @@
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 5,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
@@ -324,14 +324,14 @@
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":2},
     "visitante": {
           "nome": "Atlético-GO",
           "imagem": "https://www.escudosfc.com.br/images/atlego.png",
@@ -344,10 +344,10 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
   
   {
@@ -364,13 +364,13 @@
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
      "nome": "São-Paulo",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
@@ -383,8 +383,8 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -401,15 +401,15 @@
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
     "visitante": {
         "nome": "América-MG",
          "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
@@ -417,15 +417,15 @@
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
   
   {
@@ -442,12 +442,12 @@
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Fluminense",
@@ -461,8 +461,8 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -482,11 +482,11 @@
       "tres": "SIM",
       "cinco": "SIM",
       "sete": "SIM",
-      "nove": "SIM" },
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 2,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Cuiabá",
@@ -500,10 +500,10 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
   },
   
   {
@@ -523,10 +523,10 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "escanteiosPrimeiroTempo":8,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
     "visitante": {
       "nome": "Juventude",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
@@ -539,8 +539,8 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -562,10 +562,10 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 9,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
@@ -578,9 +578,9 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
   
@@ -601,10 +601,10 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 6,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
            "nome": "Coritiba",
            "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png",
@@ -617,8 +617,8 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -635,14 +635,14 @@
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Palmeiras",
@@ -651,15 +651,15 @@
     "placar": 3
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
-      "nove": "NÃO" },
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 3}
   }
       
 ]
