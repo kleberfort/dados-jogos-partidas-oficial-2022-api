@@ -1,8 +1,8 @@
 [
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 1,
+    "data": "14.08.22",
     
     "mandante": {
      "nome": "Almería",
@@ -18,7 +18,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Real Madrid",
@@ -35,14 +35,14 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 2}
   },
   
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 3,
+    "data": "27.08.22",
     
     "mandante": {
      "nome": "Almería",
@@ -58,8 +58,8 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
     "visitante": {
       "nome": "Sevilla",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png" ,
@@ -74,15 +74,15 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
   
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 5,
+    "data": "12.09.22",
     
     "mandante": {
      "nome": "Almería",
@@ -114,15 +114,15 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
   
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 8,
+    "data": "08.10.22",
     
     "mandante": {
      "nome": "Almería",
@@ -138,7 +138,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 3,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Rayo Vallecano",
@@ -155,14 +155,14 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
   
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 10,
+    "data": "20.10.22",
     
     "mandante": {
      "nome": "Almería",
@@ -178,7 +178,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 3,
       "golsSegundoTempo":0},
     "visitante": {
            "nome": "Girona",
@@ -195,14 +195,14 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 2}
   },
   
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 12,
+    "data": "29.10.22",
     
     "mandante": {
      "nome": "Almería",
@@ -219,7 +219,7 @@
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":3},
     "visitante": {
            "nome": "Celta de Vigo",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
@@ -234,7 +234,7 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   }
   
