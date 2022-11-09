@@ -2,7 +2,7 @@
 
 {
     "descricao": "La Liga A 2022-2023",
-    "rodada": 2,
+    "rodada": 1,
     "data": "13.08.22",
     
     "mandante": {
@@ -36,13 +36,13 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 3}
   },
 
   {
     "descricao": "La Liga A 2022-2023",
     "rodada": 2,
-    "data": "13.08.22",
+    "data": "21.08.22",
     
     "mandante": {
          "nome": "Atlético de Madrid",
@@ -75,14 +75,14 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 2}
   },
   
   
   {
     "descricao": "La Liga A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 3,
+    "data": "28.08.22",
     
     "mandante": {
             "nome": "Getafe",
@@ -121,8 +121,8 @@
   
   {
     "descricao": "La Liga A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 5,
+    "data": "11.09.22",
     
     "mandante": {
       "nome": "Real Betis",
@@ -139,7 +139,7 @@
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
      "nome": "Villarreal",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
@@ -161,8 +161,8 @@
   
   {
     "descricao": "La Liga A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 7,
+    "data": "01.10.22",
     
     "mandante": {
           "nome": "Cádiz",
@@ -201,8 +201,8 @@
   
   {
     "descricao": "La Liga A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 8,
+    "data": "09.10.22",
     
     "mandante": {
       "nome": "Real Sociedad",
@@ -218,7 +218,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
      "nome": "Villarreal",
@@ -240,8 +240,8 @@
   
   {
     "descricao": "La Liga A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 10,
+    "data": "20.10.22",
     
     "mandante": {
           "nome": "Barcelona",
@@ -257,7 +257,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 3,
       "golsSegundoTempo":0},
     "visitante": {
      "nome": "Villarreal",
@@ -279,8 +279,8 @@
   
   {
     "descricao": "La Liga A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 12,
+    "data": "30.10.22",
     
     "mandante": {
          "nome": "Athletic Bilbao",
@@ -297,7 +297,7 @@
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
      "nome": "Villarreal",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
