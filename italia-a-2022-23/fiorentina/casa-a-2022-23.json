@@ -1,8 +1,8 @@
 [
   {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 1,
+    "data": "14.08.22",
     
     "mandante": {
            "nome": "Fiorentina",
@@ -18,8 +18,8 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":1},
     "visitante": {
           "nome": "Cremonese",
           "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
@@ -34,15 +34,15 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
   },
   
   
   {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 3,
+    "data": "28.08.22",
     
     "mandante": {
            "nome": "Fiorentina",
@@ -81,8 +81,8 @@
   
   {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 5,
+    "data": "03.09.22",
     
     "mandante": {
            "nome": "Fiorentina",
@@ -98,7 +98,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
             "nome": "Juventus",
@@ -114,15 +114,15 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
   
   
   {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 7,
+    "data": "18.09.22",
     
     "mandante": {
            "nome": "Fiorentina",
@@ -138,8 +138,8 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
     "visitante": {
             "nome": "Hellas Verona",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png",
@@ -161,8 +161,8 @@
   
   {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 9,
+    "data": "10.10.22",
     
     "mandante": {
            "nome": "Fiorentina",
@@ -194,15 +194,15 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 2}
   },
   
   
   {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 11,
+    "data": "22.10.22",
     
     "mandante": {
            "nome": "Fiorentina",
@@ -218,8 +218,8 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":2},
     "visitante": {
             "nome": "Inter",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png",
@@ -234,8 +234,8 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 2}
   }
   
   
