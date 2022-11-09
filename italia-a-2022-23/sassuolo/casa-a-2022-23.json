@@ -136,7 +136,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 2
+      "golsPrimeiroTempo": 2,
       "golsSegundoTempo":3,
     "visitante": {
       "nome": "Salernitana",
@@ -158,7 +158,7 @@
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 9
+    "rodada": 9,
     "data": "08.10.22",
     
     "mandante": {
@@ -234,4 +234,4 @@
       "golsSegundoTempo": 0}
   }
   
-  ]
+]
