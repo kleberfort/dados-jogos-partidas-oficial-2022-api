@@ -1,8 +1,8 @@
 [
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+   "descricao": "La Liga A 2022-2023",
+    "rodada": 1,
+    "data": "15.08.22",
     
     "mandante": {
             "nome": "Getafe",
@@ -34,15 +34,15 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 2}
   },
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 3,
+    "data": "29.08.22",
     
     "mandante": {
       "nome": "Valencia",
@@ -75,14 +75,14 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 4,
+    "data": "03.09.22",
     
     "mandante": {
       "nome": "Real Sociedad",
@@ -99,7 +99,7 @@
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
           "nome": "Atlético de Madrid",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png",
@@ -114,15 +114,15 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 7,
+    "data": "01.10.22",
     
     "mandante": {
       "nome": "Sevilla",
@@ -154,15 +154,15 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
   },
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 9,
+    "data": "15.10.22",
     
     "mandante": {
          "nome": "Athletic Bilbao",
@@ -195,14 +195,14 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 11,
+    "data": "23.10.22",
     
     "mandante": {
       "nome": "Real Betis",
@@ -219,7 +219,7 @@
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
           "nome": "Atlético de Madrid",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png",
@@ -235,14 +235,14 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 2}
   },
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 12,
+    "data": "29.10.22",
     
     "mandante": {
           "nome": "Cádiz",
@@ -258,8 +258,8 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":2},
     "visitante": {
           "nome": "Atlético de Madrid",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png",
@@ -275,7 +275,7 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 2}
   }
   
   
