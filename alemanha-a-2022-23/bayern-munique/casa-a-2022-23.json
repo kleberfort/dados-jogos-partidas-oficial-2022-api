@@ -173,8 +173,8 @@
     "escanteiosPrimeiroMandante":{
       "tres": "NÃO",
       "cinco": "NÃO",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":3,
       "escanteiosSegundoTempo": 2,
