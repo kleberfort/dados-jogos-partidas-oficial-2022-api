@@ -5,9 +5,9 @@
     "data": "13.08.22",
     
     "mandante": {
-      "nome": "Manchester City",
+      "nome": "City",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
-    "classificacao":0,
+    "classificacao":4,
     "placar": 4
   },
     "escanteiosPrimeiroMandante":{
@@ -18,12 +18,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo":1},
     "visitante": {
          "nome": "Bournemouth",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/IcOt-hrK04B-RlRwI3R0yA_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 2,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -41,13 +41,13 @@
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 4,
+    "data": "27.08.22",
     
     "mandante": {
-      "nome": "Manchester City",
+      "nome": "City",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
-    "classificacao":0,
+    "classificacao":2,
     "placar": 4
   },
     "escanteiosPrimeiroMandante":{
@@ -59,11 +59,11 @@
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":4},
     "visitante": {
             "nome": "Crystal Palace",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 9,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -74,20 +74,20 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 2,
       "golsSegundoTempo": 0}
   },
   
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 5,
+    "data": "31.08.22",
     
     "mandante": {
-      "nome": "Manchester City",
+      "nome": "City",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
-    "classificacao":0,
+    "classificacao":2,
     "placar": 6
   },
     "escanteiosPrimeiroMandante":{
@@ -98,12 +98,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo":3},
     "visitante": {
       "nome": "Nottingham Forest",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 14,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -122,13 +122,13 @@
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 9,
+    "data": "02.10.22",
     
     "mandante": {
       "nome": "Manchester City",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
-    "classificacao":0,
+    "classificacao":2,
     "placar": 6
   },
     "escanteiosPrimeiroMandante":{
@@ -139,12 +139,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 4,
+      "golsSegundoTempo":2},
     "visitante": {
       "nome": "Manchester United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 5,
     "placar": 3
     },
     "escanteiosPrimeiroVisitante": {
@@ -156,20 +156,20 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 3}
   },
   
   
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 10,
+    "data": "08.10.22",
     
     "mandante": {
       "nome": "Manchester City",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
-    "classificacao":0,
+    "classificacao":2,
     "placar": 4
   },
     "escanteiosPrimeiroMandante":{
@@ -180,12 +180,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":2},
     "visitante": {
       "nome": "Southampton",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 16,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -203,13 +203,13 @@
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 13,
+    "data": "22.10.22",
     
     "mandante": {
       "nome": "Manchester City",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
-    "classificacao":0,
+    "classificacao":2,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
@@ -220,12 +220,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":1},
     "visitante": {
           "nome": "Brighton",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 8,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -237,6 +237,46 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
+  },
+  
+  
+  {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 15,
+    "data": "05.11.22",
+    
+    "mandante": {
+      "nome": "City",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+    "classificacao":2,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
+    "visitante": {
+            "nome": "Fulham",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png",
+    "classificacao": 8,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   }
   
