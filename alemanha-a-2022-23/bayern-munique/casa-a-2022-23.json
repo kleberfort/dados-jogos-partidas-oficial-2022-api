@@ -1,13 +1,13 @@
 [
   {
-    "descricao": "Premier League A 2022-2023",
+    "descricao": "Bundesliga A 2022-2023",
     "rodada": 2,
-    "data": "13.08.22",
+    "data": "14.08.22",
     
     "mandante": {
-         "nome": "Bayern de Munique",
+         "nome": "Bayern",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
-    "classificacao":0,
+    "classificacao":1,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -18,12 +18,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 2,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Wolfsburg",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
-    "classificacao": 0,
+    "classificacao": 8,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -40,14 +40,14 @@
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "Bundesliga A 2022-2023",
+    "rodada": 4,
+    "data": "27.08.22",
     
     "mandante": {
-         "nome": "Bayern de Munique",
+         "nome": "Bayern",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
-    "classificacao":0,
+    "classificacao":1,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -59,11 +59,11 @@
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
-          "nome": "Borussia Mönchengladbach",
+          "nome": "Mönchengladbach",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
-    "classificacao": 0,
+    "classificacao": 2,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -74,20 +74,20 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "Bundesliga A 2022-2023",
+    "rodada": 6,
+    "data": "10.09.22",
     
     "mandante": {
-         "nome": "Bayern de Munique",
+         "nome": "Bayern",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
-    "classificacao":0,
+    "classificacao":3,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -98,12 +98,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
     "visitante": {
       "nome": "Stuttgart",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
-    "classificacao": 0,
+    "classificacao": 12,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -115,19 +115,19 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 2}
   },
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "Bundesliga A 2022-2023",
+    "rodada": 8,
+    "data": "30.09.22",
     
     "mandante": {
-         "nome": "Bayern de Munique",
+         "nome": "Bayern",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
-    "classificacao":0,
+    "classificacao":5,
     "placar": 4
   },
     "escanteiosPrimeiroMandante":{
@@ -138,12 +138,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo":1},
     "visitante": {
-         "nome": "Bayer Leverkusen",
+         "nome": "Leverkusen",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
-    "classificacao": 0,
+    "classificacao": 15,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -160,14 +160,14 @@
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "Bundesliga A 2022-2023",
+    "rodada": 10,
+    "data": "16.10.22",
     
     "mandante": {
-         "nome": "Bayern de Munique",
+         "nome": "Bayern",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
-    "classificacao":0,
+    "classificacao":3,
     "placar": 5
   },
     "escanteiosPrimeiroMandante":{
@@ -178,12 +178,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":3},
     "visitante": {
             "nome": "Freiburg",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
-    "classificacao": 0,
+    "classificacao": 2,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -200,14 +200,14 @@
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "Bundesliga A 2022-2023",
+    "rodada": 12,
+    "data": "29.10.22",
     
     "mandante": {
-         "nome": "Bayern de Munique",
+         "nome": "Bayern",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
-    "classificacao":0,
+    "classificacao":2,
     "placar": 6
   },
     "escanteiosPrimeiroMandante":{
@@ -218,12 +218,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo":3},
     "visitante": {
      "nome": "Mainz 05",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
-    "classificacao": 0,
+    "classificacao": 6,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -234,7 +234,48 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
+  },
+  
+  
+  
+  {
+    "descricao": "Bundesliga A 2022-2023",
+    "rodada": 14,
+    "data": "08.11.22",
+    
+    "mandante": {
+         "nome": "Bayern",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+    "classificacao":1,
+    "placar": 6
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 4,
+      "golsSegundoTempo":2},
+    "visitante": {
+      "nome": "Werder Bremen",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+    "classificacao": 6,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   }
   
