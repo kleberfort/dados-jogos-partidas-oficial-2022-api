@@ -220,7 +220,8 @@
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":0},
-    "visitante": {      "nome": "PSG",
+    "visitante": {      
+      "nome": "PSG",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png"  ,
     "classificacao": 0,
     "placar": 0
@@ -259,7 +260,8 @@
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":0},
-    "visitante": {      "nome": "PSG",
+    "visitante": {      
+      "nome": "PSG",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png"  ,
     "classificacao": 0,
     "placar": 3
@@ -283,8 +285,8 @@
     "data": "06.11.22",
     
     "mandante": {
-            "nome": "Lorient",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bbYkAWWtD6lpK5KyGfr1vA_96x96.png" ,
+     "nome": "Lorient",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bbYkAWWtD6lpK5KyGfr1vA_96x96.png" ,
     "classificacao":0,
     "placar": 1
   },
@@ -314,7 +316,7 @@
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 1}
-  },
+  }
   
   
   
