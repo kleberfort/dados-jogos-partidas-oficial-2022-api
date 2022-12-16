@@ -179,7 +179,7 @@
     "visitante": {
       "nome": "Ceará",
      "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png",
-    "classificacao": 16,
+    "classificacao": 15,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -202,7 +202,7 @@
     "mandante": {
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-    "classificacao": 1,
+    "classificacao": 20,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -213,12 +213,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
      "nome": "Goiás",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_96x96.png",
-    "classificacao": 1,
+    "classificacao": 12,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -230,7 +230,7 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
   
   {
@@ -241,7 +241,7 @@
     "mandante": {
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-    "classificacao": 1,
+    "classificacao": 20,
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
@@ -257,7 +257,7 @@
     "visitante": {
       "nome": "Atlético-PR",
      "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
-    "classificacao": 1,
+    "classificacao": 3,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -274,13 +274,13 @@
   
   {
     "descricao": "Brasileiro Série A 2022",
-    "rodada": 33,
+    "rodada": 13,
     "data": "19.06.22",
     
     "mandante": {
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-    "classificacao": 1,
+    "classificacao": 20,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -291,12 +291,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
      "nome": "América-MG",
      "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
-    "classificacao": 1,
+    "classificacao": 13,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -319,7 +319,7 @@
     "mandante": {
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-    "classificacao": 1,
+    "classificacao": 20,
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
@@ -358,7 +358,7 @@
     "mandante": {
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-    "classificacao": 1,
+    "classificacao": 20,
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
@@ -374,7 +374,7 @@
     "visitante": {
       "nome": "Santos",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png",
-    "classificacao": 1,
+    "classificacao": 9,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -397,7 +397,7 @@
     "mandante": {
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-    "classificacao": 1,
+    "classificacao": 18,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
@@ -408,12 +408,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":2},
     "visitante": {
       "nome": "Internacional",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png",
-    "classificacao": 1,
+    "classificacao": 6,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -436,7 +436,7 @@
     "mandante": {
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-    "classificacao": 1,
+    "classificacao": 15,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -452,7 +452,7 @@
     "visitante": {
       "nome": "Corinthians",
      "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
-    "classificacao": 1,
+    "classificacao": 3,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -475,7 +475,7 @@
     "mandante": {
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-    "classificacao": 1,
+    "classificacao": 12,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -491,7 +491,7 @@
     "visitante": {
       "nome": "Botafogo",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
-    "classificacao": 1,
+    "classificacao": 14,
     "placar": 3
     },
     "escanteiosPrimeiroVisitante": {
@@ -514,7 +514,7 @@
     "mandante": {
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-    "classificacao": 1,
+    "classificacao": 14,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
@@ -530,7 +530,7 @@
     "visitante": {
     "nome": "Flamengo",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
-    "classificacao": 1,
+    "classificacao": 4,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -541,10 +541,208 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 2,
       "escanteiosSegundoTempo": 1,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 2}
-  }
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 0}
+  },
      
+    {
+    "descricao": "Brasileiro Série A 2022",
+    "rodada": 31,
+    "data": "09.10.22",
+    
+    "mandante": {
+      "nome": "Fortaleza",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+    "classificacao": 11,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo":0,
+      "golsSegundoTempo":2},
+    "visitante": {
+           "nome": "Avaí",
+           "imagem": "https://www.escudosfc.com.br/images/avai.gif",
+    "classificacao": 19,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  },
+    
+    
+    {
+    "descricao": "Brasileiro Série A 2022",
+    "rodada": 33,
+    "data": "24.10.22",
+    
+    "mandante": {
+      "nome": "Fortaleza",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+    "classificacao": 9,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo":0,
+      "golsSegundoTempo":0},
+    "visitante": {
+          "nome": "Atlético-MG",
+          "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
+    "classificacao": 7,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  },
+    
+    
+    {
+    "descricao": "Brasileiro Série A 2022",
+    "rodada": 34,
+    "data": "27.10.22",
+    
+    "mandante": {
+      "nome": "Fortaleza",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+    "classificacao": 10,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo":1,
+      "golsSegundoTempo":2},
+    "visitante": {
+           "nome": "Coritiba",
+           "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png",
+    "classificacao": 15,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
+  },
+    
+    
+    {
+    "descricao": "Brasileiro Série A 2022",
+    "rodada": 36,
+    "data": "06.11.22",
+    
+    "mandante": {
+      "nome": "Fortaleza",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+    "classificacao": 10,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo":0,
+      "golsSegundoTempo":1},
+    "visitante": {
+          "nome": "Atlético-GO",
+          "imagem": "https://www.escudosfc.com.br/images/atlego.png",
+    "classificacao": 18,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
+  },
+    
+    {
+    "descricao": "Brasileiro Série A 2022",
+    "rodada": 37,
+    "data": "09.11.22",
+    
+    "mandante": {
+      "nome": "Fortaleza",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+    "classificacao": 11,
+    "placar": 6
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo":4,
+      "golsSegundoTempo":2},
+    "visitante": {
+            "nome": "Bragantino",
+            "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
+    "classificacao": 14,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  }
+    
 ]
 
 
