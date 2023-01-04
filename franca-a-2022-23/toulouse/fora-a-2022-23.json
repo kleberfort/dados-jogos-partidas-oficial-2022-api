@@ -1,1 +1,413 @@
+[
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 2,
+    "data": "14.08.22",
+    
+    "mandante": {
+      "nome": "Troyes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao":0,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao": 0,
+    "placar": 3
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 2}
+  },
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 4,
+    "data": "28.08.22",
+    
+    "mandante": {
+      "nome": "Nantes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/r3qizrAtoAXPICgYjFYCyA_96x96.png",
+    "classificacao":0,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":3},
+    "visitante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao": 0,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 6,
+    "data": "04.09.22",
+    
+    "mandante": {
+          "nome": "Clermont",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0aur9jOW37pq6dUzu61wWQ_96x96.png",
+    "classificacao":0,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":2},
+    "visitante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao": 0,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 8,
+    "data": "17.09.22",
+    
+    "mandante": {
+            "nome": "Lille",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/D2AQe8qoyPIP4K8MzLvwuA_96x96.png",
+    "classificacao":0,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
+    "visitante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao": 0,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
+  },
+  
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 10,
+    "data": "07.10.22",
+    
+    "mandante": {
+            "nome": "Lyon",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
+    "classificacao":0,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":0},
+    "visitante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao": 0,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
+  },
+  
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 13,
+    "data": "28.10.22",
+    
+    "mandante": {
+           "nome": "Lens",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/TUvwItKazVFpgThEhhlN1Q_96x96.png",
+    "classificacao":0,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":3},
+    "visitante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao": 0,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 15,
+    "data": "12.11.22",
+    
+    "mandante": {
+      "nome": "Rennes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
+    "classificacao":0,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
+    "visitante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao": 0,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
+  },
+  
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 16,
+    "data": "29.12.22",
+    
+    "mandante": {
+            "nome": "Marseille",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png",
+    "classificacao":0,
+    "placar": 6
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":4},
+    "visitante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao": 0,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
+  },
+  
+  
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 2,
+    "data": "14.08.22",
+    
+    "mandante": {
+      "nome": "Troyes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao":0,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao": 0,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 2,
+    "data": "14.08.22",
+    
+    "mandante": {
+      "nome": "Troyes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao":0,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao": 0,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  }
+  
+  
 
+  
+]
