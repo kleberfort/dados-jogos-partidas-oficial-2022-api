@@ -12,12 +12,12 @@
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo":1,
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo":0},
     "visitante": {
@@ -33,7 +33,7 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
@@ -51,13 +51,13 @@
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":1},
     "visitante": {
@@ -67,13 +67,13 @@
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 1}
   },
@@ -91,13 +91,13 @@
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":1},
     "visitante": {
@@ -107,13 +107,13 @@
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -133,11 +133,11 @@
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":0},
     "visitante": {
@@ -153,7 +153,7 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 1}
   },
@@ -176,8 +176,8 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 7,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
@@ -193,7 +193,7 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 1}
   },
@@ -211,13 +211,13 @@
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":1},
     "visitante": {
@@ -227,13 +227,13 @@
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 1}
   },
@@ -252,12 +252,12 @@
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
@@ -268,12 +268,12 @@
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
-      "cinco": "NÃO",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -296,8 +296,8 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":5,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":2},
     "visitante": {
@@ -312,10 +312,49 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 2}
+  },
+  
+    {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 17,
+    "data": "01.01.23",
+    
+    "mandante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao":0,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":2},
+    "visitante": {
+        "nome": "Ajaccio",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7PC7epWhG1IPz4ypx1QS2w_96x96.png" ,
+    "classificacao": 0,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
   }
   
   
