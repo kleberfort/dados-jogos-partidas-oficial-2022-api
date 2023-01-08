@@ -283,13 +283,13 @@
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
       "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":1},
     "visitante": {
@@ -304,7 +304,7 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 3,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 1}
