@@ -1,8 +1,8 @@
 [
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 1,
+    "data": "06.08.22",
     
     "mandante": {
           "nome": "Borussia Dortmund",
@@ -18,7 +18,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
          "nome": "Bayer Leverkusen",
@@ -41,8 +41,8 @@
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 3,
+    "data": "20.08.22",
     
     "mandante": {
           "nome": "Borussia Dortmund",
@@ -58,8 +58,8 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
     "visitante": {
       "nome": "Werder Bremen",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
@@ -75,14 +75,14 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 3}
   },
   
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 5,
+    "data": "02.09.22",
     
     "mandante": {
           "nome": "Borussia Dortmund",
@@ -98,7 +98,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
            "nome": "Hoffenheim",
@@ -121,8 +121,8 @@
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 7,
+    "data": "17.09.22",
     
     "mandante": {
           "nome": "Borussia Dortmund",
@@ -139,7 +139,7 @@
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
       "nome": "Schalke 04",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/3CjFxnIvrHJ1-pJq6B5ZQw_96x96.png",
@@ -161,8 +161,8 @@
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 9,
+    "data": "08.10.22",
     
     "mandante": {
           "nome": "Borussia Dortmund",
@@ -179,7 +179,7 @@
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":2},
     "visitante": {
          "nome": "Bayern de Munique",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
@@ -194,15 +194,15 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
   },
   
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 11,
+    "data": "22.10.22",
     
     "mandante": {
           "nome": "Borussia Dortmund",
@@ -218,11 +218,50 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo":2},
     "visitante": {
       "nome": "Stuttgart",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+    "classificacao": 0,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  },
+  
+    {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 13,
+    "data": "05.11.22",
+    
+    "mandante": {
+          "nome": "Borussia Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+    "classificacao":0,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo":0},
+    "visitante": {
+      "nome": "Bochum",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
     "classificacao": 0,
     "placar": 0
     },
