@@ -7,74 +7,75 @@
     "mandante": {
            "nome": "Montpellier",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fL5Nk_2eUanYiOSB9AnBpQ_96x96.png",
-    "classificacao":0,
+    "classificacao":1,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
+      "escanteiosPrimeiroTempo":3,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo":1},
     "visitante": {
       "nome": "Troyes",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png" ,
-    "classificacao": 0,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao": 1,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
+      "cinco": "SIM",
+      "sete": "c",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo": 0}
   },
   
   
   
-  {
+  
+ {
     "descricao": "Ligue 1 2022-2023",
     "rodada": 3,
     "data": "19.08.22",
     
     "mandante": {
-           "nome": "Lyon",
+            "nome": "Lyon",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
-    "classificacao":0,
+    "classificacao":7,
     "placar": 4
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
-    "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 1,
-      "golsSegundoTempo":3},
-    "visitante": {
-      "nome": "Troyes",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png" ,
-    "classificacao": 0,
-    "placar": 1
-    },
-    "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":3},
+    "visitante": {
+      "nome": "Troyes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao": 19,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
@@ -89,23 +90,23 @@
     "mandante": {
            "nome": "Monaco",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/RX0XTi5Dtg4joMtuHNmYKg_96x96.png",
-    "classificacao":0,
+    "classificacao":12,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
       "sete": "SIM",
-      "nove": "SIM" },
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 5,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":1},
     "visitante": {
       "nome": "Troyes",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png" ,
-    "classificacao": 0,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao": 15,
     "placar": 4
     },
     "escanteiosPrimeiroVisitante": {
@@ -114,12 +115,11 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo": 2}
   },
-  
   
   
   {
@@ -130,7 +130,7 @@
     "mandante": {
            "nome": "Lens",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/TUvwItKazVFpgThEhhlN1Q_96x96.png",
-    "classificacao":0,
+    "classificacao":3,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -139,14 +139,14 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 7,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Troyes",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png" ,
-    "classificacao": 0,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao": 11,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -156,7 +156,7 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -171,23 +171,23 @@
     "mandante": {
           "nome": "Clermont",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0aur9jOW37pq6dUzu61wWQ_96x96.png",
-    "classificacao":0,
+    "classificacao":9,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Troyes",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png" ,
-    "classificacao": 0,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao": 13,
     "placar": 3
     },
     "escanteiosPrimeiroVisitante": {
@@ -196,7 +196,7 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 2}
@@ -212,23 +212,23 @@
     "mandante": {
       "nome": "Nice",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Llrxrqsc3Tw4JzE6xM7GWw_96x96.png",
-    "classificacao":0,
+    "classificacao":13,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":5,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo":1},
     "visitante": {
       "nome": "Troyes",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png" ,
-    "classificacao": 0,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao": 11,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -237,38 +237,38 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 2}
   },
   
   
-  {
+   {
     "descricao": "Ligue 1 2022-2023",
     "rodada": 13,
     "data": "29.10.22",
     
     "mandante": {
       "nome": "PSG",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
-    "classificacao":0,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png" ,
+    "classificacao":1,
     "placar": 4
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
       "sete": "SIM",
-      "nove": "SIM" },
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 5,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":3},
     "visitante": {
       "nome": "Troyes",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png" ,
-    "classificacao": 0,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png"  ,
+    "classificacao": 11,
     "placar": 3
     },
     "escanteiosPrimeiroVisitante": {
@@ -277,15 +277,14 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 2}
   },
   
   
-  
-  {
+   {
     "descricao": "Ligue 1 2022-2023",
     "rodada": 15,
     "data": "13.11.22",
@@ -293,40 +292,40 @@
     "mandante": {
           "nome": "Brest",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HNqZwlu71GHXo60XjYrPxg_96x96.png",
-    "classificacao":0,
+    "classificacao":19,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":2},
     "visitante": {
       "nome": "Troyes",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png" ,
-    "classificacao": 0,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao": 13,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
-      "cinco": "NÃO",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 1}
   },
   
   
   
-  {
+ {
     "descricao": "Ligue 1 2022-2023",
     "rodada": 17,
     "data": "02.01.23",
@@ -334,23 +333,23 @@
     "mandante": {
       "nome": "Strasbourg",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Eb9xtMpUy8FXQ0RCKvLxcg_96x96.png",
-    "classificacao":0,
+    "classificacao":19,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":1},
     "visitante": {
       "nome": "Troyes",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png" ,
-    "classificacao": 0,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao": 15,
     "placar": 3
     },
     "escanteiosPrimeiroVisitante": {
@@ -360,10 +359,11 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo": 1}
   }
+ 
   
   
   
