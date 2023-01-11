@@ -7,7 +7,7 @@
     "mandante": {
             "nome": "Lyon",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
-    "classificacao":0,
+    "classificacao":1,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -23,7 +23,7 @@
     "visitante": {
         "nome": "Ajaccio",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7PC7epWhG1IPz4ypx1QS2w_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 1,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -47,7 +47,7 @@
     "mandante": {
       "nome": "Rennes",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
-    "classificacao":0,
+    "classificacao":17,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -63,7 +63,7 @@
     "visitante": {
         "nome": "Ajaccio",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7PC7epWhG1IPz4ypx1QS2w_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 16,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -87,7 +87,7 @@
     "mandante": {
            "nome": "Montpellier",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fL5Nk_2eUanYiOSB9AnBpQ_96x96.png",
-    "classificacao":0,
+    "classificacao":8,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -103,7 +103,7 @@
     "visitante": {
         "nome": "Ajaccio",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7PC7epWhG1IPz4ypx1QS2w_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 20,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -127,7 +127,7 @@
     "mandante": {
           "nome": "Brest",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HNqZwlu71GHXo60XjYrPxg_96x96.png",
-    "classificacao":0,
+    "classificacao":18,
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
@@ -143,7 +143,7 @@
     "visitante": {
         "nome": "Ajaccio",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7PC7epWhG1IPz4ypx1QS2w_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 20,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -167,7 +167,7 @@
     "mandante": {
             "nome": "Marseille",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png",
-    "classificacao":0,
+    "classificacao":2,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -183,7 +183,7 @@
     "visitante": {
         "nome": "Ajaccio",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7PC7epWhG1IPz4ypx1QS2w_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 20,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -207,7 +207,7 @@
     "mandante": {
       "nome": "Troyes",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
-    "classificacao":0,
+    "classificacao":12,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -223,7 +223,7 @@
     "visitante": {
         "nome": "Ajaccio",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7PC7epWhG1IPz4ypx1QS2w_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 18,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -247,7 +247,7 @@
     "mandante": {
          "nome": "Auxerre",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jX0oM3wnm6cWOGKoUR3AyA_96x96.png",
-    "classificacao":0,
+    "classificacao":18,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -263,7 +263,7 @@
     "visitante": {
         "nome": "Ajaccio",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7PC7epWhG1IPz4ypx1QS2w_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 19,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -287,7 +287,7 @@
     "mandante": {
       "nome": "Nantes",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/r3qizrAtoAXPICgYjFYCyA_96x96.png",
-    "classificacao":0,
+    "classificacao":16,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -303,7 +303,7 @@
     "visitante": {
         "nome": "Ajaccio",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7PC7epWhG1IPz4ypx1QS2w_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 17,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -326,7 +326,7 @@
     "mandante": {
       "nome": "Toulouse",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
-    "classificacao":0,
+    "classificacao":12,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -342,7 +342,7 @@
     "visitante": {
         "nome": "Ajaccio",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7PC7epWhG1IPz4ypx1QS2w_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 16,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
