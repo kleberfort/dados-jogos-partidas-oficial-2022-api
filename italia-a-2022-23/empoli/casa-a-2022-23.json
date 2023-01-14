@@ -2,12 +2,12 @@
   {
     "descricao": "Série A 2022-2023",
     "rodada": 2,
-    "data": "13.08.22",
+    "data": "21.08.22",
     
     "mandante": {
           "nome": "Empoli",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
-    "classificacao":0,
+    "classificacao":15,
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
@@ -23,7 +23,7 @@
     "visitante": {
            "nome": "Fiorentina",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png",
-    "classificacao": 0,
+    "classificacao": 5,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -41,13 +41,13 @@
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 4,
+    "data": "31.08.22",
     
     "mandante": {
           "nome": "Empoli",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
-    "classificacao":0,
+    "classificacao":14,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -58,12 +58,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
             "nome": "Hellas Verona",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png",
-    "classificacao": 0,
+    "classificacao": 17,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -75,18 +75,18 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 6,
+    "data": "12.09.22",
     
     "mandante": {
           "nome": "Empoli",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
-    "classificacao":0,
+    "classificacao":15,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -97,12 +97,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Roma",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png",
-    "classificacao": 0,
+    "classificacao": 5,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -113,19 +113,19 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
   },
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 8,
+    "data": "01.10.22",
     
     "mandante": {
           "nome": "Empoli",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
-    "classificacao":0,
+    "classificacao":14,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -137,11 +137,11 @@
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
            "nome": "Milan",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VoKsJ6RitaHGhsM62e6AXQ_96x96.png",
-    "classificacao": 0,
+    "classificacao": 5,
     "placar": 3
     },
     "escanteiosPrimeiroVisitante": {
@@ -153,18 +153,18 @@
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 3}
   },
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 10,
+    "data": "15.10.22",
     
     "mandante": {
           "nome": "Empoli",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
-    "classificacao":0,
+    "classificacao":14,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -175,12 +175,12 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Monza",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png",
-    "classificacao": 0,
+    "classificacao": 12,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -197,13 +197,13 @@
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 12,
+    "data": "30.10.22",
     
     "mandante": {
           "nome": "Empoli",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
-    "classificacao":0,
+    "classificacao":12,
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
@@ -219,8 +219,47 @@
     "visitante": {
          "nome": "Atalanta",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png",
-    "classificacao": 0,
+    "classificacao": 4,
     "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
+  },
+  
+    {
+    "descricao": "Série A 2022-2023",
+    "rodada": 13,
+    "data": "05.11.22",
+    
+    "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
+    "classificacao":14,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":1},
+    "visitante": {
+      "nome": "Sassuolo",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png",
+    "classificacao": 11,
+    "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
@@ -234,16 +273,17 @@
       "golsSegundoTempo": 0}
   },
   
+  
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 15,
+    "data": "11.11.22",
     
     "mandante": {
           "nome": "Empoli",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
-    "classificacao":0,
-    "placar": 1
+    "classificacao":14,
+    "placar": 2
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -254,11 +294,11 @@
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":2},
     "visitante": {
-      "nome": "Sassuolo",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png",
-    "classificacao": 0,
+          "nome": "Cremonese",
+          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
+    "classificacao": 18,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -274,5 +314,7 @@
   }
   
   
+  
+    
   
   ]
