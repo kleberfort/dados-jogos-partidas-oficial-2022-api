@@ -7,23 +7,23 @@
     "mandante": {
       "nome": "Liverpool",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-    "classificacao":0,
+    "classificacao":12,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":1},
     "visitante": {
             "nome": "Crystal Palace",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 17,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -32,8 +32,8 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
@@ -47,23 +47,23 @@
     "mandante": {
       "nome": "Liverpool",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-    "classificacao":0,
+    "classificacao":16,
     "placar": 9
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
       "sete": "SIM",
-      "nove": "SIM" },
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 5,
       "golsPrimeiroTempo": 5,
       "golsSegundoTempo":4},
     "visitante": {
          "nome": "Bournemouth",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/IcOt-hrK04B-RlRwI3R0yA_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 15,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -73,7 +73,7 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -88,7 +88,7 @@
     "mandante": {
       "nome": "Liverpool",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-    "classificacao":0,
+    "classificacao":9,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -97,14 +97,14 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":8,
+      "escanteiosSegundoTempo": 5,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":2},
     "visitante": {
       "nome": "Newcastle",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 7,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -129,7 +129,7 @@
     "mandante": {
       "nome": "Liverpool",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-    "classificacao":0,
+    "classificacao":8,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
@@ -138,14 +138,14 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 5,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":2},
     "visitante": {
           "nome": "Brighton",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 4,
     "placar": 3
     },
     "escanteiosPrimeiroVisitante": {
@@ -154,8 +154,8 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo": 1}
   },
@@ -170,23 +170,23 @@
     "mandante": {
       "nome": "Liverpool",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-    "classificacao":0,
+    "classificacao":10,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":1},
     "visitante": {
-      "nome": "Manchester City",
+      "nome": "City",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 2,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -195,8 +195,8 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 5,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -211,23 +211,23 @@
     "mandante": {
       "nome": "Liverpool",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-    "classificacao":0,
+    "classificacao":8,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
       "sete": "SIM",
-      "nove": "SIM" },
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 6,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "West Ham",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png" ,
-    "classificacao": 0,
+    "classificacao": 12,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -236,8 +236,8 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -251,7 +251,7 @@
     "mandante": {
       "nome": "Liverpool",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-    "classificacao":0,
+    "classificacao":8,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -260,14 +260,14 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":7,
+      "escanteiosSegundoTempo": 7,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
            "nome": "Leeds United",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5dqfOKpjjW6EwTAx_FysKQ_96x96.png",
-    "classificacao": 0,
+    "classificacao": 18,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -277,7 +277,7 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 5,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 1}
   },
@@ -291,23 +291,23 @@
     "mandante": {
       "nome": "Liverpool",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-    "classificacao":0,
+    "classificacao":8,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 6,
       "golsPrimeiroTempo": 3,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Southampton",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_96x96.png",
-    "classificacao": 0,
+    "classificacao": 18,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -331,33 +331,33 @@
     "mandante": {
       "nome": "Liverpool",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-    "classificacao":0,
+    "classificacao":6,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo":0},
     "visitante": {
           "nome": "Leicester",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png",
-    "classificacao": 0,
+    "classificacao": 13,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   }
