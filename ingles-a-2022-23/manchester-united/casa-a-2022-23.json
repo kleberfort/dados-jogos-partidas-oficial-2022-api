@@ -5,7 +5,7 @@
     "data": "07.08.22",
     
     "mandante": {
-      "nome": "Manchester United",
+      "nome": "United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
     "classificacao":1,
     "placar": 1
@@ -45,7 +45,7 @@
     "data": "22.08.22",
     
     "mandante": {
-      "nome": "Manchester United",
+      "nome": "United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
     "classificacao":20,
     "placar": 2
@@ -86,7 +86,7 @@
     "data": "04.09.22",
     
     "mandante": {
-      "nome": "Manchester United",
+      "nome": "United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
     "classificacao":5,
     "placar": 3
@@ -127,7 +127,7 @@
     "data": "16.10.22",
     
     "mandante": {
-      "nome": "Manchester United",
+      "nome": "United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
     "classificacao":5,
     "placar": 0
@@ -167,7 +167,7 @@
     "data": "19.10.22",
     
     "mandante": {
-      "nome": "Manchester United",
+      "nome": "United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
     "classificacao":5,
     "placar": 2
@@ -208,7 +208,7 @@
     "data": "30.10.22",
     
     "mandante": {
-      "nome": "Manchester United",
+      "nome": "United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
     "classificacao":6,
     "placar": 1
@@ -248,7 +248,7 @@
     "data": "27.12.22",
     
     "mandante": {
-      "nome": "Manchester United",
+      "nome": "United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
     "classificacao":5,
     "placar": 3
@@ -264,7 +264,7 @@
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo":1},
     "visitante": {
-      "nome": "Nottingham Forest",
+      "nome": "Nottingham",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
     "classificacao": 19,
     "placar": 0
@@ -288,7 +288,7 @@
     "data": "03.01.23",
     
     "mandante": {
-      "nome": "Manchester United",
+      "nome": "United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
     "classificacao":4,
     "placar": 3
@@ -319,8 +319,47 @@
       "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
-  }
+  },
   
+  
+  {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 20,
+    "data": "14.01.23",
+    
+    "mandante": {
+      "nome": "United",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+    "classificacao":4,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":2},
+    "visitante": {
+      "nome": "City",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+    "classificacao": 2,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
+  }
   
 
   
