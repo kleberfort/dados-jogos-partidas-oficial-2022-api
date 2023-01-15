@@ -2,8 +2,8 @@
 
   {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 1,
+    "data": "14.08.22",
     
     "mandante": {
       "nome": "Spezia",
@@ -19,7 +19,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
           "nome": "Empoli",
@@ -41,8 +41,8 @@
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 3,
+    "data": "27.08.22",
     
     "mandante": {
       "nome": "Spezia",
@@ -58,7 +58,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 2,
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "Sassuolo",
@@ -74,14 +74,14 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
   },
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 5,
+    "data": "04.09.22",
     
     "mandante": {
       "nome": "Spezia",
@@ -97,8 +97,8 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
     "visitante": {
          "nome": "Bologna",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png",
@@ -113,14 +113,14 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
   },
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 7,
+    "data": "17.09.22",
     
     "mandante": {
       "nome": "Spezia",
@@ -136,8 +136,8 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
     "visitante": {
       "nome": "Sampdoria",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/E8bC8MBR8FwSP3ONEhMxjw_96x96.png",
@@ -152,14 +152,14 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 10,
+    "data": "16.10.22",
     
     "mandante": {
       "nome": "Spezia",
@@ -175,7 +175,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 2,
       "golsSegundoTempo":0},
     "visitante": {
           "nome": "Cremonese",
@@ -191,9 +191,214 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
       "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
+  },
+  
+    {
+    "descricao": "Série A 2022-2023",
+    "rodada": 12,
+    "data": "30.10.22",
+    
+    "mandante": {
+      "nome": "Spezia",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UzdHN3YGjZDZGfSMQuZrYw_96x96.png" ,
+    "classificacao":0,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":0},
+    "visitante": {
+           "nome": "Fiorentina",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png",
+    "classificacao": 0,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
+  },
+  
+  
+  
+    {
+    "descricao": "Série A 2022-2023",
+    "rodada": 14,
+    "data": "08.11.22",
+    
+    "mandante": {
+      "nome": "Spezia",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UzdHN3YGjZDZGfSMQuZrYw_96x96.png" ,
+    "classificacao":0,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":0},
+    "visitante": {
+     "nome": "Udinese",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png",
+    "classificacao": 0,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+  
+    {
+    "descricao": "Série A 2022-2023",
+    "rodada": 16,
+    "data": "04.01.23",
+    
+    "mandante": {
+      "nome": "Spezia",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UzdHN3YGjZDZGfSMQuZrYw_96x96.png" ,
+    "classificacao":0,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":0},
+    "visitante": {
+         "nome": "Atalanta",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png",
+    "classificacao": 0,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 2}
+  },
+  
+  
+  
+  
+    {
+    "descricao": "Série A 2022-2023",
+    "rodada": 17,
+    "data": "08.01.22",
+    
+    "mandante": {
+      "nome": "Spezia",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UzdHN3YGjZDZGfSMQuZrYw_96x96.png" ,
+    "classificacao":0,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+           "nome": "Lecce",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png",
+    "classificacao": 0,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
+  
+  
+  
+    {
+    "descricao": "Série A 2022-2023",
+    "rodada": 2,
+    "data": "13.08.22",
+    
+    "mandante": {
+      "nome": "Spezia",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UzdHN3YGjZDZGfSMQuZrYw_96x96.png" ,
+    "classificacao":0,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+           "nome": "Fiorentina",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png",
+    "classificacao": 0,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  },
+  
   
     {
     "descricao": "Série A 2022-2023",
