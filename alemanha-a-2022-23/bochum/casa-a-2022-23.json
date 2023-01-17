@@ -7,7 +7,7 @@
     "mandante": {
       "nome": "Bochum",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png" ,
-    "classificacao":0,
+    "classificacao":1,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -23,7 +23,7 @@
     "visitante": {
       "nome": "Mainz 05",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
-    "classificacao": 0,
+    "classificacao": 1,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -47,7 +47,7 @@
     "mandante": {
       "nome": "Bochum",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png" ,
-    "classificacao":0,
+    "classificacao":17,
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
@@ -61,9 +61,9 @@
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":0},
     "visitante": {
-          "nome": "Bayern de Munique",
+          "nome": "Bayern",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
-    "classificacao": 0,
+    "classificacao": 1,
     "placar": 7
     },
     "escanteiosPrimeiroVisitante": {
@@ -88,7 +88,7 @@
     "mandante": {
       "nome": "Bochum",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png" ,
-    "classificacao":0,
+    "classificacao":18,
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
@@ -104,7 +104,7 @@
     "visitante": {
      "nome": "Werder Bremen",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
-    "classificacao": 0,
+    "classificacao": 10,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -128,7 +128,7 @@
     "mandante": {
       "nome": "Bochum",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png" ,
-    "classificacao":0,
+    "classificacao":18,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
@@ -144,7 +144,7 @@
     "visitante": {
            "nome": "Köln(Colônia)",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/W94hx-q1SdXOZBrW6RSSVg_96x96.png",
-    "classificacao": 0,
+    "classificacao": 7,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -168,7 +168,7 @@
     "mandante": {
       "nome": "Bochum",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png" ,
-    "classificacao":0,
+    "classificacao":18,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
@@ -184,7 +184,7 @@
     "visitante": {
            "nome": "Eintracht Frankfurt",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
-    "classificacao": 0,
+    "classificacao": 6,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -208,7 +208,7 @@
     "mandante": {
       "nome": "Bochum",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png" ,
-    "classificacao":0,
+    "classificacao":18,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -224,7 +224,7 @@
     "visitante": {
       "nome": "Union Berlin",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
-    "classificacao": 0,
+    "classificacao": 1,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -249,7 +249,7 @@
     "mandante": {
       "nome": "Bochum",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png" ,
-    "classificacao":0,
+    "classificacao":17,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -263,9 +263,9 @@
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo":0},
     "visitante": {
-          "nome": "Borussia Mönchengladbach",
+          "nome": "Mönchengladbach",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
-    "classificacao": 0,
+    "classificacao": 8,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
