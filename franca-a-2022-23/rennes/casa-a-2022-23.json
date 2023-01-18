@@ -358,8 +358,49 @@
       "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
-  }
+  },
   
+  
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 19,
+    "data": "15.01.23",
+    
+    "mandante": {
+      "nome": "Rennes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
+    "classificacao":4,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":1},
+    "visitante": {
+      "nome": "PSG",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+    "classificacao": 1,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  }
   
   
 ]
