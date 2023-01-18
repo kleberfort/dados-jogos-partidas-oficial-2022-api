@@ -7,7 +7,7 @@
     "mandante": {
       "nome": "West Ham",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
-    "classificacao":1,
+    "classificacao":0,
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
@@ -22,8 +22,8 @@
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "City",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" ,
-    "classificacao": 1,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+    "classificacao": 0,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -53,16 +53,16 @@
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
+      "sete": "NÃO",
       "nove": "NÃO" },
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":4,
-      "escanteiosSegundoTempo": 4,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo":1},
     "visitante": {
       "nome": "City",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" ,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
     "classificacao": 1,
     "placar": 3
     },
@@ -77,17 +77,18 @@
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 2}
   },
+
   
   
   
-  {
+   {
     "descricao": "Premier League A 2022-2023",
     "rodada": 6,
     "data": "03.09.22",
     
     "mandante": {
-         "nome": "Aston Villa",
-         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+     "nome": "Aston Villa",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
     "classificacao":19,
     "placar": 1
   },
@@ -103,7 +104,7 @@
       "golsSegundoTempo":1},
     "visitante": {
       "nome": "City",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" ,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
     "classificacao": 2,
     "placar": 1
     },
@@ -121,13 +122,13 @@
   
   
   
-  {
+   {
     "descricao": "Premier League A 2022-2023",
     "rodada": 8,
     "data": "17.09.22",
     
     "mandante": {
-     "nome": "Wolverhampton",
+     "nome": "Wolves",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
     "classificacao":19,
     "placar": 0
@@ -144,7 +145,7 @@
       "golsSegundoTempo":0},
     "visitante": {
       "nome": "City",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" ,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
     "classificacao": 2,
     "placar": 3
     },
@@ -250,7 +251,7 @@
     "data": "28.12.22",
     
     "mandante": {
-           "nome": "Leeds United",
+           "nome": "Leeds",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5dqfOKpjjW6EwTAx_FysKQ_96x96.png",
     "classificacao":15,
     "placar": 1
@@ -266,7 +267,7 @@
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":1},
     "visitante": {
-      "nome": "City",
+       "nome": "City",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" ,
     "classificacao": 3,
     "placar": 3
