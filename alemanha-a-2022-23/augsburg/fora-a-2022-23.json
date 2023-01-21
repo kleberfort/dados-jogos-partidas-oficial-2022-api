@@ -5,25 +5,25 @@
     "data": "13.08.22",
     
     "mandante": {
-         "nome": "Bayer Leverkusen",
+         "nome": "Leverkusen",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
-    "classificacao":0,
+    "classificacao":13,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
       "sete": "SIM",
-      "nove": "SIM" },
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
         "nome": "Augsburg",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
-    "classificacao": 0,
+    "classificacao": 17,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -32,8 +32,8 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 1}
   },
@@ -47,33 +47,33 @@
     "mandante": {
            "nome": "Hoffenheim",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
-    "classificacao":0,
+    "classificacao":6,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
-    "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 1,
-      "golsSegundoTempo":0},
-    "visitante": {
-        "nome": "Augsburg",
-         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
-    "classificacao": 0,
-    "placar": 0
-    },
-    "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":0},
+    "visitante": {
+        "nome": "Augsburg",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png" ,
+    "classificacao": 10,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 5,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
@@ -85,65 +85,65 @@
     "data": "09.09.22",
     
     "mandante": {
-     "nome": "Werder Bremen",
+      "nome": "Werder Bremen",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
-    "classificacao":0,
+    "classificacao":8,
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":0},
     "visitante": {
         "nome": "Augsburg",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
-    "classificacao": 0,
+    "classificacao": 16,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 1}
   },
   
   
-  {
+   {
     "descricao": "Premier League A 2022-2023",
     "rodada": 8,
     "data": "02.10.22",
     
     "mandante": {
-      "nome": "Schalke 04",
+    "nome": "Schalke 04",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/3CjFxnIvrHJ1-pJq6B5ZQw_96x96.png",
-    "classificacao":0,
+    "classificacao":14,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
       "sete": "SIM",
-      "nove": "SIM" },
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":1},
     "visitante": {
         "nome": "Augsburg",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
-    "classificacao": 0,
+    "classificacao": 11,
     "placar": 3
     },
     "escanteiosPrimeiroVisitante": {
@@ -153,7 +153,7 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo": 1}
   },
@@ -167,23 +167,23 @@
     "mandante": {
            "nome": "Köln(Colônia)",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/W94hx-q1SdXOZBrW6RSSVg_96x96.png",
-    "classificacao":0,
+    "classificacao":9,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":3},
     "visitante": {
         "nome": "Augsburg",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
-    "classificacao": 0,
+    "classificacao": 10,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -193,7 +193,7 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 1}
   },
@@ -207,7 +207,7 @@
     "mandante": {
       "nome": "Stuttgart",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
-    "classificacao":0,
+    "classificacao":16,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -216,14 +216,14 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 6,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":1},
     "visitante": {
         "nome": "Augsburg",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
-    "classificacao": 0,
+    "classificacao": 12,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -232,10 +232,51 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
+  },
+  
+  
+  {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 14,
+    "data": "09.11.22",
+    
+    "mandante": {
+    "nome": "Union Berlin",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+    "classificacao":3,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":5,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":0},
+    "visitante": {
+        "nome": "Augsburg",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+    "classificacao": 13,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 0}
   }
+  
   
   ]
