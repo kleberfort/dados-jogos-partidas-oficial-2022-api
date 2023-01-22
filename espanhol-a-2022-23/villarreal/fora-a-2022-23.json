@@ -323,7 +323,7 @@
   },
     
     
-    {
+     {
     "descricao": "Premier League A 2022-2023",
     "rodada": 14,
     "data": "09.11.22",
@@ -351,9 +351,9 @@
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "SIM",
+      "tres": "NÃO",
       "cinco": "SIM",
-      "sete": "NÃO",
+      "sete": "SIM",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 2,
