@@ -1,109 +1,112 @@
 [
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 3,
+    "data": "26.08.22",
     
     "mandante": {
            "nome": "Girona",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Tyy5rCdiLCw2_8z04DM-GQ_96x96.png",
-    "classificacao":0,
+    "classificacao":9,
     "placar": 0
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
-    "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
-    "visitante": {
-          "nome": "Celta de Vigo",
-           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
-    "classificacao": 0,
-    "placar": 1
-    },
-    "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
-    "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo":0},
+    "visitante": {
+           "nome": "Celta de Vigo",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
+    "classificacao": 16,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
   },
+  
+  
 
   
-  {
+   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 5,
+    "data": "10.09.22",
     
     "mandante": {
-         "nome": "Atlético de Madrid",
+          "nome": "Atlético",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png",
-    "classificacao":0,
+    "classificacao":7,
     "placar": 4
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
+      "escanteiosPrimeiroTempo":4,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":3},
     "visitante": {
-          "nome": "Celta de Vigo",
+           "nome": "Celta de Vigo",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
-    "classificacao": 0,
+    "classificacao": 8,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
+      "cinco": "SIM",
+      "sete": "SIM",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
   
   
-  {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+  
+ {
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 6,
+    "data": "17.09.22",
     
     "mandante": {
-       "nome": "Valencia",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png",
-    "classificacao":0,
+      "nome": "Valencia",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png" ,
+    "classificacao":12,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":2},
     "visitante": {
-          "nome": "Celta de Vigo",
-           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
-    "classificacao": 0,
+           "nome": "Celta de Vigo",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png" ,
+    "classificacao": 10,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -112,38 +115,40 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
   
   
+  
+  
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 8,
+    "data": "09.10.22",
     
     "mandante": {
-           "nome": "Barcelona",
+          "nome": "Barcelona",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
-    "classificacao":0,
+    "classificacao":1,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
-          "nome": "Celta de Vigo",
+           "nome": "Celta de Vigo",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
-    "classificacao": 0,
+    "classificacao": 11,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -153,77 +158,82 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
   
   
+  
+  
+  
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 10,
+    "data": "19.10.22",
     
     "mandante": {
-      "nome": "Real Valladolid",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yvPDWQC1M4G7SIg9_eidgg_96x96.png",
-    "classificacao":0,
+      "nome": "Valladolid",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yvPDWQC1M4G7SIg9_eidgg_96x96.png" ,
+    "classificacao":17,
     "placar": 4
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
-    "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
-    "visitante": {
-          "nome": "Celta de Vigo",
-           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
-    "classificacao": 0,
-    "placar": 1
-    },
-    "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":3},
+    "visitante": {
+           "nome": "Celta de Vigo",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png" ,
+    "classificacao": 11,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
   
   
-  {
+  
+  
+ {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 12,
+    "data": "29.10.22",
     
     "mandante": {
-        "nome": "Almería",
-         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
-    "classificacao":0,
+     "nome": "Almería",
+    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
+    "classificacao":15,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":3},
     "visitante": {
-          "nome": "Celta de Vigo",
+           "nome": "Celta de Vigo",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
-    "classificacao": 0,
+    "classificacao": 13,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -232,11 +242,92 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+   {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 14,
+    "data": "10.11.22",
+    
+    "mandante": {
+      "nome": "Vallecano",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i5LifmxEVIl0sbvIysiyhw_96x96.png",
+    "classificacao":8,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+          "nome": "Celta de Vigo",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png" ,
+    "classificacao": 18,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+  {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 16,
+    "data": "06.01.23",
+    
+    "mandante": {
+            "nome": "Elche",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyyqqxLIYT_lQIXRyMI_RA_96x96.png",
+    "classificacao":20,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+           "nome": "Celta de Vigo",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
+    "classificacao": 16,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   }
+  
   
   
   ]
