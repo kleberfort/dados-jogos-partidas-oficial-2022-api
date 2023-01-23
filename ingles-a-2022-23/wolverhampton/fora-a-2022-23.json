@@ -21,7 +21,7 @@
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo":1},
     "visitante": {
-     "nome": "Wolverhampton",
+     "nome": "Wolves",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png" ,
     "classificacao": 1,
     "placar": 1
@@ -101,7 +101,7 @@
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":0},
     "visitante": {
-     "nome": "Wolverhampton",
+     "nome": "Wolves",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
     "classificacao": 19,
     "placar": 0
@@ -221,7 +221,7 @@
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":2},
     "visitante": {
-     "nome": "Wolverhampton",
+     "nome": "Wolves",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png" ,
     "classificacao": 17,
     "placar": 1
@@ -261,7 +261,7 @@
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":1},
     "visitante": {
-     "nome": "Wolverhampton",
+     "nome": "Wolves",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
     "classificacao": 19,
     "placar": 1
@@ -356,6 +356,46 @@
       "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
+  },
+ 
+ 
+  {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 21,
+    "data": "22.01.23",
+    
+    "mandante": {
+      "nome": "City",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+    "classificacao":2,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":2},
+    "visitante": {
+     "nome": "Wolves",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
+    "classificacao": 16,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 7,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
   }
   
   ]
