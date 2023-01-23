@@ -1,110 +1,112 @@
 [
-  {
+ {
     "descricao": "Premier League A 2022-2023",
     "rodada": 2,
-    "data": "13.08.22",
+    "data": "22.08.22",
     
     "mandante": {
             "nome": "Elche",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyyqqxLIYT_lQIXRyMI_RA_96x96.png",
-    "classificacao":0,
+    "classificacao":18,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
-    "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
-    "visitante": {
-     "nome": "Almería",
-    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
-    "classificacao": 0,
-    "placar": 1
-    },
-    "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":0},
+    "visitante": {
+        "nome": "Almería",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
+    "classificacao": 14,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
 
   
   
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 4,
+    "data": "05.09.22",
     
     "mandante": {
-      "nome": "Real Valladolid",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yvPDWQC1M4G7SIg9_eidgg_96x96.png",
-    "classificacao":0,
+      "nome": "Valladolid",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yvPDWQC1M4G7SIg9_eidgg_96x96.png" ,
+    "classificacao":19,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
-    "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
-    "visitante": {
-     "nome": "Almería",
-    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
-    "classificacao": 0,
-    "placar": 0
-    },
-    "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":1},
+    "visitante": {
+        "nome": "Almería",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png" ,
+    "classificacao": 10,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 7,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
   
   
+  
+  
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 6,
+    "data": "17.09.22",
     
     "mandante": {
-           "nome": "Mallorca",
+          "nome": "Mallorca",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ss21P4CUmigjrEtcoapjVg_96x96.png",
-    "classificacao":0,
+    "classificacao":13,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
       "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo":0},
     "visitante": {
-     "nome": "Almería",
-    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
-    "classificacao": 0,
+        "nome": "Almería",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
+    "classificacao": 14,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -114,21 +116,24 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
   
   
-  {
+  
+  
+  
+   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 7,
+    "data": "30.09.22",
     
     "mandante": {
-         "nome": "Athletic Bilbao",
+         "nome": "Bilbao",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OSL_5Zm6kYPP1J17Bo5uDA_96x96.png",
-    "classificacao":0,
+    "classificacao":4,
     "placar": 4
   },
     "escanteiosPrimeiroMandante":{
@@ -137,14 +142,14 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "escanteiosPrimeiroTempo":7,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":2},
     "visitante": {
-     "nome": "Almería",
-    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
-    "classificacao": 0,
+        "nome": "Almería",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
+    "classificacao": 16,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
@@ -154,21 +159,23 @@
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
   
   
+  
+  
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 9,
+    "data": "16.10.22",
     
     "mandante": {
       "nome": "Real Betis",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png",
-    "classificacao":0,
+    "classificacao":5,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
@@ -177,14 +184,14 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "escanteiosPrimeiroTempo":5,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":2},
     "visitante": {
-     "nome": "Almería",
-    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
-    "classificacao": 0,
+        "nome": "Almería",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png" ,
+    "classificacao": 15,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -193,22 +200,24 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
   
   
+  
+  
   {
-    "descricao": "Premier League A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 11,
+    "data": "23.10.22",
     
     "mandante": {
      "nome": "Villarreal",
-     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
-    "classificacao":0,
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png" ,
+    "classificacao":7,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
@@ -217,14 +226,14 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 6,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":2},
     "visitante": {
-     "nome": "Almería",
-    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
-    "classificacao": 0,
+        "nome": "Almería",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
+    "classificacao": 18,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
@@ -233,9 +242,89 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+  {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 13,
+    "data": "05.11.22",
+    
+    "mandante": {
+          "nome": "Barcelona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
+    "classificacao":2,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":8,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":2},
+    "visitante": {
+         "nome": "Almería",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
+    "classificacao": 13,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+   {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 15,
+    "data": "30.12.22",
+    
+    "mandante": {
+          "nome": "Cádiz",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/H1vdTrUUqJBeUW1HfbW0nQ_96x96.png",
+    "classificacao":19,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":1},
+    "visitante": {
+        "nome": "Almería",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
+    "classificacao": 14,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   }
   
