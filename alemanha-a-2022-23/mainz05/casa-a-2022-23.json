@@ -274,6 +274,48 @@
       "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 1}
+  },
+  
+  
+  
+    {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 17,
+    "data": "25.01.23",
+    
+    "mandante": {
+     "nome": "Mainz 05",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+    "classificacao":12,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":0},
+    "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png" ,
+    "classificacao": 7,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
   }
+  
   
   ]
