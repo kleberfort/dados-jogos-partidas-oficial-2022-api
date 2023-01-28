@@ -1,13 +1,13 @@
 [
-  {
+   {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 1,
+    "data": "14.08.22",
     
     "mandante": {
            "nome": "Fiorentina",
-           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png",
-    "classificacao":0,
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png" ,
+    "classificacao":1,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
@@ -16,14 +16,14 @@
       "sete": "SIM",
       "nove": "SIM" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "escanteiosPrimeiroTempo":5,
+      "escanteiosSegundoTempo": 6,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":1},
     "visitante": {
           "nome": "Cremonese",
           "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
-    "classificacao": 0,
+    "classificacao": 1,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -32,232 +32,255 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
   },
-
-    {
+  
+  
+  
+   {
     "descricao": "Série A 2022-2023",
     "rodada": 2,
-    "data": "13.08.22",
+    "data": "22.08.22",
     
     "mandante": {
       "nome": "Roma",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png",
-    "classificacao":0,
+    "classificacao":9,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsSegundoTempo":1},
     "visitante": {
           "nome": "Cremonese",
-          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
-    "classificacao": 0,
+          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96"  ,
+    "classificacao": 11,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
   
+  
+  
+  
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 4,
+    "data": "30.08.22",
     
     "mandante": {
             "nome": "Inter",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png",
-    "classificacao":0,
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png" ,
+    "classificacao":7,
     "placar": 3
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
+      "tres": "NÃO",
+      "cinco": "NÃO",
       "sete": "SIM",
-      "nove": "SIM" },
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":1},
     "visitante": {
           "nome": "Cremonese",
-          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
-    "classificacao": 0,
+          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96" ,
+    "classificacao": 19,
     "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
+  
+  
+  
+  
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 6,
+    "data": "11.09.22",
     
     "mandante": {
          "nome": "Atalanta",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png",
-    "classificacao":0,
+    "classificacao":1,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
-    "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
-    "visitante": {
-          "nome": "Cremonese",
-          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
-    "classificacao": 0,
-    "placar": 1
-    },
-    "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":1},
+    "visitante": {
+          "nome": "Cremonese",
+          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
+    "classificacao": 19,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 3,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "golsSegundoTempo": 1}
   },
+  
+  
+  
+  
+  
   
     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 8,
+    "data": "02.10.22",
     
     "mandante": {
            "nome": "Lecce",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png",
-    "classificacao":0,
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png" ,
+    "classificacao":17,
     "placar": 1
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
-    "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
-    "visitante": {
-          "nome": "Cremonese",
-          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
-    "classificacao": 0,
-    "placar": 1
-    },
-    "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
-    "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":0},
+    "visitante": {
+          "nome": "Cremonese",
+          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96"  ,
+    "classificacao": 19,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 6,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
   
-    {
+  
+  
+  
+  
+     {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 10,
+    "data": "16.10.22",
     
     "mandante": {
       "nome": "Spezia",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UzdHN3YGjZDZGfSMQuZrYw_96x96.png",
-    "classificacao":0,
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UzdHN3YGjZDZGfSMQuZrYw_96x96.png" ,
+    "classificacao":15,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
       "golsSegundoTempo":0},
     "visitante": {
           "nome": "Cremonese",
           "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
-    "classificacao": 0,
+    "classificacao": 19,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
+      "cinco": "SIM",
+      "sete": "SIM",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
   },
   
-    {
+  
+  
+  
+  
+  
+   {
     "descricao": "Série A 2022-2023",
-    "rodada": 2,
-    "data": "13.08.22",
+    "rodada": 13,
+    "data": "05.11.22",
     
     "mandante": {
       "nome": "Salernitana",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/E5wkv8G7RBA2I0VsSq7Y1A_96x96.png",
-    "classificacao":0,
+    "classificacao":10,
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
-      "sete": "SIM",
-      "nove": "SIM" },
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":0,
-      "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 2,
       "golsSegundoTempo":0},
     "visitante": {
           "nome": "Cremonese",
-          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
-    "classificacao": 0,
+          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96" ,
+    "classificacao": 20,
     "placar": 2
     },
     "escanteiosPrimeiroVisitante": {
@@ -266,10 +289,136 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
       "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
+  },
+  
+  
+  {
+    "descricao": "Série A 2022-2023",
+    "rodada": 15,
+    "data": "11.11.22",
+    
+    "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
+    "classificacao":14,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":2},
+    "visitante": {
+          "nome": "Cremonese",
+          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
+    "classificacao": 18,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 8,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
+  },
+  
+  
+  
+  {
+    "descricao": "Série A 2022-2023",
+    "rodada": 17,
+    "data": "09.01.23",
+    
+    "mandante": {
+            "nome": "Hellas Verona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png" ,
+    "classificacao":20,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":0},
+    "visitante": {
+          "nome": "Cremonese",
+          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
+    "classificacao": 19,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+  
+  {
+    "descricao": "Série A 2022-2023",
+    "rodada": 19,
+    "data": "23.01.23",
+    
+    "mandante": {
+         "nome": "Bologna",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png",
+    "classificacao":11,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":1},
+    "visitante": {
+          "nome": "Cremonese",
+          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
+    "classificacao": 20,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
   }
+  
+  
+  
+  
   
   ]
