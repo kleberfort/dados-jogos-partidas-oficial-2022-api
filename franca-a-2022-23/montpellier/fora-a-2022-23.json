@@ -401,6 +401,46 @@
       "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 1}
+  },
+  
+  
+   {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 20,
+    "data": "29.01.23",
+    
+    "mandante": {
+         "nome": "Auxerre",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jX0oM3wnm6cWOGKoUR3AyA_96x96.png",
+    "classificacao":19,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+          "nome": "Montpellier",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fL5Nk_2eUanYiOSB9AnBpQ_96x96.png" ,
+    "classificacao": 15,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 2}
   }
   
   
