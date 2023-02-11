@@ -321,14 +321,14 @@
   
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 20,
-    "data": "14.01.23",
+    "rodada": 18,
+    "data": "01.01.23",
     
     "mandante": {
       "nome": "Nottingham",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
-    "classificacao":15,
-    "placar": 2
+    "classificacao":19,
+    "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "NÃO",
@@ -336,25 +336,25 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":2,
+      "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":2},
+      "golsSegundoTempo":1},
     "visitante": {
-           "nome": "Leicester",
-           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png",
-    "classificacao": 13,
-    "placar": 0
+           "nome": "Chelsea",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+    "classificacao": 8,
+    "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "SIM",
-      "cinco": "SIM",
+      "tres": "NÃO",
+      "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 5,
+      "escanteiosPrimeiroTempo": 2,
       "escanteiosSegundoTempo": 0,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   },
   
