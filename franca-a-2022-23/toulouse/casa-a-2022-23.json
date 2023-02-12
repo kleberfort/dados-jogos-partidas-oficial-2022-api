@@ -400,6 +400,86 @@
       "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
+  },
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 21,
+    "data": "01.02.23",
+    
+    "mandante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao":12,
+    "placar": 4
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":2},
+    "visitante": {
+      "nome": "Troyes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao": 16,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 23,
+    "data": "12.02.23",
+    
+    "mandante": {
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+    "classificacao":11,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo":0},
+    "visitante": {
+      "nome": "Rennes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
+    "classificacao": 6,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 6,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
   }
   
  
