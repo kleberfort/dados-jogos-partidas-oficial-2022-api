@@ -327,6 +327,9 @@
   
   
   
+  
+  
+  
       {
     "descricao": "Ligue 1 2022-2023",
     "rodada": 19,
@@ -363,6 +366,48 @@
       "escanteiosPrimeiroTempo": 1,
       "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 0}
+  },
+  
+  
+  
+  
+   {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 21,
+    "data": "01.02.23",
+    
+    "mandante": {
+      "nome": "Rennes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
+    "classificacao":5,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":4,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":1},
+    "visitante": {
+     "nome": "Strasbourg",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Eb9xtMpUy8FXQ0RCKvLxcg_96x96.png",
+    "classificacao": 18,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
   },
   
