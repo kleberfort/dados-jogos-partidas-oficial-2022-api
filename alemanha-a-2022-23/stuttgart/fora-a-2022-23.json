@@ -367,6 +367,46 @@
       "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 1}
+  },
+  
+  
+   {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 20,
+    "data": "11.02.23",
+    
+    "mandante": {
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+    "classificacao":6,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":2},
+    "visitante": {
+      "nome": "Stuttgart",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+    "classificacao": 16,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
   }
   
   
