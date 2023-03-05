@@ -437,6 +437,47 @@
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 3,
       "golsSegundoTempo": 0}
+  },
+  
+  
+  
+     {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 24,
+    "data": "04.03.23",
+    
+    "mandante": {
+            "nome": "Getafe",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png",
+    "classificacao":19,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo":0},
+    "visitante": {
+           "nome": "Girona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Tyy5rCdiLCw2_8z04DM-GQ_96x96.png",
+    "classificacao": 11,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 2}
   }
   
   
