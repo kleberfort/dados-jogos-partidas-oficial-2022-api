@@ -453,8 +453,8 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":1,
-      "escanteiosSegundoTempo": 2,
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo":0},
     "visitante": {
