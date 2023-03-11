@@ -497,6 +497,46 @@
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 2}
+  },
+   
+   
+    {
+    "descricao": "Série A 2022-2023",
+    "rodada": 25,
+    "data": "06.03.23",
+    
+    "mandante": {
+      "nome": "Sassuolo",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png",
+    "classificacao":14,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":1},
+    "visitante": {
+          "nome": "Cremonese",
+          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
+    "classificacao": 19,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 2}
   }
   
   
