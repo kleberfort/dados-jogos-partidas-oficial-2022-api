@@ -2,14 +2,14 @@
 
   {
     "descricao": "Premier League A 2022-2023",
-    "rodada": 1,
+    "rodada": 3,
     "data": "15.08.22",
     
     "mandante": {
       "nome": "Real Betis",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png",
-    "classificacao":1,
-    "placar": 3
+    "classificacao":3,
+    "placar": 1
   },
     "escanteiosPrimeiroMandante":{
       "tres": "NÃO",
@@ -22,9 +22,9 @@
       "golsPrimeiroTempo": 2,
       "golsSegundoTempo":1},
     "visitante": {
-            "nome": "Elche",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyyqqxLIYT_lQIXRyMI_RA_96x96.png" ,
-    "classificacao": 1,
+      "nome": "Osasuna",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png" ,
+    "classificacao": 4,
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
