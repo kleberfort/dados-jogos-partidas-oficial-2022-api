@@ -479,6 +479,46 @@
       "escanteiosSegundoTempo": 5,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 2}
+  },
+  
+  
+   {
+    "descricao": "Premier League A 2022-2023",
+    "rodada": 25,
+    "data": "13.03.23",
+    
+    "mandante": {
+           "nome": "Girona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Tyy5rCdiLCw2_8z04DM-GQ_96x96.png",
+    "classificacao":11,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+         "nome": "Atlético",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png",
+    "classificacao": 3,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
   }
   
   
