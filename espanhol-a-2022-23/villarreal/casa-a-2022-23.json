@@ -440,6 +440,46 @@
       "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
+  },
+    
+    
+        {
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 25,
+    "data": "12.03.23",
+    
+    "mandante": {
+     "nome": "Villarreal",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png" ,
+    "classificacao":6,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":1},
+    "visitante": {
+      "nome": "Real Betis",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png",
+    "classificacao": 5,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
   }
   
   
