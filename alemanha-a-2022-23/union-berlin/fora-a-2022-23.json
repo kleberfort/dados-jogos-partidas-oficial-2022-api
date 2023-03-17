@@ -220,9 +220,9 @@
     "placar": 2
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "NÃO",
-      "cinco": "SIM",
-      "sete": "SIM",
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
       "nove": "NÃO" },
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":3,
