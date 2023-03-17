@@ -92,7 +92,7 @@
       "tres": "NÃO",
       "cinco": "NÃO",
       "sete": "NÃO",
-      "nove": "SIM" },
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":1,
       "escanteiosSegundoTempo": 5,
@@ -131,7 +131,7 @@
       "tres": "NÃO",
       "cinco": "NÃO",
       "sete": "NÃO",
-      "nove": "SIM" },
+      "nove": "NÃO" },
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":0,
       "escanteiosSegundoTempo": 5,
@@ -147,7 +147,7 @@
       "tres": "SIM",
       "cinco": "SIM",
       "sete": "SIM",
-      "nove": "c" },
+      "nove": "NÃO" },
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 5,
       "escanteiosSegundoTempo": 3,
