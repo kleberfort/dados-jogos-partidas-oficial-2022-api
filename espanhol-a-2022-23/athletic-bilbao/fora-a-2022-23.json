@@ -484,6 +484,46 @@
       "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
+  },
+  
+  
+  {
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 26,
+    "data": "17.03.23",
+    
+    "mandante": {
+      "nome": "Valladolid",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yvPDWQC1M4G7SIg9_eidgg_96x96.png",
+    "classificacao":14,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":1},
+    "visitante": {
+        "nome": "Bilbao",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OSL_5Zm6kYPP1J17Bo5uDA_96x96.png" ,
+    "classificacao": 9,
+    "placar": 3
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 6,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 2}
   }
   
   
