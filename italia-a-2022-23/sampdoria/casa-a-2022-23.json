@@ -514,6 +514,47 @@
       "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
+  },
+  
+  
+  
+     {
+    "descricao": "Série A 2022-2023",
+    "rodada": 27,
+    "data": "19.03.23",
+    
+    "mandante": {
+      "nome": "Sampdoria",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/E8bC8MBR8FwSP3ONEhMxjw_96x96.png",
+    "classificacao":20,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":5,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":1},
+    "visitante": {
+            "nome": "Verona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png",
+    "classificacao": 18,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 6,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
   }
   
   
