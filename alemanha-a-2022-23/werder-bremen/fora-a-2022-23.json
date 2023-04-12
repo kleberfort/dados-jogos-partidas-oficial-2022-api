@@ -495,6 +495,46 @@
       "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 2}
+  },
+  
+  
+   {
+    "descricao": "Bundesliga A 2022-2023",
+    "rodada": 27,
+    "data": "08.04.23",
+    
+    "mandante": {
+      "nome": "Mainz 05",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+    "classificacao":8,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":2},
+    "visitante": {
+      "nome": "Werder Bremen",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"   ,
+    "classificacao": 11,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 2}
   }
   
   
