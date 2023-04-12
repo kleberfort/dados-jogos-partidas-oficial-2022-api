@@ -538,7 +538,7 @@
           "nome": "Lazio",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png",
     "classificacao":2,
-    "placar": 0
+    "placar": 2
   },
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
@@ -548,13 +548,13 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo":5,
       "escanteiosSegundoTempo": 1,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo":0},
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
     "visitante": {
             "nome": "Juventus",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Lv6xmBlUIpN3GAFhtf6nqQ_96x96.png",
     "classificacao": 7,
-    "placar": 0
+    "placar": 1
     },
     "escanteiosPrimeiroVisitante": {
       "tres": "NÃO",
@@ -564,9 +564,10 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 1,
       "escanteiosSegundoTempo": 5,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
   }
+  
   
   
   
