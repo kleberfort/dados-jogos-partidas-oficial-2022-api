@@ -563,6 +563,45 @@
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 1}
+  },
+  
+  {
+    "descricao": "Série A 2022-2023",
+    "rodada": 30,
+    "data": "14.04.23",
+    
+    "mandante": {
+       "nome": "Spezia",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UzdHN3YGjZDZGfSMQuZrYw_96x96.png",
+    "classificacao":17,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+              "nome": "Lazio",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png" ,
+    "classificacao": 2,
+    "placar": 3
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 2}
   }
   
   
