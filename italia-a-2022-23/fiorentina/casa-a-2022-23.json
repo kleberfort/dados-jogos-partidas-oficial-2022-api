@@ -604,6 +604,47 @@
       "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0}
+  },
+  
+  
+  {
+    "descricao": "Série A 2022-2023",
+    "rodada": 30,
+    "data": "17.04.23",
+    
+    "mandante": {
+            "nome": "Fiorentina",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png",
+    "classificacao":9,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":1},
+    "visitante": {
+             "nome": "Atalanta",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png",
+    "classificacao": 6,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
   }
+  
   
   ]
