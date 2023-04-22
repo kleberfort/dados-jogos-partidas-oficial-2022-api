@@ -2,36 +2,61 @@
 "nome":"Arsenal",
 "imagem":"https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
 "jogoscasa":[
-
   {
-   
-   "nome": "Arsenal",
-   "placar": 4
+       "rodada": 3,
+       "mandante":{
+       "nome": "Arsenal",
+        "placar": 4
+                  },
+       "visitante":{
+        "nome": "Leicester",
+         "placar":2
+                   }
+
+   },
+
+   {
+     "rodada": 4,
+      "mandante":{
+      "nome": "Arsenal",
+       "placar": 2
     },
+       "visitante":{
+       "nome": "Fulham",
+        "placar":1
+   }
 
-      {
+ }
     
-      "nome": "Leicester",
-     "placar":2
-       }
-
-],
+          ],
 
 "jogosfora":[
+  {
+     "rodada": 1,
+      "mandante":{
+      "nome": "Crystal Palace",
+      "placar": 0
+                 },
+       "visitante":{
+        "nome": "Arsenal",
+        "placar":2
+                   }
+  
+   },
 
-{
-
-  "nome": "Arsenal",
-   "placar": 4
-    },
-
-      {
-    
-      "nome": "Leicester",
-     "placar":2
-       }
+   {
+     "rodada": 2,
+      "mandante":{
+      "nome": "Bournemouth",
+      "placar": 0
+                 },
+       "visitante":{
+        "nome": "Arsenal",
+        "placar":2
+                   }
+   }
+  
 
 ]
-
 
 }
