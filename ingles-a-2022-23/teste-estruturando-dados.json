@@ -238,7 +238,7 @@
             ],
 "jogosfora":[
 
-      {
+                {
        "rodada": 1,
        "mandante":{
        "nomeList": "Crystal Palace",
@@ -250,7 +250,244 @@
                    }
                    
 
-       }
+                },
+        
+                        {
+       "rodada": 3,
+       "mandante":{
+       "nomeList": "Bournemouth",
+        "placar": 0
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":3
+                   }
+                   
+
+                },
+        
+                        {
+       "rodada": 6,
+       "mandante":{
+       "nomeList": "United",
+        "placar": 3
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":1
+                   }
+                   
+
+                },
+        
+        
+                        {
+       "rodada": 8,
+       "mandante":{
+       "nomeList": "Brentford",
+        "placar": 0
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":3
+                   }
+                   
+
+                },
+        
+        
+                        {
+       "rodada": 11,
+       "mandante":{
+       "nomeList": "Leeds United",
+        "placar": 0
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":1
+                   }
+                   
+
+                },
+        
+        
+                        {
+       "rodada": 13,
+       "mandante":{
+       "nomeList": "Southampton",
+        "placar": 1
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":1
+                   }
+                   
+
+                },
+        
+                        {
+       "rodada": 15,
+       "mandante":{
+       "nomeList": "Chlesea",
+        "placar": 0
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":1
+                   }
+                   
+
+                },
+        
+        
+                   {
+       "rodada": 16,
+       "mandante":{
+       "nomeList": "Wolves",
+        "placar": 0
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":2
+                   }
+                   
+
+                },
+        
+        
+                        {
+       "rodada": 18,
+       "mandante":{
+       "nomeList": "Brighton",
+        "placar": 2
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":4
+                   }
+                   
+
+                },
+        
+        
+                        {
+       "rodada": 20,
+       "mandante":{
+       "nomeList": "Tottenham",
+        "placar": 0
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":2
+                   }
+                   
+
+                },
+        
+                        {
+       "rodada": 22,
+       "mandante":{
+       "nomeList": "Everton",
+        "placar": 1
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":0
+                   }
+                   
+
+                },
+        
+        
+        
+                        {
+       "rodada": 24,
+       "mandante":{
+       "nomeList": "Aston Villa",
+        "placar": 2
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":4
+                   }
+                   
+
+                },
+        
+        
+                        {
+       "rodada": 25,
+       "mandante":{
+       "nomeList": "Leicester",
+        "placar": 0
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":1
+                   }
+                   
+
+                },
+        
+        
+                        {
+       "rodada": 27,
+       "mandante":{
+       "nomeList": "Fulham",
+        "placar": 0
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":3
+                   }
+                   
+
+                },
+        
+        
+                        {
+       "rodada": 30,
+       "mandante":{
+       "nomeList": "Liverpool",
+        "placar": 2
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":2
+                   }
+                   
+
+                },
+        
+        
+               {
+       "rodada": 31,
+       "mandante":{
+       "nomeList": "West Ham",
+        "placar": 2
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":2
+                   }
+                   
+
+                },
+        
+        
+                        {
+       "rodada": 33,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 4
+                  },
+       "visitante":{
+        "nomeList": "Arsenal",
+         "placar":1
+                   }
+                   
+
+                }
 
 
 
