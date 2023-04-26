@@ -6,11 +6,11 @@
         {
        "rodada": 3,
        "mandante":{
-       "nomeCasa": "Arsenal",
+       "nomeList": "Arsenal",
         "placar": 4
                   },
        "visitante":{
-        "nomeFora": "Leicester",
+        "nomeList": "Leicester",
          "placar":2
                    }
                    
@@ -20,11 +20,11 @@
                 {
        "rodada": 4,
        "mandante":{
-       "nomeCasa": "Arsenal",
+       "nomeList": "Arsenal",
         "placar": 2
                   },
        "visitante":{
-        "nomeFora": "Fulham",
+        "nomeList": "Fulham",
          "placar":1
                  }
                    
@@ -34,11 +34,11 @@
          {
        "rodada": 5,
        "mandante":{
-       "nomeCasa": "Arsenal",
+       "nomeList": "Arsenal",
         "placar": 2
                   },
        "visitante":{
-        "nomeFora": "Aston Villa",
+        "nomeList": "Aston Villa",
          "placar":1
                  }
                    
