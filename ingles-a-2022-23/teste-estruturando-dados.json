@@ -511,9 +511,11 @@
         "nomeList": "Everton",
          "placar":1
                    },
+                  
+                },
                         
                         
-                        {
+              {
        "rodada": 4,
        "mandante":{
        "nomeList": "Aston Villa",
@@ -523,7 +525,7 @@
         "nomeList": "United",
          "placar":1
                    }
-
+              }
 
 
 
@@ -546,9 +548,10 @@
         "nomeList": "Aston Villa",
          "placar":0
                    },
+         
+        },
                 
-                
-                {
+        {
        "rodada": 3,
        "mandante":{
        "nomeList": "Bournemouth",
@@ -558,6 +561,7 @@
         "nomeList": "Arsenal",
          "placar":3
                    }
+        }
 
 
 ],
