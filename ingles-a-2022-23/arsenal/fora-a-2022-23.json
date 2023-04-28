@@ -641,6 +641,45 @@
       "escanteiosSegundoTempo": 2,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 2}
+  },
+  
+  {
+    "descricao": "Premier League A 2022-2023",
+   "rodada": 33,
+    "data": "26.04.23",
+    
+    "mandante": {
+      "nome": "City",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+    "classificacao":2,
+    "placar": 4
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":2},
+    "visitante": {
+        "nome": "Arsenal",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png" ,
+    "classificacao": 1,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
   }
 
 
