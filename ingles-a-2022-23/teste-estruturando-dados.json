@@ -636,7 +636,220 @@
 {
       "nome": "Manchester City",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+                {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 4
+                  },
+       "visitante":{
+       "nomeList": "Bournemouth",
+       "placar":0
+                  }
+       },
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 4
+                  },
+       "visitante":{
+       "nomeList": "Crystal Palace",
+       "placar":2
+                  }
+       },
+        
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 6
+                  },
+       "visitante":{
+       "nomeList": "Forest",
+       "placar":0
+                  }
+       },
+
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 6
+                  },
+       "visitante":{
+       "nomeList": "United",
+       "placar":3
+                  }
+       },
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 4
+                  },
+       "visitante":{
+       "nomeList": "Southampton",
+       "placar":0
+                  }
+       },
+        
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 3
+                  },
+       "visitante":{
+       "nomeList": "Brighton",
+       "placar":1
+                  }
+                               
+       },
+        
+        
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 2
+                  },
+       "visitante":{
+       "nomeList": "Fulham",
+       "placar":1
+                  }
+       },
+        
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 1
+                  },
+       "visitante":{
+       "nomeList": "Brentford",
+       "placar":2
+                  }
+       },
+        
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 1
+                  },
+       "visitante":{
+       "nomeList": "Everton",
+       "placar":1
+                  }
+       },
+        
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 4
+                  },
+       "visitante":{
+       "nomeList": "Tottenham",
+       "placar":2
+                  }
+       },
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 3
+                  },
+       "visitante":{
+       "nomeList": "Wolves",
+       "placar":0
+                  }
+       },
+        
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 3
+                  },
+       "visitante":{
+       "nomeList": "Aston Villa",
+       "placar":1
+                  }
+       },
+        
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 2
+                  },
+       "visitante":{
+       "nomeList": "Newcastle",
+       "placar":0
+                  }
+       },
+        
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 4
+                  },
+       "visitante":{
+       "nomeList": "Liverpool",
+       "placar":1
+                  }
+       },
+
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 3
+                  },
+       "visitante":{
+       "nomeList": "Leicester",
+       "placar":1
+                  }
+       },
+        
+        
+                        {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 4
+                  },
+       "visitante":{
+       "nomeList": "Arsenal",
+       "placar":1
+                  }
+       }
+
+
+
+
+
+
+],
 "jogosfora":[]
 },
 
