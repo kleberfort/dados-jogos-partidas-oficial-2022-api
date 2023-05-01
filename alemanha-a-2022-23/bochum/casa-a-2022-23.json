@@ -601,6 +601,47 @@
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 3,
       "golsSegundoTempo": 2}
+  },
+  
+  
+  
+   {
+    "descricao": "Bundesliga A 2022-2023",
+    "rodada": 30,
+    "data": "28.04.23",
+    
+    "mandante": {
+      "nome": "Bochum",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+    "classificacao":15,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":0},
+    "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png" ,
+    "classificacao": 1,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM"},
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 8,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
   }
   
   
