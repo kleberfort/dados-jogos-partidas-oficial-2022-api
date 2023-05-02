@@ -599,6 +599,46 @@
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
+  },
+  
+  
+  {
+    "descricao": "Série A 2022-2023",
+    "rodada": 32,
+    "data": "30.04.23",
+    
+    "mandante": {
+          "nome": "Cremonese",
+          "imagem": "https://dimg-pa.googleapis.com/lg/CgZmYzAwMDA.png?sig=AJweQhW_jHglTSikRb6zmfyL_SN7&key=AIzaSyCUqbG5Kw_8jb3cy2ZBKvV2kAi8z0qmQO0&sk=fIY0JkaXDUU&w=96&h=96",
+    "classificacao":19,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":0},
+    "visitante": {
+            "nome": "Verona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png" ,
+    "classificacao": 18,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
   }
   
   
