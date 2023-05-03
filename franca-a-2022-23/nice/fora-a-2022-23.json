@@ -643,6 +643,46 @@
       "escanteiosSegundoTempo": 4,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0}
+  },
+  
+  
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 33,
+    "data": "30.04.23",
+    
+    "mandante": {
+      "nome": "Troyes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao":18,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+      "nome": "Nice",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Llrxrqsc3Tw4JzE6xM7GWw_96x96.png",
+    "classificacao": 10,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 7,
+      "escanteiosSegundoTempo": 7,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
   }
   
   
