@@ -227,7 +227,20 @@
          "placar":3
                  }
                    
-
+        },
+        
+        
+        {
+       "rodada": 32,
+       "mandante":{
+       "nomeList": "Arsenal",
+        "placar": 3
+                  },
+       "visitante":{
+        "nomeList": "Chelsea",
+         "placar":1
+                 }
+                   
         }
         
 
@@ -475,7 +488,7 @@
                 },
         
         
-                        {
+      {
        "rodada": 33,
        "mandante":{
        "nomeList": "City",
@@ -485,9 +498,7 @@
         "nomeList": "Arsenal",
          "placar":1
                    }
-                   
-
-                }
+     }
 
 
 
