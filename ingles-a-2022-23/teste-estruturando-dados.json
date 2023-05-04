@@ -843,7 +843,7 @@
        },
         
         
-                        {
+     {
        "rodada": 2,
        "mandante":{
        "nomeList": "City",
@@ -852,6 +852,19 @@
        "visitante":{
        "nomeList": "Arsenal",
        "placar":1
+                  }
+       },
+        
+        
+      {
+       "rodada": 2,
+       "mandante":{
+       "nomeList": "City",
+        "placar": 3
+                  },
+       "visitante":{
+       "nomeList": "West Ham",
+       "placar":0
                   }
        }
 
