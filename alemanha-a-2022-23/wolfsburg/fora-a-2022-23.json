@@ -619,7 +619,47 @@
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 3,
       "golsSegundoTempo": 2}
-  } 
+  },
+  
+  
+  {
+    "descricao": "Bundesliga A 2022-2023",
+    "rodada": 31,
+    "data": "07.05.23",
+    
+    "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+    "classificacao":2,
+    "placar": 6
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM"},
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":5,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo":3},
+    "visitante": {
+      "nome": "Wolfsburg",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png" ,
+    "classificacao": 7,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0}
+  }
   
   
   
