@@ -1,253 +1,82 @@
 [
-{
-"nome":"Arsenal",
-"imagem":"https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
-"jogoscasa":[
-        
-
-
-
-
-
-            ],
-"jogosfora":[
-
-               
-
-
-
-
-
-                ]
-},
-
-{
-         "nome": "Aston Villa",
-         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
-"jogoscasa":[
-  
-      
-                
-
-],
-"jogosfora":[]
-},
-
-{
-         "nome": "Bournemouth",
-         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/IcOt-hrK04B-RlRwI3R0yA_96x96.png",
-"jogoscasa":[
-      
-  
-  
- 
-
-
-],
-"jogosfora":[]
-},
-
-{
-          "nome": "Brentford",
-          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-},
-
-{
-          "nome": "Brighton",
-          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
-"jogoscasa":[
-
-        
-        
-        
-
-
-
-
-
-],
-"jogosfora":[
-
-             
- 
-        
-        
-        
-
-
-
-]
-},
-
-{
-           "nome": "Chelsea",
-           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-},
-
-
-{
-            "nome": "Crystal Palace",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-},
-
-{
-            "nome": "Everton",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-},
-
-{
-            "nome": "Fulham",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-},
-
-{
-           "nome": "Leeds United",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5dqfOKpjjW6EwTAx_FysKQ_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-},
-{
-           "nome": "Leicester",
-           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-},
-
-{
-      "nome": "Liverpool",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-"jogoscasa":[
-
-        
-       
-
-
-
-
-],
-"jogosfora":[
-
-      
-
-
-
-
-]
-}, 
-
-{
-      "nome": "Manchester City",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
-"jogoscasa":[
-
-     
-
-
-
-
-
-],
-"jogosfora":[
-
-       
-        
-        
-        
-
-]
-},
-
-{
-      "nome": "Manchester United",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
-"jogoscasa":[
-
-        
-
-
-
-],
-"jogosfora":[
-
-        
-               
-        
-
-]
-},
-
-{
-      "nome": "Newcastle",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
-"jogoscasa":[
-
-      
-        
-        
-        
-        
-        
-
-
-
-
-
-],
-"jogosfora":[
-
-       
-
-
-
-]
-},
-
-{
-      "nome": "Nottingham Forest",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-},
-
-{
-      "nome": "Southampton",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-},
-
-{
-      "nome": "Tottenham",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-},
-
-{
-      "nome": "West Ham",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-}, 
-
-{
-     "nome": "Wolverhampton",
-     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
-}
-
-
-
-
+    {
+        "nome": "América-MG",
+         "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png"
+    }, 
+    {
+         "nome": "Atlético-PR",
+         "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png"
+    }, 
+    {
+          "nome": "Atlético-MG",
+          "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png"
+    },
+    {
+          "nome": "Atlético-GO",
+          "imagem": "https://www.escudosfc.com.br/images/atlego.png"
+    },
+    {
+           "nome": "Avaí",
+           "imagem": "https://www.escudosfc.com.br/images/avai.gif"
+    },
+    {
+            "nome": "Botafogo",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png"
+    },
+    {
+            "nome": "Bragantino",
+            "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png"
+    },
+    {
+            "nome": "Ceará",
+            "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png"
+    },
+    {
+           "nome": "Corinthians",
+            "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"
+    },
+    {
+           "nome": "Coritiba",
+           "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png"
+    },
+    {
+      "nome": "Cuiabá",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png"
+    },
+    {
+      "nome": "Flamengo",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png"
+    },
+    {
+      "nome": "Fluminense",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png"
+    },
+    {
+      "nome": "Fortaleza",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png"
+    },
+    {
+      "nome": "Goiás",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_96x96.png"
+    },
+    {
+      "nome": "Juventude",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png"
+    }, 
+    {
+      "nome": "Internacional",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png"
+    },
+    {
+      "nome": "Palmeiras",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png"
+    },
+    {
+      "nome": "Santos",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png"
+    },
+    {
+     "nome": "São-Paulo",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png"
+   }
 ]
