@@ -1,17 +1,10 @@
 [
     {
-        "nome": "América-MG",
-         "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png"
+        "nome": "ABC",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/3F5mqKWA4_qE8e-gvp5F-g_96x96.png"
     }, 
-    {
-         "nome": "Atlético-PR",
-         "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png"
-    }, 
-    {
-          "nome": "Atlético-MG",
-          "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png"
-    },
-    {
+    
+        {
           "nome": "Atlético-GO",
           "imagem": "https://www.escudosfc.com.br/images/atlego.png"
     },
@@ -19,64 +12,76 @@
            "nome": "Avaí",
            "imagem": "https://www.escudosfc.com.br/images/avai.gif"
     },
+    
     {
-            "nome": "Botafogo",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png"
-    },
+         "nome": "Botafogo-SP",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png"
+    }, 
     {
-            "nome": "Bragantino",
-            "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png"
+          "nome": "CRB",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png"
     },
     {
             "nome": "Ceará",
             "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png"
     },
+
+
     {
-           "nome": "Corinthians",
-            "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"
+            "nome": "Chapecoense",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/K7JQUKTRsuXfO9YrD5dq5g_96x96.png"
     },
     {
-           "nome": "Coritiba",
-           "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png"
+            "nome": "Criciúma",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png"
+    },
+
+    {
+           "nome": "Guarani",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png"
     },
     {
-      "nome": "Cuiabá",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png"
-    },
-    {
-      "nome": "Flamengo",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png"
-    },
-    {
-      "nome": "Fluminense",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png"
-    },
-    {
-      "nome": "Fortaleza",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png"
-    },
-    {
-      "nome": "Goiás",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_96x96.png"
+           "nome": "Ituano",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/d_-UoAOHszNZufgbaFSLXQ_96x96.png"
     },
     {
       "nome": "Juventude",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png"
+    },
+    {
+      "nome": "Londrina",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e7TVDQHlKXSPLpNT58XzBA_96x96.png"
+    },
+    {
+      "nome": "Mirassol",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/eQ05kONtFs6kLBgww3MHsg_96x96.png"
+    },
+    {
+      "nome": "Novorizontino",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png"
+    },
+    {
+      "nome": "Ponte Preta",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0e4mOPeQPUipr9oh54-7NQ_96x96.png"
+    },
+    {
+      "nome": "Sampaio Corrêa",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/G52t9iE9YvNjIKh-8xyHGg_96x96.png"
     }, 
     {
-      "nome": "Internacional",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png"
+      "nome": "Sport",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png"
     },
     {
-      "nome": "Palmeiras",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png"
+      "nome": "Tombense",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Dmc7KjYXt1no9Ib4AOj0ww_96x96.png"
     },
     {
-      "nome": "Santos",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png"
+      "nome": "Vila Nova",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v3upsCABZm2skuxyszzvwg_96x96.png"
     },
     {
-     "nome": "São-Paulo",
-     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png"
+     "nome": "Vitória",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png"
    }
 ]
