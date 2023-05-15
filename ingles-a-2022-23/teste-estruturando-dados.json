@@ -241,7 +241,20 @@
          "placar":1
                  }
                    
-        }
+        },
+
+        {
+                "rodada": 32,
+                "mandante":{
+                "nomeList": "Arsenal",
+                 "placar": 0
+                           },
+                "visitante":{
+                 "nomeList": "Brighton",
+                  "placar":3
+                          }
+                            
+                 }
         
 
 
@@ -498,7 +511,20 @@
         "nomeList": "Arsenal",
          "placar":1
                    }
-     }
+     },
+
+
+     {
+        "rodada": 33,
+        "mandante":{
+        "nomeList": "Newcastle",
+         "placar": 0
+                   },
+        "visitante":{
+         "nomeList": "Arsenal",
+          "placar":2
+                    }
+      }
 
 
 
@@ -1714,7 +1740,19 @@
        "nomeList": "West Ham",
        "placar":0
                   }
-       }
+       },
+
+       {
+        "rodada": 2,
+        "mandante":{
+        "nomeList": "City",
+         "placar": 2
+                   },
+        "visitante":{
+        "nomeList": "Leeds United",
+        "placar":1
+                   }
+        }
 
 
 
@@ -1928,7 +1966,19 @@
        "nomeList": "City",
        "placar":2
                   }
-       }
+       },
+
+       {
+        "rodada": 2,
+        "mandante":{
+        "nomeList": "Everton",
+         "placar": 0
+                   },
+        "visitante":{
+        "nomeList": "City",
+        "placar":3
+                   }
+        }
         
         
         
