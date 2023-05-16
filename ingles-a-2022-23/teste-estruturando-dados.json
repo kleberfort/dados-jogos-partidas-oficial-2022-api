@@ -4344,8 +4344,502 @@
 {
            "nome": "Leicester",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
+"jogoscasa":[
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Liverpool",
+                "placar":3
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Everton",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Wolves",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Bournemouth",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Aston Villa",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Chelsea",
+                "placar":3
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Arsenal",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Tottenham",
+                "placar":1
+                           }
+                },
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Brighton",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Fulham",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "United",
+                "placar":3
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "City",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Leeds United",
+                "placar":0
+                           }
+                },
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Crystal Palace",
+                "placar":0
+                           }
+                },
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":0
+                           }
+                },
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "United",
+                "placar":1
+                           }
+                },
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Brentford",
+                "placar":2
+                           }
+                }
+
+
+
+
+
+
+
+],
+"jogosfora":[
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Fulham",
+                 "placar": 5
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":3
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Leeds United",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":1
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "City",
+                 "placar": 3
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":1
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Crystal Palace",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":1
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Brentford",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":1
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":0
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "United",
+                 "placar": 3
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":0
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Aston Villa",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":4
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":0
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Liverpool",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":1
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "West Ham",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":2
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Everton",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":2
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Wolves",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":4
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Bournemouth",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":1
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Tottenham",
+                 "placar": 6
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Brighton",
+                 "placar": 5
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Chelsea",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":1
+                           }
+                },
+
+
+
+        {
+                "rodada": 3,
+                "mandante":{
+                "nomeList": "Arsenal",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":2
+                           }
+                }
+
+
+
+
+
+
+
+]
 },
 
 {
@@ -4559,7 +5053,20 @@
        "nomeList": "Fulham",
        "placar":0
                   }
-       }
+       },
+
+
+       {
+        "rodada": 3,
+        "mandante":{
+        "nomeList": "Liverpool",
+         "placar": 1
+                   },
+        "visitante":{
+        "nomeList": "Brentford",
+        "placar":0
+                   }
+        }
         
 
 
@@ -4784,7 +5291,20 @@
        "nomeList": "Liverpool",
        "placar":2
                   }
-       }
+       },
+
+
+       {
+        "rodada": 3,
+        "mandante":{
+        "nomeList": "Leicester",
+         "placar": 0
+                   },
+        "visitante":{
+        "nomeList": "Liverpool",
+        "placar":3
+                   }
+        }
 
 
 
@@ -5470,7 +5990,20 @@
        "nomeList": "Aston Villa",
        "placar":0
                   }
-       }
+       },
+
+
+       {
+        "rodada": 2,
+        "mandante":{
+        "nomeList": "United",
+         "placar": 2
+                   },
+        "visitante":{
+        "nomeList": "Wolves",
+        "placar":0
+                   }
+        }
 
 
 
@@ -5683,7 +6216,31 @@
        "nomeList": "United",
        "placar":2
                   }
-       }
+       },
+
+       {
+        "rodada": 2,
+        "mandante":{
+        "nomeList": "Brithton",
+         "placar": 1
+                   },
+        "visitante":{
+        "nomeList": "United",
+        "placar":0
+                   }
+        },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "West Ham",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "United",
+                "placar":0
+                           }
+                }
         
         
 
@@ -5896,7 +6453,20 @@
        "nomeList": "Southampton",
        "placar":1
                   }
-       }
+       },
+
+
+       {
+        "rodada": 2,
+        "mandante":{
+        "nomeList": "Newcastle",
+         "placar": 0
+                   },
+        "visitante":{
+        "nomeList": "Arsenal",
+        "placar":2
+                   }
+        }
         
         
         
@@ -6124,7 +6694,19 @@
        "nomeList": "Newcastle",
        "placar":4
                   }
-       }
+       },
+
+       {
+        "rodada": 2,
+        "mandante":{
+        "nomeList": "Leeds United",
+         "placar": 2
+                   },
+        "visitante":{
+        "nomeList": "Newcastle",
+        "placar":2
+                   }
+        }
 
 
 
@@ -6135,15 +6717,975 @@
 {
       "nome": "Nottingham Forest",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
+"jogoscasa":[
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":3
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 3
+                           },
+                "visitante":{
+                "nomeList": "Brighton",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "United",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Wolves",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Newcastle",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Everton",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "City",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Leeds United",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Chelsea",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Crystal Palace",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Brentford",
+                "placar":2
+                           }
+                },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Liverpool",
+                "placar":0
+                           }
+                },
+
+
+        
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Aston Villa",
+                "placar":1
+                           }
+                },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Fulham",
+                "placar":3
+                           }
+                },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Bournemouth",
+                "placar":3
+                           }
+                },
+
+
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Tottenham",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "West Ham",
+                "placar":0
+                           }
+                }
+
+
+
+
+
+
+
+],
+"jogosfora":[
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Chelsea",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Brentford",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Liverpool",
+                 "placar": 3
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Aston Villa",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Leeds United",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Tottenham",
+                 "placar": 3
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "West Ham",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":0
+                           }
+                },
+
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Fulham",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Bournemouth",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "United",
+                 "placar": 3
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Arsenal",
+                 "placar": 5
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Brighton",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Wolves",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":0
+                           }
+                },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "City",
+                 "placar": 6
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":0
+                           }
+                },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Everton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Newcastle",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":0
+                           }
+                }
+
+
+
+
+
+
+
+
+]
 },
 
 {
       "nome": "Southampton",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
+"jogoscasa":[
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Fulham",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Bournemouth",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Crystal Palace",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "City",
+                "placar":4
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 3
+                           },
+                "visitante":{
+                "nomeList": "Tottenham",
+                "placar":3
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Brentford",
+                "placar":2
+                           }
+                },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Leicester",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Wolves",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Aston Villa",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Forest",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Brighton",
+                "placar":3
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Newcastle",
+                "placar":4
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Arsenal",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "West Ham",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Everton",
+                "placar":2
+                           }
+                },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Chelsea",
+                "placar":1
+                           }
+                },
+
+        
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "United",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Southampton",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Leeds United",
+                "placar":2
+                           }
+                }
+
+
+
+
+
+],
+"jogosfora":[
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Forest",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":3
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Newcastle",
+                 "placar": 3
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Arsenal",
+                 "placar": 3
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":3
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "West Ham",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "United",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Leeds United",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Chelsea",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Brentford",
+                 "placar": 3
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":0
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Everton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Fulham",
+                 "placar": 2
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Liverpool",
+                 "placar": 3
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Crystal Palace",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":0
+                           }
+                },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Bournemouth",
+                 "placar": 0
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":1
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "City",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":0
+                           }
+                },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Aston Villa",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":0
+                           }
+                },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Wolves",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":0
+                           }
+                },
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Leicester",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":2
+                           }
+                },
+
+
+        {
+                "rodada": 2,
+                "mandante":{
+                "nomeList": "Tottenham",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Southampton",
+                "placar":1
+                           }
+                }
+
+
+
+
+
+]
 },
 
 {
