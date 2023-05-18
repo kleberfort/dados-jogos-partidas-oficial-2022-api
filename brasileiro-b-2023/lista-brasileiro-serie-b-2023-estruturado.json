@@ -243,8 +243,97 @@
 {
      "nome": "Vitória",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
+"jogoscasa":[
+
+      
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Vitoria",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Atletico-GO",
+            "placar":3
+                       }
+            },
+
+      
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Vitoria",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Londrina",
+            "placar":0
+                       }
+            },
+
+      
+      
+      {
+            "rodada": 1,
+            "mandante":{
+            "nomeList": "Vitoria",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Ponte Preta",
+            "placar":0
+                       }
+            }
+
+
+
+
+],
+"jogosfora":[
+
+      {
+            "rodada": 4,
+            "mandante":{
+            "nomeList": "Ceara",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Vitoria",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 5,
+            "mandante":{
+            "nomeList": "Botafogo-SP",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Vitoria",
+            "placar":3
+                       }
+            },
+
+      
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "ABC",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Vitoria",
+            "placar":3
+                       }
+            }
+
+
+
+
+
+
+]
 }
 
 
