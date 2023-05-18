@@ -689,43 +689,43 @@
   },
   
   
-  {
-   "descricao": "Premier League A 2022-2023",
+   {
+    "descricao": "Premier League A 2022-2023",
     "rodada": 36,
     "data": "14.05.23",
     
     "mandante": {
-          "nome": "Brentford",
-          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
-    "classificacao":9,
-    "placar": 2
+            "nome": "Everton",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
+    "classificacao":17,
+    "placar": 0
   },
     "escanteiosPrimeiroMandante":{
-      "tres": "SIM",
-      "cinco": "SIM",
+      "tres": "NÃO",
+      "cinco": "NÃO",
       "sete": "SIM",
       "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo":4,
-      "escanteiosSegundoTempo": 3,
-      "golsPrimeiroTempo": 2,
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 0,
       "golsSegundoTempo":0},
     "visitante": {
-      "nome": "West Ham",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png" ,
-    "classificacao": 15,
-    "placar": 0
+      "nome": "City",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+    "classificacao": 1,
+    "placar": 3
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
+      "tres": "SIM",
+      "cinco": "SIM",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 1,
-      "escanteiosSegundoTempo": 4,
-      "golsPrimeiroTempo": 0,
-      "golsSegundoTempo": 0}
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 1}
   }
   
   
