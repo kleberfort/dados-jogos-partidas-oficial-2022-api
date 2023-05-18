@@ -2450,7 +2450,19 @@
         "nomeList": "Brithton",
         "placar":3
                    }
-        }
+        },
+
+        {
+                "rodada": 25,
+                "mandante":{
+                "nomeList": "Newcastle",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Brighton",
+                "placar":1
+                           }
+                }
        
  
         
@@ -6923,7 +6935,19 @@
         "nomeList": "Arsenal",
         "placar":2
                    }
-        }
+        },
+
+        {
+                "rodada": 25,
+                "mandante":{
+                "nomeList": "Newcastle",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Brighton",
+                "placar":1
+                           }
+                }
         
         
         
