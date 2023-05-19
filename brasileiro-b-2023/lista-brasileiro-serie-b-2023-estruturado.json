@@ -1272,6 +1272,42 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0e4mOPeQPUipr9oh54-7NQ_96x96.png",
 "jogoscasa":[
 
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Ponte Preta",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Ceara",
+            "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Ponte Preta",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Botafogo-SP",
+            "placar": 0
+                       }
+            },
+
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Ponte Preta",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Criciuma",
+            "placar": 2
+                       }
+            }
       
         
         
@@ -1286,6 +1322,42 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Londrina",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Ponte Preta",
+            "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Chapecoense",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Ponte Preta",
+            "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Vitoria",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Ponte Preta",
+            "placar": 0
+                       }
+            }
+
        
 
 
@@ -1296,29 +1368,308 @@
 {
       "nome": "Sampaio Corrêa",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/G52t9iE9YvNjIKh-8xyHGg_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
+"jogoscasa":[
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Sampaio Correa",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Juventude",
+            "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Sampaio Correa",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Mirassol",
+            "placar": 3
+                       }
+            },
+
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Sampaio Correa",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Atletico-GO",
+            "placar": 3
+                       }
+            }
+
+],
+"jogosfora":[
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Guarani",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sampaio Correa",
+            "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "CRB",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sampaio Correa",
+            "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Botafogo-SP",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sampaio Correa",
+            "placar": 0
+                       }
+            }
+
+
+]
 },
 
 {
       "nome": "Sport",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
+"jogoscasa":[
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Sport",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Tombense",
+            "placar": 2
+                       }
+            },
+
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Sport",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Guarani",
+            "placar": 0
+                       }
+            }
+
+],
+"jogosfora":[
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Ituano",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sport",
+            "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Novorizontino",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sport",
+            "placar": 0
+                       }
+            }
+
+
+
+]
 },
 
 {
       "nome": "Tombense",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Dmc7KjYXt1no9Ib4AOj0ww_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
+"jogoscasa":[
+
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Tombense",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Avai",
+            "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Tombense",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atletico-GO",
+            "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Tombense",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Ituano",
+            "placar": 0
+                       }
+            }
+
+],
+"jogosfora":[
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Ceara",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Tombense",
+            "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Sport",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Tombense",
+            "placar": 2
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Criciuma",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Tombense",
+            "placar": 0
+                       }
+            }
+
+
+]
 },
 
 {
       "nome": "Vila Nova",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v3upsCABZm2skuxyszzvwg_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
+"jogoscasa":[
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Vila Nova",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Criciuma",
+            "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Vila Nova",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Juventude",
+            "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Vila Nova",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Novorizontino",
+            "placar": 1
+                       }
+            }
+
+
+],
+"jogosfora":[
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Mirassol",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Vila Nova",
+            "placar": 1
+                       }
+            },
+
+
+
+      {
+            "rodada": 0,
+            "mandante":{
+            "nomeList": "Avai",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Vila Nova",
+            "placar": 3
+                       }
+            }
+
+
+]
 }, 
 
 {
