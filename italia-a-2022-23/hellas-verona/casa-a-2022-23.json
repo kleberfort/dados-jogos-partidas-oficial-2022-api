@@ -678,6 +678,45 @@
       "escanteiosSegundoTempo": 1,
       "golsPrimeiroTempo": 3,
       "golsSegundoTempo": 3}
+  },
+
+  {
+    "descricao": "Série A 2022-2023",
+    "rodada": 35,
+    "data": "14.05.23",
+    
+    "mandante": {
+            "nome": "Verona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png",
+    "classificacao":17,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":1,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+      "nome": "Torino",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png" ,
+    "classificacao": 12,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
   }
   
   
