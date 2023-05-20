@@ -1468,8 +1468,458 @@
 {
       "nome": "Real Sociedad",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
+"jogoscasa":[
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Girona",
+            "placar":2
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Real Madrid",
+            "placar":0
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Vallecano",
+            "placar":1
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Getafe",
+            "placar":0
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Elche",
+            "placar":0
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Cadiz",
+            "placar":0
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Celta Vigo",
+            "placar":1
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Valladolid",
+            "placar":1
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Bilbao",
+            "placar":1
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Osasuna",
+            "placar":0
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Valencia",
+            "placar":1
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Betis",
+            "placar":2
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Mallorca",
+            "placar":0
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Villarreal",
+            "placar":0
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Espanyol",
+            "placar":1
+                       }
+            },
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":1
+                       }
+            },
+     
+     
+     
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Barcelona",
+            "placar":4
+                       }
+            }
+     
+
+
+],
+"jogosfora":[
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Barcelona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":2
+                       }
+            },
+
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Osasuna",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":2
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Betis",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Bilbao",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Villarreal",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Mallorca",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Valencia",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Espanyol",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":3
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Real Madrid",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Vallecano",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":2
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Almeria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":2
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sevilla",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":2
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Valladolid",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Celta Vigo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":2
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Girona",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":5
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Getafe",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Elche",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Cadiz",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sociedad",
+            "placar":1
+                       }
+            }
+     
+     
+
+
+]
 },
 
 {
