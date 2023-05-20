@@ -37,6 +37,211 @@
          "nome": "Atlético de Madrid",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 5
+                       },
+            "visitante":{
+            "nomeList": "Cadiz",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Mallorca",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Almeria",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Betis",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Valencia",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 6
+                       },
+            "visitante":{
+            "nomeList": "Sevilla",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bilbao",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Getafe",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Valladolid",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Barcelona",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Elche",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Espanyol",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Vallecano",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Girona",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Real Madrid",
+            "placar":2
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Celta Vigo",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Atletico",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Villarreal",
+            "placar":2
+                       }
+            }
+     
       
   
   
@@ -44,7 +249,217 @@
 
 
 ],
-"jogosfora":[]
+"jogosfora":[
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Elche",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Valladolid",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":5
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Barcelona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Vallecano",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":2
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Girona",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Real Madrid",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Celta Vigo",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Osasuna",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Almeria",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Mallorca",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":0
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Cadiz",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":2
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Betis",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":2
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Bilbao",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sevilla",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":2
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Valencia",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":1
+                       }
+            },
+     
+     {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Getafe",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":3
+                       }
+            }
+     
+
+
+
+]
 },
 
 {
