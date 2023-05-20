@@ -642,6 +642,18 @@
             "placar":2
                        }
             },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Real Madrid",
+            "placar": 2
+                             },
+            "visitante":{
+            "nomeList": "Celta Vigo",
+            "placar":0
+                             }
+            },
      
      {
             "rodada": 2,
