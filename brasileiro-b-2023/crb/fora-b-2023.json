@@ -1,1 +1,57 @@
+[
 
+
+
+
+    {
+        "descricao": "Brasileiro Série B 2023",
+        "rodada": 2 ,
+        "data": "21.04.22",
+        
+        "mandante": {
+              "nome": "Atlético-GO",
+              "imagem": "https://www.escudosfc.com.br/images/atlego.png",
+        "classificacao": 10 ,
+        "placar": 2
+      },
+        "escanteiosPrimeiroMandante":{
+          "tres": "SIM",
+          "cinco": "SIM",
+          "sete": "NÃO",
+          "nove": "NÃO" },
+        "estatistiticaJogoMandante":{
+          "escanteiosPrimeiroTempo": 5,
+          "escanteiosSegundoTempo": 0,
+          "golsPrimeiroTempo": 2 ,
+          "golsSegundoTempo": 0 },
+          "EstatisticaCartoesMandante":{
+          "cartoesAmarelo":  3,
+          "cartoesVermelho":  1 },
+        "visitante": {
+              "nome": "CRB",
+              "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png",
+        "classificacao": 12,
+        "placar": 1
+        },
+        "escanteiosPrimeiroVisitante": {
+          "tres": "NÃO",
+          "cinco": "NÃO",
+          "sete": "SIM",
+          "nove": "NÃO" },
+        "estatisticaJogoVisitante":{
+          "escanteiosPrimeiroTempo": 4,
+          "escanteiosSegundoTempo": 3,
+          "golsPrimeiroTempo": 0,
+          "golsSegundoTempo": 1 },
+          "EstatisticaCartoesVisitante":{
+          "cartoesAmarelo": 2 ,
+          "cartoesVermelho": 0 }
+      }
+
+
+
+
+
+
+
+]

@@ -1,1 +1,58 @@
+[
 
+
+
+
+
+
+    {
+        "descricao": "Brasileiro Série B 2023",
+        "rodada": 2 ,
+        "data": "22.04.22",
+        
+        "mandante": {
+                "nome": "Ceará",
+                "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png",
+        "classificacao": 18 ,
+        "placar": 0
+      },
+        "escanteiosPrimeiroMandante":{
+          "tres": "SIM",
+          "cinco": "NÃO",
+          "sete": "NÃO",
+          "nove": "NÃO" },
+        "estatistiticaJogoMandante":{
+          "escanteiosPrimeiroTempo": 2,
+          "escanteiosSegundoTempo": 2,
+          "golsPrimeiroTempo": 0 ,
+          "golsSegundoTempo": 0 },
+          "EstatisticaCartoesMandante":{
+          "cartoesAmarelo":  2,
+          "cartoesVermelho":  1 },
+        "visitante": {
+               "nome": "Guarani",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png",
+        "classificacao": 1,
+        "placar": 3
+        },
+        "escanteiosPrimeiroVisitante": {
+          "tres": "NÃO",
+          "cinco": "NÃO",
+          "sete": "NÃO",
+          "nove": "NÃO" },
+        "estatisticaJogoVisitante":{
+          "escanteiosPrimeiroTempo": 2,
+          "escanteiosSegundoTempo": 1,
+          "golsPrimeiroTempo": 2,
+          "golsSegundoTempo": 1},
+          "EstatisticaCartoesVisitante":{
+          "cartoesAmarelo": 3 ,
+          "cartoesVermelho": 0 }
+      }
+
+
+
+
+
+
+]
