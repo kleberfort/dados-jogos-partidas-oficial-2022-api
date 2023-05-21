@@ -1,1 +1,55 @@
+[
 
+
+
+
+    {
+        "descricao": "Brasileiro Série A 2023",
+        "rodada": 2 ,
+        "data": "24.04.22",
+        
+        "mandante": {
+              "nome": "Bahia",
+              "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
+        "classificacao": 13 ,
+        "placar": 1
+      },
+        "escanteiosPrimeiroMandante":{
+          "tres": "SIM",
+          "cinco": "SIM",
+          "sete": "NÃO",
+          "nove": "NÃO" },
+        "estatistiticaJogoMandante":{
+          "escanteiosPrimeiroTempo": 4,
+          "escanteiosSegundoTempo": 2,
+          "golsPrimeiroTempo": 1 ,
+          "golsSegundoTempo": 0 },
+          "EstatisticaCartoesMandante":{
+          "cartoesAmarelo":  1,
+          "cartoesVermelho":  0 },
+        "visitante": {
+                "nome": "Botafogo",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
+        "classificacao": 6,
+        "placar": 2
+        },
+        "escanteiosPrimeiroVisitante": {
+          "tres": "NÃO",
+          "cinco": "NÃO",
+          "sete": "NÃO",
+          "nove": "NÃO" },
+        "estatisticaJogoVisitante":{
+          "escanteiosPrimeiroTempo": 1,
+          "escanteiosSegundoTempo": 2,
+          "golsPrimeiroTempo": 1,
+          "golsSegundoTempo": 1},
+          "EstatisticaCartoesVisitante":{
+          "cartoesAmarelo": 2 ,
+          "cartoesVermelho": 0 }
+      }
+
+
+
+
+
+]

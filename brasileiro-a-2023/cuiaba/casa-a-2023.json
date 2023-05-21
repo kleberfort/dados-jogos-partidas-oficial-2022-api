@@ -1,1 +1,57 @@
+[
 
+
+
+
+
+    {
+        "descricao": "Brasileiro Série A 2023",
+        "rodada": 2 ,
+        "data": "22.04.22",
+        
+        "mandante": {
+          "nome": "Cuiabá",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
+        "classificacao": 16 ,
+        "placar": 1
+      },
+        "escanteiosPrimeiroMandante":{
+          "tres": "SIM",
+          "cinco": "NÃO",
+          "sete": "NÃO",
+          "nove": "NÃO" },
+        "estatistiticaJogoMandante":{
+          "escanteiosPrimeiroTempo": 3,
+          "escanteiosSegundoTempo": 1,
+          "golsPrimeiroTempo": 0 ,
+          "golsSegundoTempo": 1 },
+          "EstatisticaCartoesMandante":{
+          "cartoesAmarelo":  3,
+          "cartoesVermelho":  0 },
+        "visitante": {
+                "nome": "Bragantino",
+                "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
+        "classificacao": 5,
+        "placar": 1
+        },
+        "escanteiosPrimeiroVisitante": {
+          "tres": "NÃO",
+          "cinco": "SIM",
+          "sete": "NÃO",
+          "nove": "NÃO" },
+        "estatisticaJogoVisitante":{
+          "escanteiosPrimeiroTempo": 4,
+          "escanteiosSegundoTempo": 1,
+          "golsPrimeiroTempo": 0,
+          "golsSegundoTempo": 1},
+          "EstatisticaCartoesVisitante":{
+          "cartoesAmarelo": 3 ,
+          "cartoesVermelho": 0 }
+      }
+
+
+
+
+
+
+]

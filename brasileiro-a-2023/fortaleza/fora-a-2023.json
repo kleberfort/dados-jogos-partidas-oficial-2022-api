@@ -1,1 +1,56 @@
+[
 
+
+
+
+    {
+        "descricao": "Brasileiro Série A 2023",
+        "rodada": 2 ,
+        "data": "23.04.22",
+        
+        "mandante": {
+               "nome": "Coritiba",
+               "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png",
+        "classificacao": 19 ,
+        "placar": 0
+      },
+        "escanteiosPrimeiroMandante":{
+          "tres": "SIM",
+          "cinco": "NÃO",
+          "sete": "NÃO",
+          "nove": "NÃO" },
+        "estatistiticaJogoMandante":{
+          "escanteiosPrimeiroTempo": 3,
+          "escanteiosSegundoTempo": 0,
+          "golsPrimeiroTempo": 0 ,
+          "golsSegundoTempo": 0 },
+          "EstatisticaCartoesMandante":{
+          "cartoesAmarelo":  1,
+          "cartoesVermelho":  0 },
+        "visitante": {
+          "nome": "Fortaleza",
+          "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+        "classificacao": 11,
+        "placar": 3
+        },
+        "escanteiosPrimeiroVisitante": {
+          "tres": "NÃO",
+          "cinco": "SIM",
+          "sete": "SIM",
+          "nove": "NÃO" },
+        "estatisticaJogoVisitante":{
+          "escanteiosPrimeiroTempo": 3,
+          "escanteiosSegundoTempo": 4,
+          "golsPrimeiroTempo": 0,
+          "golsSegundoTempo": 3},
+          "EstatisticaCartoesVisitante":{
+          "cartoesAmarelo": 2 ,
+          "cartoesVermelho": 0 }
+      }
+
+
+
+
+
+
+]
