@@ -2,6 +2,51 @@
 
   {
     "descricao": "Brasileiro Série B 2023",
+    "rodada": 7 ,
+    "data": "19.05.22",
+    
+    "mandante": {
+          "nome": "Atlético-GO",
+          "imagem": "https://www.escudosfc.com.br/images/atlego.png",
+    "classificacao": 3 ,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  0,
+      "cartoesVermelho":  0 },
+    "visitante": {
+           "nome": "Avaí",
+           "imagem": "https://www.escudosfc.com.br/images/avai.gif",
+    "classificacao": 14,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2 ,
+      "cartoesVermelho": 0 }
+  },
+
+  {
+    "descricao": "Brasileiro Série B 2023",
     "rodada": 5 ,
     "data": "07.05.22",
     
