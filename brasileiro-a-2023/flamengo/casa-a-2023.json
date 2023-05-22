@@ -2,6 +2,51 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 7 ,
+    "data": "21.05.22",
+    
+    "mandante": {
+      "nome": "Flamengo",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+    "classificacao": 10 ,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  0,
+      "cartoesVermelho":  0 },
+    "visitante": {
+           "nome": "Corinthians",
+            "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
+    "classificacao": 17,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "SIM",
+      "nove": "SIM"},
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2 ,
+      "cartoesVermelho": 0 }
+  },
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 5 ,
     "data": "10.05.22",
     

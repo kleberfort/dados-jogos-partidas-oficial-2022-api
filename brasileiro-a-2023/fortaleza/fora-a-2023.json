@@ -2,6 +2,51 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 7 ,
+    "data": "20.05.22",
+    
+    "mandante": {
+        "nome": "América-MG",
+         "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
+    "classificacao": 20 ,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 2 ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  4,
+      "cartoesVermelho":  0 },
+    "visitante": {
+      "nome": "Fortaleza",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+    "classificacao": 6,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2 ,
+      "cartoesVermelho": 0 }
+  },
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 6 ,
     "data": "14.05.22",
     
