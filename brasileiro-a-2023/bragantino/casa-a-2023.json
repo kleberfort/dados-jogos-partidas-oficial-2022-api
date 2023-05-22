@@ -2,6 +2,51 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 5 ,
+    "data": "10.05.22",
+    
+    "mandante": {
+            "nome": "Bragantino",
+            "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
+    "classificacao": 12 ,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 2 ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  5,
+      "cartoesVermelho":  0 },
+    "visitante": {
+        "nome": "América-MG",
+         "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
+    "classificacao": 20,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3 ,
+      "cartoesVermelho": 0 }
+  },
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 3 ,
     "data": "29.04.22",
     

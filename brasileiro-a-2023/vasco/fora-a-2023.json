@@ -1,5 +1,52 @@
 [
 
+
+  {
+    "descricao": "Brasileiro Série A 2023",
+    "rodada": 5 ,
+    "data": "11.05.22",
+    
+    "mandante": {
+           "nome": "Coritiba",
+           "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png",
+    "classificacao": 19 ,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1 ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0 },
+    "visitante": {
+      "nome": "Vasco",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
+    "classificacao": 11,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1 ,
+      "cartoesVermelho": 0 }
+  },
+
+  
   {
     "descricao": "Brasileiro Série A 2023",
     "rodada": 4 ,
