@@ -4,10 +4,80 @@
             "data" : "15.04.23",
             "mandante":{
             "nomeList": "Palmeiras",
-             "placar": 0
+             "placar": 2
                        },
             "visitante":{
             "nomeList": "Cuiabá",
+            "placar":1
+                       }
+            },
+
+
+{
+            "rodada": 1,
+            "data" : "15.04.23",
+            "mandante":{
+            "nomeList": "América-MG",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Fluminense",
+            "placar":3
+                       }
+            },
+
+
+{
+            "rodada": 1,
+            "data" : "15.04.23",
+            "mandante":{
+            "nomeList": "Fortaleza",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Internacional",
+            "placar":1
+                       }
+            },
+
+
+{
+            "rodada": 1,
+            "data" : "15.04.23",
+            "mandante":{
+            "nomeList": "Bragantino",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bahia",
+            "placar":1
+                       }
+            },
+
+
+{
+            "rodada": 1,
+            "data" : "15.04.23",
+            "mandante":{
+            "nomeList": "Botafogo",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "São Paulo",
+            "placar":1
+                       }
+            },
+
+
+{
+            "rodada": 1,
+            "data" : "15.04.23",
+            "mandante":{
+            "nomeList": "Athlético-PR",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Goias",
             "placar":0
                        }
             },
@@ -17,81 +87,25 @@
             "rodada": 1,
             "data" : "15.04.23",
             "mandante":{
-            "nomeList": "Palmeiras",
-             "placar": 0
+            "nomeList": "Atlético-MG",
+             "placar": 1
                        },
             "visitante":{
-            "nomeList": "Cuiabá",
-            "placar":0
+            "nomeList": "Vasco",
+            "placar":2
                        }
             },
 
 
 {
             "rodada": 1,
-            "data" : "15.04.23",
+            "data" : "16.04.23",
             "mandante":{
-            "nomeList": "Palmeiras",
-             "placar": 0
+            "nomeList": "Flamengo",
+             "placar": 3
                        },
             "visitante":{
-            "nomeList": "Cuiabá",
-            "placar":0
-                       }
-            },
-
-
-{
-            "rodada": 1,
-            "data" : "15.04.23",
-            "mandante":{
-            "nomeList": "Palmeiras",
-             "placar": 0
-                       },
-            "visitante":{
-            "nomeList": "Cuiabá",
-            "placar":0
-                       }
-            },
-
-
-{
-            "rodada": 1,
-            "data" : "15.04.23",
-            "mandante":{
-            "nomeList": "Palmeiras",
-             "placar": 0
-                       },
-            "visitante":{
-            "nomeList": "Cuiabá",
-            "placar":0
-                       }
-            },
-
-
-{
-            "rodada": 1,
-            "data" : "15.04.23",
-            "mandante":{
-            "nomeList": "Palmeiras",
-             "placar": 0
-                       },
-            "visitante":{
-            "nomeList": "Cuiabá",
-            "placar":0
-                       }
-            },
-
-
-{
-            "rodada": 1,
-            "data" : "15.04.23",
-            "mandante":{
-            "nomeList": "Palmeiras",
-             "placar": 0
-                       },
-            "visitante":{
-            "nomeList": "Cuiabá",
+            "nomeList": "Coritiba",
             "placar":0
                        }
             },
@@ -101,12 +115,12 @@
             "rodada": 1,
             "data" : "16.04.23",
             "mandante":{
-            "nomeList": "Palmeiras",
-             "placar": 0
+            "nomeList": "Corinthians",
+             "placar": 2
                        },
             "visitante":{
-            "nomeList": "Cuiabá",
-            "placar":0
+            "nomeList": "Cruzeiro",
+            "placar":1
                        }
             },
 
@@ -115,25 +129,11 @@
             "rodada": 1,
             "data" : "16.04.23",
             "mandante":{
-            "nomeList": "Palmeiras",
-             "placar": 0
+            "nomeList": "Grêmio",
+             "placar": 1
                        },
             "visitante":{
-            "nomeList": "Cuiabá",
-            "placar":0
-                       }
-            },
-
-
-{
-            "rodada": 1,
-            "data" : "16.04.23",
-            "mandante":{
-            "nomeList": "Palmeiras",
-             "placar": 0
-                       },
-            "visitante":{
-            "nomeList": "Cuiabá",
+            "nomeList": "Santos",
             "placar":0
                        }
             }
