@@ -3,12 +3,12 @@
           "rodada": 3,
           "data" : "29.04.23",
           "mandante":{
-          "nomeList": "Fluminense",
-           "placar": 0
+          "nomeList": "Fortaleza",
+           "placar": 4
                      },
           "visitante":{
-          "nomeList": "Athlético-PR",
-          "placar":0
+          "nomeList": "Fluminense",
+          "placar":2
                      }
           },
 
@@ -17,12 +17,26 @@
           "rodada": 3,
           "data" : "29.04.23",
           "mandante":{
+          "nomeList": "Coritiba",
+           "placar": 1
+                     },
+          "visitante":{
           "nomeList": "São Paulo",
-           "placar": 0
+          "placar":1
+                     }
+          },
+
+
+{
+          "rodada": 3,
+          "data" : "29.04.23",
+          "mandante":{
+          "nomeList": "Santos",
+           "placar": 3
                      },
           "visitante":{
           "nomeList": "América-MG",
-          "placar":0
+          "placar":2
                      }
           },
 
@@ -31,96 +45,82 @@
           "rodada": 3,
           "data" : "29.04.23",
           "mandante":{
-          "nomeList": "Cuiabá",
-           "placar": 0
-                     },
-          "visitante":{
-          "nomeList": "Bragantino",
-          "placar":0
-                     }
-          },
-
-
-{
-          "rodada": 3,
-          "data" : "29.04.23",
-          "mandante":{
-          "nomeList": "Cruzeiro",
-           "placar": 0
-                     },
-          "visitante":{
-          "nomeList": "Grêmio",
-          "placar":0
-                     }
-          },
-
-
-{
-          "rodada": 3,
-          "data" : "29.04.23",
-          "mandante":{
-          "nomeList": "Internacional",
-           "placar": 0
-                     },
-          "visitante":{
-          "nomeList": "Flamengo",
-          "placar":0
-                     }
-          },
-
-
-{
-          "rodada": 3,
-          "data" : "29.04.23",
-          "mandante":{
-          "nomeList": "Vasco",
-           "placar": 0
-                     },
-          "visitante":{
           "nomeList": "Palmeiras",
-          "placar":0
-                     }
-          },
-
-
-{
-          "rodada": 3,
-          "data" : "30.04.23",
-          "mandante":{
-          "nomeList": "Santos",
-           "placar": 0
-                     },
-          "visitante":{
-          "nomeList": "Atlético-MG",
-          "placar":0
-                     }
-          },
-
-
-{
-          "rodada": 3,
-          "data" : "30.04.23",
-          "mandante":{
-          "nomeList": "Coritiba",
-           "placar": 0
-                     },
-          "visitante":{
-          "nomeList": "Fortaleza",
-          "placar":0
-                     }
-          },
-
-
-{
-          "rodada": 3,
-          "data" : "30.04.23",
-          "mandante":{
-          "nomeList": "Goias",
-           "placar": 0
+           "placar": 2
                      },
           "visitante":{
           "nomeList": "Corinthians",
+          "placar":1
+                     }
+          },
+
+
+{
+          "rodada": 3,
+          "data" : "29.04.23",
+          "mandante":{
+          "nomeList": "Bragantino",
+           "placar": 0
+                     },
+          "visitante":{
+          "nomeList": "Cruzeiro",
+          "placar":3
+                     }
+          },
+
+
+{
+          "rodada": 3,
+          "data" : "29.04.23",
+          "mandante":{
+          "nomeList": "Atlético-MG",
+           "placar": 2
+                     },
+          "visitante":{
+          "nomeList": "Athlético-PR",
+          "placar":1
+                     }
+          },
+
+
+{
+          "rodada": 3,
+          "data" : "30.04.23",
+          "mandante":{
+          "nomeList": "Flamengo",
+           "placar": 2
+                     },
+          "visitante":{
+          "nomeList": "Botafogo",
+          "placar":3
+                     }
+          },
+
+
+{
+          "rodada": 3,
+          "data" : "30.04.23",
+          "mandante":{
+          "nomeList": "Internacional",
+           "placar": 1
+                     },
+          "visitante":{
+          "nomeList": "Goias",
           "placar":0
+                     }
+          },
+
+
+{
+          "rodada": 3,
+          "data" : "30.04.23",
+          "mandante":{
+          "nomeList": "Cuiabá",
+           "placar": 1
+                     },
+          "visitante":{
+          "nomeList": "Grêmio",
+          "placar":2
                      }
           },
 
@@ -129,12 +129,12 @@
           "rodada": 3,
           "data" : "01.05.23",
           "mandante":{
-          "nomeList": "Bahia",
+          "nomeList": "Vasco",
            "placar": 0
                      },
           "visitante":{
-          "nomeList": "Botafogo",
-          "placar":0
+          "nomeList": "Bahia",
+          "placar":1
                      }
           }
 
