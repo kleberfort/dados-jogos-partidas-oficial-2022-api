@@ -4,7 +4,7 @@
           "data" : "22.04.23",
           "mandante":{
           "nomeList": "Fluminense",
-           "placar": 0
+           "placar": 2
                      },
           "visitante":{
           "nomeList": "Athlético-PR",
@@ -18,7 +18,7 @@
           "data" : "22.04.23",
           "mandante":{
           "nomeList": "São Paulo",
-           "placar": 0
+           "placar": 3
                      },
           "visitante":{
           "nomeList": "América-MG",
@@ -32,11 +32,11 @@
           "data" : "22.04.23",
           "mandante":{
           "nomeList": "Cuiabá",
-           "placar": 0
+           "placar": 1
                      },
           "visitante":{
           "nomeList": "Bragantino",
-          "placar":0
+          "placar":1
                      }
           },
 
@@ -46,7 +46,7 @@
           "data" : "22.04.23",
           "mandante":{
           "nomeList": "Cruzeiro",
-           "placar": 0
+           "placar": 1
                      },
           "visitante":{
           "nomeList": "Grêmio",
@@ -60,11 +60,11 @@
           "data" : "23.04.23",
           "mandante":{
           "nomeList": "Internacional",
-           "placar": 0
+           "placar": 2
                      },
           "visitante":{
           "nomeList": "Flamengo",
-          "placar":0
+          "placar":1
                      }
           },
 
@@ -74,11 +74,11 @@
           "data" : "23.04.23",
           "mandante":{
           "nomeList": "Vasco",
-           "placar": 0
+           "placar": 2
                      },
           "visitante":{
           "nomeList": "Palmeiras",
-          "placar":0
+          "placar":2
                      }
           },
 
@@ -106,7 +106,7 @@
                      },
           "visitante":{
           "nomeList": "Fortaleza",
-          "placar":0
+          "placar":3
                      }
           },
 
@@ -116,11 +116,11 @@
           "data" : "23.04.23",
           "mandante":{
           "nomeList": "Goias",
-           "placar": 0
+           "placar": 3
                      },
           "visitante":{
           "nomeList": "Corinthians",
-          "placar":0
+          "placar":1
                      }
           },
 
@@ -130,11 +130,11 @@
           "data" : "24.04.23",
           "mandante":{
           "nomeList": "Bahia",
-           "placar": 0
+           "placar": 1
                      },
           "visitante":{
           "nomeList": "Botafogo",
-          "placar":0
+          "placar":2
                      }
           }
 
