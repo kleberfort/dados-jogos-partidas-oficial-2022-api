@@ -2,6 +2,51 @@
 
   {
     "descricao": "Brasileiro Série B 2023",
+    "rodada": 8 ,
+    "data": "24.05.23",
+    
+    "mandante": {
+     "nome": "Vitória",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
+    "classificacao": 1 ,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "SIM",
+      "nove": "SIM"},
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 6,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  0,
+      "cartoesVermelho":  0 },
+    "visitante": {
+          "nome": "CRB",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png",
+    "classificacao": 18,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 6 ,
+      "cartoesVermelho": 0 }
+  },
+
+  {
+    "descricao": "Brasileiro Série B 2023",
     "rodada": 6 ,
     "data": "13.05.22",
     
