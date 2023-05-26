@@ -1,4 +1,6 @@
 [
+
+      [
       {
             "rodada": 8,
             "data" : "23.05.23",
@@ -137,6 +139,163 @@
             "placar":0
                        }
             }
+
+
+
+
+],
+
+
+[
+      {
+            "rodada": 7,
+            "data" : "19.05.23",
+            "mandante":{
+            "nomeList": "Tombense",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Londrina",
+            "placar":2
+                       }
+            },
+
+
+{
+            "rodada": 7,
+            "data" : "19.05.23",
+            "mandante":{
+            "nomeList": "Mirassol",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Vitória",
+            "placar":0
+                       }
+            },
+
+
+{
+            "rodada": 7,
+            "data" : "19.05.23",
+            "mandante":{
+            "nomeList": "Atlético-GO",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Avaí",
+            "placar":0
+                       }
+            },
+
+
+{
+            "rodada": 7,
+            "data" : "20.05.23",
+            "mandante":{
+            "nomeList": "Sport",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Botafogo-SP",
+            "placar":0
+                       }
+            },
+
+
+{
+            "rodada": 7,
+            "data" : "20.05.23",
+            "mandante":{
+            "nomeList": "Sampaio Corrêa",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "ABC",
+            "placar":0
+                       }
+            },
+
+
+{
+            "rodada": 7,
+            "data" : "20.05.23",
+            "mandante":{
+            "nomeList": "Ituano",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Novorizontino",
+            "placar":2
+                       }
+            },
+
+
+{
+            "rodada": 7,
+            "data" : "21.05.23",
+            "mandante":{
+            "nomeList": "Chapecoense",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventude",
+            "placar":2
+                       }
+            },
+
+
+{
+            "rodada": 7,
+            "data" : "21.05.23",
+            "mandante":{
+            "nomeList": "Criciuma",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Ceará",
+            "placar":2
+                       }
+            },
+
+
+{
+            "rodada": 7,
+            "data" : "21.05.23",
+            "mandante":{
+            "nomeList": "Ponte Preta",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Guarani-SP",
+            "placar":1
+                       }
+            },
+
+
+{
+            "rodada": 7,
+            "data" : "21.05.23",
+            "mandante":{
+            "nomeList": "CRB",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Vila Nova",
+            "placar":3
+                       }
+            }
+
+
+
+
+]
+
+
+
+
+
+
 
 
 
