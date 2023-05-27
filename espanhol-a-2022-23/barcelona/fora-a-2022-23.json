@@ -1,4 +1,44 @@
 [
+
+  {
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 36,
+    "data": "23.05.23",
+    
+    "mandante": {
+      "nome": "Valladolid",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yvPDWQC1M4G7SIg9_eidgg_96x96.png",
+    "classificacao":17,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":0,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo":1},
+    "visitante": {
+          "nome": "Barcelona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png" ,
+    "classificacao": 1,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
+  },
+
    {
     "descricao": "La Liga A 2022-2023",
     "rodada": 2,

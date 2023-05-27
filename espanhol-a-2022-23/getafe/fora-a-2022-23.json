@@ -1,4 +1,45 @@
 [
+
+  {
+    "descricao": "La Liga A 2022-2023",
+    "rodada": 36,
+    "data": "24.05.23",
+    
+    "mandante": {
+      "nome": "Real Betis",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png",
+    "classificacao":6,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":0},
+    "visitante": {
+            "nome": "Getafe",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png" ,
+    "classificacao": 18,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1}
+  },
+
+  
   {
     "descricao": "La Liga A 2022-2023",
     "rodada": 2,
