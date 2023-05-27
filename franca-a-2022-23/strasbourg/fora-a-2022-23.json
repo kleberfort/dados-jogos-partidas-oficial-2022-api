@@ -1,4 +1,45 @@
 [
+
+  {
+    "descricao": "Ligue 1 2022-2023",
+    "rodada": 36,
+    "data": "21.05.23",
+    
+    "mandante": {
+      "nome": "Troyes",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BUjNnbc4kDTOc5I0IzOQog_96x96.png",
+    "classificacao":19,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo":1},
+    "visitante": {
+      "nome": "Strasbourg",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Eb9xtMpUy8FXQ0RCKvLxcg_96x96.png" ,
+    "classificacao": 14,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0}
+  },
+
+  
   {
     "descricao": "Ligue 1 2022-2023",
     "rodada": 2,
