@@ -2074,6 +2074,18 @@
 "jogoscasa":[
 
         {
+                "rodada": 32,
+                "mandante":{
+                "nomeList": "Brithton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "City",
+                "placar":1
+                           }
+                },
+
+        {
                 "rodada": 37,
                 "mandante":{
                 "nomeList": "Brithton",
@@ -2763,6 +2775,18 @@
 
 ],
 "jogosfora":[
+
+        {
+                "rodada": 32,
+                "mandante":{
+                "nomeList": "United",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Chelsea",
+                "placar":1
+                           }
+                },
 
         {
                 "rodada": 37,
@@ -6182,6 +6206,18 @@
 "jogosfora":[
 
         {
+                "rodada": 32,
+                "mandante":{
+                "nomeList": "Brithton",
+                 "placar": 1
+                           },
+                "visitante":{
+                "nomeList": "City",
+                "placar":1
+                           }
+                },
+
+        {
        "rodada": 2,
        "mandante":{
        "nomeList": "West Ham",
@@ -6409,6 +6445,18 @@
       "nome": "Manchester United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
 "jogoscasa":[
+
+        {
+                "rodada": 32,
+                "mandante":{
+                "nomeList": "United",
+                 "placar": 4
+                           },
+                "visitante":{
+                "nomeList": "Chelsea",
+                "placar":1
+                           }
+                },
 
         {
        "rodada": 2,
