@@ -1,4 +1,44 @@
 [
+
+  {
+    "descricao": "Bundesliga A 2022-2023",
+    "rodada": 33,
+    "data": "20.05.23",
+    
+    "mandante": {
+      "nome": "Schalke 04",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/3CjFxnIvrHJ1-pJq6B5ZQw_96x96.png",
+    "classificacao":16,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":1},
+    "visitante": {
+           "nome": "Frankfurt",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+    "classificacao": 8,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1}
+  },
+
   {
     "descricao": "Bundesliga A 2022-2023",
     "rodada": 2,
