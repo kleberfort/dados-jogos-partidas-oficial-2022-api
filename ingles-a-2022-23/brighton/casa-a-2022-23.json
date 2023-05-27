@@ -2,6 +2,45 @@
 
   {
     "descricao": "Premier League A 2022-2023",
+     "rodada": 32,
+     "data": "24.05.23",
+     
+     "mandante": {
+             "nome": "Brighton",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
+     "classificacao":6,
+     "placar": 1
+   },
+     "escanteiosPrimeiroMandante":{
+       "tres": "SIM",
+       "cinco": "SIM",
+       "sete": "NÃO",
+       "nove": "NÃO" },
+     "estatistiticaJogoMandante":{
+       "escanteiosPrimeiroTempo":3,
+       "escanteiosSegundoTempo": 2,
+       "golsPrimeiroTempo": 1,
+       "golsSegundoTempo":0},
+     "visitante": {
+        "nome": "City",
+       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" ,
+     "classificacao": 1,
+     "placar": 1
+     },
+     "escanteiosPrimeiroVisitante": {
+       "tres": "NÃO",
+       "cinco": "NÃO",
+       "sete": "NÃO",
+       "nove": "NÃO" },
+     "estatisticaJogoVisitante":{
+       "escanteiosPrimeiroTempo": 0,
+       "escanteiosSegundoTempo": 1,
+       "golsPrimeiroTempo": 1,
+       "golsSegundoTempo": 0}
+   },
+
+  {
+    "descricao": "Premier League A 2022-2023",
      "rodada": 37,
      "data": "21.05.23",
      
