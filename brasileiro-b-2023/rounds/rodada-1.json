@@ -1,6 +1,151 @@
 [
 
       [
+            {
+                  "rodada": 9,
+                  "data" : "27.05.23",
+                  "mandante":{
+                  "nomeList": "Ituano",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Londrina",
+                  "placar":1
+                             }
+                  },
+      
+      
+      {
+            "rodada": 9,
+            "data" : "27.05.23",
+                  "mandante":{
+                  "nomeList": "CRB",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Juventude",
+                  "placar":2
+                             }
+                  },
+      
+      
+      {
+            "rodada": 9,
+            "data" : "27.05.23",
+                  "mandante":{
+                  "nomeList": "Avaí",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Vitória",
+                  "placar":1
+                             }
+                  },
+      
+      
+      {
+            "rodada": 9,
+            "data" : "27.05.23",
+                  "mandante":{
+                  "nomeList": "Atlético-GO",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Botafogo-SP",
+                  "placar":1
+                             }
+                  },
+      
+      
+      {
+            "rodada": 9,
+            "data" : "28.05.23",
+                  "mandante":{
+                  "nomeList": "Ponte Preta",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Vila Nova",
+                  "placar":0
+                             }
+                  },
+      
+      
+      {
+            "rodada": 9,
+            "data" : "28.05.23",
+                  "mandante":{
+                  "nomeList": "Ceará",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Novorizontino",
+                  "placar":3
+                             }
+                  },
+      
+      
+      {
+            "rodada": 9,
+            "data" : "28.05.23",
+                  "mandante":{
+                  "nomeList": "Sport",
+                   "placar": 4
+                             },
+                  "visitante":{
+                  "nomeList": "ABC",
+                  "placar":1
+                             }
+                  },
+      
+      
+      {
+            "rodada": 9,
+            "data" : "28.05.23",
+                  "mandante":{
+                  "nomeList": "Tombense",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Guarani-SP",
+                  "placar":1
+                             }
+                  },
+      
+      
+      {
+            "rodada": 9,
+            "data" : "28.05.23",
+                  "mandante":{
+                  "nomeList": "Sampaio Corrêa",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Ponte Preta",
+                  "placar":0
+                             }
+                  },
+      
+      
+      {
+            "rodada": 9,
+            "data" : "29.05.23",
+                  "mandante":{
+                  "nomeList": "Chapecoense",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Sampaio Corrêa",
+                  "placar":1
+                             }
+                  }
+      
+      
+      
+      
+      ],
+
+      [
       {
             "rodada": 8,
             "data" : "23.05.23",
