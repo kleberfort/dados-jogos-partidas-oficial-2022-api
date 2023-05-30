@@ -64,6 +64,19 @@
 "jogosfora":[
 
       {
+            "rodada": 8,
+            "data" : "28.05.23",
+            "mandante":{
+            "nomeList": "Botafogo",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "América-MG",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 5,
             "data" : "10.05.23",
             "mandante":{
@@ -115,6 +128,19 @@
       "nome": "Atlético-PR",
       "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
 "jogoscasa":[
+
+      {
+            "rodada": 8,
+            "data" : "27.05.23",
+            "mandante":{
+            "nomeList": "Athlético-PR",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Grêmio",
+            "placar":2
+                       }
+            },
 
       {
             "rodada": 6,
@@ -221,6 +247,19 @@
       "nome": "Atlético-MG",
       "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
 "jogoscasa":[
+
+      {
+            "rodada": 8,
+            "data" : "28.05.23",
+            "mandante":{
+            "nomeList": "Atlético-MG",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Palmeiras",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 6,
@@ -388,6 +427,19 @@
 "jogosfora":[
 
       {
+            "rodada": 8,
+            "data" : "28.05.23",
+            "mandante":{
+            "nomeList": "Internacional",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bahia",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 5,
             "data" : "10.05.23",
             "mandante":{
@@ -436,6 +488,21 @@
       "nome": "Botafogo",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 8,
+            "data" : "28.05.23",
+            "mandante":{
+            "nomeList": "Botafogo",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "América-MG",
+            "placar":0
+                       }
+            },
+
+
 
       {
             "rodada": 7,
@@ -550,6 +617,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 8,
+            "data" : "28.05.23",
+            "mandante":{
+            "nomeList": "Bragantino",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Santos",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 7,
             "data" : "20.05.23",
             "mandante":{
@@ -654,6 +734,19 @@
       "nome": "Corinthians",
       "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
 "jogoscasa":[
+
+      {
+            "rodada": 8,
+            "data" : "28.05.23",
+            "mandante":{
+            "nomeList": "Corinthians",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fluminense",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 6,
@@ -820,6 +913,19 @@
 "jogosfora":[
 
       {
+            "rodada": 8,
+            "data" : "27.05.23",
+            "mandante":{
+            "nomeList": "Cuiabá",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Coritiba",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 6,
             "data" : "14.05.23",
             "mandante":{
@@ -925,6 +1031,19 @@
 "jogosfora":[
 
       {
+            "rodada": 8,
+            "data" : "27.05.23",
+            "mandante":{
+            "nomeList": "Flamengo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cruzeiro",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 6,
             "data" : "14.05.23",
             "mandante":{
@@ -973,6 +1092,19 @@
       "nome": "Cuiabá",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 8,
+            "data" : "27.05.23",
+            "mandante":{
+            "nomeList": "Cuiabá",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Coritiba",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 5,
@@ -1078,6 +1210,19 @@
       "nome": "Flamengo",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
 "jogoscasa":[
+
+      {
+            "rodada": 8,
+            "data" : "27.05.23",
+            "mandante":{
+            "nomeList": "Flamengo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cruzeiro",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -1234,6 +1379,19 @@
 "jogosfora":[
 
       {
+            "rodada": 8,
+            "data" : "28.05.23",
+            "mandante":{
+            "nomeList": "Corinthians",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fluminense",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 7,
             "data" : "20.05.23",
             "mandante":{
@@ -1297,6 +1455,19 @@
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
 "jogoscasa":[
+
+      {
+            "rodada": 8,
+            "data" : "27.05.23",
+            "mandante":{
+            "nomeList": "Fortaleza",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Vasco",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 5,
@@ -1458,6 +1629,19 @@
 "jogosfora":[
 
       {
+            "rodada": 8,
+            "data" : "27.05.23",
+            "mandante":{
+            "nomeList": "São Paulo",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Goias",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 7,
             "data" : "20.05.23",
             "mandante":{
@@ -1584,6 +1768,19 @@
 "jogosfora":[
 
       {
+            "rodada": 8,
+            "data" : "27.05.23",
+            "mandante":{
+            "nomeList": "Athlético-PR",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Grêmio",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 5,
             "data" : "10.05.23",
             "mandante":{
@@ -1634,6 +1831,19 @@
       "nome": "Internacional",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 8,
+            "data" : "28.05.23",
+            "mandante":{
+            "nomeList": "Internacional",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bahia",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 5,
@@ -1798,6 +2008,19 @@
 "jogosfora":[
 
       {
+            "rodada": 8,
+            "data" : "28.05.23",
+            "mandante":{
+            "nomeList": "Atlético-MG",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Palmeiras",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 7,
             "data" : "20.05.23",
             "mandante":{
@@ -1903,6 +2126,19 @@
 "jogosfora":[
 
       {
+            "rodada": 8,
+            "data" : "28.05.23",
+            "mandante":{
+            "nomeList": "Bragantino",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Santos",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 6,
             "data" : "14.05.23",
             "mandante":{
@@ -1949,6 +2185,19 @@
       "nome": "São-Paulo",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 8,
+            "data" : "27.05.23",
+            "mandante":{
+            "nomeList": "São Paulo",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Goias",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 7,
@@ -2097,6 +2346,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 8,
+            "data" : "27.05.23",
+            "mandante":{
+            "nomeList": "Fortaleza",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Vasco",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 7,
