@@ -1,4 +1,45 @@
 [
+
+  {
+    "descricao": "Bundesliga A 2022-2023",
+    "rodada": 34,
+    "data": "27.05.23",
+    
+    "mandante": {
+      "nome": "Wolfsburg",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png" ,
+    "classificacao":7,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo":3,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo":0},
+    "visitante": {
+            "nome": "Hertha Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/PQMb_rQTIwV-OOhkwHN3qA_96x96.png",
+    "classificacao": 18,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 2}
+  },
+
+  
   {
     "descricao": "Premier League A 2022-2023",
     "rodada": 1,
