@@ -1997,7 +1997,7 @@
             },
 
       {
-            "rodada": 0,
+            "rodada": 5,
             "mandante":{
             "nomeList": "Ponte Preta",
              "placar": 0
@@ -2009,7 +2009,7 @@
             },
 
       {
-            "rodada": 0,
+            "rodada": 4,
             "mandante":{
             "nomeList": "Ponte Preta",
              "placar": 2
@@ -2022,7 +2022,7 @@
 
 
       {
-            "rodada": 0,
+            "rodada": 2,
             "mandante":{
             "nomeList": "Ponte Preta",
              "placar": 1
@@ -2059,18 +2059,7 @@
                        }
             },
 
-      {
-            "rodada": 9,
-            "data" : "28.05.23",
-                  "mandante":{
-                  "nomeList": "Sampaio Corrêa",
-                   "placar": 0
-                             },
-                  "visitante":{
-                  "nomeList": "Ponte Preta",
-                  "placar":0
-                             }
-                  },
+      
 
       {
             "rodada": 8,
@@ -2086,7 +2075,7 @@
             },
 
       {
-            "rodada": 0,
+            "rodada": 6,
             "mandante":{
             "nomeList": "Londrina",
              "placar": 3
@@ -2098,7 +2087,7 @@
             },
 
       {
-            "rodada": 0,
+            "rodada": 3,
             "mandante":{
             "nomeList": "Chapecoense",
              "placar": 1
@@ -2110,7 +2099,7 @@
             },
 
       {
-            "rodada": 0,
+            "rodada": 1,
             "mandante":{
             "nomeList": "Vitoria",
              "placar": 3
