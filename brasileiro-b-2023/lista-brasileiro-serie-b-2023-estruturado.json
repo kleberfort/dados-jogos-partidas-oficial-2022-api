@@ -1336,6 +1336,20 @@
 "jogosfora":[
 
       {
+            "rodada": 10,
+            "data" : "02.06.23",
+            "mandante":{
+            "nomeList": "Vitória",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Ituano",
+            "placar":0
+                       }
+            },
+
+
+      {
             "rodada": 8,
             "data" : "24.05.23",
             "mandante":{
@@ -2648,6 +2662,19 @@
      "nome": "Vitória",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 10,
+            "data" : "02.06.23",
+            "mandante":{
+            "nomeList": "Vitória",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Ituano",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 8,
