@@ -1414,6 +1414,19 @@
 "jogosfora":[
 
       {
+            "rodada": 9,
+            "data" : "05.06.23",
+            "mandante":{
+            "nomeList": "Vasco",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Flamengo",
+            "placar":4
+                       }
+            },
+
+      {
             "rodada": 6,
             "data" : "13.05.23",
             "mandante":{
@@ -2539,6 +2552,19 @@
       "nome": "Vasco",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 9,
+            "data" : "05.06.23",
+            "mandante":{
+            "nomeList": "Vasco",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Flamengo",
+            "placar":4
+                       }
+            },
 
       {
             "rodada": 6,
