@@ -4279,8 +4279,424 @@
 {
            "nome": "Hoffenheim",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
+"jogoscasa":[
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 4
+                        },
+            "visitante":{
+           "nomeList": "Union Berlin",
+           "placar": 2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 3
+                        },
+            "visitante":{
+           "nomeList": "Franfurt",
+           "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Koln",
+           "placar": 3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 2
+                        },
+            "visitante":{
+           "nomeList": "Schalke",
+           "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 3
+                        },
+            "visitante":{
+           "nomeList": "Hertha",
+           "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 0
+                        },
+            "visitante":{
+           "nomeList": "Dortmund",
+           "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Leverkusen",
+           "placar": 3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Monchengladbach",
+           "placar": 4
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 2
+                        },
+            "visitante":{
+           "nomeList": "Stuttgart",
+           "placar": 2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Wolfsburg",
+           "placar": 2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Leipzig",
+           "placar": 3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 0
+                        },
+            "visitante":{
+           "nomeList": "Bayer",
+           "placar": 2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Werder Bremen",
+           "placar": 2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 0
+                        },
+            "visitante":{
+           "nomeList": "Freiburg",
+           "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 4
+                        },
+            "visitante":{
+           "nomeList": "Mainz",
+           "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Augsburg",
+           "placar": 0
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hoffenheim",
+            "placar": 3
+                        },
+            "visitante":{
+           "nomeList": "Bochum",
+           "placar": 2
+                       }
+            }
+
+
+],
+"jogosfora":[
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Stuttgart",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Wolfsburg",
+            "placar": 2
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Leipzig",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Bayer",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Werder Bremen",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Freiburg",
+            "placar": 2
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Mainz",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Augsburg",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Bochum",
+            "placar": 5
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Union Berlin",
+            "placar": 3
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Franfurt",
+            "placar": 4
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Koln",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Schalke",
+            "placar": 0
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Hertha",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Dortmund",
+            "placar": 1
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Leverkusen",
+            "placar": 0
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 3
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monchengladbach",
+            "placar": 3
+                        },
+            "visitante":{
+           "nomeList": "Hoffenheim",
+           "placar": 1
+                       }
+            }
+
+
+]
 },
 
 {
