@@ -1085,6 +1085,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 11,
+            "data" : "08.06.23",
+            "mandante":{
+            "nomeList": "Criciuma",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventude",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 10,
             "data" : "02.06.23",
             "mandante":{
@@ -1605,6 +1618,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 11,
+            "data" : "08.06.23",
+            "mandante":{
+            "nomeList": "Criciuma",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventude",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 9,
