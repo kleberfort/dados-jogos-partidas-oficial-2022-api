@@ -481,18 +481,706 @@
          "nome": "Bologna",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":1
+                       }
+            }
   
       
                 
 
 ],
-"jogosfora":[]
+"jogosfora":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":5
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Atalanta",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 6
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Napoli",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":1
+                       }
+            }
+
+
+]
 },
 
 {
           "nome": "Cremonese",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DE7-gNIPSRkzKx4FKSwxOw_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":5
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":4
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":4
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":2
+                       }
+            }
       
   
   
@@ -500,20 +1188,984 @@
 
 
 ],
-"jogosfora":[]
+"jogosfora":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":3
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Napoli",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Atalanta",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":0
+                       }
+            },
+
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            }
+
+
+]
 },
 
 {
           "nome": "Empoli",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
-"jogoscasa":[],
-"jogosfora":[]
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":0
+                       }
+            }
+
+
+],
+"jogosfora":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Cremonese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Atalanta",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":2
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Napoli",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bologna",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":2
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":0
+                       }
+            }
+
+
+
+]
 },
 
 {
            "nome": "Fiorentina",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 5
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":4
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":4
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":0
+                       }
+            },
+
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            }
+
 
         
         
@@ -540,7 +2192,240 @@
 {
             "nome": "Hellas Verona",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":6
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":5
+                       }
+            }
+
+
+
+],
 "jogosfora":[]
 },
 
@@ -548,34 +2433,1199 @@
 {
             "nome": "Inter Milan",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 6
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":1
+                       }
+            },
+
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":0
+                       }
+            }
+
+
+],
 "jogosfora":[]
 },
 
 {
             "nome": "Juventus",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Lv6xmBlUIpN3GAFhtf6nqQ_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":0
+                       }
+            }
+
+
+],
 "jogosfora":[]
 },
 
 {
            "nome": "Lazio",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":1
+                       }
+            }
+
+
+],
 "jogosfora":[]
 },
 
 {
            "nome": "Lecce",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Lecce",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":2
+                       }
+            }
+
+
+
+],
 "jogosfora":[]
 },
 {
            "nome": "Milan",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VoKsJ6RitaHGhsM62e6AXQ_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 5
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":5
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":2
+                       }
+            }
+
+
+
+],
 "jogosfora":[]
 },
 
@@ -584,8 +3634,235 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png",
 "jogoscasa":[
 
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":2
+                       }
+            },
+
         
        
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":2
+                       }
+            }
 
 
 
@@ -628,6 +3905,236 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png",
 "jogoscasa":[
 
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":4
+                       }
+            },
+      
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Roma",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":0
+                       }
+            }
+
         
 
 
@@ -647,7 +4154,234 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/E5wkv8G7RBA2I0VsSq7Y1A_96x96.png",
 "jogoscasa":[
 
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":0
+                       }
+            },
+
       
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Salernitana",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":1
+                       }
+            }
         
         
         
@@ -671,35 +4405,1197 @@
 {
       "nome": "Sampdoria",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/E8bC8MBR8FwSP3ONEhMxjw_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":3
+                       }
+            },
+      
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sampdoria",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":2
+                       }
+            }
+
+
+],
 "jogosfora":[]
 },
 
 {
       "nome": "Sassuolo",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 5
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sassuolo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":0
+                       }
+            }
+
+
+],
 "jogosfora":[]
 },
 
 {
       "nome": "Spezia",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UzdHN3YGjZDZGfSMQuZrYw_96x96.png"            ,
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":4
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":2
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Spezia",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":0
+                       }
+            }
+
+
+],
 "jogosfora":[]
 },
 
 {
       "nome": "Torino",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":4
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Torino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+            {
+                  "rodada": 3,
+                  "mandante":{
+                  "nomeList": "Torino",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Sassuolo",
+                  "placar":1
+                             }
+                  },
+
+                  {
+                        "rodada": 3,
+                        "mandante":{
+                        "nomeList": "Torino",
+                         "placar": 1
+                                   },
+                        "visitante":{
+                        "nomeList": "Lecce",
+                        "placar":0
+                                   }
+                        },
+
+                        {
+                              "rodada": 3,
+                              "mandante":{
+                              "nomeList": "Torino",
+                               "placar": 0
+                                         },
+                              "visitante":{
+                              "nomeList": "Lazio",
+                              "placar":0
+                                         }
+                              }
+
+
+],
 "jogosfora":[]
 }, 
 
 {
      "nome": "Udinese",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lazio",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sampdoria",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Napoli",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 33
+                       },
+            "visitante":{
+            "nomeList": "Cremonese",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Spezia",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Verona",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Empoli",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Udinese",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":0
+                       }
+            }
+
+
+
+],
 "jogosfora":[]
 }
 
