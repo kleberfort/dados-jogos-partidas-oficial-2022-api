@@ -5,6 +5,21 @@
 "jogoscasa":[
 
       {
+            "rodada": 12,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "ABC",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Chapecoense",
+            "placar":1
+                       }
+            },
+
+
+
+      {
             "rodada": 10,
             "data" : "03.06.23",
             "mandante":{
@@ -1012,6 +1027,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 12,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "ABC",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Chapecoense",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 10,
