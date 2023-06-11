@@ -5,6 +5,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 12,
+            "data" : "11.06.23",
+            "mandante":{
+            "nomeList": "América-MG",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Athlético-PR",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 9,
             "data" : "03.06.23",
             "mandante":{
@@ -212,6 +225,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 12,
+            "data" : "11.06.23",
+            "mandante":{
+            "nomeList": "América-MG",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Athlético-PR",
+            "placar":2
+                       }
+            },
 
       {
             "rodada": 7,
@@ -2147,6 +2173,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "Internacional",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Vasco",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 8,
             "data" : "28.05.23",
             "mandante":{
@@ -2346,6 +2385,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "São Paulo",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Palmeiras",
+            "placar":2
+                       }
+            },
 
       {
             "rodada": 8,
@@ -2553,6 +2605,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "São Paulo",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Palmeiras",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 8,
             "data" : "27.05.23",
             "mandante":{
@@ -2738,6 +2803,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "Internacional",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Vasco",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 8,
