@@ -275,6 +275,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "Atlético-MG",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bragantino",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 8,
             "data" : "28.05.23",
             "mandante":{
@@ -409,6 +422,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "Bahia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cruzeiro",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 7,
             "data" : "20.05.23",
             "mandante":{
@@ -541,6 +567,19 @@
       "nome": "Botafogo",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "Botafogo",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fortaleza",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 8,
@@ -752,6 +791,19 @@
 "jogosfora":[
 
       {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "Atlético-MG",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bragantino",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 9,
             "data" : "04.06.23",
             "mandante":{
@@ -813,6 +865,19 @@
       "nome": "Corinthians",
       "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
 "jogoscasa":[
+
+      {
+            "rodada": 10,
+            "data" : "06.06.23",
+            "mandante":{
+            "nomeList": "Corinthians",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cuiabá",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 8,
@@ -947,6 +1012,19 @@
       "nome": "Coritiba",
       "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png",
 "jogoscasa":[
+
+      {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "Coritiba",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Santos",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 7,
@@ -1149,6 +1227,19 @@
 "jogosfora":[
 
       {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "Bahia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Cruzeiro",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 8,
             "data" : "27.05.23",
             "mandante":{
@@ -1266,6 +1357,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 10,
+            "data" : "06.06.23",
+            "mandante":{
+            "nomeList": "Corinthians",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cuiabá",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 9,
@@ -1686,6 +1790,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "Botafogo",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fortaleza",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 7,
@@ -2360,6 +2477,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 10,
+            "data" : "10.06.23",
+            "mandante":{
+            "nomeList": "Coritiba",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Santos",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 8,
