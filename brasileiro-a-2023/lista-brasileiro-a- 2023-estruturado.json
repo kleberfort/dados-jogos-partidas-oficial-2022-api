@@ -1473,6 +1473,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 10,
+            "data" : "11.06.23",
+            "mandante":{
+            "nomeList": "Flamengo",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Grêmio",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 8,
             "data" : "27.05.23",
             "mandante":{
@@ -1664,6 +1677,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 10,
+            "data" : "11.06.23",
+            "mandante":{
+            "nomeList": "Goias",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fluminense",
+            "placar":2
+                       }
+            },
 
       {
             "rodada": 8,
@@ -1896,6 +1922,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 10,
+            "data" : "11.06.23",
+            "mandante":{
+            "nomeList": "Goias",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fluminense",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 9,
             "data" : "04.06.23",
             "mandante":{
@@ -2106,6 +2145,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 10,
+            "data" : "11.06.23",
+            "mandante":{
+            "nomeList": "Flamengo",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Grêmio",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 8,
