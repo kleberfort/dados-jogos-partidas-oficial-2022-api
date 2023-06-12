@@ -1278,6 +1278,19 @@
 "jogosfora":[
 
       {
+            "rodada": 12,
+            "data" : "11.06.23",
+            "mandante":{
+            "nomeList": "Vitória",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Criciuma",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 9,
             "data" : "28.05.23",
             "mandante":{
@@ -1668,6 +1681,19 @@
       "nome": "Juventude",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 12,
+            "data" : "11.06.23",
+            "mandante":{
+            "nomeList": "Juventude",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Tombense",
+            "placar":2
+                       }
+            },
 
       {
             "rodada": 10,
@@ -2904,6 +2930,19 @@
 "jogosfora":[
 
       {
+            "rodada": 12,
+            "data" : "11.06.23",
+            "mandante":{
+            "nomeList": "Juventude",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Tombense",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 10,
             "data" : "02.06.23",
             "mandante":{
@@ -3126,6 +3165,19 @@
      "nome": "Vitória",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 12,
+            "data" : "11.06.23",
+            "mandante":{
+            "nomeList": "Vitória",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Criciuma",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 10,
