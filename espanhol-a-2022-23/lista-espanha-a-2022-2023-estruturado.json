@@ -3,6 +3,234 @@
         "nome": "Almería",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
 "jogoscasa":[
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Valladolid",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 3
+                         },
+              "visitante":{
+              "nomeList": "Mallorca",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Elche",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Valencia",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Cadiz",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Villarreal",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Barcelona",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Betis",
+              "placar":3
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 3
+                         },
+              "visitante":{
+              "nomeList": "Espanyol",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Atletico",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Sociedad",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Getafe",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 3
+                         },
+              "visitante":{
+              "nomeList": "Celta Vigo",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 3
+                         },
+              "visitante":{
+              "nomeList": "Girona",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 3
+                         },
+              "visitante":{
+              "nomeList": "Vallecano",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Osasuna",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Sevilla",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Real Madrid",
+              "placar":2
+                         }
+              }
         
 
 
@@ -12,6 +240,234 @@
             ],
 "jogosfora":[
 
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Espanyol",
+               "placar": 3
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":3
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Sociedad",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Osasuna",
+               "placar": 3
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Real Madrid",
+               "placar": 4
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Getafe",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Atletico",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Celta Vigo",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Sevilla",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Girona",
+               "placar": 6
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Vallecano",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Valencia",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Cadiz",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Barcelona",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Villarreal",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Betis",
+               "placar": 3
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 4
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":0
+                         }
+              },
+
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Mallorca",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Valladolid",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Elche",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":1
+                         }
+              }
                
 
 
@@ -25,12 +481,471 @@
          "nome": "Athletic Bilbao",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OSL_5Zm6kYPP1J17Bo5uDA_96x96.png",
 "jogoscasa":[
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Elche",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Celta Vigo",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Betis",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Sevilla",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Sociedad",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Getafe",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Barcelona",
+              "placar":1
+                         }
+              },
   
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Girona",
+              "placar":3
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 4
+                         },
+              "visitante":{
+              "nomeList": "Cadiz",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Real Madrid",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Osasuna",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 3
+                         },
+              "visitante":{
+              "nomeList": "Valladolid",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Villarreal",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Atletico",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 4
+                         },
+              "visitante":{
+              "nomeList": "Almeria",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 3
+                         },
+              "visitante":{
+              "nomeList": "Vallecano",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Espanyol",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Valencia",
+              "placar":0
+                         }
+              },
       
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Bilbao",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Mallorca",
+              "placar":0
+                         }
+              }
+
                 
 
 ],
-"jogosfora":[]
+"jogosfora":[
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Real Madrid",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Osasuna",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Villarreal",
+               "placar": 5
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Mallorca",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Almeria",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Espanyol",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Valladolid",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":3
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Vallecano",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Atletico",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Valencia",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Celta Vigo",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Sociedad",
+               "placar": 3
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Betis",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Girona",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":1
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Barcelona",
+               "placar": 4
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":0
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Getafe",
+               "placar": 2
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":2
+                         }
+              },
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Sevilla",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":1
+                         }
+              },
+
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Elche",
+               "placar": 1
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":4
+                         }
+              },
+
+
+       {
+              "rodada": 2,
+              "mandante":{
+              "nomeList": "Cadiz",
+               "placar": 0
+                         },
+              "visitante":{
+              "nomeList": "Bilbao",
+              "placar":4
+                         }
+              }
+
+]
 },
 
 {
