@@ -1482,35 +1482,1203 @@
 {
             "nome": "Lille",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/D2AQe8qoyPIP4K8MzLvwuA_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Nantes",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Marseile",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Ajaccio",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Montpellier",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Lorient",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Lyon",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Brest",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Strasbourg",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Clermont",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 5
+                       },
+            "visitante":{
+            "nomeList": "Troyes",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Reims",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Angers",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Rennes",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Monaco",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lens",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Toulouse",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Nice",
+            "placar":2
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "PSG",
+            "placar":7
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lille",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Auxerre",
+            "placar":1
+                       }
+            }
+
+
+],
 "jogosfora":[]
 },
 
 {
             "nome": "Lorient",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bbYkAWWtD6lpK5KyGfr1vA_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Strasbourg",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lens",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Brest",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Toulouse",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Marseile",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Troyes",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Auxerre",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Ajaccio",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Angers",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Rennes",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Monaco",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Montpellier",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "PSG",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Nice",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Reims",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lille",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Nantes",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Lyon",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lorient",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Clermont",
+            "placar":1
+                       }
+            }
+
+
+
+],
 "jogosfora":[]
 },
 
 {
             "nome": "Lyon",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Reims",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Monaco",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 5
+                       },
+            "visitante":{
+            "nomeList": "Montpellier",
+            "placar":4
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Marseile",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Rennes",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Nantes",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lorient",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lens",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Brest",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Strasbourg",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Clermont",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Nice",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lille",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Toulouse",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "PSG",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 5
+                       },
+            "visitante":{
+            "nomeList": "Angers",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Auxerre",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Troyes",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Ajaccio",
+            "placar":1
+                       }
+            }
+
+
+],
 "jogosfora":[]
 },
   
   {
             "nome": "Marseille",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Brest",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Angers",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Auxerre",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Troyes",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Montpellier",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Strasbourg",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "PSG",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Nice",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monaco",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Lorient",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 6
+                       },
+            "visitante":{
+            "nomeList": "Toulouse",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lyon",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lens",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Ajaccio",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Rennes",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lille",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Clermont",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Nantes",
+            "placar":1
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Marseile",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Reims",
+            "placar":1
+                       }
+            }
+
+
+],
 "jogosfora":[]
 },
 
 {
            "nome": "Monaco",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/RX0XTi5Dtg4joMtuHNmYKg_96x96.png",
-"jogoscasa":[],
+"jogoscasa":[
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Toulouse",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Lille",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Montpellier",
+            "placar":4
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Lorient",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Strasbourg",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Reims",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Nice",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "PSG",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Auxerre",
+            "placar":2
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 7
+                       },
+            "visitante":{
+            "nomeList": "Ajaccio",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Brest",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Marseile",
+            "placar":3
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Angers",
+            "placar":0
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Clermont",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Nantes",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Lyon",
+            "placar":1
+                       }
+            },
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Troyes",
+            "placar":4
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lens",
+            "placar":4
+                       }
+            },
+
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Monaco",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Rennes",
+            "placar":1
+                       }
+            }
+
+],
 "jogosfora":[]
 },
 {
