@@ -2708,6 +2708,20 @@
 "jogoscasa":[
 
       {
+            "rodada": 2,
+            "data" : "18.06.23",
+                  "mandante":{
+                  "nomeList": "Sport",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Vila Nova",
+                  "placar":0
+                             }
+                  },
+
+
+      {
             "rodada": 11,
             "data" : "07.06.23",
                   "mandante":{
@@ -3091,6 +3105,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 2,
+            "data" : "18.06.23",
+                  "mandante":{
+                  "nomeList": "Sport",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Vila Nova",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 11,
