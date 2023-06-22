@@ -677,6 +677,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 13,
+            "data" : "21.06.23",
+                  "mandante":{
+                  "nomeList": "CRB",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Ituano",
+                  "placar":2
+                             }
+                  },
+
+      {
             "rodada": 11,
             "data" : "07.06.23",
                   "mandante":{
@@ -1596,6 +1609,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 13,
+            "data" : "21.06.23",
+                  "mandante":{
+                  "nomeList": "CRB",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Ituano",
+                  "placar":2
+                             }
+                  },
 
       {
             "rodada": 11,
