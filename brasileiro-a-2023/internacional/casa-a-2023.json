@@ -19,7 +19,7 @@
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo": 1,
       "escanteiosSegundoTempo": 6,
-      "golsPrimeiroTempo": 0 ,
+      "golsPrimeiroTempo": 2 ,
       "golsSegundoTempo": 0 },
       "EstatisticaCartoesMandante":{
       "cartoesAmarelo":  2,
@@ -38,7 +38,7 @@
     "estatisticaJogoVisitante":{
       "escanteiosPrimeiroTempo": 3,
       "escanteiosSegundoTempo": 3,
-      "golsPrimeiroTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0},
       "EstatisticaCartoesVisitante":{
       "cartoesAmarelo": 3 ,
