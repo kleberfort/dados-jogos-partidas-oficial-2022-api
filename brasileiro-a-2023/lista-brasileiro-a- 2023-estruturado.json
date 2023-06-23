@@ -90,6 +90,19 @@
 "jogosfora":[
 
       {
+            "rodada": 11,
+            "data" : "22.06.23",
+            "mandante":{
+            "nomeList": "Grêmio",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "América-MG",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 8,
             "data" : "28.05.23",
             "mandante":{
@@ -722,6 +735,19 @@
 "jogosfora":[
 
       {
+            "rodada": 11,
+            "data" : "22.06.23",
+            "mandante":{
+            "nomeList": "Cuiabá",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Botafogo",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 9,
             "data" : "03.06.23",
             "mandante":{
@@ -785,6 +811,20 @@
       "nome": "Bragantino",
       "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 11,
+            "data" : "22.06.23",
+            "mandante":{
+            "nomeList": "Bragantino",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Flamengo",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 8,
@@ -1091,6 +1131,21 @@
       "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png",
 "jogoscasa":[
 
+
+      {
+            "rodada": 11,
+            "data" : "22.06.23",
+            "mandante":{
+            "nomeList": "Coritiba",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Internacional",
+            "placar":1
+                       }
+            },
+
+
       {
             "rodada": 10,
             "data" : "10.06.23",
@@ -1393,6 +1448,20 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
 "jogoscasa":[
 
+
+      {
+            "rodada": 11,
+            "data" : "22.06.23",
+            "mandante":{
+            "nomeList": "Cuiabá",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Botafogo",
+            "placar":1
+                       }
+            },
+
       {
             "rodada": 8,
             "data" : "27.05.23",
@@ -1620,6 +1689,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 11,
+            "data" : "22.06.23",
+            "mandante":{
+            "nomeList": "Bragantino",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Flamengo",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 9,
@@ -2086,6 +2168,19 @@
 "jogosfora":[
 
       {
+            "rodada": 11,
+            "data" : "22.06.23",
+            "mandante":{
+            "nomeList": "Vasco",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Goias",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 8,
             "data" : "27.05.23",
             "mandante":{
@@ -2162,6 +2257,19 @@
       "nome": "Grêmio",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 11,
+            "data" : "22.06.23",
+            "mandante":{
+            "nomeList": "Grêmio",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "América-MG",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 9,
@@ -2383,6 +2491,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 11,
+            "data" : "22.06.23",
+            "mandante":{
+            "nomeList": "Coritiba",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Internacional",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 9,
@@ -2929,6 +3050,20 @@
       "nome": "Vasco",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 11,
+            "data" : "22.06.23",
+            "mandante":{
+            "nomeList": "Vasco",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Goias",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 9,
