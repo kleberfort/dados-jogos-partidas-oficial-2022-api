@@ -1791,6 +1791,19 @@
 "jogosfora":[
 
       {
+            "rodada": 13,
+            "data" : "22.06.23",
+                  "mandante":{
+                  "nomeList": "Sport",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Juventude",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 11,
             "data" : "08.06.23",
             "mandante":{
@@ -2732,6 +2745,19 @@
       "nome": "Sport",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 13,
+            "data" : "22.06.23",
+                  "mandante":{
+                  "nomeList": "Sport",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Juventude",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 2,
