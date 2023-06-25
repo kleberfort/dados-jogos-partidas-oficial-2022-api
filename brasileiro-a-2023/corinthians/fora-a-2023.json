@@ -2,6 +2,51 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 12 ,
+    "data": "24.06.23",
+    
+    "mandante": {
+         "nome": "Atlético-PR",
+         "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
+    "classificacao": 11,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1 ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  4,
+      "cartoesVermelho":  0 },
+    "visitante": {
+           "nome": "Corinthians",
+            "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
+    "classificacao": 15,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2 ,
+      "cartoesVermelho": 0 }
+  },
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 11 ,
     "data": "21.06.23",
     
