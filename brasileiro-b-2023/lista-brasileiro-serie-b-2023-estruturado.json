@@ -88,6 +88,19 @@
 "jogosfora":[
 
       {
+            "rodada": 13,
+            "data" : "25.06.23",
+            "mandante":{
+            "nomeList": "Mirassol",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "ABC",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 11,
             "data" : "06.06.23",
                   "mandante":{
@@ -978,6 +991,19 @@
 "jogosfora":[
 
       {
+            "rodada": 13,
+            "data" : "25.06.23",
+            "mandante":{
+            "nomeList": "Sampaio Corrêa",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Ceara",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 11,
             "data" : "06.06.23",
                   "mandante":{
@@ -1428,6 +1454,19 @@
            "nome": "Guarani",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 13,
+            "data" : "25.06.23",
+            "mandante":{
+            "nomeList": "Guarani-SP",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Vitoria",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 10,
@@ -2139,6 +2178,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 13,
+            "data" : "25.06.23",
+            "mandante":{
+            "nomeList": "Mirassol",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "ABC",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 10,
             "data" : "03.06.23",
             "mandante":{
@@ -2684,6 +2736,19 @@
       "nome": "Sampaio Corrêa",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/G52t9iE9YvNjIKh-8xyHGg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 13,
+            "data" : "25.06.23",
+            "mandante":{
+            "nomeList": "Sampaio Corrêa",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Ceara",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 11,
@@ -3459,6 +3524,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 13,
+            "data" : "25.06.23",
+            "mandante":{
+            "nomeList": "Guarani-SP",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Vitoria",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 11,
