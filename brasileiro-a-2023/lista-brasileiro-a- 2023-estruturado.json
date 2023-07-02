@@ -1039,6 +1039,19 @@
 "jogosfora":[
 
       {
+            "rodada": 13,
+            "data" : "02.07.23",
+            "mandante":{
+            "nomeList": "Corinthians",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Bragantino",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 10,
             "data" : "10.06.23",
             "mandante":{
@@ -1113,6 +1126,19 @@
       "nome": "Corinthians",
       "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
 "jogoscasa":[
+
+      {
+            "rodada": 13,
+            "data" : "02.07.23",
+            "mandante":{
+            "nomeList": "Corinthians",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Bragantino",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 10,
