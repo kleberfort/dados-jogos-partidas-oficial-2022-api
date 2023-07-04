@@ -1398,6 +1398,19 @@
 "jogosfora":[
 
       {
+            "rodada": 13,
+            "data" : "03.07.23",
+            "mandante":{
+            "nomeList": "Goias",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Coritiba",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 12,
             "data" : "25.06.23",
             "mandante":{
@@ -2419,6 +2432,19 @@
       "nome": "Goiás",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 13,
+            "data" : "03.07.23",
+            "mandante":{
+            "nomeList": "Goias",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Coritiba",
+            "placar":2
+                       }
+            },
 
       {
             "rodada": 10,
