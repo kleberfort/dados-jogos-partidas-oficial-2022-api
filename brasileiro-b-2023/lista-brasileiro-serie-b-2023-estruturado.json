@@ -735,6 +735,19 @@
 "jogosfora":[
 
       {
+            "rodada": 14,
+            "data" : "27.06.23",
+            "mandante":{
+            "nomeList": "Novorizontino",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Botafogo-SP",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 12,
             "data" : "11.06.23",
                   "mandante":{
@@ -2688,6 +2701,19 @@
       "nome": "Novorizontino",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 14,
+            "data" : "27.06.23",
+            "mandante":{
+            "nomeList": "Novorizontino",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Botafogo-SP",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 12,
