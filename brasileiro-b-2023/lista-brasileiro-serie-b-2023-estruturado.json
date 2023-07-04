@@ -628,6 +628,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 15,
+            "data" : "03.07.23",
+                  "mandante":{
+                  "nomeList": "Botafogo-SP",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Guarani",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 13,
             "data" : "24.06.23",
             "mandante":{
@@ -1731,6 +1744,19 @@
 "jogosfora":[
 
       {
+            "rodada": 15,
+            "data" : "03.07.23",
+                  "mandante":{
+                  "nomeList": "Botafogo-SP",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Guarani",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 10,
             "data" : "03.06.23",
             "mandante":{
@@ -1921,6 +1947,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 15,
+            "data" : "03.07.23",
+                  "mandante":{
+                  "nomeList": "Mirassol",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Ituano",
+                  "placar":1
+                             }
+                  },
 
       {
             "rodada": 13,
@@ -2438,6 +2477,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 15,
+            "data" : "03.07.23",
+                  "mandante":{
+                  "nomeList": "Mirassol",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Ituano",
+                  "placar":1
+                             }
+                  },
+
+      {
             "rodada": 13,
             "data" : "25.06.23",
             "mandante":{
@@ -2720,6 +2772,19 @@
 "jogosfora":[
 
       {
+            "rodada": 15,
+            "data" : "02.07.23",
+                  "mandante":{
+                  "nomeList": "Ponte Preta",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Novorizontino",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 13,
             "data" : "24.06.23",
                   "mandante":{
@@ -2818,6 +2883,19 @@
       "nome": "Ponte Preta",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0e4mOPeQPUipr9oh54-7NQ_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 15,
+            "data" : "02.07.23",
+                  "mandante":{
+                  "nomeList": "Ponte Preta",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Novorizontino",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 12,
