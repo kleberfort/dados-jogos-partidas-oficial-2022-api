@@ -833,6 +833,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 1,
+            "data" : "05.07.23",
+                  "mandante":{
+                  "nomeList": "CRB",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Sport",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 15,
             "data" : "01.07.23",
                   "mandante":{
@@ -3438,6 +3451,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 1,
+            "data" : "05.07.23",
+                  "mandante":{
+                  "nomeList": "CRB",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Sport",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 14,
