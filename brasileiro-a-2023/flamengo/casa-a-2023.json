@@ -3,6 +3,53 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 16 ,
+    "data": "22.07.23",
+    
+    "mandante": {
+      "nome": "Flamengo",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+    "classificacao": 2 ,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 7,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0 },
+    "visitante": {
+        "nome": "América-MG",
+         "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
+    "classificacao": 20,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 4 ,
+      "cartoesVermelho": 0 }
+  },
+
+
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 13 ,
     "data": "01.07.23",
     
