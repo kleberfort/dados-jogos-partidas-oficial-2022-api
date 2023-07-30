@@ -1,5 +1,51 @@
 [
 
+  {
+    "descricao": "Brasileiro Série B 2023",
+    "rodada": 20 ,
+    "data": "29.07.23",
+    
+    "mandante": {
+           "nome": "Avaí",
+           "imagem": "https://www.escudosfc.com.br/images/avai.gif",
+    "classificacao": 0 ,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 6,
+      "golsPrimeiroTempo": 1 ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0 },
+    "visitante": {
+           "nome": "Guarani",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png",
+    "classificacao": 0,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3 ,
+      "cartoesVermelho": 0 }
+  },
+
+
 
   {
     "descricao": "Brasileiro Série B 2023",
