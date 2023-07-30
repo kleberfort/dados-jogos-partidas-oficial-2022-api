@@ -2,6 +2,52 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 17 ,
+    "data": "29.07.23",
+    
+    "mandante": {
+      "nome": "Fortaleza",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+    "classificacao": 9 ,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0 },
+    "visitante": {
+            "nome": "Bragantino",
+            "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
+    "classificacao": 8,
+    "placar": 3
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 7,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 2},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3 ,
+      "cartoesVermelho": 0 }
+  },
+
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 15,
     "data": "15.07.23",
     

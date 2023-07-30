@@ -3,6 +3,53 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 17 ,
+    "data": "29.07.23",
+    
+    "mandante": {
+          "nome": "Atlético-MG",
+          "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
+    "classificacao": 13 ,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 1 ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  3,
+      "cartoesVermelho":  0 },
+    "visitante": {
+      "nome": "Flamengo",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+    "classificacao": 3,
+    "placar": 2
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 2},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 5 ,
+      "cartoesVermelho": 0 }
+  },
+
+
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 14 ,
     "data": "08.07.23",
     

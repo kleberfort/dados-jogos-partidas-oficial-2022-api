@@ -5,6 +5,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 17,
+            "data" : "30.07.23",
+            "mandante":{
+            "nomeList": "América-MG",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Palmeiras",
+            "placar":4
+                       }
+            },
+
+      {
             "rodada": 12,
             "data" : "25.06.23",
             "mandante":{
@@ -220,6 +233,19 @@
       "nome": "Atlético-PR",
       "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
 "jogoscasa":[
+
+      {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Athlético-PR",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cruzeiro",
+            "placar":3
+                       }
+            },
 
       {
             "rodada": 15,
@@ -443,6 +469,19 @@
       "nome": "Atlético-MG",
       "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
 "jogoscasa":[
+
+      {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Atlético-MG",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Flamengo",
+            "placar":2
+                       }
+            },
 
       {
             "rodada": 14,
@@ -781,6 +820,19 @@
 "jogosfora":[
 
       {
+            "rodada": 17,
+            "data" : "30.07.23",
+            "mandante":{
+            "nomeList": "São Paulo",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Bahia",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 15,
             "data" : "16.07.23",
             "mandante":{
@@ -895,6 +947,19 @@
       "nome": "Botafogo",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 17,
+            "data" : "30.07.23",
+            "mandante":{
+            "nomeList": "Botafogo",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Coritiba",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 15,
@@ -1251,6 +1316,19 @@
 "jogosfora":[
 
       {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Fortaleza",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Bragantino",
+            "placar":3
+                       }
+            },
+
+      {
             "rodada": 15,
             "data" : "15.07.23",
             "mandante":{
@@ -1351,6 +1429,19 @@
       "nome": "Corinthians",
       "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
 "jogoscasa":[
+
+      {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Corinthians",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Vasco",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 13,
@@ -1675,6 +1766,19 @@
 "jogosfora":[
 
       {
+            "rodada": 17,
+            "data" : "30.07.23",
+            "mandante":{
+            "nomeList": "Botafogo",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Coritiba",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 15,
             "data" : "16.07.23",
             "mandante":{
@@ -1910,6 +2014,19 @@
 "jogosfora":[
 
       {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Athlético-PR",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Cruzeiro",
+            "placar":3
+                       }
+            },
+
+      {
             "rodada": 14,
             "data" : "08.07.23",
             "mandante":{
@@ -2121,6 +2238,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Internacional",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cuiabá",
+            "placar":2
+                       }
+            },
 
       {
             "rodada": 15,
@@ -2347,6 +2477,19 @@
 "jogosfora":[
 
       {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Atlético-MG",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Flamengo",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 15,
             "data" : "16.07.23",
             "mandante":{
@@ -2458,6 +2601,19 @@
       "nome": "Fluminense",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Fluminense",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Santos",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 15,
@@ -2689,6 +2845,19 @@
       "nome": "Fortaleza",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
 "jogoscasa":[
+
+      {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Fortaleza",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Bragantino",
+            "placar":3
+                       }
+            },
 
       {
             "rodada": 15,
@@ -3368,6 +3537,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Internacional",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cuiabá",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 15,
             "data" : "16.07.23",
             "mandante":{
@@ -3700,6 +3882,19 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 17,
+            "data" : "30.07.23",
+            "mandante":{
+            "nomeList": "América-MG",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Palmeiras",
+            "placar":4
+                       }
+            },
+
 
       {
             "rodada": 15,
@@ -3938,6 +4133,19 @@
 "jogosfora":[
 
       {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Fluminense",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Santos",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 15,
             "data" : "16.07.23",
             "mandante":{
@@ -4036,6 +4244,19 @@
       "nome": "São-Paulo",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 17,
+            "data" : "30.07.23",
+            "mandante":{
+            "nomeList": "São Paulo",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Bahia",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 15,
@@ -4371,6 +4592,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 17,
+            "data" : "29.07.23",
+            "mandante":{
+            "nomeList": "Corinthians",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Vasco",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 13,
