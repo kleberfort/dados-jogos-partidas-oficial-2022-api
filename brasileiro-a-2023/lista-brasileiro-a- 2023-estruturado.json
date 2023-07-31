@@ -3090,6 +3090,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 17,
+            "data" : "30.07.23",
+            "mandante":{
+            "nomeList": "Goias",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Grêmio",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 15,
             "data" : "17.07.23",
             "mandante":{
@@ -3444,6 +3457,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 17,
+            "data" : "30.07.23",
+            "mandante":{
+            "nomeList": "Goias",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Grêmio",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 13,
