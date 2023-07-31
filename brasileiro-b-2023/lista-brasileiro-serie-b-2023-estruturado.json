@@ -3526,6 +3526,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 20,
+            "data" : "30.07.23",
+                  "mandante":{
+                  "nomeList": "Novorizontino",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Vila Nova",
+                  "placar":1
+                             }
+                  },
+
+      {
             "rodada": 18,
             "data" : "19.07.23",
                   "mandante":{
@@ -3784,6 +3797,19 @@
       "nome": "Ponte Preta",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0e4mOPeQPUipr9oh54-7NQ_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 20,
+            "data" : "30.07.23",
+                  "mandante":{
+                  "nomeList": "Ponte Preta",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Vitoria",
+                  "placar":2
+                             }
+                  },
 
       {
             "rodada": 18,
@@ -4987,6 +5013,19 @@
 "jogosfora":[
 
       {
+            "rodada": 20,
+            "data" : "30.07.23",
+                  "mandante":{
+                  "nomeList": "Novorizontino",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Vila Nova",
+                  "placar":1
+                             }
+                  },
+
+      {
             "rodada": 18,
             "data" : "19.07.23",
                   "mandante":{
@@ -5249,6 +5288,20 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 20,
+            "data" : "30.07.23",
+                  "mandante":{
+                  "nomeList": "Ponte Preta",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Vitoria",
+                  "placar":2
+                             }
+                  },
+
 
       {
             "rodada": 18,
