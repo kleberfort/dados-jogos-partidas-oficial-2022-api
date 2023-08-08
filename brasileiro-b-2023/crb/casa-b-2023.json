@@ -1,5 +1,52 @@
 [
 
+
+  {
+    "descricao": "Brasileiro Série B 2023",
+    "rodada": 22 ,
+    "data": "05.08.23",
+    
+    "mandante": {
+          "nome": "CRB",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png",
+    "classificacao": 12 ,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0 },
+    "visitante": {
+         "nome": "Botafogo-SP",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png",
+    "classificacao": 9,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2 ,
+      "cartoesVermelho": 0 }
+  },
+
+
   {
     "descricao": "Brasileiro Série B 2023",
     "rodada": 21 ,

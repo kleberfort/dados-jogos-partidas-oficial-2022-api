@@ -3,6 +3,53 @@
 
   {
     "descricao": "Brasileiro Série B 2023",
+    "rodada": 22 ,
+    "data": "05.08.23",
+    
+    "mandante": {
+           "nome": "Ituano",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/d_-UoAOHszNZufgbaFSLXQ_96x96.png",
+    "classificacao": 13 ,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  4,
+      "cartoesVermelho":  0 },
+    "visitante": {
+           "nome": "Guarani",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png",
+    "classificacao": 6,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2 ,
+      "cartoesVermelho": 0 }
+  },
+
+
+
+  {
+    "descricao": "Brasileiro Série B 2023",
     "rodada": 21 ,
     "data": "02.08.23",
     
