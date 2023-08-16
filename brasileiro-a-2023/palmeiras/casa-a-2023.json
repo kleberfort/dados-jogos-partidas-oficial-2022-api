@@ -3,6 +3,51 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 19 ,
+    "data": "14.08.23",
+    
+    "mandante": {
+      "nome": "Palmeiras",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
+    "classificacao": 4 ,
+    "placar": 1
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0 },
+    "visitante": {
+           "nome": "Cruzeiro",
+           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png",
+    "classificacao": 11,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3 ,
+      "cartoesVermelho": 0 }
+  },
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 16 ,
     "data": "22.07.23",
     

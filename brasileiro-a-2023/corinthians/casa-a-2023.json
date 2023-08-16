@@ -3,6 +3,51 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 19 ,
+    "data": "13.08.23",
+    
+    "mandante": {
+           "nome": "Corinthians",
+            "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
+    "classificacao": 14 ,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 3 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0 },
+    "visitante": {
+           "nome": "Coritiba",
+           "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png",
+    "classificacao": 18,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2 ,
+      "cartoesVermelho": 0 }
+  },
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 17 ,
     "data": "29.07.23",
     
