@@ -2,6 +2,52 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 20 ,
+    "data": "20.08.23",
+    
+    "mandante": {
+          "nome": "Coritiba",
+           "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png",
+    "classificacao": 18 ,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1 ,
+      "golsSegundoTempo": 1 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  3,
+      "cartoesVermelho":  0 },
+    "visitante": {
+      "nome": "Flamengo",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+    "classificacao": 4,
+    "placar": 3
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 1},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3 ,
+      "cartoesVermelho": 0 }
+  },
+
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 18 ,
     "data": "06.08.23",
     
