@@ -2243,6 +2243,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 25,
+            "data" : "22.08.23",
+                  "mandante":{
+                  "nomeList": "Criciuma",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Vila Nova",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 23,
             "data" : "12.08.23",
                   "mandante":{
@@ -3382,6 +3395,19 @@
 "jogosfora":[
 
       {
+            "rodada": 25,
+            "data" : "22.08.23",
+                  "mandante":{
+                  "nomeList": "Mirassol",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Juventude",
+                  "placar":1
+                             }
+                  },
+
+      {
             "rodada": 23,
             "data" : "13.08.23",
                   "mandante":{
@@ -3878,6 +3904,19 @@
       "nome": "Mirassol",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/eQ05kONtFs6kLBgww3MHsg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 25,
+            "data" : "22.08.23",
+                  "mandante":{
+                  "nomeList": "Mirassol",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Juventude",
+                  "placar":1
+                             }
+                  },
 
       {
             "rodada": 22,
@@ -5998,6 +6037,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 25,
+            "data" : "22.08.23",
+                  "mandante":{
+                  "nomeList": "Criciuma",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Vila Nova",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 22,
