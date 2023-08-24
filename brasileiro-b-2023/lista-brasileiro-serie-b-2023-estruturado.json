@@ -816,6 +816,19 @@
 "jogosfora":[
 
       {
+            "rodada": 17,
+            "data" : "23.08.23",
+                  "mandante":{
+                  "nomeList": "CRB",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Avai",
+                  "placar":1
+                             }
+                  },
+
+      {
             "rodada": 23,
             "data" : "12.08.23",
                   "mandante":{
@@ -966,6 +979,19 @@
          "nome": "Botafogo-SP",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 17,
+            "data" : "23.08.23",
+                  "mandante":{
+                  "nomeList": "Botafogo-SP",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Chapecoense",
+                  "placar":2
+                             }
+                  },
 
       {
             "rodada": 23,
@@ -1277,6 +1303,19 @@
           "nome": "CRB",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 17,
+            "data" : "23.08.23",
+                  "mandante":{
+                  "nomeList": "CRB",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Avai",
+                  "placar":1
+                             }
+                  },
 
       {
             "rodada": 22,
@@ -2089,6 +2128,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 17,
+            "data" : "23.08.23",
+                  "mandante":{
+                  "nomeList": "Botafogo-SP",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Chapecoense",
+                  "placar":2
+                             }
+                  },
 
       {
             "rodada": 24,
