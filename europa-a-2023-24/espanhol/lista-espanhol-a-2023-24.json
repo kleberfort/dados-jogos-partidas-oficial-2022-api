@@ -1,4 +1,9 @@
 [
+
+    {
+            "nome": "Alaves",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/meAnutdPID67rfUecKaoFg_96x96.png"
+    },
     {
         "nome": "Almería",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png"
@@ -23,14 +28,8 @@
            "nome": "Celta de Vigo",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png"
     },
-    {
-            "nome": "Elche",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyyqqxLIYT_lQIXRyMI_RA_96x96.png"
-    },
-    {
-            "nome": "Espanyol",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/TKitIqelDyN6M-kYt4Uc0g_96x96.png"
-    },
+
+    
     {
             "nome": "Getafe",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png"
@@ -39,6 +38,17 @@
            "nome": "Girona",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Tyy5rCdiLCw2_8z04DM-GQ_96x96.png"
     },
+
+    {
+            "nome": "Granada",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_96x96.png"
+    },
+
+    {
+      "nome": "Las Palmas",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yOIfuEFVFzu1dD8HiJt9vA_96x96.png"
+    }, 
+    
     {
            "nome": "Mallorca",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ss21P4CUmigjrEtcoapjVg_96x96.png"
@@ -63,10 +73,7 @@
       "nome": "Real Sociedad",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_96x96.png"
     },
-    {
-      "nome": "Real Valladolid",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yvPDWQC1M4G7SIg9_eidgg_96x96.png"
-    }, 
+
     {
       "nome": "Sevilla",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png"           
