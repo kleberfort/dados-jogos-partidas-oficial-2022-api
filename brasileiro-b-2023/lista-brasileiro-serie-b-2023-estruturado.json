@@ -167,6 +167,19 @@
 "jogosfora":[
 
       {
+            "rodada": 25,
+            "data" : "27.08.23",
+                  "mandante":{
+                  "nomeList": "Botafogo-SP",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "ABC",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 22,
             "data" : "06.08.23",
                   "mandante":{
@@ -328,6 +341,19 @@
           "nome": "Atlético-GO",
           "imagem": "https://www.escudosfc.com.br/images/atlego.png",
 "jogoscasa":[
+
+      {
+            "rodada": 25,
+            "data" : "27.08.23",
+                  "mandante":{
+                  "nomeList": "Atletico-GO",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Vitória",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 22,
@@ -816,6 +842,19 @@
 "jogosfora":[
 
       {
+            "rodada": 25,
+            "data" : "27.08.23",
+                  "mandante":{
+                  "nomeList": "Chapecoense",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Avai",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 17,
             "data" : "23.08.23",
                   "mandante":{
@@ -979,6 +1018,19 @@
          "nome": "Botafogo-SP",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 25,
+            "data" : "27.08.23",
+                  "mandante":{
+                  "nomeList": "Botafogo-SP",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "ABC",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 17,
@@ -1303,6 +1355,20 @@
           "nome": "CRB",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png",
 "jogoscasa":[
+      
+
+      {
+            "rodada": 25,
+            "data" : "26.08.23",
+                  "mandante":{
+                  "nomeList": "CRB",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Novorizontino",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 17,
@@ -1803,6 +1869,19 @@
 "jogosfora":[
 
       {
+            "rodada": 25,
+            "data" : "26.08.23",
+                  "mandante":{
+                  "nomeList": "Tombense",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Ceara",
+                  "placar":2
+                             }
+                  },
+
+      {
             "rodada": 23,
             "data" : "13.08.23",
                   "mandante":{
@@ -1966,6 +2045,19 @@
             "nome": "Chapecoense",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/K7JQUKTRsuXfO9YrD5dq5g_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 25,
+            "data" : "27.08.23",
+                  "mandante":{
+                  "nomeList": "Chapecoense",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Avai",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 23,
@@ -2797,6 +2889,20 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 25,
+            "data" : "26.08.23",
+                  "mandante":{
+                  "nomeList": "Sampaio Correa",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Guarani",
+                  "placar":1
+                             }
+                  },
 
 
       {
@@ -3790,6 +3896,19 @@
 "jogosfora":[
 
       {
+            "rodada": 25,
+            "data" : "25.08.23",
+                  "mandante":{
+                  "nomeList": "Ponte Preta",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Londrina",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 23,
             "data" : "12.08.23",
                   "mandante":{
@@ -4461,6 +4580,19 @@
 "jogosfora":[
 
       {
+            "rodada": 25,
+            "data" : "26.08.23",
+                  "mandante":{
+                  "nomeList": "CRB",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Novorizontino",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 22,
             "data" : "05.08.23",
                   "mandante":{
@@ -4624,6 +4756,19 @@
       "nome": "Ponte Preta",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0e4mOPeQPUipr9oh54-7NQ_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 25,
+            "data" : "25.08.23",
+                  "mandante":{
+                  "nomeList": "Ponte Preta",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Londrina",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 22,
@@ -4961,6 +5106,19 @@
       "nome": "Sampaio Corrêa",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/G52t9iE9YvNjIKh-8xyHGg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 25,
+            "data" : "26.08.23",
+                  "mandante":{
+                  "nomeList": "Sampaio Correa",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Guarani",
+                  "placar":1
+                             }
+                  },
 
       {
             "rodada": 23,
@@ -5609,6 +5767,19 @@
       "nome": "Tombense",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Dmc7KjYXt1no9Ib4AOj0ww_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 25,
+            "data" : "26.08.23",
+                  "mandante":{
+                  "nomeList": "Tombense",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Ceara",
+                  "placar":2
+                             }
+                  },
 
       {
             "rodada": 23,
@@ -6431,6 +6602,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 25,
+            "data" : "27.08.23",
+                  "mandante":{
+                  "nomeList": "Atletico-GO",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Vitória",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 22,
