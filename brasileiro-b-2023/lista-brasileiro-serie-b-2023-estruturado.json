@@ -3229,6 +3229,20 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 25,
+            "data" : "25.08.23",
+                  "mandante":{
+                  "nomeList": "Sport",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Ituano",
+                  "placar":2
+                             }
+                  },
+
       {
             "rodada": 23,
             "data" : "14.08.23",
@@ -5440,6 +5454,22 @@
       "nome": "Sport",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 25,
+            "data" : "25.08.23",
+                  "mandante":{
+                  "nomeList": "Sport",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Ituano",
+                  "placar":2
+                             }
+                  },
+
+
 
       {
             "rodada": 22,
