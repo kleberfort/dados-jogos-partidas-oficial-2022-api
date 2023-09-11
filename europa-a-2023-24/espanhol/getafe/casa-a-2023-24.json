@@ -1,1 +1,57 @@
+[
 
+
+
+    {
+        "descricao": "La Liga A 2023-24",
+       "rodada": 1 ,
+       "data": "13.08.23",
+       
+       "mandante": {
+               "nome": "Getafe",
+               "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png",
+       "classificacao": 1,
+       "placar": 0
+     },
+       "escanteiosPrimeiroMandante":{
+         "tres": "NÃO",
+         "cinco": "NÃO",
+         "sete": "NÃO",
+         "nove": "NÃO" },
+       "estatistiticaJogoMandante":{
+         "escanteiosPrimeiroTempo": 1,
+         "escanteiosSegundoTempo": 2,
+         "golsPrimeiroTempo": 0 ,
+         "golsSegundoTempo": 0 },
+         "EstatisticaCartoesMandante":{
+         "cartoesAmarelo":  6,
+         "cartoesVermelho":  1 },
+       "visitante": {
+             "nome": "Barcelona",
+             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
+       "classificacao": 1,
+       "placar": 0
+       },
+       "escanteiosPrimeiroVisitante": {
+         "tres": "SIM",
+         "cinco": "NÃO",
+         "sete": "NÃO",
+         "nove": "NÃO" },
+       "estatisticaJogoVisitante":{
+         "escanteiosPrimeiroTempo": 3,
+         "escanteiosSegundoTempo": 1,
+         "golsPrimeiroTempo": 0,
+         "golsSegundoTempo": 0},
+         "EstatisticaCartoesVisitante":{
+         "cartoesAmarelo": 2 ,
+         "cartoesVermelho": 1 }
+     }
+
+
+
+
+
+
+
+
+]
