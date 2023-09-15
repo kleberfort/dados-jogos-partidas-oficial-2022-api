@@ -1780,6 +1780,19 @@
             "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png",
 "jogoscasa":[
 
+      {
+            "rodada": 27,
+            "data" : "06.09.23",
+                  "mandante":{
+                  "nomeList": "Ceara",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Londrina",
+                  "placar":1
+                             }
+                  },
+
 
       {
             "rodada": 26,
@@ -2128,6 +2141,20 @@
             "nome": "Chapecoense",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/K7JQUKTRsuXfO9YrD5dq5g_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 27,
+            "data" : "05.09.23",
+                  "mandante":{
+                  "nomeList": "Chapecoense",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Guarani",
+                  "placar":1
+                             }
+                  },
 
       {
             "rodada": 25,
@@ -3012,6 +3039,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 27,
+            "data" : "05.09.23",
+                  "mandante":{
+                  "nomeList": "Chapecoense",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Guarani",
+                  "placar":1
+                             }
+                  },
 
 
       {
@@ -4070,6 +4110,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 27,
+            "data" : "06.09.23",
+                  "mandante":{
+                  "nomeList": "Ceara",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Londrina",
+                  "placar":1
+                             }
+                  },
 
       {
             "rodada": 25,
