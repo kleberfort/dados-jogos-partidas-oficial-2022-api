@@ -5,6 +5,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 27,
+            "data" : "15.09.23",
+                  "mandante":{
+                  "nomeList": "ABC",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Sport",
+                  "placar":1
+                             }
+                  },
+
+      {
             "rodada": 26,
             "data" : "02.09.23",
                   "mandante":{
@@ -554,6 +567,19 @@
 "jogosfora":[
 
       {
+            "rodada": 27,
+            "data" : "16.09.23",
+                  "mandante":{
+                  "nomeList": "Botafogo-SP",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Atletico-GO",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 26,
             "data" : "02.09.23",
                   "mandante":{
@@ -921,6 +947,19 @@
 "jogosfora":[
 
       {
+            "rodada": 27,
+            "data" : "17.09.23",
+                  "mandante":{
+                  "nomeList": "Vitória",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Avai",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 25,
             "data" : "27.08.23",
                   "mandante":{
@@ -1097,6 +1136,19 @@
          "nome": "Botafogo-SP",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 27,
+            "data" : "16.09.23",
+                  "mandante":{
+                  "nomeList": "Botafogo-SP",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Atletico-GO",
+                  "placar":0
+                             }
+                  },
 
 
       {
@@ -1655,6 +1707,19 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 27,
+            "data" : "16.09.23",
+                  "mandante":{
+                  "nomeList": "Juventude",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "CRB",
+                  "placar":1
+                             }
+                  },
+
 
       {
             "rodada": 26,
@@ -2031,6 +2096,19 @@
 "jogosfora":[
 
       {
+            "rodada": 27,
+            "data" : "18.09.23",
+                  "mandante":{
+                  "nomeList": "Novorizontino",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Ceara",
+                  "placar":1
+                             }
+                  },
+
+      {
             "rodada": 25,
             "data" : "26.08.23",
                   "mandante":{
@@ -2398,6 +2476,19 @@
 "jogosfora":[
 
       {
+            "rodada": 27,
+            "data" : "16.09.23",
+                  "mandante":{
+                  "nomeList": "Sampaio Correa",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Chapecoense",
+                  "placar":0
+                             }
+                  },
+
+      {
             "rodada": 26,
             "data" : "31.08.23",
                   "mandante":{
@@ -2574,6 +2665,19 @@
             "nome": "Criciúma",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 27,
+            "data" : "16.09.23",
+                  "mandante":{
+                  "nomeList": "Criciuma",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Mirassol",
+                  "placar":1
+                             }
+                  },
 
       {
             "rodada": 25,
@@ -2946,6 +3050,19 @@
            "nome": "Guarani",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 27,
+            "data" : "17.09.23",
+                  "mandante":{
+                  "nomeList": "Guarani",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Tombense",
+                  "placar":0
+                             }
+                  },
 
 
       {
@@ -3485,6 +3602,19 @@
 "jogosfora":[
 
       {
+            "rodada": 27,
+            "data" : "14.09.23",
+                  "mandante":{
+                  "nomeList": "Londrina",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Ituano",
+                  "placar":2
+                             }
+                  },
+
+      {
             "rodada": 26,
             "data" : "30.08.23",
                   "mandante":{
@@ -3673,6 +3803,19 @@
       "nome": "Juventude",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 27,
+            "data" : "16.09.23",
+                  "mandante":{
+                  "nomeList": "Juventude",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "CRB",
+                  "placar":1
+                             }
+                  },
 
       {
             "rodada": 26,
@@ -4034,6 +4177,19 @@
       "nome": "Londrina",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e7TVDQHlKXSPLpNT58XzBA_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 27,
+            "data" : "14.09.23",
+                  "mandante":{
+                  "nomeList": "Londrina",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Ituano",
+                  "placar":2
+                             }
+                  },
 
       {
             "rodada": 26,
@@ -4599,6 +4755,19 @@
 "jogosfora":[
 
       {
+            "rodada": 27,
+            "data" : "16.09.23",
+                  "mandante":{
+                  "nomeList": "Criciuma",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Mirassol",
+                  "placar":1
+                             }
+                  },
+
+      {
             "rodada": 26,
             "data" : "01.09.23",
                   "mandante":{
@@ -4778,6 +4947,19 @@
       "nome": "Novorizontino",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 27,
+            "data" : "18.09.23",
+                  "mandante":{
+                  "nomeList": "Novorizontino",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Ceara",
+                  "placar":1
+                             }
+                  },
 
       {
             "rodada": 26,
@@ -5337,6 +5519,19 @@
 "jogosfora":[
 
       {
+            "rodada": 27,
+            "data" : "15.09.23",
+                  "mandante":{
+                  "nomeList": "Vila Nova",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Ponte Preta",
+                  "placar":1
+                             }
+                  },
+
+      {
             "rodada": 26,
             "data" : "02.09.23",
                   "mandante":{
@@ -5518,6 +5713,19 @@
       "nome": "Sampaio Corrêa",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/G52t9iE9YvNjIKh-8xyHGg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 27,
+            "data" : "16.09.23",
+                  "mandante":{
+                  "nomeList": "Sampaio Correa",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Chapecoense",
+                  "placar":0
+                             }
+                  },
 
       {
             "rodada": 25,
@@ -6071,6 +6279,19 @@
 "jogosfora":[
 
       {
+            "rodada": 27,
+            "data" : "15.09.23",
+                  "mandante":{
+                  "nomeList": "ABC",
+                   "placar": 0
+                             },
+                  "visitante":{
+                  "nomeList": "Sport",
+                  "placar":1
+                             }
+                  },
+
+      {
             "rodada": 26,
             "data" : "03.09.23",
                   "mandante":{
@@ -6435,6 +6656,19 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 27,
+            "data" : "17.09.23",
+                  "mandante":{
+                  "nomeList": "Guarani",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Tombense",
+                  "placar":0
+                             }
+                  },
+
 
       {
             "rodada": 26,
@@ -6611,6 +6845,19 @@
       "nome": "Vila Nova",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v3upsCABZm2skuxyszzvwg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 27,
+            "data" : "15.09.23",
+                  "mandante":{
+                  "nomeList": "Vila Nova",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Ponte Preta",
+                  "placar":1
+                             }
+                  },
 
 
       {
@@ -6975,6 +7222,19 @@
      "nome": "Vitória",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 27,
+            "data" : "17.09.23",
+                  "mandante":{
+                  "nomeList": "Vitória",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Avai",
+                  "placar":0
+                             }
+                  },
 
 
       {
