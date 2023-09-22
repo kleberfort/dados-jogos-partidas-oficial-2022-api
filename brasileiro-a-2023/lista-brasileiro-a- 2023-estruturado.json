@@ -1902,6 +1902,19 @@
 "jogoscasa":[
 
       {
+            "rodada": 15,
+            "data" : "18.09.23",
+            "mandante":{
+            "nomeList": "Corinthians",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Grêmio",
+            "placar":4
+                       }
+            },
+
+      {
             "rodada": 22,
             "data" : "03.09.23",
             "mandante":{
@@ -4579,6 +4592,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 15,
+            "data" : "18.09.23",
+            "mandante":{
+            "nomeList": "Corinthians",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Grêmio",
+            "placar":4
+                       }
+            },
 
       {
             "rodada": 23,
