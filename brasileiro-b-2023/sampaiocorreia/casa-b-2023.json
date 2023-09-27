@@ -2,6 +2,51 @@
 
   {
     "descricao": "Brasileiro Série B 2023",
+    "rodada": 29 ,
+    "data": "19.09.23",
+    
+    "mandante": {
+      "nome": "Sampaio Corrêa",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/G52t9iE9YvNjIKh-8xyHGg_96x96.png",
+    "classificacao": 15 ,
+    "placar": 2
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1 ,
+      "golsSegundoTempo": 1 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  1,
+      "cartoesVermelho":  0 },
+    "visitante": {
+      "nome": "Vila Nova",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v3upsCABZm2skuxyszzvwg_96x96.png",
+    "classificacao": 7,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3 ,
+      "cartoesVermelho": 0 }
+  },
+
+  {
+    "descricao": "Brasileiro Série B 2023",
     "rodada": 28 ,
     "data": "16.09.23",
     
