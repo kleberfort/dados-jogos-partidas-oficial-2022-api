@@ -4,6 +4,22 @@
       "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
 "jogoscasa":[
 
+
+      {
+            "rodada": 15,
+            "data" : "25.09.23",
+            "mandante":{
+            "nomeList": "América-MG",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Vasco",
+            "placar":1
+                       }
+            },
+
+      
+
       {
             "rodada": 24,
             "data" : "19.09.23",
@@ -6408,6 +6424,19 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 15,
+            "data" : "25.09.23",
+            "mandante":{
+            "nomeList": "América-MG",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Vasco",
+            "placar":1
+                       }
+            },
 
 
       {
