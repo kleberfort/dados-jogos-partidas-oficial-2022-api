@@ -1,0 +1,52 @@
+[
+
+
+    {
+        "descricao": "Premier League A 2023-24",
+        "rodada": 1 ,
+        "data": "11.08.23",
+        
+        "mandante": {
+               "nome": "Burnley",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/teLLSaMXim_8BA1d93sMng_96x96.png",
+        "classificacao": 1 ,
+        "placar": 0
+      },
+        "escanteiosPrimeiroMandante":{
+          "tres": "NÃO",
+          "cinco": "NÃO",
+          "sete": "NÃO",
+          "nove": "NÃO" },
+        "estatistiticaJogoMandante":{
+          "escanteiosPrimeiroTempo": 1 ,
+          "escanteiosSegundoTempo": 5 ,
+          "golsPrimeiroTempo": 0 ,
+          "golsSegundoTempo": 0 },
+          "EstatisticaCartoesMandante":{
+          "cartoesAmarelo":  0,
+          "cartoesVermelho":  1 },
+        "visitante": {
+          "nome": "City",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+        "classificacao": 1 ,
+        "placar": 3
+        },
+        "escanteiosPrimeiroVisitante": {
+          "tres": "SIM",
+          "cinco": "SIM",
+          "sete": "NÃO",
+          "nove": "NÃO" },
+        "estatisticaJogoVisitante":{
+          "escanteiosPrimeiroTempo": 1 ,
+          "escanteiosSegundoTempo": 4 ,
+          "golsPrimeiroTempo": 2 ,
+          "golsSegundoTempo": 1 },
+          "EstatisticaCartoesVisitante":{
+          "cartoesAmarelo": 0 ,
+          "cartoesVermelho": 0 }
+      }
+
+
+
+
+]
