@@ -5,6 +5,19 @@
 "jogoscasa":[
 
 
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Arsenal",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fulham",
+            "placar":2
+                       }
+            },
+
+
 
       {
             "rodada": 1,
@@ -73,6 +86,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Burnley",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "AstonVilla",
+            "placar":3
+                       }
+            },
+
       {
             "rodada": 1,
             "mandante":{
@@ -115,6 +141,18 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bournemouth",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Tottenham",
+            "placar":2
+                       }
+            },
+
 
       {
             "rodada": 2,
@@ -137,6 +175,19 @@
       "nome": "Brentford",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Brentford",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "CrystalPalace",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -179,6 +230,19 @@
       "nome": "Brighton",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Brighton",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "WestHam",
+            "placar":3
+                       }
+            },
 
 
 
@@ -232,6 +296,18 @@
 "jogoscasa":[
 
       {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Burnley",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "AstonVilla",
+            "placar":3
+                       }
+            },
+
+      {
             "rodada": 1,
             "mandante":{
             "nomeList": "Burnley",
@@ -258,6 +334,19 @@
       "nome": "Chelsea",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Chelsea",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Luton",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -321,6 +410,19 @@
 
 
       {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Brentford",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "CrystalPalace",
+            "placar":1
+                       }
+            },
+
+
+      {
             "rodada": 1,
             "mandante":{
             "nomeList": "Sheffield",
@@ -344,6 +446,18 @@
       "nome": "Everton",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Everton",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Wolves",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 1,
@@ -407,6 +521,18 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Arsenal",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fulham",
+            "placar":2
+                       }
+            },
+
 
       {
             "rodada": 1,
@@ -450,6 +576,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Newcastle",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Liverpool",
+            "placar":2
+                       }
+            },
+
       {
             "rodada": 1,
             "mandante":{
@@ -481,6 +620,19 @@
 
 
       {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Chelsea",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Luton",
+            "placar":0
+                       }
+            },
+
+
+      {
             "rodada": 1,
             "mandante":{
             "nomeList": "Brighton",
@@ -491,6 +643,8 @@
             "placar":1
                        }
             }
+
+
 
      
 ]
@@ -526,6 +680,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sheffield",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "City",
+            "placar":2
+                       }
+            },
+
       {
             "rodada": 1,
             "mandante":{
@@ -553,6 +720,19 @@
       "nome": "Manchester United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "United",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Nottingham",
+            "placar":2
+                       }
+            },
 
 
       {
@@ -605,6 +785,19 @@
       "nome": "Newcastle",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Newcastle",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Liverpool",
+            "placar":2
+                       }
+            },
 
   
       {
@@ -674,6 +867,18 @@
 "jogosfora":[
 
       {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "United",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Nottingham",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 1,
             "mandante":{
             "nomeList": "Arsenal",
@@ -694,6 +899,18 @@
       "nome": "Sheffield",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wF8AgQsssfy3_GLyVR3dSg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Sheffield",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "City",
+            "placar":2
+                       }
+            },
 
       {
             "rodada": 1,
@@ -758,6 +975,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Bournemouth",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Tottenham",
+            "placar":2
+                       }
+            },
+
       {
             "rodada": 1,
             "mandante":{
@@ -799,6 +1029,18 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Brighton",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "WestHam",
+            "placar":3
+                       }
+            },
 
       {
             "rodada": 1,
@@ -843,6 +1085,18 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 3,
+            "mandante":{
+            "nomeList": "Everton",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Wolves",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 1,
