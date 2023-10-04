@@ -247,12 +247,12 @@
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo": 0,
+      "escanteiosPrimeiroTempo": 2,
       "escanteiosSegundoTempo": 0,
       "golsPrimeiroTempo": 0 ,
       "golsSegundoTempo": 0 },
       "EstatisticaCartoesMandante":{
-      "cartoesAmarelo":  0,
+      "cartoesAmarelo":  5,
       "cartoesVermelho":  0 },
     "visitante": {
            "nome": "Cruzeiro",
@@ -261,18 +261,18 @@
     "placar": 0
     },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
+      "tres": "SIM",
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 0,
-      "escanteiosSegundoTempo": 0,
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 3,
       "golsPrimeiroTempo": 0,
       "golsSegundoTempo": 0},
       "EstatisticaCartoesVisitante":{
-      "cartoesAmarelo": 0 ,
-      "cartoesVermelho": 0 }
+      "cartoesAmarelo": 4 ,
+      "cartoesVermelho": 1 }
   },
 
 
