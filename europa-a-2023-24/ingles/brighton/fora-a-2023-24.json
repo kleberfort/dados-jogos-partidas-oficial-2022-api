@@ -1,6 +1,53 @@
 [
 
 
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 7 ,
+    "data": "30.09.23",
+    
+    "mandante": {
+         "nome": "Aston Villa",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png"  ,
+    "classificacao": 6  ,
+    "placar": 6
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 0  ,
+      "escanteiosSegundoTempo": 1  ,
+      "golsPrimeiroTempo": 3 ,
+      "golsSegundoTempo": 3 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  4  ,
+      "cartoesVermelho":  0 },
+    "visitante": {
+          "nome": "Brighton",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png"  ,
+    "classificacao": 3  ,
+    "placar": 1
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0  ,
+      "escanteiosSegundoTempo": 3  ,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 1 },
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 4 ,
+      "cartoesVermelho": 0 }
+  },
+
+
   {
     "descricao": "Premier League A 2023-24",
     "rodada": 5 ,
