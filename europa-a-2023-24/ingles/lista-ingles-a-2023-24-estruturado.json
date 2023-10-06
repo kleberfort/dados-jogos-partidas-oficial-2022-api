@@ -602,6 +602,18 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Luton",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Burnley",
+            "placar":2
+                       }
+            },
+
 
       {
             "rodada": 7,
@@ -1166,6 +1178,18 @@
       "nome": "Luton",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/3e7bXAkZVEVAKQWTRQdGFw_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 2,
+            "mandante":{
+            "nomeList": "Luton",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Burnley",
+            "placar":2
+                       }
+            },
 
 
       {
