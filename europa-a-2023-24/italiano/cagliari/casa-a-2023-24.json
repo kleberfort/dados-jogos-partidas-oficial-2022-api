@@ -1,6 +1,52 @@
 [
 
 
+  {
+    "descricao": "Série A 2023-24",
+    "rodada": 4 ,
+    "data": "17.09.23",
+    
+    "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png" ,
+    "classificacao": 19,
+    "placar": 0
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  0,
+      "cartoesVermelho":  1},
+    "visitante": {
+     "nome": "Udinese",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"  ,
+    "classificacao": 17,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 0 }
+  },
+
+
     {
         "descricao": "Série A 2023-24",
         "rodada": 2 ,
