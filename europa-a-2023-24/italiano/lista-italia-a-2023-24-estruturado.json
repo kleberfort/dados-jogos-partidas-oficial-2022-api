@@ -37,6 +37,18 @@
             ],
 "jogosfora":[
 
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":1
+                       }
+            },
+
 
       {
             "rodada": 4,
@@ -133,6 +145,18 @@
 "jogosfora":[
 
       {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 4,
             "mandante":{
             "nomeList": "Verona",
@@ -168,6 +192,18 @@
       "nome": "Cagliari",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Cagliari",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":3
+                       }
+            },
 
       {
             "rodada": 4,
@@ -245,6 +281,18 @@
       "nome": "Empoli",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 5,
@@ -365,6 +413,18 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Frosinone",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":1
+                       }
+            },
+
 
       {
             "rodada": 5,
@@ -422,6 +482,18 @@
       "nome": "Frosinone",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/_J6w-PL2RjW-fRR-D7Dl-w_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Frosinone",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Fiorentina",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -507,6 +579,19 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GlyoZO04xkwVX6oTh8asHA_96x96.png" ,
 "jogoscasa":[
 
+
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Genoa",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":1
+                       }
+            },
+
       {
             "rodada": 4,
             "mandante":{
@@ -590,6 +675,18 @@
 "jogoscasa":[
 
       {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Atalanta",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 4,
             "mandante":{
             "nomeList": "Verona",
@@ -671,6 +768,18 @@
 "jogoscasa":[
 
       {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":2
+                       }
+            },
+
+      {
             "rodada": 4,
             "mandante":{
             "nomeList": "Inter",
@@ -749,6 +858,19 @@
       "nome": "Juventus",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Lv6xmBlUIpN3GAFhtf6nqQ_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 4,
@@ -829,6 +951,18 @@
       "nome": "Lazio",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -957,6 +1091,18 @@
 "jogosfora":[
 
       {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Juventus",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lecce",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 4,
             "mandante":{
             "nomeList": "Monza",
@@ -1027,6 +1173,18 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Cagliari",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Milan",
+            "placar":3
+                       }
+            },
+
 
       {
             "rodada": 4,
@@ -1080,6 +1238,18 @@
       "nome": "Monza",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Monza",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Bologna",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 4,
@@ -1175,6 +1345,18 @@
       "nome": "Napoli",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/PWRLYBJqlGrAAsKkUN6eng_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Napoli",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -1309,6 +1491,18 @@
 "jogosfora":[
 
       {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Genoa",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Roma",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 5,
             "mandante":{
             "nomeList": "Torino",
@@ -1387,6 +1581,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Empoli",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Salernitana",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -1474,6 +1681,19 @@
 
 
       {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Inter",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sassuolo",
+            "placar":2
+                       }
+            },
+
+
+      {
             "rodada": 4,
             "mandante":{
             "nomeList": "Frosinone",
@@ -1552,6 +1772,18 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Lazio",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Torino",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -1637,6 +1869,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 6,
+            "mandante":{
+            "nomeList": "Napoli",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 4,
