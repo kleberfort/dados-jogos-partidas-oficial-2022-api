@@ -3,6 +3,51 @@
 
   {
     "descricao": "La Liga A 2023-24",
+    "rodada": 5 ,
+    "data": "16.09.23",
+    
+    "mandante": {
+         "nome": "Bilbao",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OSL_5Zm6kYPP1J17Bo5uDA_96x96.png" ,
+    "classificacao": 5,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 3},
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  1,
+      "cartoesVermelho":  0 },
+    "visitante": {
+          "nome": "Cadiz",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/H1vdTrUUqJBeUW1HfbW0nQ_96x96.png"  ,
+    "classificacao": 6,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 4,
+      "cartoesVermelho": 0 }
+  },
+
+  {
+    "descricao": "La Liga A 2023-24",
    "rodada": 3 ,
    "data": "27.08.23",
    
