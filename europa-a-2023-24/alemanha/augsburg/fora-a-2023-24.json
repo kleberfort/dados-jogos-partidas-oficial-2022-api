@@ -1,6 +1,51 @@
 [
 
 
+  {
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 4 ,
+    "data": "16.09.23",
+    
+    "mandante": {
+      "nome": "Leipzig",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"  ,
+    "classificacao": 4,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 0  ,
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  0  ,
+      "cartoesVermelho":  0 },
+    "visitante": {
+        "nome": "Augsburg",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png" ,
+    "classificacao": 12,
+    "placar": 0
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 0 ,
+      "cartoesVermelho": 0 }
+  },
+
 
     {
         "descricao": "Bundesliga A 2023-24",
