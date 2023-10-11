@@ -1,5 +1,54 @@
 [
 
+
+  {
+    "descricao": "Brasileiro Série A 2023",
+    "rodada": 26 ,
+    "data": "07.10.23",
+    
+    "mandante": {
+    "nome": "Corinthians",
+    "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"  ,
+    "classificacao": 13,
+    "placar": 1
+  },
+    "visitante": {
+     "nome": "Flamengo",
+     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png"  ,
+    "classificacao": 5,
+    "placar": 1
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 6,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 1},
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  3,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 0 }
+  },
+  
+
   {
     "descricao": "Brasileiro Série A 2023",
     "rodada": 24 ,
