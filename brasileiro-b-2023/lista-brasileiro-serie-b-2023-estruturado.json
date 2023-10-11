@@ -5,6 +5,18 @@
 "jogoscasa":[
 
       {
+            "rodada": 32,
+                  "mandante":{
+                  "nomeList": "ABC",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Mirassol",
+                  "placar":2
+                             }
+                  },
+
+      {
             "rodada": 30,
                   "mandante":{
                   "nomeList": "ABC",
@@ -5229,6 +5241,18 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 32,
+                  "mandante":{
+                  "nomeList": "ABC",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Mirassol",
+                  "placar":2
+                             }
+                  },
 
       {
             "rodada": 29,
