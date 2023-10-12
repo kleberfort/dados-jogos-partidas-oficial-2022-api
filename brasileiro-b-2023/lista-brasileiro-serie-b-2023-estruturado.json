@@ -1475,6 +1475,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 32,
+                  "mandante":{
+                  "nomeList": "Vila Nova",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Botafogo-SP",
+                  "placar":1
+                             }
+                  },
+
       {
             "rodada": 30,
                   "mandante":{
@@ -7545,6 +7558,18 @@
       "nome": "Vila Nova",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v3upsCABZm2skuxyszzvwg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 32,
+                  "mandante":{
+                  "nomeList": "Vila Nova",
+                   "placar": 3
+                             },
+                  "visitante":{
+                  "nomeList": "Botafogo-SP",
+                  "placar":1
+                             }
+                  },
 
       {
             "rodada": 30,
