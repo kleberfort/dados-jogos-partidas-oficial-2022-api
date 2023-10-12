@@ -3,6 +3,52 @@
 
   {
     "descricao": "La Liga A 2023-24",
+    "rodada": 8 ,
+    "data": "01.10.23",
+    
+    "mandante": {
+        "nome": "Almeria",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png" ,
+    "classificacao": 20,
+    "placar": 3
+  },
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 0  ,
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo": 0 },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0 },
+    "visitante": {
+            "nome": "Granada",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_96x96.png" ,
+    "classificacao": 19,
+    "placar": 3
+    },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 3},
+      "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 0 }
+  },
+
+
+  {
+    "descricao": "La Liga A 2023-24",
    "rodada": 6 ,
    "data": "24.09.23",
    
