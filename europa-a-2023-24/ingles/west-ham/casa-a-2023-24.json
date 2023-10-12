@@ -1,5 +1,53 @@
 [
 
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 8,
+    "data": "08.10.23",
+    
+    "mandante": {
+      "nome": "West Ham",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png"  ,
+    "classificacao": 7,
+    "placar": 2
+  },
+    "visitante": {
+      "nome": "Newcastle",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png"  ,
+    "classificacao": 8,
+    "placar": 2
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0  ,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 2},
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  3,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 0 }
+  },
+
   {
     "descricao": "Premier League A 2023-24",
     "rodada": 7 ,
