@@ -1,5 +1,52 @@
 [
 
+  {
+    "descricao": "Ligue 1 2023-24",
+    "rodada": 8 ,
+    "data": "08.10.23",
+    
+    "mandante": {
+            "nome": "Marseille",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png"  ,
+    "classificacao": 12  ,
+    "placar": 3
+  },
+    "visitante": {
+        "nome": "Le-Havre",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BRitaBE1_mjMJguk6xzTRw_96x96.png"  ,
+    "classificacao": 10  ,
+    "placar": 0
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 1},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 0 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  0  ,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 1}
+  },
+
 
   {
     "descricao": "Ligue 1 2023-24",
