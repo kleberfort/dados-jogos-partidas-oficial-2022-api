@@ -3,6 +3,54 @@
 
   {
     "descricao": "Série A 2023-24",
+    "rodada": 8 ,
+    "data": "08.10.23",
+    
+    "mandante": {
+           "nome": "Lazio",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png"  ,
+    "classificacao": 16  ,
+    "placar": 3
+  },
+    "visitante": {
+         "nome": "Atalanta",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"  ,
+    "classificacao": 6  ,
+    "placar": 2
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 1},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1},
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  1,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 0 }
+  },
+
+
+  {
+    "descricao": "Série A 2023-24",
     "rodada": 6 ,
     "data": "27.09.23",
     

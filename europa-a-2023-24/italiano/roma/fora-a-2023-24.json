@@ -1,5 +1,53 @@
 [
 
+
+  {
+    "descricao": "Série A 2023-24",
+    "rodada": 8 ,
+    "data": "08.10.23",
+    
+    "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"  ,
+    "classificacao": 20  ,
+    "placar": 1
+  },
+    "visitante": {
+      "nome": "Roma",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"  ,
+    "classificacao": 13  ,
+    "placar": 4
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 2},
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 0 }
+  },
+
   {
     "descricao": "Série A 2023-24",
     "rodada": 6 ,

@@ -1,5 +1,52 @@
 [
 
+  {
+    "descricao": "Série A 2023-24",
+    "rodada": 8 ,
+    "data": "07.10.23",
+    
+    "mandante": {
+            "nome": "Inter",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"  ,
+    "classificacao": 1  ,
+    "placar": 2
+  },
+    "visitante": {
+         "nome": "Bologna",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"  ,
+    "classificacao": 8  ,
+    "placar": 2
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 0 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1},
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 0 }
+  },
+
 
   {
     "descricao": "Série A 2023-24",
