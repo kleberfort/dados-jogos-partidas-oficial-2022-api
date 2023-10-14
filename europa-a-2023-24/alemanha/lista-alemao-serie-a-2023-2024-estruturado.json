@@ -6,6 +6,19 @@
 
 
       {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Augsburg",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Darmstadt",
+            "placar":2
+                       }
+            },
+
+
+      {
             "rodada": 5,
             "mandante":{
             "nomeList": "Augsburg",
@@ -102,6 +115,19 @@
          "nome": "Bayer Leverkusen",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Leverkusen",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Koln",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 5,
@@ -203,6 +229,19 @@
          "nome": "Bayern de Munique",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Bayer",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Freiburg",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 5,
@@ -340,6 +379,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Leipzig",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Bochum",
+            "placar":0
+                       }
+            },
+
       {
             "rodada": 5,
             "mandante":{
@@ -387,6 +439,19 @@
           "nome": "Borussia Dortmund",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Dortmund",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "UnionBerlin",
+            "placar":2
+                       }
+            },
 
       {
             "rodada": 5,
@@ -491,6 +556,19 @@
           "nome": "Borussia Mönchengladbach",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Monche",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Mainz",
+            "placar":2
+                       }
+            },
 
 
       {
@@ -632,6 +710,20 @@
 ],
 "jogosfora":[
 
+
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Augsburg",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Darmstadt",
+            "placar":2
+                       }
+            },
+
       {
             "rodada": 5,
             "mandante":{
@@ -679,6 +771,19 @@
       "nome": "Eintracht Frankfurt",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Frankfurt",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Heidenheim",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -819,6 +924,18 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Bayer",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Freiburg",
+            "placar":0
+                       }
+            },
+
 
       {
             "rodada": 5,
@@ -916,6 +1033,19 @@
 
 
       {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Frankfurt",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Heidenheim",
+            "placar":0
+                       }
+            },
+
+
+      {
             "rodada": 5,
             "mandante":{
             "nomeList": "Leverkusen",
@@ -1009,6 +1139,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "WerderBremen",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Hoffenheim",
+            "placar":3
+                       }
+            },
 
       {
             "rodada": 5,
@@ -1105,6 +1248,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Leverkusen",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Koln",
+            "placar":0
+                       }
+            },
+
       {
             "rodada": 5,
             "mandante":{
@@ -1152,6 +1308,19 @@
       "nome": "RB Leipzig",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Leipzig",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Bochum",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -1299,6 +1468,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Monche",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Mainz",
+            "placar":2
+                       }
+            },
+
       {
             "rodada": 5,
             "mandante":{
@@ -1355,6 +1537,19 @@
       "nome": "Stuttgart",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Stuttgart",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Wolfsburg",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -1507,6 +1702,19 @@
 
 
       {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Dortmund",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "UnionBerlin",
+            "placar":2
+                       }
+            },
+
+
+      {
             "rodada": 6,
             "mandante":{
             "nomeList": "Heidenheim",
@@ -1552,6 +1760,19 @@
       "nome": "Werder Bremen",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "WerderBremen",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Hoffenheim",
+            "placar":3
+                       }
+            },
 
       {
             "rodada": 5,
@@ -1688,6 +1909,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 7,
+            "mandante":{
+            "nomeList": "Stuttgart",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Wolfsburg",
+            "placar":1
+                       }
+            },
 
 
       {
