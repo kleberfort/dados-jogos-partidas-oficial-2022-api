@@ -6,6 +6,19 @@
 
 
       {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Brest",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Toulouse",
+            "placar":1
+                       }
+            },
+
+
+      {
             "rodada": 6,
             "mandante":{
             "nomeList": "Brest",
@@ -171,6 +184,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Montpellier",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Clermont",
+            "placar":2
+                       }
+            },
+
       {
             "rodada": 6,
             "mandante":{
@@ -281,6 +307,20 @@
 ],
 "jogosfora":[
 
+
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Marseille",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "LeHave",
+            "placar":0
+                       }
+            },
+
       {
             "rodada": 5,
             "mandante":{
@@ -326,6 +366,19 @@
       "nome": "Lens",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/TUvwItKazVFpgThEhhlN1Q_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Lens",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lille",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -480,6 +533,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Lens",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Lille",
+            "placar":1
+                       }
+            },
+
       {
             "rodada": 7,
             "mandante":{
@@ -601,6 +667,20 @@
 "jogosfora":[
 
 
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Lorient",
+            "placar":3
+                       }
+            },
+
+
       {
             "rodada": 6,
             "mandante":{
@@ -650,6 +730,19 @@
       "nome": "Lyon",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Lyon",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Lorient",
+            "placar":3
+                       }
+            },
 
       {
             "rodada": 5,
@@ -757,6 +850,19 @@
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png",
 "jogoscasa":[
 
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Marseille",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "LeHave",
+            "placar":0
+                       }
+            },
+
       {
             "rodada": 5,
             "mandante":{
@@ -861,6 +967,19 @@
       "nome": "Metz",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/b7iBf-aijuqQaScGSpDV7A_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Metz",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Nice",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -1025,6 +1144,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Reims",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monaco",
+            "placar":3
+                       }
+            },
+
       {
             "rodada": 5,
             "mandante":{
@@ -1071,6 +1203,19 @@
       "nome": "Montpellier",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fL5Nk_2eUanYiOSB9AnBpQ_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Montpellier",
+             "placar": 4
+                       },
+            "visitante":{
+            "nomeList": "Clermont",
+            "placar":2
+                       }
+            },
 
 
       {
@@ -1238,6 +1383,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Strasbourg",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Nantes",
+            "placar":2
+                       }
+            },
+
       {
             "rodada": 7,
             "mandante":{
@@ -1345,6 +1503,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Metz",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Nice",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -1457,6 +1628,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Rennes",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "PSG",
+            "placar":3
+                       }
+            },
+
       {
             "rodada": 7,
             "mandante":{
@@ -1513,6 +1697,19 @@
       "nome": "Reims",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NWzvJ-A3j8HQkeQZ0sJP1w_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Reims",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monaco",
+            "placar":3
+                       }
+            },
 
       {
             "rodada": 7,
@@ -1630,6 +1827,19 @@
 
 
       {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Rennes",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "PSG",
+            "placar":3
+                       }
+            },
+
+
+      {
             "rodada": 7,
             "mandante":{
             "nomeList": "Rennes",
@@ -1732,6 +1942,19 @@
       "nome": "Strasbourg",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Eb9xtMpUy8FXQ0RCKvLxcg_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Strasbourg",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Nantes",
+            "placar":2
+                       }
+            },
 
 
       {
@@ -1886,6 +2109,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 8,
+            "mandante":{
+            "nomeList": "Brest",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Toulouse",
+            "placar":1
+                       }
+            },
 
 
       {
