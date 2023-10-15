@@ -3023,6 +3023,18 @@
 "jogosfora":[
 
       {
+            "rodada": 26,
+            "mandante":{
+            "nomeList": "Cuiabá",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Cruzeiro",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 24,
             "data" : "20.09.23",
             "mandante":{
@@ -3188,6 +3200,18 @@
       "nome": "Cuiabá",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 26,
+            "mandante":{
+            "nomeList": "Cuiabá",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Cruzeiro",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 25,
