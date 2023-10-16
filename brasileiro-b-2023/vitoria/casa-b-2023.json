@@ -2,6 +2,53 @@
 
   {
     "descricao": "Brasileiro Série B 2023",
+    "rodada": 32 ,
+    "data": "15.10.23",
+    
+    "mandante": {
+     "nome": "Vitória",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png"  ,
+    "classificacao": 1,
+    "placar": 2
+  },
+    "visitante": {
+           "nome": "Guarani",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png"  ,
+    "classificacao": 4,
+    "placar": 0
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 0 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 1}
+  },
+
+  {
+    "descricao": "Brasileiro Série B 2023",
     "rodada": 30,
     "data": "29.09.23",
     
