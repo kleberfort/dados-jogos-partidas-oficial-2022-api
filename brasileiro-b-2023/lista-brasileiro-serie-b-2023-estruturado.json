@@ -4307,6 +4307,19 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
 "jogoscasa":[
 
+
+      {
+            "rodada": 32,
+                  "mandante":{
+                  "nomeList": "Juventude",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Sport",
+                  "placar":2
+                             }
+                  },
+
       {
             "rodada": 30,
                   "mandante":{
@@ -7094,6 +7107,18 @@
 
 ],
 "jogosfora":[
+
+      {
+            "rodada": 32,
+                  "mandante":{
+                  "nomeList": "Juventude",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Sport",
+                  "placar":2
+                             }
+                  },
 
       {
             "rodada": 30,
