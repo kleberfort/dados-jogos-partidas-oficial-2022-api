@@ -3,6 +3,54 @@
 
   {
     "descricao": "Brasileiro Série B 2023",
+    "rodada": 33 ,
+    "data": "21.10.23",
+    
+    "mandante": {
+      "nome": "Juventude",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png"  ,
+    "classificacao": 4  ,
+    "placar": 2
+  },
+    "visitante": {
+      "nome": "Londrina",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e7TVDQHlKXSPLpNT58XzBA_96x96.png"  ,
+    "classificacao": 19  ,
+    "placar": 2
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 6,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 1 ,
+      "golsSegundoTempo": 1 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 2  ,
+      "golsSegundoTempo": 0 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM"},
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  0  ,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 7,
+      "cartoesVermelho": 0 }
+  },
+
+
+  {
+    "descricao": "Brasileiro Série B 2023",
     "rodada": 32 ,
     "data": "16.10.23",
     
