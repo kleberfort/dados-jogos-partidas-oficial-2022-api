@@ -6714,6 +6714,19 @@
                        }
             },
 
+
+            {
+                  "rodada": 25,
+                  "mandante":{
+                  "nomeList": "São Paulo",
+                   "placar": 2
+                             },
+                  "visitante":{
+                  "nomeList": "Corinthians",
+                  "placar":1
+                             }
+                  },
+
       {
             "rodada": 22,
             "data" : "27.09.23",
