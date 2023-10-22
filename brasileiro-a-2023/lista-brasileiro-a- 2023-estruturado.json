@@ -1116,6 +1116,19 @@
             "rodada": 27,
             "mandante":{
             "nomeList": "Bahia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fortaleza",
+            "placar":0
+                       }
+            },
+
+
+      {
+            "rodada": 27,
+            "mandante":{
+            "nomeList": "Bahia",
              "placar": 1
                        },
             "visitante":{
@@ -3317,6 +3330,19 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
 "jogoscasa":[
 
+
+      {
+            "rodada": 27,
+            "mandante":{
+            "nomeList": "Cuiabá",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Goias",
+            "placar":1
+                       }
+            },
+
       {
             "rodada": 26,
             "mandante":{
@@ -4609,6 +4635,18 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 27,
+            "mandante":{
+            "nomeList": "Bahia",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Fortaleza",
+            "placar":0
+                       }
+            },
+
 
       {
             "rodada": 27,
@@ -4983,6 +5021,19 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 27,
+            "mandante":{
+            "nomeList": "Cuiabá",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Goias",
+            "placar":1
+                       }
+            },
+
       {
             "rodada": 25,
             "mandante":{
@@ -5354,6 +5405,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 27,
+            "mandante":{
+            "nomeList": "São Paulo",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Grêmio",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -6636,15 +6700,17 @@
 "jogoscasa":[
 
 
+
+
       {
-            "rodada": 25,
+            "rodada": 27,
             "mandante":{
             "nomeList": "São Paulo",
-             "placar": 2
+             "placar": 3
                        },
             "visitante":{
-            "nomeList": "Corinthians",
-            "placar":1
+            "nomeList": "Grêmio",
+            "placar":0
                        }
             },
 
