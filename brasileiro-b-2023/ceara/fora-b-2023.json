@@ -1,5 +1,53 @@
 [
 
+
+  {
+    "descricao": "Brasileiro Série B 2023",
+    "rodada": 33 ,
+    "data": "22.10.23",
+    
+    "mandante": {
+           "nome": "Avaí",
+           "imagem": "https://www.escudosfc.com.br/images/avai.gif"  ,
+    "classificacao": 15  ,
+    "placar": 1
+  },
+    "visitante": {
+            "nome": "Ceará",
+            "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/04/Cear%C3%A1-SC.png"  ,
+    "classificacao": 11  ,
+    "placar": 0
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 0  ,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 0 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  4,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 1}
+  },
+
   {
     "descricao": "Brasileiro Série B 2023",
     "rodada": 31 ,
