@@ -3,6 +3,55 @@
 
   {
     "descricao": "Bundesliga A 2023-24",
+    "rodada": 8 ,
+    "data": "22.10.23",
+    
+    "mandante": {
+      "nome": "Heidenheim",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"  ,
+    "classificacao": 10  ,
+    "placar": 2
+  },
+    "visitante": {
+        "nome": "Augsburg",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"  ,
+    "classificacao": 15  ,
+    "placar": 5
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 4  ,
+      "escanteiosSegundoTempo": 2  ,
+      "golsPrimeiroTempo": 2 ,
+      "golsSegundoTempo": 0 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3  ,
+      "escanteiosSegundoTempo": 2  ,
+      "golsPrimeiroTempo": 3  ,
+      "golsSegundoTempo": 2 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  3  ,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2 ,
+      "cartoesVermelho": 0 }
+  },
+
+
+
+  {
+    "descricao": "Bundesliga A 2023-24",
     "rodada": 6 ,
     "data": "30.09.23",
     
