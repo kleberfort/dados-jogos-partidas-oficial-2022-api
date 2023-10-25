@@ -1,5 +1,54 @@
 [
 
+
+  {
+    "descricao": "Série A 2023-24",
+    "rodada": 9 ,
+    "data": "21.10.23",
+    
+    "mandante": {
+      "nome": "Sassuolo",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png" ,
+    "classificacao": 12  ,
+    "placar": 0
+  },
+    "visitante": {
+           "nome": "Lazio",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png"  ,
+    "classificacao": 13  ,
+    "placar": 2
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 3  ,
+      "escanteiosSegundoTempo": 2  ,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 0 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3  ,
+      "escanteiosSegundoTempo": 4  ,
+      "golsPrimeiroTempo": 2  ,
+      "golsSegundoTempo": 0 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  1  ,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 5 ,
+      "cartoesVermelho": 0 }
+  },
+
+
   {
     "descricao": "Série A 2023-24",
     "rodada": 7 ,

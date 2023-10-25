@@ -1,5 +1,54 @@
 [
 
+
+  {
+    "descricao": "Série A 2023-24",
+    "rodada": 9 ,
+    "data": "22.10.23",
+    
+    "mandante": {
+      "nome": "Salernitana",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/E5wkv8G7RBA2I0VsSq7Y1A_96x96.png"            ,
+    "classificacao": 19  ,
+    "placar": 2
+  },
+    "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"  ,
+    "classificacao": 20  ,
+    "placar": 2
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 4  ,
+      "escanteiosSegundoTempo": 4  ,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 2 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3  ,
+      "escanteiosSegundoTempo": 2  ,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 2 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  3  ,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 4 ,
+      "cartoesVermelho": 0 }
+  },
+
+
   {
     "descricao": "Série A 2023-24",
     "rodada": 7 ,
