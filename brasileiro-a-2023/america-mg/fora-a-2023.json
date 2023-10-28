@@ -3,6 +3,55 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 29 ,
+    "data": "25.10.23",
+    
+    "mandante": {
+         "nome": "Atlético-PR",
+         "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png" ,
+    "classificacao": 5  ,
+    "placar": 3
+  },
+    "visitante": {
+        "nome": "América-MG",
+         "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png"  ,
+    "classificacao": 20  ,
+    "placar": 2
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 8  ,
+      "escanteiosSegundoTempo": 6  ,
+      "golsPrimeiroTempo": 3 ,
+      "golsSegundoTempo": 0 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1  ,
+      "escanteiosSegundoTempo": 4  ,
+      "golsPrimeiroTempo": 1  ,
+      "golsSegundoTempo": 1 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  0  ,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1 ,
+      "cartoesVermelho": 0 }
+  },
+
+
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 28 ,
     "data": "22.10.23",
     
