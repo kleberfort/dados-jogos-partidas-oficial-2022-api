@@ -32,11 +32,11 @@
 
     "escanteiosPrimeiroMandante":{
       "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
-      "nove": "NÃO" },
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
     "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
+      "tres": "SIM",
       "cinco": "NÃO",
       "sete": "NÃO",
       "nove": "NÃO" },
@@ -47,6 +47,7 @@
       "cartoesAmarelo": 4 ,
       "cartoesVermelho": 0 }
   },
+
 
 
 
