@@ -3,6 +3,54 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 30 ,
+    "data": "29.10.23",
+    
+    "mandante": {
+      "nome": "Internacional",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png"  ,
+    "classificacao": 11,
+    "placar": 3
+  },
+    "visitante": {
+           "nome": "Coritiba",
+           "imagem": "https://lh3.googleusercontent.com/-bmhUQ9XTXPw/WgOr_hmmN_I/AAAAAAAAEgY/-k2emdPVWIYLyW5LOdeBzYXjlukdy7f9ACEwYBhgL/s710/coritiba.png"  ,
+    "classificacao": 19,
+    "placar": 4
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 2},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0  ,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 2},
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  7,
+      "cartoesVermelho":  1},
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 5,
+      "cartoesVermelho": 0 }
+  },
+
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 28 ,
     "data": "22.10.23",
     
