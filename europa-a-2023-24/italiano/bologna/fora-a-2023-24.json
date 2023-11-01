@@ -2,6 +2,53 @@
 
   {
     "descricao": "Série A 2023-24",
+    "rodada": 10 ,
+    "data": "28.10.23",
+    
+    "mandante": {
+      "nome": "Sassuolo",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png"  ,
+    "classificacao": 13,
+    "placar": 1
+  },
+    "visitante": {
+         "nome": "Bologna",
+         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"  ,
+    "classificacao": 8,
+    "placar": 1
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  1,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2,
+      "cartoesVermelho": 0 }
+  },
+
+  {
+    "descricao": "Série A 2023-24",
     "rodada": 8 ,
     "data": "07.10.23",
     

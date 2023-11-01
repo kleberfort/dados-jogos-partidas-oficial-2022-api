@@ -3,6 +3,54 @@
 
   {
     "descricao": "Série A 2023-24",
+    "rodada": 10 ,
+    "data": "29.10.23",
+    
+    "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"            ,
+    "classificacao":20  ,
+    "placar": 4
+  },
+    "visitante": {
+      "nome": "Frosinone",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/_J6w-PL2RjW-fRR-D7Dl-w_96x96.png" ,
+    "classificacao": 12,
+    "placar": 3
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 0  ,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 4},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 1 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  1,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 4,
+      "cartoesVermelho": 0 }
+  },
+
+
+  {
+    "descricao": "Série A 2023-24",
     "rodada": 9 ,
     "data": "22.10.23",
     

@@ -3,6 +3,54 @@
 
   {
     "descricao": "Série A 2023-24",
+    "rodada": 10 ,
+    "data": "27.10.23",
+    
+    "mandante": {
+      "nome": "Genoa",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GlyoZO04xkwVX6oTh8asHA_96x96.png"   ,
+    "classificacao": 15,
+    "placar": 1
+  },
+    "visitante": {
+      "nome": "Salernitana",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/E5wkv8G7RBA2I0VsSq7Y1A_96x96.png" ,
+    "classificacao": 19,
+    "placar": 0
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0  ,
+      "escanteiosSegundoTempo": 0  ,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 0 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  3,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 4,
+      "cartoesVermelho": 0 }
+  },
+
+
+  {
+    "descricao": "Série A 2023-24",
     "rodada": 8 ,
     "data": "08.10.23",
     
