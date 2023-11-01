@@ -3,6 +3,54 @@
 
   {
     "descricao": "La Liga A 2023-24",
+    "rodada": 11 ,
+    "data": "30.10.23",
+    
+    "mandante": {
+            "nome": "Granada",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_96x96.png"  ,
+    "classificacao": 19,
+    "placar": 2
+  },
+    "visitante": {
+     "nome": "Villarreal",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png"  ,
+    "classificacao": 14,
+    "placar": 3
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 0 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 0  ,
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo": 0 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  0  ,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 4,
+      "cartoesVermelho": 0 }
+  },
+
+
+  {
+    "descricao": "La Liga A 2023-24",
     "rodada": 9 ,
     "data": "08.10.23",
     
