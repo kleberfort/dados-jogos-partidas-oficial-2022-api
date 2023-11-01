@@ -3,6 +3,54 @@
 
   {
     "descricao": "Ligue 1 2023-24",
+    "rodada": 10 ,
+    "data": "29.10.23",
+    
+    "mandante": {
+          "nome": "Brest",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HNqZwlu71GHXo60XjYrPxg_96x96.png" ,
+    "classificacao": 5,
+    "placar": 2
+  },
+    "visitante": {
+      "nome": "PSG",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png"  ,
+    "classificacao": 3,
+    "placar": 3
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 1},
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM"},
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  3,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 4,
+      "cartoesVermelho": 0 }
+  },
+
+
+  {
+    "descricao": "Ligue 1 2023-24",
     "rodada": 8 ,
     "data": "08.10.23",
     
