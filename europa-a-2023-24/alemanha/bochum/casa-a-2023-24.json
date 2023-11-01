@@ -3,6 +3,54 @@
 
   {
     "descricao": "Bundesliga A 2023-24",
+    "rodada": 9 ,
+    "data": "27.10.23",
+    
+    "mandante": {
+      "nome": "Bochum",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"  ,
+    "classificacao": 17,
+    "placar": 2
+  },
+    "visitante": {
+      "nome": "Mainz 05",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"  ,
+    "classificacao": 18,
+    "placar": 2
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 2},
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  3,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 0 }
+  },
+
+
+  {
+    "descricao": "Bundesliga A 2023-24",
     "rodada": 6 ,
     "data": "30.09.23",
     
