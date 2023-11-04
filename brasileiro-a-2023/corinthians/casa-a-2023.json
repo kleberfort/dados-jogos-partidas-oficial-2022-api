@@ -1,5 +1,52 @@
 [
 
+  {
+    "descricao": "Brasileiro Série A 2023",
+    "rodada": 31 ,
+    "data": "01.11.23",
+    
+    "mandante": {
+    "nome": "Corinthians",
+    "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"  ,
+    "classificacao": 14,
+    "placar": 1
+  },
+    "visitante": {
+         "nome": "Atlético-PR",
+         "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png"  ,
+    "classificacao": 7,
+    "placar": 0
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 0  ,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1},
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 0 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  1,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2,
+      "cartoesVermelho": 0 }
+  },
+
 
   {
     "descricao": "Brasileiro Série A 2023",
