@@ -6,6 +6,19 @@
 
 
       {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "América-MG",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atlético-MG",
+            "placar":1
+                       }
+            },
+
+
+      {
             "rodada": 30,
             "mandante":{
             "nomeList": "América-MG",
@@ -648,6 +661,19 @@
 
 
       {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Palmeiras",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Athlético-PR",
+            "placar":0
+                       }
+            },
+
+
+      {
             "rodada": 31,
             "mandante":{
             "nomeList": "Corinthians",
@@ -1066,6 +1092,19 @@
 
 
       {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "América-MG",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Atlético-MG",
+            "placar":1
+                       }
+            },
+
+
+      {
             "rodada": 29,
             "mandante":{
             "nomeList": "Bragantino",
@@ -1469,6 +1508,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Grêmio",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bahia",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -1909,6 +1961,19 @@
 
 
       {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Vasco",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Botafogo",
+            "placar":0
+                       }
+            },
+
+
+      {
             "rodada": 27,
             "mandante":{
             "nomeList": "América-MG",
@@ -2101,6 +2166,19 @@
       "nome": "Bragantino",
       "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Bragantino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Corinthians",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -2721,6 +2799,19 @@
 
 
       {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Bragantino",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Corinthians",
+            "placar":0
+                       }
+            },
+
+
+      {
             "rodada": 29,
             "mandante":{
             "nomeList": "Cuiabá",
@@ -2925,6 +3016,17 @@
 "jogoscasa":[
 
 
+      {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Coritiba",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Goias",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 31,
@@ -3342,6 +3444,19 @@
       "nome": "Cruzeiro",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Cruzeiro",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Internacional",
+            "placar":2
+                       }
+            },
 
 
       {
@@ -3959,6 +4074,18 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Santos",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Cuiabá",
+            "placar":0
+                       }
+            },
+
 
       {
             "rodada": 30,
@@ -4351,6 +4478,18 @@
 ],
 "jogosfora":[
 
+
+      {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Fortaleza",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Flamengo",
+            "placar":2
+                       }
+            },
 
       {
             "rodada": 29,
@@ -4990,6 +5129,19 @@
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
 "jogoscasa":[
 
+
+      {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Fortaleza",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Flamengo",
+            "placar":2
+                       }
+            },
+
       {
             "rodada": 26,
             "mandante":{
@@ -5607,6 +5759,18 @@
 
 
       {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Coritiba",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Goias",
+            "placar":1
+                       }
+            },
+
+      {
             "rodada": 29,
             "mandante":{
             "nomeList": "Fluminense",
@@ -5811,6 +5975,20 @@
       "nome": "Grêmio",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Grêmio",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Bahia",
+            "placar":0
+                       }
+            },
+
 
 
       {
@@ -6449,6 +6627,19 @@
 
 
       {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Cruzeiro",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Internacional",
+            "placar":2
+                       }
+            },
+
+
+      {
             "rodada": 29,
             "mandante":{
             "nomeList": "Vasco",
@@ -6653,6 +6844,19 @@
       "nome": "Palmeiras",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Palmeiras",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Athlético-PR",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -7074,6 +7278,19 @@
       "nome": "Santos",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Santos",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Cuiabá",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -7912,6 +8129,19 @@
       "nome": "Vasco",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 32,
+            "mandante":{
+            "nomeList": "Vasco",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Botafogo",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 29,

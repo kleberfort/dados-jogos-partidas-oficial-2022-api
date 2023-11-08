@@ -1,5 +1,53 @@
 [
 
+
+  {
+    "descricao": "Brasileiro Série A 2023",
+    "rodada": 32,
+    "data": "04.11.23",
+    
+    "mandante": {
+        "nome": "América-MG",
+         "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png" ,
+    "classificacao": 20,
+    "placar": 1
+  },
+    "visitante": {
+          "nome": "Atlético-MG",
+          "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png"  ,
+    "classificacao": 5,
+    "placar": 1
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 0  ,
+      "escanteiosSegundoTempo": 0  ,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 1 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  1,
+      "cartoesVermelho":  1},
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2,
+      "cartoesVermelho": 1}
+  },
+
   {
     "descricao": "Brasileiro Série A 2023",
     "rodada": 30 ,

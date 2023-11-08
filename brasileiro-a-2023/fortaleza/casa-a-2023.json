@@ -1,6 +1,54 @@
 [
 
 
+
+  {
+    "descricao": "Brasileiro Série A 2023",
+    "rodada": 32,
+    "data": "05.11.23",
+    
+    "mandante": {
+      "nome": "Fortaleza",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png"  ,
+    "classificacao": 9,
+    "placar": 0
+  },
+    "visitante": {
+      "nome": "Flamengo",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png" ,
+    "classificacao": 6,
+    "placar": 2
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 0 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 1  ,
+      "golsSegundoTempo": 1 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "SIM",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  1,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 0 }
+  },
+
   
 
 
