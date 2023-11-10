@@ -6,6 +6,19 @@
 
 
       {
+            "rodada": 11,
+            "mandante":{
+            "nomeList": "Atalanta",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":2
+                       }
+            },
+
+
+      {
             "rodada": 9,
             "mandante":{
             "nomeList": "Atalanta",
@@ -623,6 +636,19 @@
 
 
       {
+            "rodada": 11,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
+
+
+      {
             "rodada": 9,
             "mandante":{
             "nomeList": "Fiorentina",
@@ -1099,6 +1125,19 @@
 
 
       {
+            "rodada": 11,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":3
+                       }
+            },
+
+
+      {
             "rodada": 9,
             "mandante":{
             "nomeList": "Verona",
@@ -1327,6 +1366,19 @@
 
 
       {
+            "rodada": 11,
+            "mandante":{
+            "nomeList": "Atalanta",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Inter",
+            "placar":2
+                       }
+            },
+
+
+      {
             "rodada": 9,
             "mandante":{
             "nomeList": "Torino",
@@ -1453,6 +1505,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 11,
+            "mandante":{
+            "nomeList": "Fiorentina",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Juventus",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -1844,6 +1909,20 @@
 "jogoscasa":[
 
 
+
+      {
+            "rodada": 11,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":1
+                       }
+            },
+
+
       {
             "rodada": 9,
             "mandante":{
@@ -2066,6 +2145,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 11,
+            "mandante":{
+            "nomeList": "Verona",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Monza",
+            "placar":3
+                       }
+            },
 
 
       {
@@ -3020,6 +3112,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 11,
+            "mandante":{
+            "nomeList": "Milan",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Udinese",
+            "placar":1
+                       }
+            },
 
       {
             "rodada": 10,
