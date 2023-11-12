@@ -1,5 +1,55 @@
 [
 
+  {
+    "descricao": "Brasileiro Série A 2023",
+    "rodada": 33 ,
+    "data": "08.11.23",
+    
+    "mandante": {
+         "nome": "Atlético-PR",
+         "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png" ,
+    "classificacao": 7  ,
+    "placar": 1
+  },
+    "visitante": {
+      "nome": "Fortaleza",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+    "classificacao": 10  ,
+    "placar": 1
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 6  ,
+      "escanteiosSegundoTempo": 9  ,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2  ,
+      "escanteiosSegundoTempo": 0  ,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 1 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  1  ,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 0 ,
+      "cartoesVermelho": 0 }
+  },
+
+
+  
+
 
   {
     "descricao": "Brasileiro Série A 2023",

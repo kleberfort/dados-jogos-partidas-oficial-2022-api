@@ -3,6 +3,55 @@
 
   {
     "descricao": "Brasileiro Série A 2023",
+    "rodada": 33 ,
+    "data": "09.11.23",
+    
+    "mandante": {
+           "nome": "Corinthians",
+            "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png" ,
+    "classificacao": 13  ,
+    "placar": 1
+  },
+    "visitante": {
+          "nome": "Atlético-MG",
+          "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png" ,
+    "classificacao": 5  ,
+    "placar": 1
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 4  ,
+      "escanteiosSegundoTempo": 1  ,
+      "golsPrimeiroTempo": 1 ,
+      "golsSegundoTempo": 0 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3  ,
+      "escanteiosSegundoTempo": 3  ,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 1 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  1  ,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 4 ,
+      "cartoesVermelho": 0 }
+  },
+
+
+
+  {
+    "descricao": "Brasileiro Série A 2023",
     "rodada": 32,
     "data": "04.11.23",
     

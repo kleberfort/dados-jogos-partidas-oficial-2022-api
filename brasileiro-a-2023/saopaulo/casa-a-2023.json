@@ -1,5 +1,53 @@
 [
 
+  {
+    "descricao": "Brasileiro Série A 2023",
+    "rodada": 33 ,
+    "data": "08.11.23",
+    
+    "mandante": {
+     "nome": "São-Paulo",
+     "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png" ,
+    "classificacao": 10  ,
+    "placar": 1
+  },
+    "visitante": {
+            "nome": "Bragantino",
+            "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png" ,
+    "classificacao": 3  ,
+    "placar": 0
+    },
+    "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 3  ,
+      "escanteiosSegundoTempo": 6  ,
+      "golsPrimeiroTempo": 0 ,
+      "golsSegundoTempo": 1 },
+
+    "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0  ,
+      "escanteiosSegundoTempo": 5  ,
+      "golsPrimeiroTempo": 0  ,
+      "golsSegundoTempo": 0 },
+
+    "escanteiosPrimeiroMandante":{
+      "tres": "SIM",
+      "cinco": "SIM",
+      "sete": "SIM",
+      "nove": "SIM" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
+      "EstatisticaCartoesMandante":{
+      "cartoesAmarelo":  2  ,
+      "cartoesVermelho":  0 },
+       "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2 ,
+      "cartoesVermelho": 0 }
+  },
+
+
 
   {
     "descricao": "Brasileiro Série A 2023",
