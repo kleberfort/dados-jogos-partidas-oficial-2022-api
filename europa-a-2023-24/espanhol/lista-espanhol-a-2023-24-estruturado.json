@@ -6,6 +6,19 @@
 
 
       {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Alaves",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Almeria",
+            "placar":0
+                       }
+            },
+
+
+      {
             "rodada": 9,
             "mandante":{
             "nomeList": "Alaves",
@@ -252,6 +265,18 @@
 "jogosfora":[
 
       {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Alaves",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Almeria",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 10,
             "mandante":{
             "nomeList": "Girona",
@@ -408,6 +433,19 @@
 
 
       {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Villarreal",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bilbao",
+            "placar":3
+                       }
+            },
+
+
+      {
             "rodada": 10,
             "mandante":{
             "nomeList": "Barcelona",
@@ -548,6 +586,19 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "LasPalmas",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":1
+                       }
+            },
 
 
 
@@ -715,6 +766,19 @@
 
 
       {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Barcelona",
+            "placar":1
+                       }
+            },
+
+
+      {
             "rodada": 9,
             "mandante":{
             "nomeList": "Granada",
@@ -875,6 +939,19 @@
 
 
       {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Getafe",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cadiz",
+            "placar":0
+                       }
+            },
+
+
+      {
             "rodada": 10,
             "mandante":{
             "nomeList": "Valencia",
@@ -948,6 +1025,19 @@
       "nome": "Celta de Vigo",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "CeltaVigo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sevilla",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -1104,6 +1194,18 @@
       "nome": "Getafe",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Getafe",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Cadiz",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -1347,6 +1449,18 @@
 "jogosfora":[
 
       {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Osasuna",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Girona",
+            "placar":4
+                       }
+            },
+
+      {
             "rodada": 9,
             "mandante":{
             "nomeList": "Cadiz",
@@ -1503,6 +1617,18 @@
 ],
 "jogosfora":[
 
+      {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Valencia",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Granada",
+            "placar":0
+                       }
+            },
+
 
       {
             "rodada": 10,
@@ -1580,6 +1706,19 @@
       "nome": "Las Palmas",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yOIfuEFVFzu1dD8HiJt9vA_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "LasPalmas",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Atletico",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -1810,6 +1949,19 @@
 
 
       {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "RealBetis",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Mallorca",
+            "placar":0
+                       }
+            },
+
+
+      {
             "rodada": 10,
             "mandante":{
             "nomeList": "Sociedad",
@@ -1892,6 +2044,19 @@
       "nome": "Osasuna",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Osasuna",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Girona",
+            "placar":4
+                       }
+            },
 
 
       {
@@ -2145,6 +2310,19 @@
 "jogosfora":[
 
 
+      {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "RealMadrid",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Vallecano",
+            "placar":0
+                       }
+            },
+
+
 
       {
             "rodada": 10,
@@ -2238,6 +2416,18 @@
       "nome": "Real Betis",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png",
 "jogoscasa":[
+
+      {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "RealBetis",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Mallorca",
+            "placar":0
+                       }
+            },
 
       {
             "rodada": 11,
@@ -2407,6 +2597,18 @@
 "jogoscasa":[
 
       {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "RealMadrid",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Vallecano",
+            "placar":0
+                       }
+            },
+
+      {
             "rodada": 9,
             "mandante":{
             "nomeList": "RealMadrid",
@@ -2560,6 +2762,19 @@
       "nome": "Real Sociedad",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Sociedad",
+             "placar": 0
+                       },
+            "visitante":{
+            "nomeList": "Barcelona",
+            "placar":1
+                       }
+            },
 
 
       {
@@ -2804,6 +3019,19 @@
 
 
       {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "CeltaVigo",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Sevilla",
+            "placar":1
+                       }
+            },
+
+
+      {
             "rodada": 11,
             "mandante":{
             "nomeList": "Cadiz",
@@ -2863,6 +3091,19 @@
       "nome": "Valencia",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Valencia",
+             "placar": 1
+                       },
+            "visitante":{
+            "nomeList": "Granada",
+            "placar":0
+                       }
+            },
 
 
       {
@@ -3017,6 +3258,19 @@
       "nome": "Villarreal",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "rodada": 12,
+            "mandante":{
+            "nomeList": "Villarreal",
+             "placar": 2
+                       },
+            "visitante":{
+            "nomeList": "Bilbao",
+            "placar":3
+                       }
+            },
 
 
       {
