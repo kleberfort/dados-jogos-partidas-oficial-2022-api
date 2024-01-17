@@ -1139,6 +1139,23 @@
 "jogosfora":[
 
       {
+            "descricao": "Premier League A 2023-24",
+            "rodada": 13,
+            "data": "25.11.23",
+        
+            "mandante":{
+                "nome": "Newcastle",
+                "placar":4
+            },
+        
+            "visitante":{
+                "nome": "Chelsea",
+                "placar":1
+            }
+        
+      },
+
+      {
             "rodada": 11,
             "mandante":{
             "nomeList": "Tottenham",
@@ -2418,6 +2435,23 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
 "jogoscasa":[
 
+
+      {
+            "descricao": "Premier League A 2023-24",
+            "rodada": 13,
+            "data": "25.11.23",
+        
+            "mandante":{
+                "nome": "Newcastle",
+                "placar":4
+            },
+        
+            "visitante":{
+                "nome": "Chelsea",
+                "placar":1
+            }
+        
+      },
 
       {
             "rodada": 11,
