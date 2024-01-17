@@ -863,25 +863,18 @@
 "jogoscasa":[
 
 
-      {
-    "descricao": "Premier League A 2023-24",
+{
     "rodada": 13,
-    "data": "25.11.23",
-
     "mandante":{
         "nome": "Burnley",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/teLLSaMXim_8BA1d93sMng_96x96.png",
-        "classificacao": 20,
         "placar":1
     },
 
     "visitante":{
         "nome": "West Ham",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
-        "classificacao": 9,
         "placar":2
     }
-      },
+},
 
       {
             "rodada": 11,
@@ -3181,6 +3174,20 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "rodada": 13,
+            "mandante":{
+                "nome": "Burnley",
+                "placar":1
+            },
+        
+            "visitante":{
+                "nome": "West Ham",
+                "placar":2
+            }
+        },
 
 
       {
