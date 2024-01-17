@@ -2031,7 +2031,11 @@
 "jogoscasa":[
 
 {
-      "mandante":{
+    "descricao": "Premier League A 2023-24",
+    "rodada": 13,
+    "data": "25.11.23",
+
+    "mandante":{
         "nome": "City",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
         "classificacao": 1,
@@ -2044,7 +2048,6 @@
         "classificacao": 2,
         "placar":1
     }
-
 },
 
       {
