@@ -1920,6 +1920,25 @@
             }
         
            },
+
+
+           {
+            "descricao": "Premier League A 2023-24",
+            "rodada": 11,
+            "data": "04.11.23",
+        
+            "mandante":{
+                "nome": "Fulham",
+                "placar":0
+            },
+        
+            "visitante":{
+                "nome": "United",
+                "placar":1
+            }
+        
+        },
+
         
 
       {
@@ -2871,6 +2890,27 @@
             }
         
         },
+
+
+        {
+            "descricao": "Premier League A 2023-24",
+            "rodada": 11,
+            "data": "04.11.23",
+        
+            "mandante":{
+                "nome": "Fulham",
+                "placar":0
+            },
+        
+            "visitante":{
+                "nome": "United",
+                "placar":1
+            }
+        
+        },
+
+
+        
         
 
 
