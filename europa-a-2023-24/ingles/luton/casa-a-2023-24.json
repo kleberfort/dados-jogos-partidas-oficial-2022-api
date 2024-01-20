@@ -3,6 +3,305 @@
 
   {
     "descricao": "Premier League A 2023-24",
+    "rodada": 20,
+    "data": "30.12.23",
+
+    "mandante":{
+        "nome": "Luton",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/3e7bXAkZVEVAKQWTRQdGFw_96x96.png",
+        "classificacao": 18,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Chelsea",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+        "classificacao": 10,
+        "placar":3
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 3,
+        "escanteiosSegundoTempo": 4,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 2
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 0,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 2,
+        "golsSegundoTempo": 1
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 18,
+    "data": "23.12.23",
+
+    "mandante":{
+        "nome": "Luton",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/3e7bXAkZVEVAKQWTRQdGFw_96x96.png",
+        "classificacao": 18,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Newcastle",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
+        "classificacao": 6,
+        "placar":0
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 3,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 5,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    }
+},
+
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 16,
+    "data": "10.12.23",
+
+    "mandante":{
+        "nome": "Luton",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/3e7bXAkZVEVAKQWTRQdGFw_96x96.png",
+        "classificacao": 18,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "City",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+        "classificacao": 4,
+        "placar":2
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 0,
+        "escanteiosSegundoTempo": 6,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 2
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 1,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 15,
+    "data": "05.12.23",
+
+    "mandante":{
+        "nome": "Luton",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/3e7bXAkZVEVAKQWTRQdGFw_96x96.png",
+        "classificacao": 17,
+        "placar":3
+    },
+
+    "visitante":{
+        "nome": "Arsenal",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
+        "classificacao": 1,
+        "placar":4
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 1,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 2
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 6,
+        "golsPrimeiroTempo": 2,
+        "golsSegundoTempo": 2
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 1,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 13,
+    "data": "25.11.23",
+
+    "mandante":{
+        "nome": "Luton",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/3e7bXAkZVEVAKQWTRQdGFw_96x96.png",
+        "classificacao": 17,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Crystal Palace",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
+        "classificacao": 13,
+        "placar":1
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 2
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 4,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 1
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 6,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 1,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+  {
+    "descricao": "Premier League A 2023-24",
     "rodada": 11 ,
     "data": "05.11.23",
     

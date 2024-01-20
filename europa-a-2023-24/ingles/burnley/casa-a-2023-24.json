@@ -1,5 +1,245 @@
 [
 
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 19,
+    "data": "26.12.23",
+
+    "mandante":{
+        "nome": "Burnley",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/teLLSaMXim_8BA1d93sMng_96x96.png",
+        "classificacao": 19,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Liverpool",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
+        "classificacao": 2,
+        "placar":2
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 3,
+        "escanteiosSegundoTempo": 1,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 1
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 1,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 17,
+    "data": "16.12.23",
+
+    "mandante":{
+        "nome": "Burnley",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/teLLSaMXim_8BA1d93sMng_96x96.png",
+        "classificacao": 19,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Everton",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
+        "classificacao": 16,
+        "placar":2
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 3,
+        "escanteiosSegundoTempo": 5,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 4,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 2,
+        "golsSegundoTempo": 0
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 0,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 1,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 14,
+    "data": "02.12.23",
+
+    "mandante":{
+        "nome": "Burnley",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/teLLSaMXim_8BA1d93sMng_96x96.png",
+        "classificacao": 20,
+        "placar":5
+    },
+
+    "visitante":{
+        "nome": "Sheffield",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wF8AgQsssfy3_GLyVR3dSg_96x96.png",
+        "classificacao": 18,
+        "placar":0
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 4,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 2,
+        "golsSegundoTempo": 3
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 0,
+        "escanteiosSegundoTempo": 1,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 6,
+        "cartoesVermelho": 0
+    }
+     
+},
+
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 13,
+    "data": "25.11.23",
+
+    "mandante":{
+        "nome": "Burnley",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/teLLSaMXim_8BA1d93sMng_96x96.png",
+        "classificacao": 20,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "West Ham",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
+        "classificacao": 9,
+        "placar":2
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 1
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 4,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 2
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 1,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    }
+},
+
+
   {
     "descricao": "Premier League A 2023-24",
     "rodada": 11 ,
