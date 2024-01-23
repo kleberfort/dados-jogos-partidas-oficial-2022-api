@@ -2,6 +2,65 @@
 
   {
     "descricao": "La Liga A 2023-24",
+    "rodada": 18,
+    "data": "20.12.23",
+
+    "mandante":{
+        "nome": "Villarreal",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
+        "classificacao": 14,
+        "placar":3
+    },
+
+    "visitante":{
+        "nome": "Celta Vigo",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
+        "classificacao": 18,
+        "placar":2
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 3,
+        "escanteiosSegundoTempo": 1,
+        "golsPrimeiroTempo": 2,
+        "golsSegundoTempo": 1
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 6,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 2
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 4,
+        "cartoesVermelho": 0
+    }
+},
+
+
+  {
+    "descricao": "La Liga A 2023-24",
     "rodada": 16,
     "data": "09.12.23",
 

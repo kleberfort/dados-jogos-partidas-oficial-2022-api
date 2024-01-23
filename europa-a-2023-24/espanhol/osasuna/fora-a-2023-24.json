@@ -1,6 +1,66 @@
 [
 
 
+	{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 18,
+    "data": "21.12.23",
+
+    "mandante":{
+        "nome": "Mallorca",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ss21P4CUmigjrEtcoapjVg_96x96.png",
+        "classificacao": 15,
+        "placar":3
+    },
+
+    "visitante":{
+        "nome": "Osasuna",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
+        "classificacao": 12,
+        "placar":2
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 6,
+        "escanteiosSegundoTempo": 0,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 2
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 0,
+        "escanteiosSegundoTempo": 0,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 1
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 1,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
   {
     "descricao": "La Liga A 2023-24",
     "rodada": 16,
