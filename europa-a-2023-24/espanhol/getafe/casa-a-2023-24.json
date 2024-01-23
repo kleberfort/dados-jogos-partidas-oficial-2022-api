@@ -1,5 +1,65 @@
 [
 
+
+  {
+    "descricao": "La Liga A 2023-24",
+    "rodada": 16,
+    "data": "08.12.23",
+
+    "mandante":{
+        "nome": "Getafe",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png",
+        "classificacao": 10,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Valencia",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png",
+        "classificacao": 9,
+        "placar":0
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 6,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 1
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 0,
+        "escanteiosSegundoTempo": 0,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 1
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 1
+    }
+},
+
+
   {
     "descricao": "La Liga A 2023-24",
     "rodada": 14,
