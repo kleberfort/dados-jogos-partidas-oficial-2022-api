@@ -1,5 +1,184 @@
 [
 
+  {
+    "descricao": "La Liga A 2023-24",
+    "rodada": 18,
+    "data": "21.12.23",
+
+    "mandante":{
+        "nome": "Alaves",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/meAnutdPID67rfUecKaoFg_96x96.png",
+        "classificacao": 13,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Real Madrid",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+        "classificacao": 2,
+        "placar":1
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 1,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 0,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 1
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 1,
+        "cartoesVermelho": 1
+    }
+},
+
+
+
+  {
+    "descricao": "La Liga A 2023-24",
+    "rodada": 16,
+    "data": "09.12.23",
+
+    "mandante":{
+        "nome": "Alaves",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/meAnutdPID67rfUecKaoFg_96x96.png",
+        "classificacao": 13,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Las Palmas",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yOIfuEFVFzu1dD8HiJt9vA_96x96.png",
+        "classificacao": 8,
+        "placar":1
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 4,
+        "escanteiosSegundoTempo": 8,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 3,
+        "escanteiosSegundoTempo": 0,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 0
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 4,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+  {
+    "descricao": "La Liga A 2023-24",
+    "rodada": 14,
+    "data": "24.11.23",
+
+    "mandante":{
+        "nome": "Alaves",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/meAnutdPID67rfUecKaoFg_96x96.png",
+        "classificacao": 15,
+        "placar":3
+    },
+
+    "visitante":{
+         "nome": "Granada",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_96x96.png",
+        "classificacao": 11,
+        "placar":1
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 3,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 1
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 0,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 1
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 1,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    }
+},
+
+
 
   {
     "descricao": "La Liga A 2023-24",

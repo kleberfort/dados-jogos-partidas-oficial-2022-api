@@ -1,5 +1,125 @@
 [
 
+
+  {
+    "descricao": "La Liga A 2023-24",
+    "rodada": 15,
+    "data": "02.12.23",
+
+    "mandante":{
+        "nome": "Osasuna",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
+        "classificacao": 14,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Sociedad",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_96x96.png",
+        "classificacao": 6,
+        "placar":1
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 0,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 4,
+        "escanteiosSegundoTempo": 4,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 0
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+  {
+    "descricao": "La Liga A 2023-24",
+    "rodada": 13,
+    "data": "11.11.23",
+
+    "mandante":{
+        "nome": "Almeria",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
+        "classificacao": 20,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Sociedad",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_96x96.png",
+        "classificacao": 7,
+        "placar":3
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 4,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 1
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 3
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    }
+},
+
+
   {
     "descricao": "La Liga A 2023-24",
     "rodada": 11 ,
