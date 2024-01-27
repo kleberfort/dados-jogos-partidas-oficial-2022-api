@@ -4,6 +4,27 @@
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
 "jogoscasa":[
 
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "11.11.23",
+        
+            "mandante":{
+                "nome": "Augsburg",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            },
+        
+            "visitante":{
+                "nome": "Hoffenheim",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            }
+        },
+        
+
 
       {
             "rodada": 9,
@@ -154,6 +175,27 @@
          "nome": "Bayer Leverkusen",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
 "jogoscasa":[
+
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "12.11.23",
+        
+            "mandante":{
+                "nome": "Leverkusen",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+                "classificacao": 99,
+                "placar":4
+            },
+        
+            "visitante":{
+                "nome": "Union Berlin",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+                "classificacao": 99,
+                "placar":0
+            }
+        },
+        
 
 
       {
@@ -308,6 +350,27 @@
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
 "jogoscasa":[
 
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "11.11.23",
+        
+            "mandante":{
+                "nome": "Bayern",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+                "classificacao": 99,
+                "placar":4
+            },
+        
+            "visitante":{
+                "nome": "Heidenheim",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+                "classificacao": 99,
+                "placar":2
+            }
+        },
+        
+
 
       {
             "rodada": 9,
@@ -453,6 +516,27 @@
       "nome": "Bochum",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
 "jogoscasa":[
+
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "11.11.23",
+        
+            "mandante":{
+                "nome": "Bochum",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            },
+        
+            "visitante":{
+                "nome": "Köln(Colônia)",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/W94hx-q1SdXOZBrW6RSSVg_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            }
+        },
+        
 
       {
             "rodada": 9,
@@ -685,6 +769,28 @@
 ],
 "jogosfora":[
 
+
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "11.11.23",
+        
+            "mandante":{
+                "nome": "Stuttgart",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+                "classificacao": 99,
+                "placar":2
+            },
+        
+            "visitante":{
+                "nome": "Dortmund",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            }
+        },
+        
+
       {
             "rodada": 9,
             "mandante":{
@@ -750,6 +856,28 @@
           "nome": "Borussia Mönchengladbach",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "10.11.23",
+        
+            "mandante":{
+                "nome": "Mönche",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+                "classificacao": 99,
+                "placar":4
+            },
+        
+            "visitante":{
+                "nome": "Wolfsburg",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+                "classificacao": 99,
+                "placar":0
+            }
+        },
+        
 
 
       {
@@ -895,6 +1023,27 @@
       "nome": "Darmstadt98",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LRa03M7uie9UbhtSgw9jCg_96x96.png",
 "jogoscasa":[
+
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "11.11.23",
+        
+            "mandante":{
+                "nome": "Darmstadt",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LRa03M7uie9UbhtSgw9jCg_96x96.png",
+                "classificacao": 99,
+                "placar":0
+            },
+        
+            "visitante":{
+                "nome": "Mainz 05",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+                "classificacao": 99,
+                "placar":0
+            }
+        },
+        
 
 
       {
@@ -1113,6 +1262,27 @@
 ],
 "jogosfora":[
 
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "12.11.23",
+        
+            "mandante":{
+                "nome": "Werder Bremen",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+                "classificacao": 99,
+                "placar":2
+            },
+        
+            "visitante":{
+                "nome": "Frankfurt",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+                "classificacao": 99,
+                "placar":2
+            }
+        },
+        
+
 
       {
             "rodada": 10,
@@ -1260,6 +1430,27 @@
 ],
 "jogosfora":[
 
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "12.11.23",
+        
+            "mandante":{
+                "nome": "Leipzig",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+                "classificacao": 99,
+                "placar":3
+            },
+        
+            "visitante":{
+                "nome": "Freiburg",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            }
+        },
+        
+
 
        {
             "rodada": 9,
@@ -1405,6 +1596,27 @@
 
 ],
 "jogosfora":[
+
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "11.11.23",
+        
+            "mandante":{
+                "nome": "Bayern",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+                "classificacao": 99,
+                "placar":4
+            },
+        
+            "visitante":{
+                "nome": "Heidenheim",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+                "classificacao": 99,
+                "placar":2
+            }
+        },
+        
 
 
       {
@@ -1556,6 +1768,28 @@
 
 
       {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "11.11.23",
+        
+            "mandante":{
+                "nome": "Augsburg",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            },
+        
+            "visitante":{
+                "nome": "Hoffenheim",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            }
+        },
+        
+
+
+      {
             "rodada": 9,
             "mandante":{
             "nomeList": "Stuttgart",
@@ -1702,6 +1936,27 @@
 ],
 "jogosfora":[
 
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "11.11.23",
+        
+            "mandante":{
+                "nome": "Bochum",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            },
+        
+            "visitante":{
+                "nome": "Köln(Colônia)",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/W94hx-q1SdXOZBrW6RSSVg_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            }
+        },
+        
+
 
       {
             "rodada": 9,
@@ -1775,6 +2030,27 @@
       "nome": "RB Leipzig",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
 "jogoscasa":[
+
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "12.11.23",
+        
+            "mandante":{
+                "nome": "Leipzig",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+                "classificacao": 99,
+                "placar":3
+            },
+        
+            "visitante":{
+                "nome": "Freiburg",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            }
+        },
+        
 
 
       {
@@ -2000,6 +2276,27 @@
 ],
 "jogosfora":[
 
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "11.11.23",
+        
+            "mandante":{
+                "nome": "Darmstadt",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LRa03M7uie9UbhtSgw9jCg_96x96.png",
+                "classificacao": 99,
+                "placar":0
+            },
+        
+            "visitante":{
+                "nome": "Mainz 05",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+                "classificacao": 99,
+                "placar":0
+            }
+        },
+        
+
 
       {
             "rodada": 9,
@@ -2082,6 +2379,28 @@
       "nome": "Stuttgart",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "11.11.23",
+        
+            "mandante":{
+                "nome": "Stuttgart",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+                "classificacao": 99,
+                "placar":2
+            },
+        
+            "visitante":{
+                "nome": "Dortmund",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            }
+        },
+        
 
       {
             "rodada": 9,
@@ -2309,6 +2628,27 @@
 ],
 "jogosfora":[
 
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "12.11.23",
+        
+            "mandante":{
+                "nome": "Leverkusen",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+                "classificacao": 99,
+                "placar":4
+            },
+        
+            "visitante":{
+                "nome": "Union Berlin",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+                "classificacao": 99,
+                "placar":0
+            }
+        },
+        
+
 
       {
             "rodada": 9,
@@ -2382,6 +2722,27 @@
       "nome": "Werder Bremen",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
 "jogoscasa":[
+
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "12.11.23",
+        
+            "mandante":{
+                "nome": "Werder Bremen",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+                "classificacao": 99,
+                "placar":2
+            },
+        
+            "visitante":{
+                "nome": "Frankfurt",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+                "classificacao": 99,
+                "placar":2
+            }
+        },
+        
 
 
       {
@@ -2596,6 +2957,28 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 11,
+            "data": "10.11.23",
+        
+            "mandante":{
+                "nome": "Mönche",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+                "classificacao": 99,
+                "placar":4
+            },
+        
+            "visitante":{
+                "nome": "Wolfsburg",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+                "classificacao": 99,
+                "placar":0
+            }
+        },
+        
 
 
       {
