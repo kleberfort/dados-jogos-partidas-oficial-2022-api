@@ -662,6 +662,27 @@
 "jogoscasa":[
 
 
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 13,
+            "data": "24.01.24",
+        
+            "mandante":{
+                "nome": "Bayern",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            },
+        
+            "visitante":{
+                "nome": "Union Berlin",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+                "classificacao": 99,
+                "placar":0
+            }
+        },
+        
+
 
 {
       "descricao": "Bundesliga A 2023-24",
@@ -4963,6 +4984,28 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "descricao": "Bundesliga A 2023-24",
+            "rodada": 13,
+            "data": "24.01.24",
+        
+            "mandante":{
+                "nome": "Bayern",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+                "classificacao": 99,
+                "placar":1
+            },
+        
+            "visitante":{
+                "nome": "Union Berlin",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+                "classificacao": 99,
+                "placar":0
+            }
+        },
+        
 
 
 
