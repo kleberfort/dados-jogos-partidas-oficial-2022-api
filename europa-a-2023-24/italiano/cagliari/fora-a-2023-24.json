@@ -1,6 +1,65 @@
 [
 
 
+  {
+    "descricao": "Série A 2023-24",
+    "rodada": 14,
+    "data": "02.12.23",
+
+    "mandante":{
+        "nome": "Lazio",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png",
+        "classificacao": 11,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Cagliari",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png",
+        "classificacao": 17,
+        "placar":0
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 0,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 0,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 1
+    }
+},
+
+
 
 	{
     "descricao": "Série A 2023-24",
