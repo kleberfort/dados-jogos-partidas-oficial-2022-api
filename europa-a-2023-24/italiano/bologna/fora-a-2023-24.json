@@ -1,6 +1,66 @@
 [
 
 
+{
+  "descricao": "Série A 2023-24",
+  "rodada": 20,
+  "data": "14.01.24",
+
+  "mandante":{
+      "nome": "Cagliari",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png",
+      "classificacao": 17,
+      "placar":2
+  },
+
+  "visitante":{
+      "nome": "Bologna",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png",
+      "classificacao": 5,
+      "placar":1
+  },
+
+  "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1
+  },
+
+  "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 0
+  },
+
+  "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "escanteiosPrimeiroVisitante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "EstatisticaCartoesMandante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 0
+  },
+
+  "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2,
+      "cartoesVermelho": 0
+  }
+},
+
+
+
   {
     "descricao": "Série A 2023-24",
     "rodada": 18,
