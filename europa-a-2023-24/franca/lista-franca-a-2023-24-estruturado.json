@@ -259,17 +259,17 @@
             },
 
 
-      {
-            "rodada": 8,
-            "mandante":{
-            "nomeList": "Montpellier",
-             "placar": 4
-                       },
-            "visitante":{
-            "nomeList": "Clermont",
-            "placar":2
-                       }
-            },
+            {
+                  "rodada": 8,
+                  "mandante":{
+                  "nomeList": "Montpellier",
+                   "placar": 1
+                             },
+                  "visitante":{
+                  "nomeList": "Clermont",
+                  "placar":1
+                             }
+                  },
 
       {
             "rodada": 6,
@@ -1578,11 +1578,11 @@
             "rodada": 8,
             "mandante":{
             "nomeList": "Montpellier",
-             "placar": 4
+             "placar": 1
                        },
             "visitante":{
             "nomeList": "Clermont",
-            "placar":2
+            "placar":1
                        }
             },
 

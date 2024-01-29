@@ -103,49 +103,50 @@
   {
     "descricao": "Ligue 1 2023-24",
     "rodada": 8 ,
-    "data": "08.10.23",
+    "data": "29.11.23",
     
     "mandante": {
            "nome": "Montpellier",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fL5Nk_2eUanYiOSB9AnBpQ_96x96.png"  ,
     "classificacao": 9  ,
-    "placar": 4
+    "placar": 1
   },
     "visitante": {
           "nome": "Clermont",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0aur9jOW37pq6dUzu61wWQ_96x96.png"  ,
     "classificacao": 17  ,
-    "placar": 2
+    "placar": 1
     },
     "estatistiticaJogoMandante":{
       "escanteiosPrimeiroTempo": 3,
-      "escanteiosSegundoTempo": 0  ,
-      "golsPrimeiroTempo": 2,
-      "golsSegundoTempo": 2},
+      "escanteiosSegundoTempo": 5  ,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1},
 
     "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 2,
-      "escanteiosSegundoTempo": 5,
-      "golsPrimeiroTempo": 2,
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 1,
       "golsSegundoTempo": 0 },
 
     "escanteiosPrimeiroMandante":{
       "tres": "SIM",
-      "cinco": "NÃO",
-      "sete": "NÃO",
-      "nove": "NÃO" },
-    "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
       "cinco": "SIM",
       "sete": "SIM",
       "nove": "NÃO" },
+    "escanteiosPrimeiroVisitante": {
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO" },
       "EstatisticaCartoesMandante":{
-      "cartoesAmarelo":  1,
-      "cartoesVermelho":  1},
+      "cartoesAmarelo":  2,
+      "cartoesVermelho":  0},
        "EstatisticaCartoesVisitante":{
-      "cartoesAmarelo": 2,
-      "cartoesVermelho": 1}
+      "cartoesAmarelo": 4,
+      "cartoesVermelho": 0}
   },
+
 
 
   {
