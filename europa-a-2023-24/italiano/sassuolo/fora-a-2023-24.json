@@ -1,5 +1,64 @@
 [
 
+  {
+    "descricao": "Série A 2023-24",
+    "rodada": 22,
+    "data": "28.01.24",
+
+    "mandante":{
+        "nome": "Monza",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png",
+        "classificacao": 12,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Sassuolo",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png",
+        "classificacao": 15,
+        "placar":0
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 3,
+        "escanteiosSegundoTempo": 1,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 1,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    }
+},
+
+
 
 {
   "descricao": "Série A 2023-24",
