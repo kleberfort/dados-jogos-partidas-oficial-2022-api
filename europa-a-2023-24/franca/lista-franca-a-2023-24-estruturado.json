@@ -2239,6 +2239,20 @@
                 "placar":1
             }
         },
+
+
+        {
+            "rodada": 10,
+            "data": "06.12.23",
+            "mandante":{
+            "nomeList": "Marseille",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Lyon",
+            "placar":0
+                       }
+            },
         
 
 
@@ -2411,6 +2425,21 @@
                 "placar":1
             }
         },
+
+
+        {
+            "rodada": 10,
+            "data": "06.12.23",
+            "mandante":{
+            "nomeList": "Marseille",
+             "placar": 3
+                       },
+            "visitante":{
+            "nomeList": "Lyon",
+            "placar":0
+                       }
+            },
+
         
 
       {
