@@ -1180,6 +1180,29 @@
 "jogoscasa":[
 
 
+
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 20,
+    "data": "31.01.24",
+
+    "mandante":{
+        "nome": "Atlético",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png",
+        "classificacao": 3,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Vallecano",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i5LifmxEVIl0sbvIysiyhw_96x96.png",
+        "classificacao": 13,
+        "placar":1
+    }
+},
+
+
+
 {
     "descricao": "La Liga A 2023-24",
     "rodada": 22,
@@ -1550,6 +1573,28 @@
       "nome": "Barcelona",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
 "jogoscasa":[
+
+
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 20,
+        "data": "31.01.24",
+    
+        "mandante":{
+            "nome": "Barcelona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
+            "classificacao": 4,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Osasuna",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
+            "classificacao": 12,
+            "placar":0
+        }
+    },
+    
 
 
 
@@ -2710,6 +2755,29 @@
       "nome": "Getafe",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png",
 "jogoscasa":[
+
+
+
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 20,
+    "data": "01.02.24",
+
+    "mandante":{
+        "nome": "Getafe",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+        "classificacao": 10,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Real Madrid",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+        "classificacao": 2,
+        "placar":2
+    }
+},
+
 
 
 {
@@ -4841,6 +4909,27 @@
 "jogosfora":[
 
 
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 20,
+        "data": "31.01.24",
+    
+        "mandante":{
+            "nome": "Barcelona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
+            "classificacao": 4,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Osasuna",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
+            "classificacao": 12,
+            "placar":0
+        }
+    },
+    
+
 
 {
     "descricao": "La Liga A 2023-24",
@@ -5213,6 +5302,29 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 20,
+    "data": "31.01.24",
+
+    "mandante":{
+        "nome": "Atlético",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png",
+        "classificacao": 3,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Vallecano",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i5LifmxEVIl0sbvIysiyhw_96x96.png",
+        "classificacao": 13,
+        "placar":1
+    }
+},
+
 
     {
         "descricao": "La Liga A 2023-24",
@@ -5984,6 +6096,28 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 20,
+    "data": "01.02.24",
+
+    "mandante":{
+        "nome": "Getafe",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+        "classificacao": 10,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Real Madrid",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+        "classificacao": 2,
+        "placar":2
+    }
+},
 
 
 
