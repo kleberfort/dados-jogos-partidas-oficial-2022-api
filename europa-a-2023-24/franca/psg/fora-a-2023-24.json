@@ -4,6 +4,67 @@
 
 {
   "descricao": "Ligue 1 2023-24",
+  "rodada": 16,
+  "data": "17.12.23",
+
+  "mandante":{
+      "nome": "Lille",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/D2AQe8qoyPIP4K8MzLvwuA_96x96.png",
+      "classificacao": 4,
+      "placar":1
+  },
+
+  "visitante":{
+      "nome": "PSG",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+      "classificacao": 1,
+      "placar":1
+  },
+
+  "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 7,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1
+  },
+
+  "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 6,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1
+  },
+
+  "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "escanteiosPrimeiroVisitante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "EstatisticaCartoesMandante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 0
+  },
+
+  "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 0
+  }
+},
+
+
+
+
+{
+  "descricao": "Ligue 1 2023-24",
   "rodada": 14,
   "data": "03.12.23",
 
