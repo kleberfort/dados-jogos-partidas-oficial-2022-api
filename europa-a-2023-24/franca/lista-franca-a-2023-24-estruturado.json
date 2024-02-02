@@ -4,6 +4,28 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HNqZwlu71GHXo60XjYrPxg_96x96.png",
 "jogoscasa":[
 
+
+      {
+            "descricao": "Ligue 1 2023-24",
+            "rodada": 18,
+            "data": "14.01.24",
+        
+            "mandante":{
+                "nome": "Brest",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HNqZwlu71GHXo60XjYrPxg_96x96.png",
+                "classificacao": 4,
+                "placar":2
+            },
+        
+            "visitante":{
+                "nome": "Montpellier",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fL5Nk_2eUanYiOSB9AnBpQ_96x96.png",
+                "classificacao": 12,
+                "placar":0
+            }
+        },
+        
+
       {
             "descricao": "Ligue 1 2023-24",
             "rodada": 17,
@@ -139,6 +161,28 @@
 
             ],
 "jogosfora":[
+
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "28.01.24",
+  
+      "mandante":{
+          "nome": "PSG",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+          "classificacao": 1,
+          "placar":2
+      },
+  
+      "visitante":{
+          "nome": "Brest",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HNqZwlu71GHXo60XjYrPxg_96x96.png",
+          "classificacao": 3,
+          "placar":2
+      }
+  },
+  
 
 
       {
@@ -298,6 +342,28 @@
 
       {
             "descricao": "Ligue 1 2023-24",
+            "rodada": 19,
+            "data": "28.01.24",
+        
+            "mandante":{
+                "nome": "Clermont",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0aur9jOW37pq6dUzu61wWQ_96x96.png",
+                "classificacao": 17,
+                "placar":1
+            },
+        
+            "visitante":{
+                "nome": "Strasbourg",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Eb9xtMpUy8FXQ0RCKvLxcg_96x96.png",
+                "classificacao": 9,
+                "placar":1
+            }
+        },
+        
+
+
+      {
+            "descricao": "Ligue 1 2023-24",
             "rodada": 17,
             "data": "20.12.23",
         
@@ -453,6 +519,29 @@
 "jogosfora":[
 
 
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 18,
+      "data": "14.01.24",
+  
+      "mandante":{
+          "nome": "Nantes",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/r3qizrAtoAXPICgYjFYCyA_96x96.png",
+          "classificacao": 13,
+          "placar":1
+      },
+  
+      "visitante":{
+          "nome": "Clermont",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0aur9jOW37pq6dUzu61wWQ_96x96.png",
+          "classificacao": 18,
+          "placar":2
+      }
+  },
+  
+
+
       {
             "descricao": "Ligue 1 2023-24",
             "rodada": 16,
@@ -582,6 +671,29 @@
       "nome": "Le Havre",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BRitaBE1_mjMJguk6xzTRw_96x96.png",
 "jogoscasa":[
+
+
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 18,
+      "data": "14.01.24",
+  
+      "mandante":{
+          "nome": "Le-Havre",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BRitaBE1_mjMJguk6xzTRw_96x96.png",
+          "classificacao": 11,
+          "placar":3
+      },
+  
+      "visitante":{
+          "nome": "Lyon",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
+          "classificacao": 15,
+          "placar":1
+      }
+  },
+  
 
 
 
@@ -725,6 +837,29 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "28.01.24",
+  
+      "mandante":{
+          "nome": "Lorient",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bbYkAWWtD6lpK5KyGfr1vA_96x96.png",
+          "classificacao": 18,
+          "placar":3
+      },
+  
+      "visitante":{
+          "nome": "Le-Havre",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BRitaBE1_mjMJguk6xzTRw_96x96.png",
+          "classificacao": 11,
+          "placar":3
+      }
+  },
+  
 
 
 
@@ -881,6 +1016,28 @@
 
       {
             "descricao": "Ligue 1 2023-24",
+            "rodada": 18,
+            "data": "14.01.24",
+        
+            "mandante":{
+                "nome": "Lens",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/TUvwItKazVFpgThEhhlN1Q_96x96.png",
+                "classificacao": 7,
+                "placar":0
+            },
+        
+            "visitante":{
+                "nome": "PSG",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+                "classificacao": 1,
+                "placar":2
+            }
+        },
+        
+
+
+      {
+            "descricao": "Ligue 1 2023-24",
             "rodada": 16,
             "data": "16.12.23",
         
@@ -1013,6 +1170,29 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "28.01.24",
+  
+      "mandante":{
+          "nome": "Toulouse",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+          "classificacao": 14,
+          "placar":0
+      },
+  
+      "visitante":{
+          "nome": "Lens",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/TUvwItKazVFpgThEhhlN1Q_96x96.png",
+          "classificacao": 8,
+          "placar":2
+      }
+  },
+  
 
 
 {
@@ -1164,6 +1344,28 @@
 "jogoscasa":[
 
 
+      {
+            "descricao": "Ligue 1 2023-24",
+            "rodada": 18,
+            "data": "14.01.24",
+        
+            "mandante":{
+                "nome": "Lille",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/D2AQe8qoyPIP4K8MzLvwuA_96x96.png",
+                "classificacao": 5,
+                "placar":3
+            },
+        
+            "visitante":{
+                "nome": "Lorient",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bbYkAWWtD6lpK5KyGfr1vA_96x96.png",
+                "classificacao": 17,
+                "placar":0
+            }
+        },
+        
+
+
 
 {
       "descricao": "Ligue 1 2023-24",
@@ -1307,6 +1509,28 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "descricao": "Ligue 1 2023-24",
+            "rodada": 19,
+            "data": "28.01.24",
+        
+            "mandante":{
+                "nome": "Montpellier",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fL5Nk_2eUanYiOSB9AnBpQ_96x96.png",
+                "classificacao": 12,
+                "placar":0
+            },
+        
+            "visitante":{
+                "nome": "Lille",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/D2AQe8qoyPIP4K8MzLvwuA_96x96.png",
+                "classificacao": 5,
+                "placar":0
+            }
+        },
+        
 
 
       {
@@ -1466,6 +1690,29 @@
 "jogoscasa":[
 
 
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "28.01.24",
+  
+      "mandante":{
+          "nome": "Lorient",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bbYkAWWtD6lpK5KyGfr1vA_96x96.png",
+          "classificacao": 18,
+          "placar":3
+      },
+  
+      "visitante":{
+          "nome": "Le-Havre",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BRitaBE1_mjMJguk6xzTRw_96x96.png",
+          "classificacao": 11,
+          "placar":3
+      }
+  },
+  
+
+
 {
       "descricao": "Ligue 1 2023-24",
       "rodada": 15,
@@ -1590,6 +1837,28 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "descricao": "Ligue 1 2023-24",
+            "rodada": 18,
+            "data": "14.01.24",
+        
+            "mandante":{
+                "nome": "Lille",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/D2AQe8qoyPIP4K8MzLvwuA_96x96.png",
+                "classificacao": 5,
+                "placar":3
+            },
+        
+            "visitante":{
+                "nome": "Lorient",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bbYkAWWtD6lpK5KyGfr1vA_96x96.png",
+                "classificacao": 17,
+                "placar":0
+            }
+        },
+        
 
       {
             "descricao": "Ligue 1 2023-24",
@@ -1731,6 +2000,28 @@
       "nome": "Lyon",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
 "jogoscasa":[
+
+
+      {
+            "descricao": "Ligue 1 2023-24",
+            "rodada": 19,
+            "data": "26.01.24",
+        
+            "mandante":{
+                "nome": "Lyon",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
+                "classificacao": 16,
+                "placar":2
+            },
+        
+            "visitante":{
+                "nome": "Rennes",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
+                "classificacao": 10,
+                "placar":3
+            }
+        },
+        
 
 
 
@@ -1906,6 +2197,29 @@
 "jogosfora":[
 
 
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 18,
+      "data": "14.01.24",
+  
+      "mandante":{
+          "nome": "Le-Havre",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BRitaBE1_mjMJguk6xzTRw_96x96.png",
+          "classificacao": 11,
+          "placar":3
+      },
+  
+      "visitante":{
+          "nome": "Lyon",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
+          "classificacao": 15,
+          "placar":1
+      }
+  },
+  
+
+
       {
             "descricao": "Ligue 1 2023-24",
             "rodada": 16,
@@ -2031,6 +2345,51 @@
       "nome": "Marseille",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png",
 "jogoscasa":[
+
+
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "27.01.24",
+  
+      "mandante":{
+          "nome": "Marseille",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png",
+          "classificacao": 7,
+          "placar":2
+      },
+  
+      "visitante":{
+          "nome": "Monaco",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/RX0XTi5Dtg4joMtuHNmYKg_96x96.png",
+          "classificacao": 4,
+          "placar":2
+      }
+  },
+  
+
+
+      {
+            "descricao": "Ligue 1 2023-24",
+            "rodada": 18,
+            "data": "12.01.24",
+        
+            "mandante":{
+                "nome": "Marseille",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png",
+                "classificacao": 6,
+                "placar":1
+            },
+        
+            "visitante":{
+                "nome": "Strasbourg",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Eb9xtMpUy8FXQ0RCKvLxcg_96x96.png",
+                "classificacao": 9,
+                "placar":1
+            }
+        },
+        
 
 
       {
@@ -2309,6 +2668,28 @@
 "jogoscasa":[
 
 
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 18,
+      "data": "14.01.24",
+  
+      "mandante":{
+          "nome": "Metz",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/b7iBf-aijuqQaScGSpDV7A_96x96.png",
+          "classificacao": 14,
+          "placar":0
+      },
+  
+      "visitante":{
+          "nome": "Toulouse",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+          "classificacao": 16,
+          "placar":1
+      }
+  },
+  
+
+
       {
             "descricao": "Ligue 1 2023-24",
             "rodada": 16,
@@ -2443,6 +2824,29 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "27.01.24",
+  
+      "mandante":{
+          "nome": "Nice",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Llrxrqsc3Tw4JzE6xM7GWw_96x96.png",
+          "classificacao": 2,
+          "placar":1
+      },
+  
+      "visitante":{
+          "nome": "Metz",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/b7iBf-aijuqQaScGSpDV7A_96x96.png",
+          "classificacao": 15,
+          "placar":0
+      }
+  },
+  
 
 
       {
@@ -2597,6 +3001,29 @@
 "jogoscasa":[
 
 
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 18,
+      "data": "13.01.24",
+  
+      "mandante":{
+          "nome": "Monaco",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/RX0XTi5Dtg4joMtuHNmYKg_96x96.png",
+          "classificacao": 3,
+          "placar":1
+      },
+  
+      "visitante":{
+          "nome": "Reims",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NWzvJ-A3j8HQkeQZ0sJP1w_96x96.png",
+          "classificacao": 8,
+          "placar":3
+      }
+  },
+  
+
+
       {
             "descricao": "Ligue 1 2023-24",
             "rodada": 16,
@@ -2724,6 +3151,29 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "27.01.24",
+  
+      "mandante":{
+          "nome": "Marseille",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png",
+          "classificacao": 7,
+          "placar":2
+      },
+  
+      "visitante":{
+          "nome": "Monaco",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/RX0XTi5Dtg4joMtuHNmYKg_96x96.png",
+          "classificacao": 4,
+          "placar":2
+      }
+  },
+  
 
 
       {
@@ -2888,6 +3338,27 @@
 "jogoscasa":[
 
 
+      {
+            "descricao": "Ligue 1 2023-24",
+            "rodada": 19,
+            "data": "28.01.24",
+        
+            "mandante":{
+                "nome": "Montpellier",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fL5Nk_2eUanYiOSB9AnBpQ_96x96.png",
+                "classificacao": 12,
+                "placar":0
+            },
+        
+            "visitante":{
+                "nome": "Lille",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/D2AQe8qoyPIP4K8MzLvwuA_96x96.png",
+                "classificacao": 5,
+                "placar":0
+            }
+        },
+        
+
 
 {
       "descricao": "Ligue 1 2023-24",
@@ -3051,6 +3522,28 @@
 
       {
             "descricao": "Ligue 1 2023-24",
+            "rodada": 18,
+            "data": "14.01.24",
+        
+            "mandante":{
+                "nome": "Brest",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HNqZwlu71GHXo60XjYrPxg_96x96.png",
+                "classificacao": 4,
+                "placar":2
+            },
+        
+            "visitante":{
+                "nome": "Montpellier",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fL5Nk_2eUanYiOSB9AnBpQ_96x96.png",
+                "classificacao": 12,
+                "placar":0
+            }
+        },
+        
+
+
+      {
+            "descricao": "Ligue 1 2023-24",
             "rodada": 16,
             "data": "17.12.23",
         
@@ -3179,6 +3672,29 @@
       "nome": "Nantes",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/r3qizrAtoAXPICgYjFYCyA_96x96.png",
 "jogoscasa":[
+
+
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 18,
+      "data": "14.01.24",
+  
+      "mandante":{
+          "nome": "Nantes",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/r3qizrAtoAXPICgYjFYCyA_96x96.png",
+          "classificacao": 13,
+          "placar":1
+      },
+  
+      "visitante":{
+          "nome": "Clermont",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0aur9jOW37pq6dUzu61wWQ_96x96.png",
+          "classificacao": 18,
+          "placar":2
+      }
+  },
+  
 
 
       {
@@ -3336,6 +3852,29 @@
 
 {
       "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "28.01.24",
+  
+      "mandante":{
+          "nome": "Reims",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NWzvJ-A3j8HQkeQZ0sJP1w_96x96.png",
+          "classificacao": 6,
+          "placar":0
+      },
+  
+      "visitante":{
+          "nome": "Nantes",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/r3qizrAtoAXPICgYjFYCyA_96x96.png",
+          "classificacao": 13,
+          "placar":0
+      }
+  },
+  
+
+
+
+{
+      "descricao": "Ligue 1 2023-24",
       "rodada": 17,
       "data": "20.12.23",
   
@@ -3474,6 +4013,28 @@
       "nome": "Nice",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Llrxrqsc3Tw4JzE6xM7GWw_96x96.png",
 "jogoscasa":[
+
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "27.01.24",
+  
+      "mandante":{
+          "nome": "Nice",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Llrxrqsc3Tw4JzE6xM7GWw_96x96.png",
+          "classificacao": 2,
+          "placar":1
+      },
+  
+      "visitante":{
+          "nome": "Metz",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/b7iBf-aijuqQaScGSpDV7A_96x96.png",
+          "classificacao": 15,
+          "placar":0
+      }
+  },
+  
 
 
 
@@ -3629,6 +4190,28 @@
 "jogosfora":[
 
 
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 18,
+      "data": "13.01.24",
+  
+      "mandante":{
+          "nome": "Rennes",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
+          "classificacao": 10,
+          "placar":2
+      },
+  
+      "visitante":{
+          "nome": "Nice",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Llrxrqsc3Tw4JzE6xM7GWw_96x96.png",
+          "classificacao": 2,
+          "placar":0
+      }
+  },
+  
+
+
 
 {
       "descricao": "Ligue 1 2023-24",
@@ -3778,6 +4361,28 @@
 "jogoscasa":[
 
 
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "28.01.24",
+  
+      "mandante":{
+          "nome": "PSG",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+          "classificacao": 1,
+          "placar":2
+      },
+  
+      "visitante":{
+          "nome": "Brest",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HNqZwlu71GHXo60XjYrPxg_96x96.png",
+          "classificacao": 3,
+          "placar":2
+      }
+  },
+  
+
+
       {
             "descricao": "Ligue 1 2023-24",
             "rodada": 17,
@@ -3922,6 +4527,28 @@
 
 ],
 "jogosfora":[
+
+
+      {
+            "descricao": "Ligue 1 2023-24",
+            "rodada": 18,
+            "data": "14.01.24",
+        
+            "mandante":{
+                "nome": "Lens",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/TUvwItKazVFpgThEhhlN1Q_96x96.png",
+                "classificacao": 7,
+                "placar":0
+            },
+        
+            "visitante":{
+                "nome": "PSG",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+                "classificacao": 1,
+                "placar":2
+            }
+        },
+        
 
 
 
@@ -4075,6 +4702,29 @@
 "jogoscasa":[
 
 
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "28.01.24",
+  
+      "mandante":{
+          "nome": "Reims",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NWzvJ-A3j8HQkeQZ0sJP1w_96x96.png",
+          "classificacao": 6,
+          "placar":0
+      },
+  
+      "visitante":{
+          "nome": "Nantes",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/r3qizrAtoAXPICgYjFYCyA_96x96.png",
+          "classificacao": 13,
+          "placar":0
+      }
+  },
+  
+
+
 {
       "descricao": "Ligue 1 2023-24",
       "rodada": 17,
@@ -4213,6 +4863,29 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 18,
+      "data": "13.01.24",
+  
+      "mandante":{
+          "nome": "Monaco",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/RX0XTi5Dtg4joMtuHNmYKg_96x96.png",
+          "classificacao": 3,
+          "placar":1
+      },
+  
+      "visitante":{
+          "nome": "Reims",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NWzvJ-A3j8HQkeQZ0sJP1w_96x96.png",
+          "classificacao": 8,
+          "placar":3
+      }
+  },
+  
 
 
       {
@@ -4373,6 +5046,28 @@
 "jogoscasa":[
 
 
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 18,
+      "data": "13.01.24",
+  
+      "mandante":{
+          "nome": "Rennes",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
+          "classificacao": 10,
+          "placar":2
+      },
+  
+      "visitante":{
+          "nome": "Nice",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Llrxrqsc3Tw4JzE6xM7GWw_96x96.png",
+          "classificacao": 2,
+          "placar":0
+      }
+  },
+  
+
+
       {
             "descricao": "Ligue 1 2023-24",
             "rodada": 15,
@@ -4519,6 +5214,27 @@
 
 ],
 "jogosfora":[
+
+      {
+            "descricao": "Ligue 1 2023-24",
+            "rodada": 19,
+            "data": "26.01.24",
+        
+            "mandante":{
+                "nome": "Lyon",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
+                "classificacao": 16,
+                "placar":2
+            },
+        
+            "visitante":{
+                "nome": "Rennes",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
+                "classificacao": 10,
+                "placar":3
+            }
+        },
+        
 
 
       {
@@ -4811,6 +5527,49 @@
 "jogosfora":[
 
 
+      {
+            "descricao": "Ligue 1 2023-24",
+            "rodada": 19,
+            "data": "28.01.24",
+        
+            "mandante":{
+                "nome": "Clermont",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0aur9jOW37pq6dUzu61wWQ_96x96.png",
+                "classificacao": 17,
+                "placar":1
+            },
+        
+            "visitante":{
+                "nome": "Strasbourg",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Eb9xtMpUy8FXQ0RCKvLxcg_96x96.png",
+                "classificacao": 9,
+                "placar":1
+            }
+        },
+        
+
+
+      {
+            "descricao": "Ligue 1 2023-24",
+            "rodada": 18,
+            "data": "12.01.24",
+        
+            "mandante":{
+                "nome": "Marseille",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png",
+                "classificacao": 6,
+                "placar":1
+            },
+        
+            "visitante":{
+                "nome": "Strasbourg",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Eb9xtMpUy8FXQ0RCKvLxcg_96x96.png",
+                "classificacao": 9,
+                "placar":1
+            }
+        },
+        
+
 
 {
       "descricao": "Ligue 1 2023-24",
@@ -4952,6 +5711,28 @@
 "jogoscasa":[
 
 
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 19,
+      "data": "28.01.24",
+  
+      "mandante":{
+          "nome": "Toulouse",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+          "classificacao": 14,
+          "placar":0
+      },
+  
+      "visitante":{
+          "nome": "Lens",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/TUvwItKazVFpgThEhhlN1Q_96x96.png",
+          "classificacao": 8,
+          "placar":2
+      }
+  },
+  
+
+
       {
             "descricao": "Ligue 1 2023-24",
             "rodada": 17,
@@ -5088,6 +5869,29 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+      "descricao": "Ligue 1 2023-24",
+      "rodada": 18,
+      "data": "14.01.24",
+  
+      "mandante":{
+          "nome": "Metz",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/b7iBf-aijuqQaScGSpDV7A_96x96.png",
+          "classificacao": 14,
+          "placar":0
+      },
+  
+      "visitante":{
+          "nome": "Toulouse",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+          "classificacao": 16,
+          "placar":1
+      }
+  },
+  
 
 
       {
