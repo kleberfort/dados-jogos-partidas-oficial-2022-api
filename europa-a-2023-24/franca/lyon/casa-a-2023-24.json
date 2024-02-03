@@ -1,6 +1,66 @@
 [
 
 
+  {
+    "descricao": "Ligue 1 2023-24",
+    "rodada": 19,
+    "data": "26.01.24",
+
+    "mandante":{
+        "nome": "Lyon",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
+        "classificacao": 16,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Rennes",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
+        "classificacao": 10,
+        "placar":3
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 1,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 2
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 0,
+        "golsPrimeiroTempo": 3,
+        "golsSegundoTempo": 0
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
 
 {
   "descricao": "Ligue 1 2023-24",
