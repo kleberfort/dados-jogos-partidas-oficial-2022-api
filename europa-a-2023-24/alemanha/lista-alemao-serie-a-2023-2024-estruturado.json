@@ -4490,6 +4490,28 @@
 "jogoscasa":[
 
 
+    {
+        "descricao": "Bundesliga A 2023-24",
+        "rodada": 18,
+        "data": "07.02.24",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 17,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 15,
+            "placar":1
+        }
+      },
+    
+
+
 
 	{
             "descricao": "Bundesliga A 2023-24",
@@ -5330,6 +5352,28 @@
 
 ],
 "jogosfora":[
+
+
+    {
+        "descricao": "Bundesliga A 2023-24",
+        "rodada": 18,
+        "data": "07.02.24",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 17,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 15,
+            "placar":1
+        }
+      },
+    
 
 
       {
