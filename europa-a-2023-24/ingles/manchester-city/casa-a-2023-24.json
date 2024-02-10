@@ -3,6 +3,66 @@
 
   {
     "descricao": "Premier League A 2023-24",
+    "rodada": 24,
+    "data": "10.02.24",
+
+    "mandante":{
+        "nome": "City",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+        "classificacao": 2,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Everton",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
+        "classificacao": 18,
+        "placar":0
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 5,
+        "escanteiosSegundoTempo": 4,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 2
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 0,
+        "escanteiosSegundoTempo": 0,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 0,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+  {
+    "descricao": "Premier League A 2023-24",
     "rodada": 22,
     "data": "31.01.24",
 
