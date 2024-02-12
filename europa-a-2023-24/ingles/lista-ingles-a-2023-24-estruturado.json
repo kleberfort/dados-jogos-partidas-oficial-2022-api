@@ -216,6 +216,28 @@
 
     {
         "descricao": "Premier League A 2023-24",
+        "rodada": 24,
+        "data": "11.02.24",
+    
+        "mandante":{
+            "nome": "West Ham",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
+            "classificacao": 7,
+            "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Arsenal",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
+            "classificacao": 3,
+            "placar":6
+        }
+    },
+    
+
+
+    {
+        "descricao": "Premier League A 2023-24",
         "rodada": 22,
         "data": "30.01.24",
     
@@ -415,6 +437,28 @@
       "nome": "Aston Villa",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
 "jogoscasa":[
+
+
+    {
+        "descricao": "Premier League A 2023-24",
+        "rodada": 24,
+        "data": "11.02.24",
+    
+        "mandante":{
+            "nome": "Aston Villa",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+            "classificacao": 4,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "United",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+            "classificacao": 3,
+            "placar":2
+        }
+    },
+    
 
 
 
@@ -5713,6 +5757,28 @@
 ],
 "jogosfora":[
 
+
+    {
+        "descricao": "Premier League A 2023-24",
+        "rodada": 24,
+        "data": "11.02.24",
+    
+        "mandante":{
+            "nome": "Aston Villa",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+            "classificacao": 4,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "United",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+            "classificacao": 3,
+            "placar":2
+        }
+    },
+    
+
     
 {
     "descricao": "Premier League A 2023-24",
@@ -7677,6 +7743,28 @@
       "nome": "West Ham",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
 "jogoscasa":[
+
+
+    {
+        "descricao": "Premier League A 2023-24",
+        "rodada": 24,
+        "data": "11.02.24",
+    
+        "mandante":{
+            "nome": "West Ham",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
+            "classificacao": 7,
+            "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Arsenal",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
+            "classificacao": 3,
+            "placar":6
+        }
+    },
+    
 
 
 
