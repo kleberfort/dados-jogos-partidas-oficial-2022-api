@@ -1035,6 +1035,20 @@
                        }
             },
 
+
+           
+      {
+        "rodada": 3,
+        "mandante":{
+        "nomeList": "Bournemouth",
+         "placar": 0
+                   },
+        "visitante":{
+        "nomeList": "Tottenham",
+        "placar":2
+                   }
+        }, 
+
       {
             "rodada": 1,
             "mandante":{
@@ -1256,18 +1270,6 @@
                        }
             },
 
-
-      {
-            "rodada": 3,
-            "mandante":{
-            "nomeList": "Bournemouth",
-             "placar": 0
-                       },
-            "visitante":{
-            "nomeList": "Tottenham",
-            "placar":2
-                       }
-            },
 
 
       {
