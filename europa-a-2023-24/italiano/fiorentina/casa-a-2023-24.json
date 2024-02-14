@@ -1,6 +1,67 @@
 [
 
 
+
+{
+  "descricao": "Série A 2023-24",
+  "rodada": 24,
+  "data": "11.02.24",
+
+  "mandante":{
+      "nome": "Fiorentina",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png",
+      "classificacao": 8,
+      "placar":5
+  },
+
+  "visitante":{
+      "nome": "Frosinone",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/_J6w-PL2RjW-fRR-D7Dl-w_96x96.png",
+      "classificacao": 14,
+      "placar":1
+  },
+
+  "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 3,
+      "golsSegundoTempo": 2
+  },
+
+  "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1
+  },
+
+  "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "escanteiosPrimeiroVisitante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "EstatisticaCartoesMandante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 0
+  },
+
+  "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 0
+  }
+},
+
+
+
   {
     "descricao": "Série A 2023-24",
     "rodada": 22,
