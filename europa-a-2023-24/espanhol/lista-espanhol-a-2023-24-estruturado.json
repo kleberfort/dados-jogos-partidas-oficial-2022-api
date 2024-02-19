@@ -226,6 +226,28 @@
 
     {
         "descricao": "La Liga A 2023-24",
+        "rodada": 25,
+        "data": "18.02.24",
+    
+        "mandante":{
+            "nome": "Betis",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png",
+            "classificacao": 6,
+            "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Alaves",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/meAnutdPID67rfUecKaoFg_96x96.png",
+            "classificacao": 12,
+            "placar":0
+        }
+    },
+    
+
+
+    {
+        "descricao": "La Liga A 2023-24",
         "rodada": 22,
         "data": "26.01.24",
     
@@ -663,6 +685,28 @@
 "jogosfora":[
 
 
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 25,
+        "data": "18.02.24",
+    
+        "mandante":{
+            "nome": "Granada",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_96x96.png",
+            "classificacao": 19,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Almeria",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
+            "classificacao": 20,
+            "placar":1
+        }
+    },
+    
+
+
 {
     "descricao": "La Liga A 2023-24",
     "rodada": 23,
@@ -878,6 +922,11 @@
       "nome": "Athletic Bilbao",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OSL_5Zm6kYPP1J17Bo5uDA_96x96.png",
 "jogoscasa":[
+
+
+
+
+
 
 
     {
@@ -1311,6 +1360,28 @@
       "nome": "Atlético de Madrid",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png",
 "jogoscasa":[
+
+
+
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 25,
+    "data": "17.02.24",
+
+    "mandante":{
+        "nome": "Atlético",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png",
+        "classificacao": 4,
+        "placar":5
+    },
+
+    "visitante":{
+        "nome": "Las Palmas",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yOIfuEFVFzu1dD8HiJt9vA_96x96.png",
+        "classificacao": 8,
+        "placar":0
+    }
+},
 
 
 
@@ -1996,6 +2067,28 @@
 "jogosfora":[
 
 
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 25,
+        "data": "17.02.24",
+    
+        "mandante":{
+            "nome": "Celta Vigo",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
+            "classificacao": 17,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Barcelona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
+            "classificacao": 3,
+            "placar":2
+        }
+    },
+    
+
+
 {
     "descricao": "La Liga A 2023-24",
     "rodada": 23,
@@ -2409,6 +2502,28 @@
 "jogosfora":[
 
 
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 25,
+    "data": "17.02.24",
+
+    "mandante":{
+        "nome": "Osasuna",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
+        "classificacao": 11,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Cadiz",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/H1vdTrUUqJBeUW1HfbW0nQ_96x96.png",
+        "classificacao": 18,
+        "placar":0
+    }
+},
+
+
+
     {
         "descricao": "La Liga A 2023-24",
         "rodada": 23,
@@ -2631,6 +2746,27 @@
       "nome": "Celta de Vigo",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
 "jogoscasa":[
+
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 25,
+        "data": "17.02.24",
+    
+        "mandante":{
+            "nome": "Celta Vigo",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
+            "classificacao": 17,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Barcelona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
+            "classificacao": 3,
+            "placar":2
+        }
+    },
+    
 
     {
         "descricao": "La Liga A 2023-24",
@@ -3278,6 +3414,28 @@
 
 ],
 "jogosfora":[
+
+
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 25,
+        "data": "16.02.24",
+    
+        "mandante":{
+            "nome": "Villarreal",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
+            "classificacao": 13,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Getafe",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png",
+            "classificacao": 10,
+            "placar":1
+        }
+    },
+    
 
     {
         "descricao": "La Liga A 2023-24",
@@ -3931,6 +4089,28 @@
       "nome": "Granada",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_96x96.png",
 "jogoscasa":[
+
+
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 25,
+        "data": "18.02.24",
+    
+        "mandante":{
+            "nome": "Granada",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_96x96.png",
+            "classificacao": 19,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Almeria",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png",
+            "classificacao": 20,
+            "placar":1
+        }
+    },
+    
 
 
 {
@@ -4589,6 +4769,28 @@
 
 {
     "descricao": "La Liga A 2023-24",
+    "rodada": 25,
+    "data": "17.02.24",
+
+    "mandante":{
+        "nome": "Atlético",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png",
+        "classificacao": 4,
+        "placar":5
+    },
+
+    "visitante":{
+        "nome": "Las Palmas",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yOIfuEFVFzu1dD8HiJt9vA_96x96.png",
+        "classificacao": 8,
+        "placar":0
+    }
+},
+
+
+
+{
+    "descricao": "La Liga A 2023-24",
     "rodada": 23,
     "data": "03.02.24",
 
@@ -4803,6 +5005,29 @@
       "nome": "Mallorca",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ss21P4CUmigjrEtcoapjVg_96x96.png",
 "jogoscasa":[
+
+
+
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 25,
+    "data": "18.02.24",
+
+    "mandante":{
+        "nome": "Mallorca",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ss21P4CUmigjrEtcoapjVg_96x96.png",
+        "classificacao": 16,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Sociedad",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_96x96.png",
+        "classificacao": 7,
+        "placar":2
+    }
+},
+
 
 
 {
@@ -5235,6 +5460,28 @@
       "nome": "Osasuna",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
 "jogoscasa":[
+
+
+
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 25,
+    "data": "17.02.24",
+
+    "mandante":{
+        "nome": "Osasuna",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
+        "classificacao": 11,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Cadiz",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/H1vdTrUUqJBeUW1HfbW0nQ_96x96.png",
+        "classificacao": 18,
+        "placar":0
+    }
+},
 
 
 {
@@ -5687,6 +5934,28 @@
 "jogoscasa":[
 
 
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 25,
+    "data": "18.02.24",
+
+    "mandante":{
+        "nome": "Vallecano",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i5LifmxEVIl0sbvIysiyhw_96x96.png",
+        "classificacao": 14,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Real Madrid",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+        "classificacao": 1,
+        "placar":1
+    }
+},
+
+
+
     {
         "descricao": "La Liga A 2023-24",
         "rodada": 23,
@@ -6136,6 +6405,27 @@
       "nome": "Real Betis",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png",
 "jogoscasa":[
+
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 25,
+        "data": "18.02.24",
+    
+        "mandante":{
+            "nome": "Betis",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png",
+            "classificacao": 6,
+            "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Alaves",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/meAnutdPID67rfUecKaoFg_96x96.png",
+            "classificacao": 12,
+            "placar":0
+        }
+    },
+    
 
     {
         "descricao": "La Liga A 2023-24",
@@ -6805,6 +7095,28 @@
 
 {
     "descricao": "La Liga A 2023-24",
+    "rodada": 25,
+    "data": "18.02.24",
+
+    "mandante":{
+        "nome": "Vallecano",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i5LifmxEVIl0sbvIysiyhw_96x96.png",
+        "classificacao": 14,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Real Madrid",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+        "classificacao": 1,
+        "placar":1
+    }
+},
+
+
+
+{
+    "descricao": "La Liga A 2023-24",
     "rodada": 20,
     "data": "01.02.24",
 
@@ -7219,6 +7531,29 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 25,
+    "data": "18.02.24",
+
+    "mandante":{
+        "nome": "Mallorca",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ss21P4CUmigjrEtcoapjVg_96x96.png",
+        "classificacao": 16,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Sociedad",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_96x96.png",
+        "classificacao": 7,
+        "placar":2
+    }
+},
+
 
     {
         "descricao": "La Liga A 2023-24",
@@ -7687,6 +8022,28 @@
 "jogosfora":[
 
 
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 25,
+    "data": "17.02.24",
+
+    "mandante":{
+        "nome": "Valencia",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png",
+        "classificacao": 9,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Sevilla",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png",
+        "classificacao": 15,
+        "placar":0
+    }
+},
+
+
+
     {
         "descricao": "La Liga A 2023-24",
         "rodada": 23,
@@ -7892,6 +8249,28 @@
       "nome": "Valencia",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png",
 "jogoscasa":[
+
+
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 25,
+    "data": "17.02.24",
+
+    "mandante":{
+        "nome": "Valencia",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png",
+        "classificacao": 9,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Sevilla",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png",
+        "classificacao": 15,
+        "placar":0
+    }
+},
+
 
 
 {
@@ -8324,6 +8703,28 @@
       "nome": "Villarreal",
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
 "jogoscasa":[
+
+
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 25,
+        "data": "16.02.24",
+    
+        "mandante":{
+            "nome": "Villarreal",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
+            "classificacao": 13,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Getafe",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png",
+            "classificacao": 10,
+            "placar":1
+        }
+    },
+    
 
     {
         "descricao": "La Liga A 2023-24",
