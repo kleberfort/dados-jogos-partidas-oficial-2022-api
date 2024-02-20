@@ -1,6 +1,67 @@
 [
 
 
+
+{
+  "descricao": "Bundesliga A 2023-24",
+  "rodada": 22,
+  "data": "18.02.24",
+
+  "mandante":{
+      "nome": "Bochum",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+      "classificacao": 14,
+      "placar":3
+  },
+
+  "visitante":{
+      "nome": "Bayern",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+      "classificacao": 2,
+      "placar":2
+  },
+
+  "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 1
+  },
+
+  "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1
+  },
+
+  "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "escanteiosPrimeiroVisitante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "EstatisticaCartoesMandante":{
+      "cartoesAmarelo": 2,
+      "cartoesVermelho": 0
+  },
+
+  "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 0
+  }
+},
+
+
+
 	{
     "descricao": "Bundesliga A 2023-24",
     "rodada": 18,
