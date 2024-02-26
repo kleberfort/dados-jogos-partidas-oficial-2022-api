@@ -7,6 +7,28 @@
 
 {
     "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Augsburg",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Freiburg",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
     "rodada": 21,
     "data": "10.02.24",
 
@@ -417,6 +439,29 @@
          "nome": "Bayer Leverkusen",
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
 "jogoscasa":[
+
+
+
+	{
+        "descricao": "Bundesliga A 2023-24",
+        "rodada": 23,
+        "data": "23.02.24",
+    
+        "mandante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 99,
+            "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
 
 
 
@@ -838,6 +883,27 @@
          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
 "jogoscasa":[
 
+
+    {
+        "descricao": "Bundesliga A 2023-24",
+        "rodada": 23,
+        "data": "25.02.24",
+    
+        "mandante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 99,
+            "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
 
 
 {
@@ -1462,6 +1528,29 @@
 
 {
     "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Mönche",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+        "classificacao": 99,
+        "placar":5
+    },
+
+    "visitante":{
+        "nome": "Bochum",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    }
+},
+
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
     "rodada": 21,
     "data": "10.02.24",
 
@@ -1656,6 +1745,28 @@
           "nome": "Borussia Dortmund",
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
 "jogoscasa":[
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Dortmund",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Hoffenheim",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+        "classificacao": 99,
+        "placar":3
+    }
+},
 
 
 
@@ -2078,6 +2189,27 @@
           "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
 "jogoscasa":[
 
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Mönche",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+        "classificacao": 99,
+        "placar":5
+    },
+
+    "visitante":{
+        "nome": "Bochum",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    }
+},
 
 
 {
@@ -2720,6 +2852,28 @@
 
 {
     "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Werder Bremen",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Darmstadt",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LRa03M7uie9UbhtSgw9jCg_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
     "rodada": 21,
     "data": "10.02.24",
 
@@ -2902,6 +3056,28 @@
       "nome": "Eintracht Frankfurt",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
 "jogoscasa":[
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Frankfurt",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Wolfsburg",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    }
+},
 
 
 
@@ -3517,6 +3693,29 @@
 
 
 
+{
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Augsburg",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Freiburg",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
+
+
+
+
     {
         "descricao": "Bundesliga A 2023-24",
         "rodada": 21,
@@ -3922,6 +4121,28 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Union Berlin",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Heidenheim",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    }
+},
 
 
 
@@ -4337,6 +4558,29 @@
 
 {
     "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Dortmund",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Hoffenheim",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+        "classificacao": 99,
+        "placar":3
+    }
+},
+
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
     "rodada": 20,
     "data": "04.02.24",
 
@@ -4745,6 +4989,28 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Stuttgart",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Köln(Colônia)",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/W94hx-q1SdXOZBrW6RSSVg_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
 
 
 
@@ -5179,6 +5445,27 @@
 "jogosfora":[
 
 
+    {
+        "descricao": "Bundesliga A 2023-24",
+        "rodada": 23,
+        "data": "25.02.24",
+    
+        "mandante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 99,
+            "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
+
 
 {
     "descricao": "Bundesliga A 2023-24",
@@ -5573,6 +5860,29 @@
 "jogosfora":[
 
 
+
+	{
+        "descricao": "Bundesliga A 2023-24",
+        "rodada": 23,
+        "data": "23.02.24",
+    
+        "mandante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 99,
+            "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
+
+
 {
     "descricao": "Bundesliga A 2023-24",
     "rodada": 21,
@@ -5783,6 +6093,28 @@
       "nome": "Stuttgart",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
 "jogoscasa":[
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Stuttgart",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Köln(Colônia)",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/W94hx-q1SdXOZBrW6RSSVg_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
 
 
 
@@ -6208,6 +6540,28 @@
 "jogoscasa":[
 
 
+{
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Union Berlin",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Heidenheim",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    }
+},
+
+
+
     {
         "descricao": "Bundesliga A 2023-24",
         "rodada": 21,
@@ -6614,6 +6968,28 @@
       "nome": "Werder Bremen",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
 "jogoscasa":[
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Werder Bremen",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Darmstadt",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LRa03M7uie9UbhtSgw9jCg_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
 
 
 
@@ -7227,6 +7603,28 @@
 ],
 "jogosfora":[
 
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 23,
+    "data": "25.02.24",
+
+    "mandante":{
+        "nome": "Frankfurt",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Wolfsburg",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    }
+},
 
 
     
