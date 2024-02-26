@@ -3864,6 +3864,28 @@
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Tyy5rCdiLCw2_8z04DM-GQ_96x96.png",
 "jogoscasa":[
 
+
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 26,
+        "data": "26.02.24",
+    
+        "mandante":{
+            "nome": "Girona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Tyy5rCdiLCw2_8z04DM-GQ_96x96.png",
+            "classificacao": 99,
+            "placar":3
+        },
+    
+        "visitante":{
+            "nome": "Vallecano",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i5LifmxEVIl0sbvIysiyhw_96x96.png",
+            "classificacao": 99,
+            "placar":0
+        }
+    },
+    
+
     {
         "descricao": "La Liga A 2023-24",
         "rodada": 23,
@@ -6455,6 +6477,28 @@
 
 ],
 "jogosfora":[
+
+
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 26,
+        "data": "26.02.24",
+    
+        "mandante":{
+            "nome": "Girona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Tyy5rCdiLCw2_8z04DM-GQ_96x96.png",
+            "classificacao": 99,
+            "placar":3
+        },
+    
+        "visitante":{
+            "nome": "Vallecano",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i5LifmxEVIl0sbvIysiyhw_96x96.png",
+            "classificacao": 99,
+            "placar":0
+        }
+    },
+    
 
 
 
