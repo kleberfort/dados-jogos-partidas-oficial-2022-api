@@ -2526,6 +2526,26 @@
 ],
 "jogosfora":[
 
+    {
+        "descricao": "Bundesliga A 2023-24",
+        "rodada": 24,
+        "data": "02.03.24",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Mönche",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+
 
     {
         "descricao": "Bundesliga A 2023-24",
@@ -5926,6 +5946,27 @@
       "nome": "Mainz 05",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
 "jogoscasa":[
+
+
+    {
+        "descricao": "Bundesliga A 2023-24",
+        "rodada": 24,
+        "data": "02.03.24",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Mönche",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
 
 
     {
