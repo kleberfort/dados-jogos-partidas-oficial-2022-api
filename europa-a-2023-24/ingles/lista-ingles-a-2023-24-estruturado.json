@@ -5955,6 +5955,28 @@
 "jogoscasa":[
 
 
+
+{
+    "descricao": "Premier League A 2023-24",
+    "rodada": 27,
+    "data": "03.03.24",
+
+    "mandante":{
+        "nome": "City",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+        "classificacao": 99,
+        "placar":3
+    },
+
+    "visitante":{
+        "nome": "United",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
+
+
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 18,
@@ -6672,6 +6694,27 @@
 
 ],
 "jogosfora":[
+
+
+{
+    "descricao": "Premier League A 2023-24",
+    "rodada": 27,
+    "data": "03.03.24",
+
+    "mandante":{
+        "nome": "City",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+        "classificacao": 99,
+        "placar":3
+    },
+
+    "visitante":{
+        "nome": "United",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
 
     {
         "descricao": "Premier League A 2023-24",
