@@ -8,6 +8,29 @@
 
 {
     "descricao": "Série A 2023-24",
+    "rodada": 27,
+    "data": "03.03.24",
+
+    "mandante":{
+        "nome": "Atalanta",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Bologna",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    }
+},
+
+
+
+
+{
+    "descricao": "Série A 2023-24",
     "rodada": 25,
     "data": "17.02.24",
 
@@ -761,6 +784,29 @@
 
 {
     "descricao": "Série A 2023-24",
+    "rodada": 27,
+    "data": "03.03.24",
+
+    "mandante":{
+        "nome": "Atalanta",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Bologna",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    }
+},
+
+
+
+
+{
+    "descricao": "Série A 2023-24",
     "rodada": 25,
     "data": "18.02.24",
 
@@ -1227,6 +1273,27 @@
 "jogosfora":[
 
 
+    {
+        "descricao": "Série A 2023-24",
+        "rodada": 27,
+        "data": "03.03.24",
+    
+        "mandante":{
+            "nome": "Empoli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
+            "classificacao": 99,
+            "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Cagliari",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
+
 
 {
     "descricao": "Série A 2023-24",
@@ -1474,6 +1541,27 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
 "jogoscasa":[
 
+
+    {
+        "descricao": "Série A 2023-24",
+        "rodada": 27,
+        "data": "03.03.24",
+    
+        "mandante":{
+            "nome": "Empoli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/vyezOynQ97AOBHEaClxZrg_96x96.png",
+            "classificacao": 99,
+            "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Cagliari",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
 
 
 {
@@ -2219,6 +2307,29 @@
 "jogosfora":[
 
 
+
+{
+    "descricao": "Série A 2023-24",
+    "rodada": 27,
+    "data": "02.03.24",
+
+    "mandante":{
+        "nome": "Torino",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png",
+        "classificacao": 99,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Fiorentina",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png",
+        "classificacao": 99,
+        "placar":0
+    }
+},
+
+
+
 {
     "descricao": "Série A 2023-24",
     "rodada": 25,
@@ -2468,6 +2579,29 @@
       "nome": "Frosinone",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/_J6w-PL2RjW-fRR-D7Dl-w_96x96.png",
 "jogoscasa":[
+
+
+
+{
+    "descricao": "Série A 2023-24",
+    "rodada": 27,
+    "data": "03.03.24",
+
+    "mandante":{
+        "nome": "Frosinone",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/_J6w-PL2RjW-fRR-D7Dl-w_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Lecce",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
+
 
 
 {
@@ -3444,6 +3578,28 @@
       "nome": "Hellas Verona",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png",
 "jogoscasa":[
+
+
+
+{
+    "descricao": "Série A 2023-24",
+    "rodada": 27,
+    "data": "03.03.24",
+
+    "mandante":{
+        "nome": "Verona",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Sassuolo",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png",
+        "classificacao": 99,
+        "placar":0
+    }
+},
 
 
 
@@ -4903,6 +5059,28 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png",
 "jogoscasa":[
 
+
+    {
+        "descricao": "Série A 2023-24",
+        "rodada": 27,
+        "data": "01.03.24",
+    
+        "mandante":{
+            "nome": "Lazio",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png",
+            "classificacao": 99,
+            "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Milan",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VoKsJ6RitaHGhsM62e6AXQ_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
+
  
 
 {
@@ -5627,6 +5805,29 @@
 ],
 "jogosfora":[
 
+
+
+{
+    "descricao": "Série A 2023-24",
+    "rodada": 27,
+    "data": "03.03.24",
+
+    "mandante":{
+        "nome": "Frosinone",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/_J6w-PL2RjW-fRR-D7Dl-w_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Lecce",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
+
+
     {
         "descricao": "Série A 2023-24",
         "rodada": 25,
@@ -6132,6 +6333,28 @@
 
     {
         "descricao": "Série A 2023-24",
+        "rodada": 27,
+        "data": "01.03.24",
+    
+        "mandante":{
+            "nome": "Lazio",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png",
+            "classificacao": 99,
+            "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Milan",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VoKsJ6RitaHGhsM62e6AXQ_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
+
+
+    {
+        "descricao": "Série A 2023-24",
         "rodada": 25,
         "data": "18.02.24",
     
@@ -6376,6 +6599,28 @@
       "nome": "Monza",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png",
 "jogoscasa":[
+
+
+    {
+        "descricao": "Série A 2023-24",
+        "rodada": 27,
+        "data": "02.03.24",
+    
+        "mandante":{
+            "nome": "Monza",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Roma",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png",
+            "classificacao": 99,
+            "placar":4
+        }
+    },
+    
 
 
     {
@@ -7642,6 +7887,27 @@
 "jogosfora":[
 
 
+    {
+        "descricao": "Série A 2023-24",
+        "rodada": 27,
+        "data": "02.03.24",
+    
+        "mandante":{
+            "nome": "Monza",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Roma",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png",
+            "classificacao": 99,
+            "placar":4
+        }
+    },
+    
+
 
 {
     "descricao": "Série A 2023-24",
@@ -8129,6 +8395,27 @@
 "jogosfora":[
 
 
+    {
+        "descricao": "Série A 2023-24",
+        "rodada": 27,
+        "data": "02.03.24",
+    
+        "mandante":{
+            "nome": "Udinese",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Salernitana",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/E5wkv8G7RBA2I0VsSq7Y1A_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
+
 
 {
     "descricao": "Série A 2023-24",
@@ -8607,6 +8894,29 @@
 
 {
     "descricao": "Série A 2023-24",
+    "rodada": 27,
+    "data": "03.03.24",
+
+    "mandante":{
+        "nome": "Verona",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Sassuolo",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png",
+        "classificacao": 99,
+        "placar":0
+    }
+},
+
+
+
+
+{
+    "descricao": "Série A 2023-24",
     "rodada": 25,
     "data": "17.02.24",
 
@@ -8853,6 +9163,29 @@
       "nome": "Torino",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png",
 "jogoscasa":[
+
+
+
+{
+    "descricao": "Série A 2023-24",
+    "rodada": 27,
+    "data": "02.03.24",
+
+    "mandante":{
+        "nome": "Torino",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png",
+        "classificacao": 99,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Fiorentina",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png",
+        "classificacao": 99,
+        "placar":0
+    }
+},
+
 
 
     {
@@ -9342,6 +9675,27 @@
      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png",
 "jogoscasa":[
 
+
+    {
+        "descricao": "Série A 2023-24",
+        "rodada": 27,
+        "data": "02.03.24",
+    
+        "mandante":{
+            "nome": "Udinese",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Salernitana",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/E5wkv8G7RBA2I0VsSq7Y1A_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
 
 
 {
