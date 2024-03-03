@@ -695,6 +695,27 @@
 ],
 "jogosfora":[
 
+    {
+        "descricao": "Bundesliga A 2023-24",
+        "rodada": 24,
+        "data": "03.03.24",
+    
+        "mandante":{
+            "nome": "Köln(Colônia)",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/W94hx-q1SdXOZBrW6RSSVg_96x96.png",
+            "classificacao": 99,
+            "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 99,
+            "placar":2
+        }
+    },
+    
+
 
 
 {
@@ -4540,6 +4561,29 @@
 
 {
     "descricao": "Bundesliga A 2023-24",
+    "rodada": 24,
+    "data": "03.03.24",
+
+    "mandante":{
+        "nome": "Hoffenheim",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Werder Bremen",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
+
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
     "rodada": 22,
     "data": "17.02.24",
 
@@ -4971,6 +5015,27 @@
            "nome": "Köln(Colônia)",
            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/W94hx-q1SdXOZBrW6RSSVg_96x96.png",
 "jogoscasa":[
+
+    {
+        "descricao": "Bundesliga A 2023-24",
+        "rodada": 24,
+        "data": "03.03.24",
+    
+        "mandante":{
+            "nome": "Köln(Colônia)",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/W94hx-q1SdXOZBrW6RSSVg_96x96.png",
+            "classificacao": 99,
+            "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 99,
+            "placar":2
+        }
+    },
+    
 
 
     {
@@ -7443,6 +7508,29 @@
 
 ],
 "jogosfora":[
+
+
+
+{
+    "descricao": "Bundesliga A 2023-24",
+    "rodada": 24,
+    "data": "03.03.24",
+
+    "mandante":{
+        "nome": "Hoffenheim",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+        "classificacao": 99,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Werder Bremen",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+        "classificacao": 99,
+        "placar":1
+    }
+},
+
 
 
     {
