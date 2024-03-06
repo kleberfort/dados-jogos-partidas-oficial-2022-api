@@ -3337,6 +3337,28 @@
 "jogosfora":[
 
 
+    {
+        "descricao": "Série A 2023-24",
+        "rodada": 27,
+        "data": "04.03.24",
+    
+        "mandante":{
+            "nome": "Inter",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png",
+            "classificacao": 99,
+            "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Genoa",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GlyoZO04xkwVX6oTh8asHA_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
+
+
 
 {
     "descricao": "Série A 2023-24",
@@ -4087,6 +4109,27 @@
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png",
 "jogoscasa":[
 
+    {
+        "descricao": "Série A 2023-24",
+        "rodada": 27,
+        "data": "04.03.24",
+    
+        "mandante":{
+            "nome": "Inter",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png",
+            "classificacao": 99,
+            "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Genoa",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GlyoZO04xkwVX6oTh8asHA_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        }
+    },
+    
+
 
 
 {
@@ -4815,6 +4858,7 @@
 
 ],
 "jogosfora":[
+
 
 
     {

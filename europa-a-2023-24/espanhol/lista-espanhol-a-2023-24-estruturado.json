@@ -249,6 +249,28 @@
 
     {
         "descricao": "La Liga A 2023-24",
+        "rodada": 27,
+        "data": "04.03.24",
+    
+        "mandante":{
+            "nome": "Osasuna",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Alaves",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/meAnutdPID67rfUecKaoFg_96x96.png",
+            "classificacao": 99,
+            "placar":0
+        }
+    },
+    
+
+
+    {
+        "descricao": "La Liga A 2023-24",
         "rodada": 25,
         "data": "18.02.24",
     
@@ -5994,6 +6016,27 @@
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
 "jogoscasa":[
 
+
+    {
+        "descricao": "La Liga A 2023-24",
+        "rodada": 27,
+        "data": "04.03.24",
+    
+        "mandante":{
+            "nome": "Osasuna",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
+            "classificacao": 99,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Alaves",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/meAnutdPID67rfUecKaoFg_96x96.png",
+            "classificacao": 99,
+            "placar":0
+        }
+    },
+    
 
 
 {
