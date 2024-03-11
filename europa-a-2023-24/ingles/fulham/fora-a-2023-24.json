@@ -2,6 +2,66 @@
 
 
 
+{
+  "descricao": "Premier League A 2023-24",
+  "rodada": 28,
+  "data": "09.03.24",
+
+  "mandante":{
+      "nome": "Wolves",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
+      "classificacao": 10,
+      "placar":2
+  },
+
+  "visitante":{
+      "nome": "Fulham",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png",
+      "classificacao": 12,
+      "placar":1
+  },
+
+  "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 2
+  },
+
+  "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 1,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1
+  },
+
+  "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "escanteiosPrimeiroVisitante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "EstatisticaCartoesMandante":{
+      "cartoesAmarelo": 2,
+      "cartoesVermelho": 0
+  },
+
+  "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2,
+      "cartoesVermelho": 0
+  }
+},
+
+
+
   {
     "descricao": "Premier League A 2023-24",
     "rodada": 26,
