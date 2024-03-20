@@ -1,5 +1,62 @@
 [
 
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 29,
+    "data": "17.03.24",
+
+    "mandante":{
+        "nome": "West Ham",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
+        "classificacao": 7,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Aston Villa",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+        "classificacao": 4,
+        "placar":1
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 4,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 3,
+        "escanteiosSegundoTempo": 8,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 1
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    }
+},
 
 
 {
