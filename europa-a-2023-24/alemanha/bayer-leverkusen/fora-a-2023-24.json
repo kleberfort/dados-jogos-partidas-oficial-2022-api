@@ -4,6 +4,66 @@
 
 {
   "descricao": "Bundesliga A 2023-24",
+  "rodada": 26,
+  "data": "17.03.24",
+
+  "mandante":{
+      "nome": "Freiburg",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+      "classificacao": 8,
+      "placar":2
+  },
+
+  "visitante":{
+      "nome": "Leverkusen",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+      "classificacao": 1,
+      "placar":3
+  },
+
+  "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 1
+  },
+
+  "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 3,
+      "escanteiosSegundoTempo": 5,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 1
+  },
+
+  "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "escanteiosPrimeiroVisitante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "EstatisticaCartoesMandante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 0
+  },
+
+  "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 0,
+      "cartoesVermelho": 0
+  }
+},
+
+
+
+{
+  "descricao": "Bundesliga A 2023-24",
   "rodada": 24,
   "data": "03.03.24",
 
