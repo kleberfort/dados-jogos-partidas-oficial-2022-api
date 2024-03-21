@@ -3,6 +3,66 @@
 
   {
     "descricao": "Ligue 1 2023-24",
+    "rodada": 26,
+    "data": "17.03.24",
+
+    "mandante":{
+        "nome": "Reims",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NWzvJ-A3j8HQkeQZ0sJP1w_96x96.png",
+        "classificacao": 9,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Metz",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/b7iBf-aijuqQaScGSpDV7A_96x96.png",
+        "classificacao": 17,
+        "placar":1
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 5,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 1
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 6,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 0
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 4,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 4,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+  {
+    "descricao": "Ligue 1 2023-24",
     "rodada": 24,
     "data": "02.03.24",
 

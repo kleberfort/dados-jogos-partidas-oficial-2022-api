@@ -3,6 +3,66 @@
 
   {
     "descricao": "Ligue 1 2023-24",
+    "rodada": 26,
+    "data": "17.03.24",
+
+    "mandante":{
+        "nome": "Brest",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HNqZwlu71GHXo60XjYrPxg_96x96.png",
+        "classificacao": 2,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Lille",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/D2AQe8qoyPIP4K8MzLvwuA_96x96.png",
+        "classificacao": 4,
+        "placar":1
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 1
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 1
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 0,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+  {
+    "descricao": "Ligue 1 2023-24",
     "rodada": 24,
     "data": "02.03.24",
 
