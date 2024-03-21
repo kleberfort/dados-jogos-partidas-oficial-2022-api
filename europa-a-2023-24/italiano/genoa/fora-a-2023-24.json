@@ -1,6 +1,66 @@
 [
 
 
+{
+  "descricao": "Série A 2023-24",
+  "rodada": 29,
+  "data": "17.03.24",
+
+  "mandante":{
+      "nome": "Juventus",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Lv6xmBlUIpN3GAFhtf6nqQ_96x96.png",
+      "classificacao": 3,
+      "placar":0
+  },
+
+  "visitante":{
+      "nome": "Genoa",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GlyoZO04xkwVX6oTh8asHA_96x96.png",
+      "classificacao": 12,
+      "placar":0
+  },
+
+  "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 5,
+      "escanteiosSegundoTempo": 7,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0
+  },
+
+  "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0
+  },
+
+  "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "escanteiosPrimeiroVisitante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "EstatisticaCartoesMandante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 0
+  },
+
+  "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 0
+  }
+},
+
+
+
   {
     "descricao": "Série A 2023-24",
     "rodada": 27,
