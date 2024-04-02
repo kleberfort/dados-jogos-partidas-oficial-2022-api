@@ -1,5 +1,66 @@
 [
 
+
+
+{
+  "descricao": "La Liga A 2023-24",
+  "rodada": 30,
+  "data": "31.03.24",
+
+  "mandante":{
+      "nome": "Alaves",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/meAnutdPID67rfUecKaoFg_96x96.png",
+      "classificacao": 13,
+      "placar":0
+  },
+
+  "visitante":{
+      "nome": "Sociedad",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_96x96.png",
+      "classificacao": 6,
+      "placar":1
+  },
+
+  "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 1,
+      "escanteiosSegundoTempo": 2,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0
+  },
+
+  "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 4,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 1
+  },
+
+  "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "escanteiosPrimeiroVisitante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "EstatisticaCartoesMandante":{
+      "cartoesAmarelo": 2,
+      "cartoesVermelho": 0
+  },
+
+  "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 2,
+      "cartoesVermelho": 0
+  }
+},
+
+
   
   {
     "descricao": "La Liga A 2023-24",
