@@ -4,6 +4,66 @@
 
 {
   "descricao": "Ligue 1 2023-24",
+  "rodada": 27,
+  "data": "31.03.24",
+
+  "mandante":{
+      "nome": "Clermont",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0aur9jOW37pq6dUzu61wWQ_96x96.png",
+      "classificacao": 18,
+      "placar":0
+  },
+
+  "visitante":{
+      "nome": "Toulouse",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+      "classificacao": 11,
+      "placar":3
+  },
+
+  "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 9,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 0,
+      "golsSegundoTempo": 0
+  },
+
+  "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 0,
+      "escanteiosSegundoTempo": 3,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 2
+  },
+
+  "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "escanteiosPrimeiroVisitante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "EstatisticaCartoesMandante":{
+      "cartoesAmarelo": 3,
+      "cartoesVermelho": 0
+  },
+
+  "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 0
+  }
+},
+
+
+
+{
+  "descricao": "Ligue 1 2023-24",
   "rodada": 26,
   "data": "17.03.24",
 
