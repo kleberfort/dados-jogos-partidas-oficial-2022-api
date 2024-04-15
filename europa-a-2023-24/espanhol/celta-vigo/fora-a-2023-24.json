@@ -3,6 +3,66 @@
 
     {
         "descricao": "La Liga A 2023-24",
+        "rodada": 31,
+        "data": "12.04.24",
+    
+        "mandante":{
+            "nome": "Betis",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png",
+            "classificacao": 8,
+            "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Celta Vigo",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
+            "classificacao": 17,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "escanteiosPrimeiroMandante":{
+            "tres": "NÃO",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO"
+        },
+    
+        "escanteiosPrimeiroVisitante":{
+            "tres": "NÃO",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO"
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmarelo": 1,
+            "cartoesVermelho": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmarelo": 0,
+            "cartoesVermelho": 0
+        }
+    },
+    
+
+
+    {
+        "descricao": "La Liga A 2023-24",
         "rodada": 29,
         "data": "17.03.24",
     
