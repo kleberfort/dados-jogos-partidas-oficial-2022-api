@@ -1,6 +1,63 @@
 [
 
-
+    {
+        "descricao": "Série A 2023-24",
+        "rodada": 34,
+        "data": "27.04.24",
+    
+        "mandante":{
+            "nome": "Lazio",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png",
+            "classificacao": 7,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Verona",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png",
+            "classificacao": 15,
+            "placar":0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "escanteiosPrimeiroMandante":{
+            "tres": "NÃO",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO"
+        },
+    
+        "escanteiosPrimeiroVisitante":{
+            "tres": "NÃO",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO"
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmarelo": 4,
+            "cartoesVermelho": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmarelo": 4,
+            "cartoesVermelho": 0
+        }
+    },
+    
 
 {
     "descricao": "Série A 2023-24",
