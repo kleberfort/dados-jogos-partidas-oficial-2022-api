@@ -1,6 +1,64 @@
 [
 
 
+    {
+        "descricao": "Bundesliga A 2023-24",
+        "rodada": 31,
+        "data": "27.04.24",
+    
+        "mandante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 8,
+            "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Werder Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 11,
+            "placar":3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 3
+        },
+    
+        "escanteiosPrimeiroMandante":{
+            "tres": "NÃO",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO"
+        },
+    
+        "escanteiosPrimeiroVisitante":{
+            "tres": "NÃO",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO"
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmarelo": 1,
+            "cartoesVermelho": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmarelo": 2,
+            "cartoesVermelho": 0
+        }
+    },
+    
 
 	{
         "descricao": "Bundesliga A 2023-24",
