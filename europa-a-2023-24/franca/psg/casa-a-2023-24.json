@@ -1,6 +1,66 @@
 [
 
 
+{
+  "descricao": "Ligue 1 2023-24",
+  "rodada": 31,
+  "data": "27.04.24",
+
+  "mandante":{
+      "nome": "PSG",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+      "classificacao": 1,
+      "placar":3
+  },
+
+  "visitante":{
+      "nome": "Le-Havre",
+      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BRitaBE1_mjMJguk6xzTRw_96x96.png",
+      "classificacao": 16,
+      "placar":3
+  },
+
+  "estatistiticaJogoMandante":{
+      "escanteiosPrimeiroTempo": 7,
+      "escanteiosSegundoTempo": 4,
+      "golsPrimeiroTempo": 1,
+      "golsSegundoTempo": 2
+  },
+
+  "estatisticaJogoVisitante":{
+      "escanteiosPrimeiroTempo": 2,
+      "escanteiosSegundoTempo": 0,
+      "golsPrimeiroTempo": 2,
+      "golsSegundoTempo": 1
+  },
+
+  "escanteiosPrimeiroMandante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "escanteiosPrimeiroVisitante":{
+      "tres": "NÃO",
+      "cinco": "NÃO",
+      "sete": "NÃO",
+      "nove": "NÃO"
+  },
+
+  "EstatisticaCartoesMandante":{
+      "cartoesAmarelo": 2,
+      "cartoesVermelho": 0
+  },
+
+  "EstatisticaCartoesVisitante":{
+      "cartoesAmarelo": 1,
+      "cartoesVermelho": 0
+  }
+},
+
+
+
   {
     "descricao": "Ligue 1 2023-24",
     "rodada": 30,
