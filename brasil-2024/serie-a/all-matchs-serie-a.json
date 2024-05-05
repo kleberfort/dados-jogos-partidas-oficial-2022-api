@@ -281,7 +281,7 @@
         },
     
         "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloPrimeiroTempo": 3,
             "cartoesAmareloSegundoTempo": 3,
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0}
@@ -759,12 +759,12 @@
         "cartoesAmareloPrimeiroTempo": 0,
         "cartoesAmareloSegundoTempo": 2,
         "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
+        "cartoesVermelhoSegundoTempo": 1
     },
 
     "EstatisticaCartoesVisitante":{
         "cartoesAmareloPrimeiroTempo": 0,
-        "cartoesAmareloSegundoTempo": 2,
+        "cartoesAmareloSegundoTempo": 3,
         "cartoesVermelhoPrimeiroTempo": 0,
         "cartoesVermelhoSegundoTempo": 0 }
 },
@@ -805,7 +805,7 @@
     },
     "EstatisticaCartoesMandante":{
         "cartoesAmareloPrimeiroTempo": 0,
-        "cartoesAmareloSegundoTempo": 2,
+        "cartoesAmareloSegundoTempo": 3,
         "cartoesVermelhoPrimeiroTempo": 0,
         "cartoesVermelhoSegundoTempo": 0
     },
@@ -1294,7 +1294,7 @@
     },
 
     "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 3,
+        "cartoesAmareloPrimeiroTempo": 4,
         "cartoesAmareloSegundoTempo": 0,
         "cartoesVermelhoPrimeiroTempo": 0,
         "cartoesVermelhoSegundoTempo": 0 }
@@ -1336,7 +1336,7 @@
     },
     "EstatisticaCartoesMandante":{
         "cartoesAmareloPrimeiroTempo": 2,
-        "cartoesAmareloSegundoTempo": 2,
+        "cartoesAmareloSegundoTempo": 3,
         "cartoesVermelhoPrimeiroTempo": 0,
         "cartoesVermelhoSegundoTempo": 1
     },
@@ -1441,7 +1441,7 @@
 
     "EstatisticaCartoesVisitante":{
         "cartoesAmareloPrimeiroTempo": 2,
-        "cartoesAmareloSegundoTempo": 2,
+        "cartoesAmareloSegundoTempo": 3,
         "cartoesVermelhoPrimeiroTempo": 0,
         "cartoesVermelhoSegundoTempo": 0 }
 },
@@ -1489,9 +1489,9 @@
 
     "EstatisticaCartoesVisitante":{
         "cartoesAmareloPrimeiroTempo": 1,
-        "cartoesAmareloSegundoTempo": 4,
+        "cartoesAmareloSegundoTempo": 3,
         "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 2 }
+        "cartoesVermelhoSegundoTempo": 1 }
 },
 
 
@@ -1970,7 +1970,7 @@
 
     "EstatisticaCartoesVisitante":{
         "cartoesAmareloPrimeiroTempo": 2,
-        "cartoesAmareloSegundoTempo": 5,
+        "cartoesAmareloSegundoTempo": 4,
         "cartoesVermelhoPrimeiroTempo": 0,
         "cartoesVermelhoSegundoTempo": 0 },
 
