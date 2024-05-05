@@ -1350,58 +1350,7 @@
 
         "COMENTARIOS": "FALTA ADICIONAR O JOGO CRICIUMA X FORTALEZA"
 
-},
-
-
-{
-    "descricao": "Brasileiro Série A 2024",
-    "rodada": 3,
-    "data": "21/04/2024",
-
-    "mandante":{
-        "nome": "Juventude",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
-        "classificacao": 18,
-        "placar":2
-    },
-
-    "visitante":{
-        "nome": "Vitória",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
-        "classificacao": 10,
-        "placar":2
-    },
-
-    "estatistiticaJogoMandante":{
-        "escanteiosPrimeiroTempo": 1,
-        "escanteiosSegundoTempo": 1,
-        "golsPrimeiroTempo": 1,
-        "golsSegundoTempo": 1
-    },
-
-    "estatisticaJogoVisitante":{
-        "escanteiosPrimeiroTempo": 2,
-        "escanteiosSegundoTempo": 5,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 2
-    },
-    "EstatisticaCartoesMandante":{
-        "cartoesAmareloPrimeiroTempo": 2,
-        "cartoesAmareloSegundoTempo": 1,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 0,
-        "cartoesAmareloSegundoTempo": 3,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0 },
-
-
-        "COMENTARIOS": "PARTIDA DE TESTE JOGO FORA VITÓRIA"
 }
-
 
 
 
