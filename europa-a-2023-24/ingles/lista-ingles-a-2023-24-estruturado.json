@@ -4878,6 +4878,27 @@
 "jogoscasa":[
 
 
+    {
+        "descricao": "Premier League A 2023-24",
+        "rodada": 36,
+        "data": "06.05.24",
+    
+        "mandante":{
+            "nome": "Crystal Palace",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
+            "classificacao": 14,
+            "placar":4
+        },
+    
+        "visitante":{
+            "nome": "United",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+            "classificacao": 6,
+            "placar":0
+        }
+    },
+
+
 {
     "descricao": "Premier League A 2023-24",
     "rodada": 29,
@@ -9359,6 +9380,26 @@
 
 ],
 "jogosfora":[
+
+    {
+        "descricao": "Premier League A 2023-24",
+        "rodada": 36,
+        "data": "06.05.24",
+    
+        "mandante":{
+            "nome": "Crystal Palace",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
+            "classificacao": 14,
+            "placar":4
+        },
+    
+        "visitante":{
+            "nome": "United",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+            "classificacao": 6,
+            "placar":0
+        }
+    },
 
     {
         "descricao": "Premier League A 2023-24",
