@@ -2,6 +2,65 @@
 
     {
         "descricao": "Série A 2023-24",
+        "rodada": 35,
+        "data": "04.05.24",
+    
+        "mandante":{
+            "nome": "Sassuolo",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png",
+            "classificacao": 19,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Inter",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png",
+            "classificacao": 1,
+            "placar":0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "escanteiosPrimeiroMandante":{
+            "tres": "NÃO",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO"
+        },
+    
+        "escanteiosPrimeiroVisitante":{
+            "tres": "NÃO",
+            "cinco": "NÃO",
+            "sete": "NÃO",
+            "nove": "NÃO"
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmarelo": 1,
+            "cartoesVermelho": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmarelo": 1,
+            "cartoesVermelho": 0
+        }
+    },
+    
+
+    {
+        "descricao": "Série A 2023-24",
         "rodada": 33,
         "data": "22.04.24",
     
