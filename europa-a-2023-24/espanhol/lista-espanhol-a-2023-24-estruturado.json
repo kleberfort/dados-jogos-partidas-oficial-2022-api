@@ -6251,6 +6251,27 @@
 ],
 "jogosfora":[
 
+
+{
+    "descricao": "La Liga A 2023-24",
+    "rodada": 34,
+    "data": "05.05.24",
+
+    "mandante":{
+        "nome": "Sevilla",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png",
+        "classificacao": 13,
+        "placar":3
+    },
+
+    "visitante":{
+        "nome": "Granada",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_96x96.png",
+        "classificacao": 19,
+        "placar":0
+    }
+},
+
     {
         "descricao": "La Liga A 2023-24",
         "rodada": 32,
@@ -11198,25 +11219,6 @@
 "jogoscasa":[
 
 
-{
-    "descricao": "La Liga A 2023-24",
-    "rodada": 34,
-    "data": "05.05.24",
-
-    "mandante":{
-        "nome": "Sevilla",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png",
-        "classificacao": 13,
-        "placar":3
-    },
-
-    "visitante":{
-        "nome": "Granada",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_96x96.png",
-        "classificacao": 19,
-        "placar":0
-    }
-},
 
 
 {
