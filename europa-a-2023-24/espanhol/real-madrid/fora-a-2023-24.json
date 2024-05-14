@@ -2,6 +2,65 @@
 
   {
     "descricao": "La Liga A 2023-24",
+    "rodada": 35,
+    "data": "11.05.24",
+
+    "mandante":{
+        "nome": "Granada",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_96x96.png",
+        "classificacao": 19,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Real Madrid",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+        "classificacao": 1,
+        "placar":4
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 5,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 2,
+        "golsSegundoTempo": 2
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 0,
+        "cartoesVermelho": 0
+    }
+},
+
+
+  {
+    "descricao": "La Liga A 2023-24",
     "rodada": 33,
     "data": "26.04.24",
 
