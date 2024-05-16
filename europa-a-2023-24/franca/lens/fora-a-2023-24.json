@@ -1,6 +1,66 @@
 [
 
 
+
+{
+    "descricao": "Ligue 1 2023-24",
+    "rodada": 33,
+    "data": "12.05.24",
+
+    "mandante":{
+        "nome": "Rennes",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
+        "classificacao": 8,
+        "placar":1
+    },
+
+    "visitante":{
+        "nome": "Lens",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/TUvwItKazVFpgThEhhlN1Q_96x96.png",
+        "classificacao": 6,
+        "placar":1
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 1
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 3,
+        "escanteiosSegundoTempo": 0,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 1
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    }
+},
+
+
 {
   "descricao": "Ligue 1 2023-24",
   "rodada": 31,
