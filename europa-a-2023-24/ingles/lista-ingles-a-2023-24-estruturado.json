@@ -2899,6 +2899,28 @@
 
     {
         "descricao": "Premier League A 2023-24",
+        "rodada": 34,
+        "data": "15.05.24",
+    
+        "mandante":{
+            "nome": "Brighton",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
+            "classificacao": 11,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Chelsea",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+            "classificacao": 7,
+            "placar":2
+        }
+    },
+    
+
+
+    {
+        "descricao": "Premier League A 2023-24",
         "rodada": 36,
         "data": "05.05.24",
     
@@ -4670,6 +4692,27 @@
 
 ],
 "jogosfora":[
+
+    {
+        "descricao": "Premier League A 2023-24",
+        "rodada": 34,
+        "data": "15.05.24",
+    
+        "mandante":{
+            "nome": "Brighton",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
+            "classificacao": 11,
+            "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Chelsea",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+            "classificacao": 7,
+            "placar":2
+        }
+    },
+    
 
     {
         "descricao": "Premier League A 2023-24",
@@ -8988,6 +9031,28 @@
 "jogosfora":[
 
 
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 34,
+    "data": "14.05.24",
+
+    "mandante":{
+        "nome": "Tottenham",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
+        "classificacao": 5,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "City",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+        "classificacao": 2,
+        "placar":2
+    }
+},
+
+
 {
     "descricao": "Premier League A 2023-24",
     "rodada": 37,
@@ -9339,6 +9404,28 @@
       "nome": "Manchester United",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
 "jogoscasa":[
+
+
+{
+    "descricao": "Premier League A 2023-24",
+    "rodada": 34,
+    "data": "15.05.24",
+
+    "mandante":{
+        "nome": "United",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+        "classificacao": 8,
+        "placar":3
+    },
+
+    "visitante":{
+        "nome": "Newcastle",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
+        "classificacao": 6,
+        "placar":2
+    }
+},
+
 
     {
         "descricao": "Premier League A 2023-24",
@@ -10423,6 +10510,28 @@
 
 ],
 "jogosfora":[
+
+
+{
+    "descricao": "Premier League A 2023-24",
+    "rodada": 34,
+    "data": "15.05.24",
+
+    "mandante":{
+        "nome": "United",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+        "classificacao": 8,
+        "placar":3
+    },
+
+    "visitante":{
+        "nome": "Newcastle",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
+        "classificacao": 6,
+        "placar":2
+    }
+},
+
 
 
     {
@@ -12201,6 +12310,28 @@
       "nome": "Tottenham",
       "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
 "jogoscasa":[
+
+
+
+  {
+    "descricao": "Premier League A 2023-24",
+    "rodada": 34,
+    "data": "14.05.24",
+
+    "mandante":{
+        "nome": "Tottenham",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
+        "classificacao": 5,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "City",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+        "classificacao": 2,
+        "placar":2
+    }
+},
 
 
 
