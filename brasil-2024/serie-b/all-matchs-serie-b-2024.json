@@ -157,7 +157,7 @@
             "nome": "Goiás",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_48x48.png",
             "classificacao": 3,
-             "placar":0
+             "placar":4
         },
     
         "visitante":{
@@ -168,31 +168,32 @@
         },
     
         "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 6,
-            "escanteiosSegundoTempo": 9,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 2
         },
     
         "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 0,
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
             "golsPrimeiroTempo": 0,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloPrimeiroTempo": 0,
             "cartoesAmareloSegundoTempo": 0,
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         },
     
         "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloPrimeiroTempo": 0,
             "cartoesAmareloSegundoTempo": 2,
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0 }
     },
+    
     
     
     
