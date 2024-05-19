@@ -1,5 +1,65 @@
 [
 
+
+{
+    "descricao": "Premier League A 2023-24",
+    "rodada": 38,
+    "data": "19.05.24",
+
+    "mandante":{
+        "nome": "Brentford",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
+        "classificacao": 16,
+        "placar":2
+    },
+
+    "visitante":{
+        "nome": "Newcastle",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
+        "classificacao": 7,
+        "placar":4
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 2
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 0,
+        "escanteiosSegundoTempo": 0,
+        "golsPrimeiroTempo": 3,
+        "golsSegundoTempo": 1
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 4,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 4,
+        "cartoesVermelho": 0
+    }
+},
+
+
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 34,
