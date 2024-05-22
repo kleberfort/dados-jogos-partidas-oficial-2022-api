@@ -4,6 +4,66 @@
 
 {
     "descricao": "Série A 2023-24",
+    "rodada": 37,
+    "data": "19.05.24",
+
+    "mandante":{
+        "nome": "Sassuolo",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png",
+        "classificacao": 19,
+        "placar":0
+    },
+
+    "visitante":{
+        "nome": "Cagliari",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png",
+        "classificacao": 16,
+        "placar":2
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 2,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 0,
+        "escanteiosSegundoTempo": 6,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 2
+    },
+
+    "escanteiosPrimeiroMandante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "escanteiosPrimeiroVisitante":{
+        "tres": "NÃO",
+        "cinco": "NÃO",
+        "sete": "NÃO",
+        "nove": "NÃO"
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmarelo": 3,
+        "cartoesVermelho": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmarelo": 2,
+        "cartoesVermelho": 0
+    }
+},
+
+
+
+{
+    "descricao": "Série A 2023-24",
     "rodada": 36,
     "data": "11.05.24",
 
