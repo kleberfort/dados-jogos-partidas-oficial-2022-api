@@ -60,7 +60,7 @@
             "nome": "River Plate",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/16.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 1,
-             "placar":0
+             "placar":3
         },
     
         "visitante":{
@@ -73,8 +73,8 @@
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
         },
     
         "estatisticaJogoVisitante":{
@@ -108,27 +108,27 @@
             "nome": "Defensa y Justicia",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8950.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 22,
-             "placar":0
+             "placar":1
         },
     
         "visitante":{
             "nome": "Gimnasia y Esgrima",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 6,
-            "placar":0
+            "placar":1
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsSegundoTempo": 1
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
@@ -156,27 +156,27 @@
             "nome": "Instituto",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2975.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 8,
-             "placar":0
+             "placar":1
         },
     
         "visitante":{
             "nome": "Unión de Santa Fe",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 9,
-            "placar":0
+            "placar":1
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
@@ -204,27 +204,27 @@
             "nome": "Barracas Central",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10060.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 10,
-             "placar":0
+             "placar":1
         },
     
         "visitante":{
             "nome": "Sarmiento",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10158.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 17,
-            "placar":0
+            "placar":1
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
@@ -300,7 +300,7 @@
             "nome": "Talleres",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/19.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 2,
-             "placar":0
+             "placar":2
         },
     
         "visitante":{
@@ -313,8 +313,8 @@
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
         },
     
         "estatisticaJogoVisitante":{
@@ -348,27 +348,27 @@
             "nome": "Banfield",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/235.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 20,
-             "placar":0
+             "placar":1
         },
     
         "visitante":{
             "nome": "Huracán",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 5,
-            "placar":0
+            "placar":1
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsSegundoTempo": 1
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
@@ -396,20 +396,20 @@
             "nome": "Central Córdoba SdE",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11989.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 28,
-             "placar":0
+             "placar":2
         },
     
         "visitante":{
             "nome": "Boca Juniors",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 12,
-            "placar":0
+            "placar":4
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 2,
             "golsSegundoTempo": 0
         },
     
@@ -417,7 +417,7 @@
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsSegundoTempo": 4
         },
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 0,
@@ -444,27 +444,27 @@
             "nome": "San Lorenzo",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 18,
-             "placar":0
+             "placar":1
         },
     
         "visitante":{
             "nome": "Lanús",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 24,
-            "placar":0
+            "placar":1
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsSegundoTempo": 1
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
@@ -492,7 +492,7 @@
             "nome": "Estudiantes De La Plata",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 3,
-             "placar":0
+             "placar":2
         },
     
         "visitante":{
@@ -505,8 +505,8 @@
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
         },
     
         "estatisticaJogoVisitante":{
@@ -540,27 +540,27 @@
             "nome": "Rosario Central",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 16,
-             "placar":0
+             "placar":1
         },
     
         "visitante":{
             "nome": "Tigre",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7767.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 19,
-            "placar":0
+            "placar":1
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsSegundoTempo": 1
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
@@ -588,7 +588,7 @@
             "nome": "Racing",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/15.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 4,
-             "placar":0
+             "placar":3
         },
     
         "visitante":{
@@ -601,8 +601,8 @@
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
         },
     
         "estatisticaJogoVisitante":{
@@ -636,7 +636,7 @@
             "nome": "Vélez Sársfield",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/21.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 27,
-             "placar":0
+             "placar":1
         },
     
         "visitante":{
@@ -649,7 +649,7 @@
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
     
@@ -687,29 +687,29 @@
         "mandante":{
             "nome": "Sarmiento",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10158.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 17,
-             "placar":0
+            "classificacao": 1,
+             "placar":1
         },
     
         "visitante":{
             "nome": "Instituto",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2975.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 8,
-            "placar":0
+            "classificacao": 1,
+            "placar":2
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsSegundoTempo": 1
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
         },
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 0,
@@ -735,14 +735,14 @@
         "mandante":{
             "nome": "Newell s Old Boys",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/14.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 5,
-             "placar":0
+            "classificacao": 1,
+             "placar":2
         },
     
         "visitante":{
             "nome": "Platense",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7764.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 27,
+            "classificacao": 1,
             "placar":0
         },
     
@@ -750,7 +750,7 @@
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsSegundoTempo": 2
         },
     
         "estatisticaJogoVisitante":{
@@ -783,28 +783,28 @@
         "mandante":{
             "nome": "Argentinos Juniors",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 7,
-             "placar":0
+            "classificacao": 1,
+             "placar":3
         },
     
         "visitante":{
             "nome": "Rosario Central",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 16,
-            "placar":0
+            "classificacao": 1,
+            "placar":2
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 3,
             "golsSegundoTempo": 0
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 2,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
@@ -831,29 +831,29 @@
         "mandante":{
             "nome": "Huracán",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 2,
-             "placar":0
+            "classificacao": 1,
+             "placar":3
         },
     
         "visitante":{
             "nome": "Defensa y Justicia",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8950.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 25,
-            "placar":0
+            "classificacao": 1,
+            "placar":1
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsSegundoTempo": 1
         },
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 0,
@@ -879,15 +879,15 @@
         "mandante":{
             "nome": "Godoy Cruz",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6756.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 18,
+            "classificacao": 1,
              "placar":0
         },
     
         "visitante":{
             "nome": "Barracas Central",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10060.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 11,
-            "placar":0
+            "classificacao": 1,
+            "placar":1
         },
     
         "estatistiticaJogoMandante":{
@@ -901,7 +901,7 @@
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsSegundoTempo": 1
         },
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 0,
@@ -927,29 +927,29 @@
         "mandante":{
             "nome": "Independiente",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 23,
-             "placar":0
+            "classificacao": 1,
+             "placar":1
         },
     
         "visitante":{
             "nome": "Talleres",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/19.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 4,
-            "placar":0
+            "classificacao": 1,
+            "placar":3
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
         },
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 0,
@@ -976,21 +976,21 @@
             "nome": "River Plate",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/16.png&scale=crop&cquality=40&location=origin&w=80&h=80",
             "classificacao": 1,
-             "placar":0
+             "placar":3
         },
     
         "visitante":{
             "nome": "Central Córdoba SdE",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11989.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 28,
+            "classificacao": 1,
             "placar":0
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
         },
     
         "estatisticaJogoVisitante":{
@@ -1023,15 +1023,15 @@
         "mandante":{
             "nome": "Tigre",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7767.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 19,
+            "classificacao": 1,
              "placar":0
         },
     
         "visitante":{
             "nome": "Estudiantes De La Plata",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 12,
-            "placar":0
+            "classificacao": 1,
+            "placar":1
         },
     
         "estatistiticaJogoMandante":{
@@ -1044,7 +1044,7 @@
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
@@ -1071,21 +1071,21 @@
         "mandante":{
             "nome": "Deportivo Riestra",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17702.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 9,
-             "placar":0
+            "classificacao": 1,
+             "placar":1
         },
     
         "visitante":{
             "nome": "San Lorenzo",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 22,
+            "classificacao": 1,
             "placar":0
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
     
@@ -1119,15 +1119,15 @@
         "mandante":{
             "nome": "Lanús",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 26,
+            "classificacao": 1,
              "placar":0
         },
     
         "visitante":{
             "nome": "Independiente Rivadavia",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9744.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 6,
-            "placar":0
+            "classificacao": 1,
+            "placar":2
         },
     
         "estatistiticaJogoMandante":{
@@ -1140,8 +1140,8 @@
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
         },
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 0,
@@ -1167,29 +1167,29 @@
         "mandante":{
             "nome": "Belgrano",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 15,
-             "placar":0
+            "classificacao": 1,
+             "placar":4
         },
     
         "visitante":{
             "nome": "Racing",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/15.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 14,
-            "placar":0
+            "classificacao": 1,
+            "placar":4
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 3
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 3,
+            "golsSegundoTempo": 1
         },
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 0,
@@ -1215,21 +1215,21 @@
         "mandante":{
             "nome": "Atlético Tucumán",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9785.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 13,
-             "placar":0
+            "classificacao": 1,
+             "placar":1
         },
     
         "visitante":{
             "nome": "Boca Juniors",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 21,
+            "classificacao": 1,
             "placar":0
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
+            "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
     
@@ -1263,29 +1263,29 @@
         "mandante":{
             "nome": "Gimnasia y Esgrima",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 3,
-             "placar":0
+            "classificacao": 1,
+             "placar":3
         },
     
         "visitante":{
             "nome": "Vélez Sársfield",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/21.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 24,
-            "placar":0
+            "classificacao": 1,
+            "placar":1
         },
     
         "estatistiticaJogoMandante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
         },
     
         "estatisticaJogoVisitante":{
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsSegundoTempo": 1
         },
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 0,
@@ -1312,14 +1312,14 @@
         "mandante":{
             "nome": "Unión de Santa Fe",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 10,
-             "placar":0
+            "classificacao": 1,
+             "placar":1
         },
     
         "visitante":{
             "nome": "Banfield",
             "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/235.png&scale=crop&cquality=40&location=origin&w=80&h=80",
-            "classificacao": 20,
+            "classificacao": 1,
             "placar":0
         },
     
@@ -1327,7 +1327,7 @@
             "escanteiosPrimeiroTempo": 0,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+            "golsSegundoTempo": 1
         },
     
         "estatisticaJogoVisitante":{
