@@ -1179,27 +1179,27 @@
         },
     
         "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 0,
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 3,
             "golsPrimeiroTempo": 0,
             "golsSegundoTempo": 1
         },
     
         "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 0,
+            "escanteiosPrimeiroTempo": 2,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 0,
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         },
     
         "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloPrimeiroTempo": 1,
             "cartoesAmareloSegundoTempo": 0,
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0 }
@@ -1227,28 +1227,28 @@
         },
     
         "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 0,
+            "escanteiosPrimeiroTempo": 3,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 2
         },
     
         "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 0,
+            "escanteiosPrimeiroTempo": 4,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 0,
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         },
     
         "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 0,
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 3,
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0 }
     },
@@ -1275,28 +1275,28 @@
         },
     
         "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 0,
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
             "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 0
         },
     
         "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 0,
+            "escanteiosPrimeiroTempo": 4,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
             "golsSegundoTempo": 0
         },
         "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 0,
+            "cartoesAmareloPrimeiroTempo": 4,
+            "cartoesAmareloSegundoTempo": 1,
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         },
     
         "EstatisticaCartoesVisitante":{
             "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 0,
+            "cartoesAmareloSegundoTempo": 5,
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0 }
     },
