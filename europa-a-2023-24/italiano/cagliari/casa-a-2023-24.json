@@ -827,52 +827,6 @@
 
 
 
-{
-    "descricao": "Série A 2023-24",
-    "rodada": 11 ,
-    "data": "05.11.23",
-    
-    "mandante": {
-          "nome": "Cagliari",
-          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"  ,
-    "classificacao": 19,
-    "placar": 2
-  },
-    "visitante": {
-      "nome": "Genoa",
-      "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GlyoZO04xkwVX6oTh8asHA_96x96.png"  ,
-    "classificacao": 14,
-    "placar": 1
-    },
-    "estatistiticaJogoMandante":{
-      "escanteiosPrimeiroTempo": 0  ,
-      "escanteiosSegundoTempo": 1  ,
-      "golsPrimeiroTempo": 0 ,
-      "golsSegundoTempo": 2 },
-
-    "estatisticaJogoVisitante":{
-      "escanteiosPrimeiroTempo": 1  ,
-      "escanteiosSegundoTempo": 0  ,
-      "golsPrimeiroTempo": 0  ,
-      "golsSegundoTempo": 1 },
-
-    "escanteiosPrimeiroMandante":{
-      "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
-      "nove": "NÃO" },
-    "escanteiosPrimeiroVisitante": {
-      "tres": "NÃO",
-      "cinco": "NÃO",
-      "sete": "NÃO",
-      "nove": "NÃO" },
-      "EstatisticaCartoesMandante":{
-      "cartoesAmarelo":  4  ,
-      "cartoesVermelho":  0 },
-       "EstatisticaCartoesVisitante":{
-      "cartoesAmarelo": 2 ,
-      "cartoesVermelho": 0 }
-  },
 
 
 
