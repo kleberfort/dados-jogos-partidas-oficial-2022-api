@@ -2,9 +2,55 @@
 
     {
 
-        "COMENTARIOS": "RESTAM 1 JOGOS DA RODADA 8",
+        "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 8",
 
+        "descricao": "Brasileiro Série B 2024",
+        "rodada": 8,
+        "data": "05/06/2024",
+    
+        "mandante":{
+            "nome": "Paysandu",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1aw29215gcFtsyu07fCifw_48x48.png",
+            "classificacao": 17,
+             "placar":2
+        },
+    
+        "visitante":{
+            "nome": "América-MG",
+            "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
+            "classificacao": 2,
+            "placar":0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
 
+    {
         "descricao": "Brasileiro Série B 2024",
         "rodada": 8,
         "data": "01/06/2024",
