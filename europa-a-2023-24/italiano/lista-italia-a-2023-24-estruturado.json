@@ -6,6 +6,26 @@
 
     {
         "descricao": "Série A 2023-24",
+        "rodada": 29,
+        "data": "02.06.24",
+    
+        "mandante":{
+            "nome": "Atalanta",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png",
+            "classificacao": 5,
+            "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Fiorentina",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png",
+            "classificacao": 8,
+            "placar":3
+        }
+    },
+
+    {
+        "descricao": "Série A 2023-24",
         "rodada": 38,
         "data": "26.05.24",
     
@@ -3363,6 +3383,27 @@
 
 ],
 "jogosfora":[
+
+
+    {
+        "descricao": "Série A 2023-24",
+        "rodada": 29,
+        "data": "02.06.24",
+    
+        "mandante":{
+            "nome": "Atalanta",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png",
+            "classificacao": 5,
+            "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Fiorentina",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/5BhAG7vGRyQLIXtfMG3L2Q_96x96.png",
+            "classificacao": 8,
+            "placar":3
+        }
+    },
 
     {
         "descricao": "Série A 2023-24",
