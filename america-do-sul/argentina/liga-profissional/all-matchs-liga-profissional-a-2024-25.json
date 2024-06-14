@@ -1,5 +1,438 @@
 [
 
+    {
+
+        "COMENTARIOS": "RESTAM ADICIONAR 5 JOGOS DA RODADA 5 ",
+
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "12/06/2024",
+    
+        "mandante":{
+            "nome": "Godoy Cruz",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6756.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 28,
+             "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Rosario",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 13,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "12/06/2024",
+    
+        "mandante":{
+            "nome": "Argentinos Jrs",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 12,
+             "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Central Córdoba",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11989.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 27,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "12/06/2024",
+    
+        "mandante":{
+            "nome": "Independiente",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 22,
+             "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Banfield",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/235.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 20,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 3,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1 }
+    },
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "12/06/2024",
+    
+        "mandante":{
+            "nome": "Gimnasia",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 6,
+             "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Barracas Central",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10060.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 21,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "13/06/2024",
+    
+        "mandante":{
+            "nome": "Deportivo Riestra",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17702.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 23,
+             "placar":2
+        },
+    
+        "visitante":{
+            "nome": "River Plate",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/16.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 5,
+            "placar":0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "13/06/2024",
+    
+        "mandante":{
+            "nome": "Tigre",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7767.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 26,
+             "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Belgrano",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 10,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "13/06/2024",
+    
+        "mandante":{
+            "nome": "Sarmiento",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10158.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 19,
+             "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Estudiantes",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 7,
+            "placar":0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "13/06/2024",
+    
+        "mandante":{
+            "nome": "Newell Old Boys",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/14.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 11,
+             "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Instituto",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2975.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 9,
+            "placar":2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "13/06/2024",
+    
+        "mandante":{
+            "nome": "Lanús",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 15,
+             "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Racing",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/15.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 1,
+            "placar":0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+
 
     {
 
