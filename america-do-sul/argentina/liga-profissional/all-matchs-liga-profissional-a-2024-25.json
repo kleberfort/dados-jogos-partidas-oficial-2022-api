@@ -2,7 +2,253 @@
 
     {
 
-        "COMENTARIOS": "RESTAM ADICIONAR 5 JOGOS DA RODADA 5 ",
+        "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 5 ",
+
+
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "14/06/2024",
+    
+        "mandante":{
+            "nome": "Talleres",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/19.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 2,
+             "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Platense",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7764.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 17,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "14/06/2024",
+    
+        "mandante":{
+            "nome": "Boca Juniors",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 18,
+             "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Vélez Sársfield",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/21.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 14,
+            "placar":0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "15/06/2024",
+    
+        "mandante":{
+            "nome": "Union Santa Fe",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 4,
+             "placar":2
+        },
+    
+        "visitante":{
+            "nome": "San Lorenzo",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 25,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 4,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "15/06/2024",
+    
+        "mandante":{
+            "nome": "Huracán",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 3,
+             "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Ind. Rivadavia",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9744.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 8,
+            "placar":0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 5,
+        "data": "15/06/2024",
+    
+        "mandante":{
+            "nome": "Atl. Tucuman",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9785.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 16,
+             "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Def. Justicia",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8950.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 24,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    
+
+    {
+
+     
 
         "descricao": "Liga Profissional 2024",
         "rodada": 5,
