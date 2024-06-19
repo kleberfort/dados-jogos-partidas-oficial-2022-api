@@ -2,8 +2,57 @@
 
     {
 
+        "COMENTARIOS": "TODOS DOS JOGOS ADICIONADOS RODADA 9",
 
-        "COMENTARIOS": "RESTA ADICIOANR 1 JOGO DA RODADA 9",
+        "descricao": "Brasileiro Série A 2024",
+        "rodada": 9,
+        "data": "17/06/2024",
+    
+        "mandante":{
+            "nome": "Atlético-MG",
+            "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
+            "classificacao": 7,
+             "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Palmeiras",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
+            "classificacao": 6,
+            "placar":4
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 3
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 4,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+
+    {
+
+
+      
 
         "descricao": "Brasileiro Série A 2024",
         "rodada": 9,
