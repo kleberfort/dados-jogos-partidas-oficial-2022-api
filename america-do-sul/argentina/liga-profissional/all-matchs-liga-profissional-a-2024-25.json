@@ -2,6 +2,200 @@
 
     {
 
+        "COMENTARIOS": "RESTA ADICIONAR 10 JOGOS DA RODADA 6 ",
+
+        "descricao": "Liga Profissional 2024",
+        "rodada": 6,
+        "data": "18/07/2024",
+    
+        "mandante":{
+            "nome": "Argentinos Jrs",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 8,
+             "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Tigre",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7767.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 25,
+            "placar":2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 6,
+        "data": "18/07/2024",
+    
+        "mandante":{
+            "nome": "Barracas Central",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10060.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 23,
+             "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Newell Old Boys",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/14.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 18,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 7,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 6,
+        "data": "18/07/2024",
+    
+        "mandante":{
+            "nome": "Instituto",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2975.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 6,
+             "placar":3
+        },
+    
+        "visitante":{
+            "nome": "Independiente",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 17,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 3,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 6,
+        "data": "19/07/2024",
+    
+        "mandante":{
+            "nome": "Ind. Rivadavia",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9744.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 13,
+             "placar":1
+        },
+    
+        "visitante":{
+            "nome": "Gimnasia",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 5,
+            "placar":0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1 }
+    },
+    
+
+    {
+
         "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 5 ",
 
 
