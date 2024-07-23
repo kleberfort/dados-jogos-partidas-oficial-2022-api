@@ -2,7 +2,158 @@
 
     {
 
-        "COMENTARIOS": "RESTA ADICIONAR 3 JOGOS DA RODADA 6 ",
+        "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 6 ",
+
+        "descricao": "Liga Profissional 2024",
+        "rodada": 6,
+        "data": "21/07/2024",
+    
+        "mandante":{
+            "nome": "Vélez Sársfield",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/21.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 20,
+             "placar":3
+        },
+    
+        "visitante":{
+            "nome": "Talleres",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/19.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 1,
+            "placar":0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 6,
+        "data": "20/07/2024",
+    
+        "mandante":{
+            "nome": "Racing",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/15.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 4,
+             "placar":3
+        },
+    
+        "visitante":{
+            "nome": "Godoy Cruz",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6756.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 27,
+            "placar":0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    {
+        "descricao": "Liga Profissional 2024",
+        "rodada": 6,
+        "data": "21/07/2024",
+    
+        "mandante":{
+            "nome": "Central Córdoba",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11989.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 28,
+             "placar":0
+        },
+    
+        "visitante":{
+            "nome": "Platense",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7764.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 21,
+            "placar":2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+    
+    
+    
+    
+    
+
+    {
+
+        
 
         "descricao": "Liga Profissional 2024",
         "rodada": 6,
