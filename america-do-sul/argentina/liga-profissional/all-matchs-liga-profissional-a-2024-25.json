@@ -1,11 +1,59 @@
 [
 
+    {
 
-   
+        "COMENTARIOS": "RESTA ADICIONAR 3 JOGOS DA RODADA 6 ",
+
+        "descricao": "Liga Profissional 2024",
+        "rodada": 6,
+        "data": "21/07/2024",
+    
+        "mandante":{
+            "nome": "River Plate",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/16.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 7,
+             "placar":2
+        },
+    
+        "visitante":{
+            "nome": "Lanús",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 9,
+            "placar":2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+
 
     {
 
-        "COMENTARIOS": "RESTA ADICIONAR 4 JOGOS DA RODADA 6 ",
+      
 
         "descricao": "Liga Profissional 2024",
         "rodada": 6,
