@@ -2,7 +2,57 @@
 
     {
 
-        "COMENTARIOS": "RESTA 1 JOGO DA RODADA 19",
+        "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 19",
+
+        "descricao": "Brasileiro Série B 2024",
+        "rodada": 19,
+        "data": "06/08/2024",
+    
+        "mandante":{
+            "nome": "Ceará",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png",
+            "classificacao": 7,
+             "placar":3
+        },
+    
+        "visitante":{
+            "nome": "Guarani",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png",
+            "classificacao": 20,
+            "placar":1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0 }
+    },
+    
+
+    {
+
+     
 
         "descricao": "Brasileiro Série B 2024",
         "rodada": 19,
