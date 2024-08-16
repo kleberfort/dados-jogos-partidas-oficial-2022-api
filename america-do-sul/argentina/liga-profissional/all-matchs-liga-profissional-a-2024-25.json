@@ -1,5 +1,695 @@
 [
 
+
+    {
+
+        "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 10 ",
+
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "08/08/2024",
+    
+        "mandante":{
+            "nome": "Argentinos Jrs",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 16,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Sarmiento",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10158.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 18,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 5,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "09/08/2024",
+    
+        "mandante":{
+            "nome": "Deportivo Riestra",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17702.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 17,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Lanús",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 9,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 1,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "09/08/2024",
+    
+        "mandante":{
+            "nome": "Barracas Central",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10060.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 26,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Talleres",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/19.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 5,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "09/08/2024",
+    
+        "mandante":{
+            "nome": "Belgrano",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 10,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Union Santa Fe",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 2,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "10/08/2024",
+    
+        "mandante":{
+            "nome": "Racing",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/15.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 3,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Gimnasia",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 20,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "10/08/2024",
+    
+        "mandante":{
+            "nome": "San Lorenzo",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 24,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Atl. Tucuman",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9785.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 6,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "10/08/2024",
+    
+        "mandante":{
+            "nome": "Rosario",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 17,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Newell Old Boys",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/14.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 20,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "10/08/2024",
+    
+        "mandante":{
+            "nome": "Ind. Rivadavia",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9744.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 13,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Boca Juniors",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 14,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "10/08/2024",
+    
+        "mandante":{
+            "nome": "River Plate",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/16.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 12,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Huracán",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 1,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "11/08/2024",
+    
+        "mandante":{
+            "nome": "Instituto",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2975.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 10,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Platense",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7764.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 19,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "11/08/2024",
+    
+        "mandante":{
+            "nome": "Central Córdoba",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11989.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 28,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Def. Justicia",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8950.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 27,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "11/08/2024",
+    
+        "mandante":{
+            "nome": "Banfield",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/235.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 22,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Vélez Sársfield",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/21.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 6,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "11/08/2024",
+    
+        "mandante":{
+            "nome": "Estudiantes",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 9,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Independiente",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 23,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 10,
+        "data": "12/08/2024",
+    
+        "mandante":{
+            "nome": "Tigre",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7767.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 23,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Godoy Cruz",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6756.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 26,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+
     {
 
         "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 9 ",
