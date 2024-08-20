@@ -1,5 +1,56 @@
 [
 
+
+
+    {
+        "descricao": "Brasileirão Série A",
+        "rodada": 23,
+        "data": "19/08/2024",
+    
+        "mandante":{
+            "nome": "Vitória",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
+            "classificacao": 17,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Cruzeiro",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png",
+            "classificacao": 7,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 1,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+
     {
 
         "COMENTARIOS": "RESTA ADICIONAR 1 JOGO DA  RODADA 23",
