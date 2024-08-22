@@ -2,6 +2,9 @@
 
 
     {
+
+             "COMENTARIOS": "   TODOS JOGOS ADICIONADOS DA RODADA 11 ",
+
     "descricao": "Liga Profesional",
     "rodada": 11,
     "data": "19/08/2024",
@@ -56,7 +59,7 @@
 
     "mandante":{
         "nome": "Unión de Santa Fé",
-        "imagem": "null",
+        "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20.png&scale=crop&cquality=40&location=origin&w=80&h=80",
         "classificacao": 6,
         "placar": 3
     },
@@ -148,7 +151,7 @@
 
     {
 
-        "COMENTARIOS": "   TODOS JOGOS ADICIONADOS DA RODADA 11 ",
+   
 
         "descricao": "Liga Profesional",
         "rodada": 11,
@@ -392,8 +395,7 @@
             "cartoesVermelhoSegundoTempo": 0
         }
     },
-    
-    
+     
     {
         "descricao": "Liga Profesional",
         "rodada": 11,
