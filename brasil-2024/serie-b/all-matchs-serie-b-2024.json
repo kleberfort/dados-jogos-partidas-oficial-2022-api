@@ -353,7 +353,7 @@
     
         "visitante":{
             "nome": "Brusque",
-            "imagem": "null",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ykKt1U6PEpMP7iiXwZvdBQ_48x48.png",
             "classificacao": 19,
             "placar": 1
         },
@@ -482,6 +482,7 @@
             "cartoesVermelhoSegundoTempo": 0
         }
     },
+    
     
     
 
@@ -742,8 +743,8 @@
         },
     
         "visitante":{
-            "nome": "Brusque",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ykKt1U6PEpMP7iiXwZvdBQ_48x48.png",
+            "nome": "Avaí",
+            "imagem": "https://www.escudosfc.com.br/images/avai.gif",
             "classificacao": 10,
             "placar": 1
         },
@@ -968,6 +969,7 @@
             "cartoesVermelhoSegundoTempo": 1
         }
     },
+    
     
     
 
