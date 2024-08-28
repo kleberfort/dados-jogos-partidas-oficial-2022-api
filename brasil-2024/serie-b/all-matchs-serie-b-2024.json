@@ -243,9 +243,9 @@
             "cartoesVermelhoSegundoTempo": 0
         }
     },
-      ESCANTEIOS-> ERRO no jogo do Paysandu  X  Mirassol
+ 
     
-    {
+      {
         "descricao": "Brasileirão Série B",
         "rodada": 23,
         "data": "26/08/2024",
@@ -265,14 +265,14 @@
         },
     
         "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 0,
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 7,
             "golsPrimeiroTempo": 0,
             "golsSegundoTempo": 0
         },
     
         "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 0,
+            "escanteiosPrimeiroTempo": 1,
             "escanteiosSegundoTempo": 0,
             "golsPrimeiroTempo": 0,
             "golsSegundoTempo": 0
@@ -292,6 +292,7 @@
             "cartoesVermelhoSegundoTempo": 0
         }
     },
+    
     
     {
         "descricao": "Brasileirão Série B",
