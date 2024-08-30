@@ -2450,9 +2450,9 @@
 
     {
 
-        "COMENTARIOS": "RESTAM ADICIONAR 4 JOGOS DA RODADA 19",
-
-        "descricao": "Brasileiro Série A 2024",
+        "COMENTARIOS": "RESTAM ADICIONAR 3 JOGOS DA RODADA 19",
+        
+        "descricao": "Brasileirão Série A",
         "rodada": 19,
         "data": "24/07/2024",
     
@@ -2460,14 +2460,14 @@
             "nome": "Cruzeiro",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png",
             "classificacao": 7,
-             "placar":2
+            "placar": 2
         },
     
         "visitante":{
             "nome": "Juventude",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
             "classificacao": 12,
-            "placar":0
+            "placar": 0
         },
     
         "estatistiticaJogoMandante":{
@@ -2483,6 +2483,7 @@
             "golsPrimeiroTempo": 0,
             "golsSegundoTempo": 0
         },
+    
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 0,
             "cartoesAmareloSegundoTempo": 3,
@@ -2494,13 +2495,12 @@
             "cartoesAmareloPrimeiroTempo": 1,
             "cartoesAmareloSegundoTempo": 3,
             "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0 }
+            "cartoesVermelhoSegundoTempo": 0
+        }
     },
     
-    
-    
     {
-        "descricao": "Brasileiro Série A 2024",
+        "descricao": "Brasileirão Série A",
         "rodada": 19,
         "data": "24/07/2024",
     
@@ -2508,14 +2508,14 @@
             "nome": "São-Paulo",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
             "classificacao": 5,
-             "placar":2
+            "placar": 2
         },
     
         "visitante":{
             "nome": "Botafogo",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
             "classificacao": 1,
-            "placar":2
+            "placar": 2
         },
     
         "estatistiticaJogoMandante":{
@@ -2531,9 +2531,10 @@
             "golsPrimeiroTempo": 2,
             "golsSegundoTempo": 0
         },
+    
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 3,
+            "cartoesAmareloSegundoTempo": 2,
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         },
@@ -2542,13 +2543,12 @@
             "cartoesAmareloPrimeiroTempo": 1,
             "cartoesAmareloSegundoTempo": 2,
             "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0 }
+            "cartoesVermelhoSegundoTempo": 0
+        }
     },
     
-    
-    
     {
-        "descricao": "Brasileiro Série A 2024",
+        "descricao": "Brasileirão Série A",
         "rodada": 19,
         "data": "24/07/2024",
     
@@ -2556,14 +2556,14 @@
             "nome": "Vitória",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
             "classificacao": 17,
-             "placar":1
+            "placar": 1
         },
     
         "visitante":{
             "nome": "Flamengo",
             "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
             "classificacao": 3,
-            "placar":2
+            "placar": 2
         },
     
         "estatistiticaJogoMandante":{
@@ -2579,6 +2579,7 @@
             "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 1
         },
+    
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 0,
             "cartoesAmareloSegundoTempo": 1,
@@ -2590,28 +2591,27 @@
             "cartoesAmareloPrimeiroTempo": 0,
             "cartoesAmareloSegundoTempo": 1,
             "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0 }
+            "cartoesVermelhoSegundoTempo": 0
+        }
     },
     
-    
-    
     {
-        "descricao": "Brasileiro Série A 2024",
+        "descricao": "Brasileirão Série A",
         "rodada": 19,
-        "data": "24/07/2024",
+        "data": "25/07/2024",
     
         "mandante":{
             "nome": "Fluminense",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
             "classificacao": 19,
-             "placar":1
+            "placar": 1
         },
     
         "visitante":{
             "nome": "Palmeiras",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
-            "classificacao": 2,
-            "placar":0
+            "classificacao": 3,
+            "placar": 0
         },
     
         "estatistiticaJogoMandante":{
@@ -2627,6 +2627,7 @@
             "golsPrimeiroTempo": 0,
             "golsSegundoTempo": 0
         },
+    
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 2,
             "cartoesAmareloSegundoTempo": 0,
@@ -2638,28 +2639,27 @@
             "cartoesAmareloPrimeiroTempo": 2,
             "cartoesAmareloSegundoTempo": 1,
             "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0 }
+            "cartoesVermelhoSegundoTempo": 0
+        }
     },
     
-    
-    
     {
-        "descricao": "Brasileiro Série A 2024",
+        "descricao": "Brasileirão Série A",
         "rodada": 19,
-        "data": "24/07/2024",
+        "data": "25/07/2024",
     
         "mandante":{
             "nome": "Atlético-GO",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9mqMGndwoR9og_Z0uEl2kw_96x96.png",
             "classificacao": 20,
-             "placar":1
+            "placar": 1
         },
     
         "visitante":{
             "nome": "Bahia",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
-            "classificacao": 6,
-            "placar":1
+            "classificacao": 7,
+            "placar": 1
         },
     
         "estatistiticaJogoMandante":{
@@ -2675,39 +2675,39 @@
             "golsPrimeiroTempo": 0,
             "golsSegundoTempo": 1
         },
+    
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 2,
             "cartoesAmareloSegundoTempo": 3,
             "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+            "cartoesVermelhoSegundoTempo": 1
         },
     
         "EstatisticaCartoesVisitante":{
             "cartoesAmareloPrimeiroTempo": 2,
             "cartoesAmareloSegundoTempo": 2,
             "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0 }
+            "cartoesVermelhoSegundoTempo": 0
+        }
     },
     
-    
-    
     {
-        "descricao": "Brasileiro Série A 2024",
+        "descricao": "Brasileirão Série A",
         "rodada": 19,
         "data": "25/07/2024",
     
         "mandante":{
             "nome": "Corinthians",
             "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
-            "classificacao": 14,
-             "placar":2
+            "classificacao": 15,
+            "placar": 2
         },
     
         "visitante":{
             "nome": "Grêmio",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
             "classificacao": 18,
-            "placar":2
+            "placar": 2
         },
     
         "estatistiticaJogoMandante":{
@@ -2723,6 +2723,7 @@
             "golsPrimeiroTempo": 1,
             "golsSegundoTempo": 1
         },
+    
         "EstatisticaCartoesMandante":{
             "cartoesAmareloPrimeiroTempo": 1,
             "cartoesAmareloSegundoTempo": 0,
@@ -2734,8 +2735,58 @@
             "cartoesAmareloPrimeiroTempo": 1,
             "cartoesAmareloSegundoTempo": 0,
             "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0 }
+            "cartoesVermelhoSegundoTempo": 0
+        }
     },
+    
+    {
+        "descricao": "Brasileirão Série A",
+        "rodada": 19,
+        "data": "28/08/2024",
+    
+        "mandante":{
+            "nome": "Criciúma",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png",
+            "classificacao": 15,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Bragantino",
+            "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
+            "classificacao": 14,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 3,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
     
 
     {
