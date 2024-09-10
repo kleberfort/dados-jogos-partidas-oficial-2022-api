@@ -1,9 +1,113 @@
 [
 
 
+    
+
+
     {
 
-        "COMENTARIOS": "RESTA 2 JOGO DA RODADA 25",
+        "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 25",
+
+        "descricao": "Brasileirão Série B",
+        "rodada": 25,
+        "data": "09/09/2024",
+    
+        "mandante":{
+            "nome": "Botafogo-SP",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png",
+            "classificacao": 14,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Goiás",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_48x48.png",
+            "classificacao": 11,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 25,
+        "data": "10/09/2024",
+    
+        "mandante":{
+            "nome": "Ponte Preta",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0e4mOPeQPUipr9oh54-7NQ_96x96.png",
+            "classificacao": 13,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Chapecoense",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/K7JQUKTRsuXfO9YrD5dq5g_96x96.png",
+            "classificacao": 19,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+
+
+    {
+
+      
 
         "descricao": "Brasileirão Série B",
         "rodada": 25,
