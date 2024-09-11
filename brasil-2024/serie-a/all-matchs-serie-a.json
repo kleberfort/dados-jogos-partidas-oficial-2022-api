@@ -10318,484 +10318,486 @@
 
         "COMENTARIOS": "TODOS DOS JOGOS ADICIONADOS RODADA 3",
 
-        "descricao": "Brasileirão Série A",
-        "rodada": 3,
-        "data": "20/04/2024",
     
-        "mandante":{
-            "nome": "Fluminense",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
-            "classificacao": 15,
-            "placar": 2
+            "descricao": "Brasileirão Série A",
+            "rodada": 3,
+            "data": "20/04/2024",
+        
+            "mandante":{
+                "nome": "Fluminense",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
+                "classificacao": 15,
+                "placar": 2
+            },
+        
+            "visitante":{
+                "nome": "Vasco",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
+                "classificacao": 10,
+                "placar": 1
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 1,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 1
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 2,
+                "escanteiosSegundoTempo": 5,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 1
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 2,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 2,
+                "cartoesAmareloSegundoTempo": 3,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "visitante":{
-            "nome": "Vasco",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
-            "classificacao": 10,
-            "placar": 1
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 3,
+            "data": "20/04/2024",
+        
+            "mandante":{
+                "nome": "Bragantino",
+                "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
+                "classificacao": 5,
+                "placar": 1
+            },
+        
+            "visitante":{
+                "nome": "Corinthians",
+                "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
+                "classificacao": 16,
+                "placar": 0
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 3,
+                "escanteiosSegundoTempo": 0,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 3,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 3,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 1,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 3,
+            "data": "20/04/2024",
+        
+            "mandante":{
+                "nome": "Grêmio",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
+                "classificacao": 9,
+                "placar": 1
+            },
+        
+            "visitante":{
+                "nome": "Cuiabá",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
+                "classificacao": 20,
+                "placar": 0
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 2,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 3,
+                "escanteiosSegundoTempo": 1,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 1,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 2,
+                "cartoesAmareloSegundoTempo": 0,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 5,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 3,
+            "data": "21/04/2024",
+        
+            "mandante":{
+                "nome": "Atlético-MG",
+                "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
+                "classificacao": 15,
+                "placar": 3
+            },
+        
+            "visitante":{
+                "nome": "Cruzeiro",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png",
+                "classificacao": 6,
+                "placar": 0
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 2,
+                "escanteiosSegundoTempo": 2,
+                "golsPrimeiroTempo": 3,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 3,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 3,
+            "data": "21/04/2024",
+        
+            "mandante":{
+                "nome": "Vitória",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
+                "classificacao": 17,
+                "placar": 2
+            },
+        
+            "visitante":{
+                "nome": "Bahia",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
+                "classificacao": 12,
+                "placar": 2
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 1,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 1
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 2,
+                "escanteiosSegundoTempo": 5,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 2
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 2,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 3,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 3,
-        "data": "20/04/2024",
-    
-        "mandante":{
-            "nome": "Bragantino",
-            "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
-            "classificacao": 5,
-            "placar": 1
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 3,
+            "data": "21/04/2024",
+        
+            "mandante":{
+                "nome": "Palmeiras",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
+                "classificacao": 13,
+                "placar": 0
+            },
+        
+            "visitante":{
+                "nome": "Flamengo",
+                "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+                "classificacao": 2,
+                "placar": 0
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 3,
+                "escanteiosSegundoTempo": 3,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 2,
+                "escanteiosSegundoTempo": 3,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 3,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 3,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "visitante":{
-            "nome": "Corinthians",
-            "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
-            "classificacao": 16,
-            "placar": 0
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 3,
+            "data": "21/04/2024",
+        
+            "mandante":{
+                "nome": "Atlético-PR",
+                "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
+                "classificacao": 10,
+                "placar": 1
+            },
+        
+            "visitante":{
+                "nome": "Internacional",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png",
+                "classificacao": 4,
+                "placar": 0
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 2,
+                "escanteiosSegundoTempo": 3,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 1
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 2,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 1,
+                "cartoesAmareloSegundoTempo": 4,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 4,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 3,
+            "data": "21/04/2024",
+        
+            "mandante":{
+                "nome": "Botafogo",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
+                "classificacao": 13,
+                "placar": 5
+            },
+        
+            "visitante":{
+                "nome": "Juventude",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
+                "classificacao": 7,
+                "placar": 1
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 5,
+                "escanteiosSegundoTempo": 0,
+                "golsPrimeiroTempo": 2,
+                "golsSegundoTempo": 3
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 3,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 1
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 1,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 4,
+                "cartoesAmareloSegundoTempo": 0,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 3,
+            "data": "21/04/2024",
+        
+            "mandante":{
+                "nome": "Atlético-GO",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9mqMGndwoR9og_Z0uEl2kw_96x96.png",
+                "classificacao": 19,
+                "placar": 0
+            },
+        
+            "visitante":{
+                "nome": "São-Paulo",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
+                "classificacao": 18,
+                "placar": 3
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 4,
+                "escanteiosSegundoTempo": 0,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 0,
+                "escanteiosSegundoTempo": 3,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 2
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 2,
+                "cartoesAmareloSegundoTempo": 3,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 1
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 0,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 3,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 3,
+            "data": "24/07/2024",
+        
+            "mandante":{
+                "nome": "Criciúma",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png",
+                "classificacao": 15,
+                "placar": 1
+            },
+        
+            "visitante":{
+                "nome": "Fortaleza",
+                "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+                "classificacao": 4,
+                "placar": 1
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 4,
+                "escanteiosSegundoTempo": 0,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 2,
+                "escanteiosSegundoTempo": 3,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 1
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 0,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 1,
+                "cartoesAmareloSegundoTempo": 0,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 3,
-        "data": "20/04/2024",
-    
-        "mandante":{
-            "nome": "Grêmio",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
-            "classificacao": 9,
-            "placar": 1
-        },
-    
-        "visitante":{
-            "nome": "Cuiabá",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
-            "classificacao": 20,
-            "placar": 0
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 3,
-        "data": "21/04/2024",
-    
-        "mandante":{
-            "nome": "Atlético-MG",
-            "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
-            "classificacao": 15,
-            "placar": 3
-        },
-    
-        "visitante":{
-            "nome": "Cruzeiro",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png",
-            "classificacao": 6,
-            "placar": 0
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 3,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 3,
-        "data": "21/04/2024",
-    
-        "mandante":{
-            "nome": "Vitória",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
-            "classificacao": 17,
-            "placar": 2
-        },
-    
-        "visitante":{
-            "nome": "Bahia",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
-            "classificacao": 12,
-            "placar": 2
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 5,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 2
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 3,
-        "data": "21/04/2024",
-    
-        "mandante":{
-            "nome": "Palmeiras",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
-            "classificacao": 13,
-            "placar": 0
-        },
-    
-        "visitante":{
-            "nome": "Flamengo",
-            "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
-            "classificacao": 2,
-            "placar": 0
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 3,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 3,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 3,
-        "data": "21/04/2024",
-    
-        "mandante":{
-            "nome": "Atlético-PR",
-            "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
-            "classificacao": 10,
-            "placar": 1
-        },
-    
-        "visitante":{
-            "nome": "Internacional",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png",
-            "classificacao": 4,
-            "placar": 0
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 4,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 4,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 3,
-        "data": "21/04/2024",
-    
-        "mandante":{
-            "nome": "Botafogo",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
-            "classificacao": 13,
-            "placar": 5
-        },
-    
-        "visitante":{
-            "nome": "Juventude",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
-            "classificacao": 7,
-            "placar": 1
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 5,
-            "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 2,
-            "golsSegundoTempo": 3
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 4,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 3,
-        "data": "21/04/2024",
-    
-        "mandante":{
-            "nome": "Atlético-GO",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9mqMGndwoR9og_Z0uEl2kw_96x96.png",
-            "classificacao": 19,
-            "placar": 0
-        },
-    
-        "visitante":{
-            "nome": "São-Paulo",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
-            "classificacao": 18,
-            "placar": 3
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 4,
-            "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 2
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 3,
-        "data": "24/07/2024",
-    
-        "mandante":{
-            "nome": "Criciúma",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png",
-            "classificacao": 15,
-            "placar": 1
-        },
-    
-        "visitante":{
-            "nome": "Fortaleza",
-            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-            "classificacao": 4,
-            "placar": 1
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 4,
-            "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
+        
 
     
 
@@ -10803,485 +10805,486 @@
 
         "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS RODADA 2",
 
-        "descricao": "Brasileirão Série A",
-        "rodada": 2,
-        "data": "17/04/2024",
-    
-        "mandante":{
-            "nome": "Bahia",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
-            "classificacao": 16,
-            "placar": 2
+            "descricao": "Brasileirão Série A",
+            "rodada": 2,
+            "data": "17/04/2024",
+        
+            "mandante":{
+                "nome": "Bahia",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
+                "classificacao": 16,
+                "placar": 2
+            },
+        
+            "visitante":{
+                "nome": "Fluminense",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
+                "classificacao": 8,
+                "placar": 1
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 3,
+                "escanteiosSegundoTempo": 1,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 1
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 2,
+                "escanteiosSegundoTempo": 1,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 2,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 5,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "visitante":{
-            "nome": "Fluminense",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
-            "classificacao": 8,
-            "placar": 1
+        
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 2,
+            "data": "17/04/2024",
+        
+            "mandante":{
+                "nome": "Bragantino",
+                "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
+                "classificacao": 9,
+                "placar": 2
+            },
+        
+            "visitante":{
+                "nome": "Vasco",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
+                "classificacao": 4,
+                "placar": 1
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 3,
+                "escanteiosSegundoTempo": 1,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 1
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 3,
+                "escanteiosSegundoTempo": 3,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 1
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 1,
+                "cartoesAmareloSegundoTempo": 0,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 2,
+            "data": "17/04/2024",
+        
+            "mandante":{
+                "nome": "Grêmio",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
+                "classificacao": 17,
+                "placar": 2
+            },
+        
+            "visitante":{
+                "nome": "Atlético-PR",
+                "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
+                "classificacao": 1,
+                "placar": 0
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 4,
+                "escanteiosSegundoTempo": 5,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 1
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 2,
+                "escanteiosSegundoTempo": 0,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 1,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 2,
+            "data": "17/04/2024",
+        
+            "mandante":{
+                "nome": "Palmeiras",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
+                "classificacao": 7,
+                "placar": 0
+            },
+        
+            "visitante":{
+                "nome": "Internacional",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png",
+                "classificacao": 6,
+                "placar": 1
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 5,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 0,
+                "escanteiosSegundoTempo": 2,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 1,
+                "cartoesAmareloSegundoTempo": 3,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 2,
+            "data": "17/04/2024",
+        
+            "mandante":{
+                "nome": "Juventude",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
+                "classificacao": 11,
+                "placar": 2
+            },
+        
+            "visitante":{
+                "nome": "Corinthians",
+                "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
+                "classificacao": 13,
+                "placar": 0
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 4,
+                "escanteiosSegundoTempo": 2,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 2
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 3,
+                "escanteiosSegundoTempo": 4,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 3,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 5,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 2,
-        "data": "17/04/2024",
-    
-        "mandante":{
-            "nome": "Bragantino",
-            "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
-            "classificacao": 9,
-            "placar": 2
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 2,
+            "data": "17/04/2024",
+        
+            "mandante":{
+                "nome": "Fortaleza",
+                "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+                "classificacao": 5,
+                "placar": 1
+            },
+        
+            "visitante":{
+                "nome": "Cruzeiro",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png",
+                "classificacao": 2,
+                "placar": 1
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 2,
+                "escanteiosSegundoTempo": 5,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 3,
+                "escanteiosSegundoTempo": 2,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 1
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 3,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "visitante":{
-            "nome": "Vasco",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
-            "classificacao": 4,
-            "placar": 1
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 2,
+            "data": "17/04/2024",
+        
+            "mandante":{
+                "nome": "Atlético-MG",
+                "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
+                "classificacao": 12,
+                "placar": 1
+            },
+        
+            "visitante":{
+                "nome": "Criciúma",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png",
+                "classificacao": 10,
+                "placar": 1
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 5,
+                "escanteiosSegundoTempo": 4,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 1,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 1
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 2,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 2,
+            "data": "18/04/2024",
+        
+            "mandante":{
+                "nome": "Flamengo",
+                "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+                "classificacao": 5,
+                "placar": 2
+            },
+        
+            "visitante":{
+                "nome": "São-Paulo",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
+                "classificacao": 18,
+                "placar": 1
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 2,
+                "escanteiosSegundoTempo": 7,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 1
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 0,
+                "escanteiosSegundoTempo": 1,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 1
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 1,
+                "cartoesAmareloSegundoTempo": 0,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 2,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 2,
+            "data": "19/04/2024",
+        
+            "mandante":{
+                "nome": "Botafogo",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
+                "classificacao": 16,
+                "placar": 1
+            },
+        
+            "visitante":{
+                "nome": "Atlético-GO",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9mqMGndwoR9og_Z0uEl2kw_96x96.png",
+                "classificacao": 17,
+                "placar": 0
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 6,
+                "escanteiosSegundoTempo": 2,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 7,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 2,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 3,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        
+        {
+            "descricao": "Brasileirão Série A",
+            "rodada": 2,
+            "data": "05/06/2024",
+        
+            "mandante":{
+                "nome": "Cuiabá",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
+                "classificacao": 20,
+                "placar": 0
+            },
+        
+            "visitante":{
+                "nome": "Vitória",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
+                "classificacao": 19,
+                "placar": 0
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 3,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 0,
+                "escanteiosSegundoTempo": 3,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 2,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 2,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 2,
-        "data": "17/04/2024",
-    
-        "mandante":{
-            "nome": "Grêmio",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
-            "classificacao": 17,
-            "placar": 2
-        },
-    
-        "visitante":{
-            "nome": "Atlético-PR",
-            "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
-            "classificacao": 1,
-            "placar": 0
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 4,
-            "escanteiosSegundoTempo": 5,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 2,
-        "data": "17/04/2024",
-    
-        "mandante":{
-            "nome": "Palmeiras",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
-            "classificacao": 7,
-            "placar": 0
-        },
-    
-        "visitante":{
-            "nome": "Internacional",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png",
-            "classificacao": 6,
-            "placar": 1
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 5,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 2,
-        "data": "17/04/2024",
-    
-        "mandante":{
-            "nome": "Juventude",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
-            "classificacao": 11,
-            "placar": 2
-        },
-    
-        "visitante":{
-            "nome": "Corinthians",
-            "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
-            "classificacao": 13,
-            "placar": 0
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 4,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 2
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 4,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 2,
-        "data": "17/04/2024",
-    
-        "mandante":{
-            "nome": "Fortaleza",
-            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-            "classificacao": 5,
-            "placar": 1
-        },
-    
-        "visitante":{
-            "nome": "Cruzeiro",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png",
-            "classificacao": 2,
-            "placar": 1
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 5,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 2,
-        "data": "17/04/2024",
-    
-        "mandante":{
-            "nome": "Atlético-MG",
-            "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
-            "classificacao": 12,
-            "placar": 1
-        },
-    
-        "visitante":{
-            "nome": "Criciúma",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png",
-            "classificacao": 10,
-            "placar": 1
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 5,
-            "escanteiosSegundoTempo": 4,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 2,
-        "data": "18/04/2024",
-    
-        "mandante":{
-            "nome": "Flamengo",
-            "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
-            "classificacao": 5,
-            "placar": 2
-        },
-    
-        "visitante":{
-            "nome": "São-Paulo",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
-            "classificacao": 18,
-            "placar": 1
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 7,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 2,
-        "data": "19/04/2024",
-    
-        "mandante":{
-            "nome": "Botafogo",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
-            "classificacao": 16,
-            "placar": 1
-        },
-    
-        "visitante":{
-            "nome": "Atlético-GO",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9mqMGndwoR9og_Z0uEl2kw_96x96.png",
-            "classificacao": 17,
-            "placar": 0
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 6,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 7,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 3,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 2,
-        "data": "05/06/2024",
-    
-        "mandante":{
-            "nome": "Cuiabá",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
-            "classificacao": 20,
-            "placar": 0
-        },
-    
-        "visitante":{
-            "nome": "Vitória",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
-            "classificacao": 19,
-            "placar": 0
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
+        
     
     
 
@@ -11289,512 +11292,510 @@
     {
             "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS RODADA 1",
 
-
-        "descricao": "Brasileirão Série A",
-        "rodada": 1,
-        "data": "13/04/2024",
-    
-        "mandante":{
-            "nome": "Internacional",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png",
-            "classificacao": 1,
-            "placar": 2
-        },
-    
-        "visitante":{
-            "nome": "Bahia",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
-            "classificacao": 1,
-            "placar": 1
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 2
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    
-    
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 1,
-        "data": "13/04/2024",
-    
-        "mandante":{
-            "nome": "Criciúma",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png",
-            "classificacao": 1,
-            "placar": 1
-        },
-    
-        "visitante":{
-            "nome": "Juventude",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
-            "classificacao": 1,
-            "placar": 1
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 4,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 3,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    
-    
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 1,
-        "data": "14/04/2024",
-    
-        "mandante":{
-            "nome": "São-Paulo",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
-            "classificacao": 1,
-            "placar": 1
-        },
-    
-        "visitante":{
-            "nome": "Fortaleza",
-            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
-            "classificacao": 1,
-            "placar": 2
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 7,
-            "escanteiosSegundoTempo": 4,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 2
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    
-    
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 1,
-        "data": "14/04/2024",
-    
-        "mandante":{
-            "nome": "Fluminense",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
-            "classificacao": 1,
-            "placar": 2
-        },
-    
-        "visitante":{
-            "nome": "Bragantino",
-            "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
-            "classificacao": 1,
-            "placar": 2
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 6,
-            "escanteiosSegundoTempo": 7,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 4,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 2
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    
-    
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 1,
-        "data": "14/04/2024",
-    
-        "mandante":{
-            "nome": "Vasco",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
-            "classificacao": 1,
-            "placar": 2
-        },
-    
-        "visitante":{
-            "nome": "Grêmio",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
-            "classificacao": 1,
-            "placar": 1
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 2,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 4,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    
-    
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 1,
-        "data": "14/04/2024",
-    
-        "mandante":{
-            "nome": "Corinthians",
-            "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
-            "classificacao": 1,
-            "placar": 0
-        },
-    
-        "visitante":{
-            "nome": "Atlético-MG",
-            "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
-            "classificacao": 1,
-            "placar": 0
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 4,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 3,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    
-    
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 1,
-        "data": "14/04/2024",
-    
-        "mandante":{
-            "nome": "Atlético-GO",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9mqMGndwoR9og_Z0uEl2kw_96x96.png",
-            "classificacao": 1,
-            "placar": 1
-        },
-    
-        "visitante":{
-            "nome": "Flamengo",
-            "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
-            "classificacao": 1,
-            "placar": 2
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 4,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 1,
-            "cartoesVermelhoSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    
-    
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 1,
-        "data": "14/04/2024",
-    
-        "mandante":{
-            "nome": "Atlético-PR",
-            "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
-            "classificacao": 1,
-            "placar": 4
-        },
-    
-        "visitante":{
-            "nome": "Cuiabá",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
-            "classificacao": 1,
-            "placar": 0
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 7,
-            "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 3,
-            "golsSegundoTempo": 1
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    },
-    
-    
-    
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 1,
-        "data": "14/04/2024",
-    
-        "mandante":{
-            "nome": "Cruzeiro",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png",
-            "classificacao": 1,
-            "placar": 3
-        },
-    
-        "visitante":{
-            "nome": "Botafogo",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
-            "classificacao": 1,
-            "placar": 2
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 5,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 2
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 1
-        }
-    },
-    
-    
-    
-    
-    {
-        "descricao": "Brasileirão Série A",
-        "rodada": 1,
-        "data": "14/04/2024",
-    
-        "mandante":{
-            "nome": "Vitória",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
-            "classificacao": 1,
-            "placar": 0
-        },
-    
-        "visitante":{
-            "nome": "Palmeiras",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
-            "classificacao": 1,
-            "placar": 1
-        },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
-        },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 4,
-            "escanteiosSegundoTempo": 5,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
-        }
-    }    
+                "descricao": "Brasileirão Série A",
+                "rodada": 1,
+                "data": "13/04/2024",
+            
+                "mandante":{
+                    "nome": "Internacional",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png",
+                    "classificacao": 1,
+                    "placar": 2
+                },
+            
+                "visitante":{
+                    "nome": "Bahia",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
+                    "classificacao": 1,
+                    "placar": 1
+                },
+            
+                "estatistiticaJogoMandante":{
+                    "escanteiosPrimeiroTempo": 3,
+                    "escanteiosSegundoTempo": 3,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 2
+                },
+            
+                "estatisticaJogoVisitante":{
+                    "escanteiosPrimeiroTempo": 2,
+                    "escanteiosSegundoTempo": 1,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 1
+                },
+            
+                "EstatisticaCartoesMandante":{
+                    "cartoesAmareloPrimeiroTempo": 2,
+                    "cartoesAmareloSegundoTempo": 3,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesVisitante":{
+                    "cartoesAmareloPrimeiroTempo": 1,
+                    "cartoesAmareloSegundoTempo": 2,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                }
+            },
+            
+            
+            
+            
+            {
+                "descricao": "Brasileirão Série A",
+                "rodada": 1,
+                "data": "13/04/2024",
+            
+                "mandante":{
+                    "nome": "Criciúma",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png",
+                    "classificacao": 1,
+                    "placar": 1
+                },
+            
+                "visitante":{
+                    "nome": "Juventude",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
+                    "classificacao": 1,
+                    "placar": 1
+                },
+            
+                "estatistiticaJogoMandante":{
+                    "escanteiosPrimeiroTempo": 0,
+                    "escanteiosSegundoTempo": 0,
+                    "golsPrimeiroTempo": 1,
+                    "golsSegundoTempo": 0
+                },
+            
+                "estatisticaJogoVisitante":{
+                    "escanteiosPrimeiroTempo": 1,
+                    "escanteiosSegundoTempo": 3,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 1
+                },
+            
+                "EstatisticaCartoesMandante":{
+                    "cartoesAmareloPrimeiroTempo": 0,
+                    "cartoesAmareloSegundoTempo": 4,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesVisitante":{
+                    "cartoesAmareloPrimeiroTempo": 3,
+                    "cartoesAmareloSegundoTempo": 3,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                }
+            },
+            
+            
+            
+            
+            {
+                "descricao": "Brasileirão Série A",
+                "rodada": 1,
+                "data": "14/04/2024",
+            
+                "mandante":{
+                    "nome": "São-Paulo",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
+                    "classificacao": 1,
+                    "placar": 1
+                },
+            
+                "visitante":{
+                    "nome": "Fortaleza",
+                    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+                    "classificacao": 1,
+                    "placar": 2
+                },
+            
+                "estatistiticaJogoMandante":{
+                    "escanteiosPrimeiroTempo": 7,
+                    "escanteiosSegundoTempo": 4,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 1
+                },
+            
+                "estatisticaJogoVisitante":{
+                    "escanteiosPrimeiroTempo": 2,
+                    "escanteiosSegundoTempo": 2,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 2
+                },
+            
+                "EstatisticaCartoesMandante":{
+                    "cartoesAmareloPrimeiroTempo": 0,
+                    "cartoesAmareloSegundoTempo": 2,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesVisitante":{
+                    "cartoesAmareloPrimeiroTempo": 1,
+                    "cartoesAmareloSegundoTempo": 2,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                }
+            },
+            
+            
+            
+            
+            {
+                "descricao": "Brasileirão Série A",
+                "rodada": 1,
+                "data": "14/04/2024",
+            
+                "mandante":{
+                    "nome": "Fluminense",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
+                    "classificacao": 1,
+                    "placar": 2
+                },
+            
+                "visitante":{
+                    "nome": "Bragantino",
+                    "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
+                    "classificacao": 1,
+                    "placar": 2
+                },
+            
+                "estatistiticaJogoMandante":{
+                    "escanteiosPrimeiroTempo": 6,
+                    "escanteiosSegundoTempo": 7,
+                    "golsPrimeiroTempo": 1,
+                    "golsSegundoTempo": 1
+                },
+            
+                "estatisticaJogoVisitante":{
+                    "escanteiosPrimeiroTempo": 4,
+                    "escanteiosSegundoTempo": 2,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 2
+                },
+            
+                "EstatisticaCartoesMandante":{
+                    "cartoesAmareloPrimeiroTempo": 1,
+                    "cartoesAmareloSegundoTempo": 1,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesVisitante":{
+                    "cartoesAmareloPrimeiroTempo": 2,
+                    "cartoesAmareloSegundoTempo": 2,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                }
+            },
+            
+            
+            
+            
+            {
+                "descricao": "Brasileirão Série A",
+                "rodada": 1,
+                "data": "14/04/2024",
+            
+                "mandante":{
+                    "nome": "Vasco",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
+                    "classificacao": 1,
+                    "placar": 2
+                },
+            
+                "visitante":{
+                    "nome": "Grêmio",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
+                    "classificacao": 1,
+                    "placar": 1
+                },
+            
+                "estatistiticaJogoMandante":{
+                    "escanteiosPrimeiroTempo": 2,
+                    "escanteiosSegundoTempo": 1,
+                    "golsPrimeiroTempo": 2,
+                    "golsSegundoTempo": 0
+                },
+            
+                "estatisticaJogoVisitante":{
+                    "escanteiosPrimeiroTempo": 1,
+                    "escanteiosSegundoTempo": 4,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 1
+                },
+            
+                "EstatisticaCartoesMandante":{
+                    "cartoesAmareloPrimeiroTempo": 1,
+                    "cartoesAmareloSegundoTempo": 3,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesVisitante":{
+                    "cartoesAmareloPrimeiroTempo": 0,
+                    "cartoesAmareloSegundoTempo": 1,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                }
+            },
+            
+            
+            
+            
+            {
+                "descricao": "Brasileirão Série A",
+                "rodada": 1,
+                "data": "14/04/2024",
+            
+                "mandante":{
+                    "nome": "Corinthians",
+                    "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
+                    "classificacao": 1,
+                    "placar": 0
+                },
+            
+                "visitante":{
+                    "nome": "Atlético-MG",
+                    "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
+                    "classificacao": 1,
+                    "placar": 0
+                },
+            
+                "estatistiticaJogoMandante":{
+                    "escanteiosPrimeiroTempo": 1,
+                    "escanteiosSegundoTempo": 2,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 0
+                },
+            
+                "estatisticaJogoVisitante":{
+                    "escanteiosPrimeiroTempo": 1,
+                    "escanteiosSegundoTempo": 2,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesMandante":{
+                    "cartoesAmareloPrimeiroTempo": 4,
+                    "cartoesAmareloSegundoTempo": 3,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesVisitante":{
+                    "cartoesAmareloPrimeiroTempo": 3,
+                    "cartoesAmareloSegundoTempo": 3,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                }
+            },
+            
+            
+            
+            
+            {
+                "descricao": "Brasileirão Série A",
+                "rodada": 1,
+                "data": "14/04/2024",
+            
+                "mandante":{
+                    "nome": "Atlético-GO",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9mqMGndwoR9og_Z0uEl2kw_96x96.png",
+                    "classificacao": 1,
+                    "placar": 1
+                },
+            
+                "visitante":{
+                    "nome": "Flamengo",
+                    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+                    "classificacao": 1,
+                    "placar": 2
+                },
+            
+                "estatistiticaJogoMandante":{
+                    "escanteiosPrimeiroTempo": 3,
+                    "escanteiosSegundoTempo": 1,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 1
+                },
+            
+                "estatisticaJogoVisitante":{
+                    "escanteiosPrimeiroTempo": 1,
+                    "escanteiosSegundoTempo": 3,
+                    "golsPrimeiroTempo": 1,
+                    "golsSegundoTempo": 1
+                },
+            
+                "EstatisticaCartoesMandante":{
+                    "cartoesAmareloPrimeiroTempo": 4,
+                    "cartoesAmareloSegundoTempo": 0,
+                    "cartoesVermelhoPrimeiroTempo": 1,
+                    "cartoesVermelhoSegundoTempo": 1
+                },
+            
+                "EstatisticaCartoesVisitante":{
+                    "cartoesAmareloPrimeiroTempo": 1,
+                    "cartoesAmareloSegundoTempo": 2,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                }
+            },
+            
+            
+            {
+                "descricao": "Brasileirão Série A",
+                "rodada": 1,
+                "data": "14/04/2024",
+            
+                "mandante":{
+                    "nome": "Atlético-PR",
+                    "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
+                    "classificacao": 1,
+                    "placar": 4
+                },
+            
+                "visitante":{
+                    "nome": "Cuiabá",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
+                    "classificacao": 1,
+                    "placar": 0
+                },
+            
+                "estatistiticaJogoMandante":{
+                    "escanteiosPrimeiroTempo": 7,
+                    "escanteiosSegundoTempo": 0,
+                    "golsPrimeiroTempo": 3,
+                    "golsSegundoTempo": 1
+                },
+            
+                "estatisticaJogoVisitante":{
+                    "escanteiosPrimeiroTempo": 0,
+                    "escanteiosSegundoTempo": 0,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesMandante":{
+                    "cartoesAmareloPrimeiroTempo": 0,
+                    "cartoesAmareloSegundoTempo": 0,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesVisitante":{
+                    "cartoesAmareloPrimeiroTempo": 2,
+                    "cartoesAmareloSegundoTempo": 1,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                }
+            },
+            
+            
+            
+            
+            {
+                "descricao": "Brasileirão Série A",
+                "rodada": 1,
+                "data": "14/04/2024",
+            
+                "mandante":{
+                    "nome": "Cruzeiro",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png",
+                    "classificacao": 1,
+                    "placar": 3
+                },
+            
+                "visitante":{
+                    "nome": "Botafogo",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
+                    "classificacao": 1,
+                    "placar": 2
+                },
+            
+                "estatistiticaJogoMandante":{
+                    "escanteiosPrimeiroTempo": 5,
+                    "escanteiosSegundoTempo": 1,
+                    "golsPrimeiroTempo": 1,
+                    "golsSegundoTempo": 2
+                },
+            
+                "estatisticaJogoVisitante":{
+                    "escanteiosPrimeiroTempo": 0,
+                    "escanteiosSegundoTempo": 3,
+                    "golsPrimeiroTempo": 1,
+                    "golsSegundoTempo": 1
+                },
+            
+                "EstatisticaCartoesMandante":{
+                    "cartoesAmareloPrimeiroTempo": 2,
+                    "cartoesAmareloSegundoTempo": 2,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesVisitante":{
+                    "cartoesAmareloPrimeiroTempo": 2,
+                    "cartoesAmareloSegundoTempo": 1,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 1
+                }
+            },
+            
+            
+            
+            
+            {
+                "descricao": "Brasileirão Série A",
+                "rodada": 1,
+                "data": "14/04/2024",
+            
+                "mandante":{
+                    "nome": "Vitória",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
+                    "classificacao": 1,
+                    "placar": 0
+                },
+            
+                "visitante":{
+                    "nome": "Palmeiras",
+                    "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
+                    "classificacao": 1,
+                    "placar": 1
+                },
+            
+                "estatistiticaJogoMandante":{
+                    "escanteiosPrimeiroTempo": 1,
+                    "escanteiosSegundoTempo": 2,
+                    "golsPrimeiroTempo": 0,
+                    "golsSegundoTempo": 0
+                },
+            
+                "estatisticaJogoVisitante":{
+                    "escanteiosPrimeiroTempo": 4,
+                    "escanteiosSegundoTempo": 5,
+                    "golsPrimeiroTempo": 1,
+                    "golsSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesMandante":{
+                    "cartoesAmareloPrimeiroTempo": 2,
+                    "cartoesAmareloSegundoTempo": 1,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                },
+            
+                "EstatisticaCartoesVisitante":{
+                    "cartoesAmareloPrimeiroTempo": 2,
+                    "cartoesAmareloSegundoTempo": 3,
+                    "cartoesVermelhoPrimeiroTempo": 0,
+                    "cartoesVermelhoSegundoTempo": 0
+                }
+            }
+            
 
    
 
