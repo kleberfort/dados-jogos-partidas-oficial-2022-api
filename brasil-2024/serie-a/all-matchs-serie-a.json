@@ -5168,12 +5168,62 @@
     
     
 
+        {
+
+            "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS RODADA 16",
+
+            "descricao": "Brasileirão Série A",
+            "rodada": 16,
+            "data": "25/09/2024",
+        
+            "mandante":{
+                "nome": "Bragantino",
+                "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
+                "classificacao": 14,
+                "placar": 2
+            },
+        
+            "visitante":{
+                "nome": "Internacional",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png",
+                "classificacao": 8,
+                "placar": 2
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 1,
+                "escanteiosSegundoTempo": 0,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 1
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 8,
+                "escanteiosSegundoTempo": 1,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 1
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 3,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
+        },
 
 
         
         {
 
-                "COMENTARIOS": "RESTAM ADICIONAR 1 JOGOS DA RODADA 16 - AUTOMÁTICO",
+               
 
 
                     "descricao": "Brasileirão Série A",
