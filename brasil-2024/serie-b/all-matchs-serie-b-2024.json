@@ -3898,7 +3898,58 @@
 
     {
 
-        "COMENTARIOS": "1 JOGO ADIADO DA RODADA 23",
+        "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 23",
+
+        "descricao": "Brasileirão Série B",
+        "rodada": 23,
+        "data": "09/10/2024",
+    
+        "mandante":{
+            "nome": "Botafogo-SP",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png",
+            "classificacao": 17,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Guarani",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png",
+            "classificacao": 20,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+
+    {
+
+     
         
             "descricao": "Brasileirão Série B",
             "rodada": 23,
