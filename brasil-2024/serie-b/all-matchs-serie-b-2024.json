@@ -3,6 +3,980 @@
 
     {
 
+        "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 35",
+
+        "descricao": "Brasileirão Série B",
+        "rodada": 35,
+        "data": "02/11/2024",
+    
+        "mandante":{
+            "nome": "Santos",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png",
+            "classificacao": 1,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Vila Nova",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v3upsCABZm2skuxyszzvwg_96x96.png",
+            "classificacao": 6,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 35,
+        "data": "02/11/2024",
+    
+        "mandante":{
+            "nome": "Goiás",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_48x48.png",
+            "classificacao": 8,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Guarani",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png",
+            "classificacao": 20,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 35,
+        "data": "02/11/2024",
+    
+        "mandante":{
+            "nome": "Chapecoense",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/K7JQUKTRsuXfO9YrD5dq5g_96x96.png",
+            "classificacao": 13,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Novorizontino",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png",
+            "classificacao": 2,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 35,
+        "data": "03/11/2024",
+    
+        "mandante":{
+            "nome": "Ceará",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png",
+            "classificacao": 5,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Avaí",
+            "imagem": "https://www.escudosfc.com.br/images/avai.gif",
+            "classificacao": 11,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 35,
+        "data": "04/11/2024",
+    
+        "mandante":{
+            "nome": "Operário",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GmLvorr4MqC4aRinQQ4Mdw_48x48.png",
+            "classificacao": 10,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Sport",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png",
+            "classificacao": 3,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 3,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 35,
+        "data": "05/11/2024",
+    
+        "mandante":{
+            "nome": "Ponte Preta",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0e4mOPeQPUipr9oh54-7NQ_96x96.png",
+            "classificacao": 16,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Paysandu",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1aw29215gcFtsyu07fCifw_48x48.png",
+            "classificacao": 14,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 35,
+        "data": "05/11/2024",
+    
+        "mandante":{
+            "nome": "Ituano",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/d_-UoAOHszNZufgbaFSLXQ_96x96.png",
+            "classificacao": 18,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "CRB",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png",
+            "classificacao": 17,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 4,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 35,
+        "data": "05/11/2024",
+    
+        "mandante":{
+            "nome": "Amazonas",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uuUY0RAXejVcckwdPoVyBQ_96x96.png",
+            "classificacao": 12,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "América-MG",
+            "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
+            "classificacao": 9,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 35,
+        "data": "06/11/2024",
+    
+        "mandante":{
+            "nome": "Brusque",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ykKt1U6PEpMP7iiXwZvdBQ_48x48.png",
+            "classificacao": 19,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Botafogo-SP",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png",
+            "classificacao": 16,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 35,
+        "data": "06/11/2024",
+    
+        "mandante":{
+            "nome": "Mirassol",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/eQ05kONtFs6kLBgww3MHsg_96x96.png",
+            "classificacao": 4,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Coritiba",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LaFlBADLmsjHfGTehCYtuA_48x48.png",
+            "classificacao": 10,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 1,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+
+
+    {
+
+        "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 34",
+
+        "descricao": "Brasileirão Série B",
+        "rodada": 34,
+        "data": "26/10/2024",
+    
+        "mandante":{
+            "nome": "Avaí",
+            "imagem": "https://www.escudosfc.com.br/images/avai.gif",
+            "classificacao": 12,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Vila Nova",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v3upsCABZm2skuxyszzvwg_96x96.png",
+            "classificacao": 5,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 34,
+        "data": "26/10/2024",
+    
+        "mandante":{
+            "nome": "Mirassol",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/eQ05kONtFs6kLBgww3MHsg_96x96.png",
+            "classificacao": 4,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Ponte Preta",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0e4mOPeQPUipr9oh54-7NQ_96x96.png",
+            "classificacao": 14,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 34,
+        "data": "26/10/2024",
+    
+        "mandante":{
+            "nome": "Ceará",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png",
+            "classificacao": 6,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Paysandu",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1aw29215gcFtsyu07fCifw_48x48.png",
+            "classificacao": 13,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 34,
+        "data": "28/10/2024",
+    
+        "mandante":{
+            "nome": "Coritiba",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LaFlBADLmsjHfGTehCYtuA_48x48.png",
+            "classificacao": 10,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "CRB",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png",
+            "classificacao": 16,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 34,
+        "data": "28/10/2024",
+    
+        "mandante":{
+            "nome": "Ituano",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/d_-UoAOHszNZufgbaFSLXQ_96x96.png",
+            "classificacao": 18,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Santos",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png",
+            "classificacao": 1,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 34,
+        "data": "29/10/2024",
+    
+        "mandante":{
+            "nome": "América-MG",
+            "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
+            "classificacao": 9,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Sport",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png",
+            "classificacao": 2,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 34,
+        "data": "29/10/2024",
+    
+        "mandante":{
+            "nome": "Goiás",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_48x48.png",
+            "classificacao": 10,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Operário",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GmLvorr4MqC4aRinQQ4Mdw_48x48.png",
+            "classificacao": 9,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 34,
+        "data": "29/10/2024",
+    
+        "mandante":{
+            "nome": "Brusque",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ykKt1U6PEpMP7iiXwZvdBQ_48x48.png",
+            "classificacao": 19,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Chapecoense",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/K7JQUKTRsuXfO9YrD5dq5g_96x96.png",
+            "classificacao": 15,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 34,
+        "data": "30/10/2024",
+    
+        "mandante":{
+            "nome": "Guarani",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png",
+            "classificacao": 20,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Novorizontino",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png",
+            "classificacao": 4,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 34,
+        "data": "30/10/2024",
+    
+        "mandante":{
+            "nome": "Amazonas",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uuUY0RAXejVcckwdPoVyBQ_96x96.png",
+            "classificacao": 12,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Botafogo-SP",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png",
+            "classificacao": 17,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+
+
+    {
+
         "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 33",
 
         "descricao": "Brasileirão Série B",
