@@ -8272,11 +8272,62 @@
     
     
 
+        {
+
+            "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 18",
+
+            "descricao": "Brasileirão Série B",
+            "rodada": 18,
+            "data": "26/10/2024",
+        
+            "mandante":{
+                "nome": "Goiás",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_48x48.png",
+                "classificacao": 10,
+                "placar": 1
+            },
+        
+            "visitante":{
+                "nome": "Amazonas",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uuUY0RAXejVcckwdPoVyBQ_96x96.png",
+                "classificacao": 11,
+                "placar": 0
+            },
+        
+            "estatistiticaJogoMandante":{
+                "escanteiosPrimeiroTempo": 5,
+                "escanteiosSegundoTempo": 2,
+                "golsPrimeiroTempo": 1,
+                "golsSegundoTempo": 0
+            },
+        
+            "estatisticaJogoVisitante":{
+                "escanteiosPrimeiroTempo": 3,
+                "escanteiosSegundoTempo": 2,
+                "golsPrimeiroTempo": 0,
+                "golsSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesMandante":{
+                "cartoesAmareloPrimeiroTempo": 0,
+                "cartoesAmareloSegundoTempo": 2,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            },
+        
+            "EstatisticaCartoesVisitante":{
+                "cartoesAmareloPrimeiroTempo": 4,
+                "cartoesAmareloSegundoTempo": 1,
+                "cartoesVermelhoPrimeiroTempo": 0,
+                "cartoesVermelhoSegundoTempo": 0
+            }
+        },
+
 
     {
 
 
-        "COMENTARIOS": "RESTA 1 JOGO DA RODADA 18",
+        
     
             "descricao": "Brasileirão Série B",
             "rodada": 18,
