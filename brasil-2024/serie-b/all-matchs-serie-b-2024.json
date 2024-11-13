@@ -3,8 +3,157 @@
 
     {
 
+        "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 36",
 
-        "COMENTARIOS": "RESTA 3 JOGOS PARA SER ADICIONADOS DA RODADA 36",
+        "descricao": "Brasileirão Série B",
+        "rodada": 36,
+        "data": "12/11/2024",
+    
+        "mandante":{
+            "nome": "América-MG",
+            "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
+            "classificacao": 9,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Ituano",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/d_-UoAOHszNZufgbaFSLXQ_96x96.png",
+            "classificacao": 18,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 36,
+        "data": "13/11/2024",
+    
+        "mandante":{
+            "nome": "Guarani",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fxJElzuqyxKVwsUcfsC49Q_96x96.png",
+            "classificacao": 20,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Amazonas",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uuUY0RAXejVcckwdPoVyBQ_96x96.png",
+            "classificacao": 11,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 3,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Brasileirão Série B",
+        "rodada": 36,
+        "data": "13/11/2024",
+    
+        "mandante":{
+            "nome": "Botafogo-SP",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png",
+            "classificacao": 14,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Ceará",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png",
+            "classificacao": 5,
+            "placar": 4
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 3
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+
+
+    {
+
+
+     
 
         "descricao": "Brasileirão Série B",
         "rodada": 36,
