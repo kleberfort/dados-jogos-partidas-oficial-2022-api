@@ -2,7 +2,58 @@
 
     {
 
-        "COMENTARIOS": "RESTA 1 JOGO PARA ADICIONAR DA RODADA 33",
+         "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 33",
+        
+    "descricao": "Brasileirão Série A",
+    "rodada": 33,
+    "data": "13/11/2024",
+
+    "mandante":{
+        "nome": "Flamengo",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+        "classificacao": 5,
+        "placar": 0
+    },
+
+    "visitante":{
+        "nome": "Atlético-MG",
+        "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
+        "classificacao": 11,
+        "placar": 0
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 3,
+        "escanteiosSegundoTempo": 4,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 0
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmareloPrimeiroTempo": 1,
+        "cartoesAmareloSegundoTempo": 0,
+        "cartoesVermelhoPrimeiroTempo": 0,
+        "cartoesVermelhoSegundoTempo": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmareloPrimeiroTempo": 0,
+        "cartoesAmareloSegundoTempo": 1,
+        "cartoesVermelhoPrimeiroTempo": 0,
+        "cartoesVermelhoSegundoTempo": 0
+    }
+},
+
+    {
+
+       
 
         "descricao": "Brasileirão Série A",
         "rodada": 33,
