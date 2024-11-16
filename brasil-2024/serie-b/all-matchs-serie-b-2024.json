@@ -1,5 +1,56 @@
 [
 
+    {
+
+          "COMENTARIOS": "RESTA 9 JOGOS PARA SER ADICIONADOS DA RODADA 37",
+
+    "descricao": "Brasileirão Série B",
+    "rodada": 37,
+    "data": "15/11/2024",
+
+    "mandante":{
+        "nome": "Operário",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GmLvorr4MqC4aRinQQ4Mdw_48x48.png",
+        "classificacao": 7,
+        "placar": 1
+    },
+
+    "visitante":{
+        "nome": "Mirassol",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/eQ05kONtFs6kLBgww3MHsg_96x96.png",
+        "classificacao": 2,
+        "placar": 1
+    },
+
+    "estatistiticaJogoMandante":{
+        "escanteiosPrimeiroTempo": 1,
+        "escanteiosSegundoTempo": 3,
+        "golsPrimeiroTempo": 1,
+        "golsSegundoTempo": 0
+    },
+
+    "estatisticaJogoVisitante":{
+        "escanteiosPrimeiroTempo": 6,
+        "escanteiosSegundoTempo": 2,
+        "golsPrimeiroTempo": 0,
+        "golsSegundoTempo": 1
+    },
+
+    "EstatisticaCartoesMandante":{
+        "cartoesAmareloPrimeiroTempo": 2,
+        "cartoesAmareloSegundoTempo": 1,
+        "cartoesVermelhoPrimeiroTempo": 0,
+        "cartoesVermelhoSegundoTempo": 0
+    },
+
+    "EstatisticaCartoesVisitante":{
+        "cartoesAmareloPrimeiroTempo": 0,
+        "cartoesAmareloSegundoTempo": 1,
+        "cartoesVermelhoPrimeiroTempo": 0,
+        "cartoesVermelhoSegundoTempo": 0
+    }
+},
+
 
     {
 
