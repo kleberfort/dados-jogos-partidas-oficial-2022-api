@@ -1,5 +1,301 @@
 [
 
+
+
+
+
+    {
+
+        "COMENTARIOS": "RESTA ADICIONAR OS JOGOS DA RODADA 23",
+
+        "descricao": "Liga Profesional",
+        "rodada": 23,
+        "data": "17/11/2024",
+    
+        "mandante":{
+            "nome": "San Lorenzo",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 17,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Racing",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/15.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 3,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 3,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 23,
+        "data": "18/11/2024",
+    
+        "mandante":{
+            "nome": "Banfield",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/235.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 25,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Tigre",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7767.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 19,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 23,
+        "data": "18/11/2024",
+    
+        "mandante":{
+            "nome": "Platense",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7764.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 13,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Godoy Cruz",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6756.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 17,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 4,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 23,
+        "data": "18/11/2024",
+    
+        "mandante":{
+            "nome": "Def. Justicia",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8950.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 23,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Deportivo Riestra",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17702.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 9,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 23,
+        "data": "19/11/2024",
+    
+        "mandante":{
+            "nome": "Instituto",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2975.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 14,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Argentinos Jrs",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 20,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 23,
+        "data": "19/11/2024",
+    
+        "mandante":{
+            "nome": "Atl. Tucuman",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9785.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 8,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Huracán",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 2,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 5,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+
     {
 
         "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS RODADA 22",
