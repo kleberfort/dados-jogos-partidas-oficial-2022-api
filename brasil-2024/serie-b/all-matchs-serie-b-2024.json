@@ -8764,56 +8764,7 @@
         },
         
 
-        {
 
-            "COMENTARIOS": "TODOS OS JOGOS ADICIONADOS DA RODADA 19",
-
-            "descricao": "Brasileirão Série A",
-            "rodada": 19,
-            "data": "16/11/2024",
-        
-            "mandante":{
-                "nome": "Atlético-PR",
-                "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
-                "classificacao": 18,
-                "placar": 1
-            },
-        
-            "visitante":{
-                "nome": "Atlético-MG",
-                "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
-                "classificacao": 10,
-                "placar": 0
-            },
-        
-            "estatistiticaJogoMandante":{
-                "escanteiosPrimeiroTempo": 1,
-                "escanteiosSegundoTempo": 3,
-                "golsPrimeiroTempo": 1,
-                "golsSegundoTempo": 0
-            },
-        
-            "estatisticaJogoVisitante":{
-                "escanteiosPrimeiroTempo": 0,
-                "escanteiosSegundoTempo": 3,
-                "golsPrimeiroTempo": 0,
-                "golsSegundoTempo": 0
-            },
-        
-            "EstatisticaCartoesMandante":{
-                "cartoesAmareloPrimeiroTempo": 1,
-                "cartoesAmareloSegundoTempo": 1,
-                "cartoesVermelhoPrimeiroTempo": 0,
-                "cartoesVermelhoSegundoTempo": 0
-            },
-        
-            "EstatisticaCartoesVisitante":{
-                "cartoesAmareloPrimeiroTempo": 1,
-                "cartoesAmareloSegundoTempo": 1,
-                "cartoesVermelhoPrimeiroTempo": 0,
-                "cartoesVermelhoSegundoTempo": 0
-            }
-        },
     
 
     {
