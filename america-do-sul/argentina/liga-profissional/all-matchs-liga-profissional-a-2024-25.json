@@ -1,12 +1,206 @@
 [
 
+    {
 
+        "COMENTARIOS": "RESTA ADICIONAR 4 JOGOS DA RODADA 23",
+
+        "descricao": "Liga Profesional",
+        "rodada": 23,
+        "data": "20/11/2024",
+    
+        "mandante":{
+            "nome": "Newell Old Boys",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/14.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 27,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Central Córdoba",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11989.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 23,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 23,
+        "data": "20/11/2024",
+    
+        "mandante":{
+            "nome": "Vélez Sársfield",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/21.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 1,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Lanús",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/12.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 20,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 7,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 1,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 23,
+        "data": "20/11/2024",
+    
+        "mandante":{
+            "nome": "Estudiantes",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/8.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 14,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Rosario",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 23,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Liga Profesional",
+        "rodada": 23,
+        "data": "21/11/2024",
+    
+        "mandante":{
+            "nome": "Boca Juniors",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 11,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Union Santa Fe",
+            "imagem": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20.png&scale=crop&cquality=40&location=origin&w=80&h=80",
+            "classificacao": 6,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
 
 
 
     {
 
-        "COMENTARIOS": "RESTA ADICIONAR OS JOGOS DA RODADA 23",
+        
 
         "descricao": "Liga Profesional",
         "rodada": 23,
