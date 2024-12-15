@@ -1,1 +1,5995 @@
+[
 
+    {
+        "descricao": "Bundesliga",
+        "rodada": 1,
+        "data": "23/08/2024",
+    
+        "mandante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 1,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 1,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 1,
+        "data": "24/08/2024",
+    
+        "mandante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 1,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 1,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 1,
+        "data": "24/08/2024",
+    
+        "mandante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 1,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 1,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 1,
+        "data": "24/08/2024",
+    
+        "mandante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 1,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 1,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 1,
+        "data": "24/08/2024",
+    
+        "mandante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 1,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 1,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 1,
+        "data": "24/08/2024",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 1,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 1,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 1,
+        "data": "24/08/2024",
+    
+        "mandante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 1,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 1,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 1,
+        "data": "25/08/2024",
+    
+        "mandante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 1,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 1,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 1,
+        "data": "25/08/2024",
+    
+        "mandante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 1,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 1,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+
+        "Rodada": 1, "Total de Jogos": 9 
+
+    },
+    
+   
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 2,
+        "data": "30/08/2024",
+    
+        "mandante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 11,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 18,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 2,
+        "data": "31/08/2024",
+    
+        "mandante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 15,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 12,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 2,
+        "data": "31/08/2024",
+    
+        "mandante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 16,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 11,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 8,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 2,
+        "data": "31/08/2024",
+    
+        "mandante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 10,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 4,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 5,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 2,
+        "data": "31/08/2024",
+    
+        "mandante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 13,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 14,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 4,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 2,
+        "data": "31/08/2024",
+    
+        "mandante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 17,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 7,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 2,
+        "data": "31/08/2024",
+    
+        "mandante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 7,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 9,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 9,
+            "escanteiosSegundoTempo": 9,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 2,
+        "data": "01/09/2024",
+    
+        "mandante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 5,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 14,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 2,
+        "data": "01/09/2024",
+    
+        "mandante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 8,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 5,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+
+
+        "Rodada": 2, "Total de Jogos": 9 
+    },
+    
+   
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 3,
+        "data": "13/09/2024",
+    
+        "mandante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 4,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 1,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 3,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 3,
+        "data": "14/09/2024",
+    
+        "mandante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 7,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 9,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 3,
+        "data": "14/09/2024",
+    
+        "mandante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 11,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 8,
+            "placar": 4
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 3,
+        "data": "14/09/2024",
+    
+        "mandante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 10,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 18,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 3,
+        "data": "14/09/2024",
+    
+        "mandante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 4,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 5,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 3,
+        "data": "14/09/2024",
+    
+        "mandante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 6,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 14,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 3,
+        "data": "14/09/2024",
+    
+        "mandante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 16,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 5,
+            "placar": 6
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 4,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 3,
+        "data": "15/09/2024",
+    
+        "mandante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 15,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 16,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 3,
+        "data": "15/09/2024",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 14,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 15,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 8,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        }
+
+        ,"Rodada": 3, "Total de Jogos": 9 
+    },
+    
+    
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 4,
+        "data": "20/09/2024",
+    
+        "mandante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 11,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 15,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 11,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 3,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 4,
+        "data": "21/09/2024",
+    
+        "mandante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 16,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 18,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 4,
+        "data": "21/09/2024",
+    
+        "mandante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 8,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 1,
+            "placar": 5
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 3
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 4,
+        "data": "21/09/2024",
+    
+        "mandante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 9,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 15,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 4,
+        "data": "21/09/2024",
+    
+        "mandante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 4,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 7,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 3
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 4,
+        "data": "21/09/2024",
+    
+        "mandante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 8,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 14,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 7,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 4,
+        "data": "22/09/2024",
+    
+        "mandante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 7,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 13,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 3,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 5,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 4,
+        "data": "22/09/2024",
+    
+        "mandante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 11,
+            "placar": 5
+        },
+    
+        "visitante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 6,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 4,
+        "data": "22/09/2024",
+    
+        "mandante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 18,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 7,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+
+        ,"Rodada": 4, "Total de Jogos": 9 
+
+    },
+    
+    
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 5,
+        "data": "27/09/2024",
+    
+        "mandante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 8,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 16,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 8,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 5,
+        "data": "28/09/2024",
+    
+        "mandante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 13,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 8,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 5,
+        "data": "28/09/2024",
+    
+        "mandante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 4,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 16,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 5,
+        "data": "28/09/2024",
+    
+        "mandante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 6,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 12,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 5,
+        "data": "28/09/2024",
+    
+        "mandante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 14,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 7,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 5,
+        "data": "28/09/2024",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 10,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 9,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 5,
+        "data": "28/09/2024",
+    
+        "mandante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 1,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 4,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 5,
+        "data": "29/09/2024",
+    
+        "mandante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 18,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 6,
+            "placar": 4
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 3
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 5,
+        "data": "29/09/2024",
+    
+        "mandante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 16,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 12,
+            "placar": 4
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 3,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 3,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 1,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+
+        ,"Rodada": 5, "Total de Jogos": 9 
+
+    },
+    
+    
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 6,
+        "data": "04/10/2024",
+    
+        "mandante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 15,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 11,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 6,
+        "data": "05/10/2024",
+    
+        "mandante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 17,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 14,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 6,
+        "data": "05/10/2024",
+    
+        "mandante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 10,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 7,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 6,
+        "data": "05/10/2024",
+    
+        "mandante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 4,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 18,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 9,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 6,
+        "data": "05/10/2024",
+    
+        "mandante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 9,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 5,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 6,
+        "data": "05/10/2024",
+    
+        "mandante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 15,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 14,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 6,
+        "data": "06/10/2024",
+    
+        "mandante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 8,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 4,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 6,
+        "data": "06/10/2024",
+    
+        "mandante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 3,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 2,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 6,
+        "data": "06/10/2024",
+    
+        "mandante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 9,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 16,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+
+        ,"Rodada": 6, "Total de Jogos": 9 
+
+    },
+    
+   
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 7,
+        "data": "18/10/2024",
+    
+        "mandante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 7,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 15,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 7,
+        "data": "19/10/2024",
+    
+        "mandante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 15,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 18,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 7,
+        "data": "19/10/2024",
+    
+        "mandante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 5,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 13,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 3,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 7,
+        "data": "19/10/2024",
+    
+        "mandante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 14,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 9,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 7,
+        "data": "19/10/2024",
+    
+        "mandante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 6,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 3,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 7,
+        "data": "19/10/2024",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 10,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 2,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 7,
+        "data": "19/10/2024",
+    
+        "mandante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 3,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 8,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 4
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 7,
+        "data": "20/10/2024",
+    
+        "mandante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 17,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 7,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 7,
+        "data": "20/10/2024",
+    
+        "mandante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 13,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 12,
+            "placar": 4
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 3
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+
+        ,"Rodada": 7, "Total de Jogos": 9
+
+    },
+    
+    
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 8,
+        "data": "25/10/2024",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 12,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 11,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 8,
+        "data": "26/10/2024",
+    
+        "mandante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 11,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 17,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 7,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 5,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 8,
+        "data": "26/10/2024",
+    
+        "mandante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 2,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 3,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 8,
+        "data": "26/10/2024",
+    
+        "mandante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 16,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 13,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 8,
+        "data": "26/10/2024",
+    
+        "mandante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 15,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 7,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 8,
+        "data": "26/10/2024",
+    
+        "mandante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 9,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 4,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 8,
+        "data": "27/10/2024",
+    
+        "mandante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 18,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 2,
+            "placar": 5
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 3
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 8,
+        "data": "27/10/2024",
+    
+        "mandante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 5,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 6,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 8,
+        "data": "27/10/2024",
+    
+        "mandante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 12,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 15,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+
+        ,"Rodada": 8, "Total de Jogos": 9 
+
+    },
+    
+    
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 9,
+        "data": "01/11/2024",
+    
+        "mandante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 3,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 8,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 4,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 9,
+        "data": "02/11/2024",
+    
+        "mandante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 14,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 12,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 9,
+        "data": "02/11/2024",
+    
+        "mandante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 15,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 16,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 9,
+        "data": "02/11/2024",
+    
+        "mandante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 17,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 10,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 9,
+        "data": "02/11/2024",
+    
+        "mandante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 1,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 4,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 9,
+        "data": "02/11/2024",
+    
+        "mandante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 6,
+            "placar": 7
+        },
+    
+        "visitante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 18,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 4,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 9,
+        "data": "02/11/2024",
+    
+        "mandante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 8,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 2,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 3,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 9,
+        "data": "03/11/2024",
+    
+        "mandante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 6,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 14,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 9,
+        "data": "03/11/2024",
+    
+        "mandante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 13,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 9,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 3,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+
+        ,"Rodada": 9, "Total de Jogos": 9 
+
+    },
+    
+    
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 10,
+        "data": "08/11/2024",
+    
+        "mandante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 7,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 6,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 10,
+        "data": "09/11/2024",
+    
+        "mandante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 18,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 5,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 10,
+        "data": "09/11/2024",
+    
+        "mandante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 10,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 17,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 10,
+        "data": "09/11/2024",
+    
+        "mandante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 15,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 1,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 8,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 10,
+        "data": "09/11/2024",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 13,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 6,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 1,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 10,
+        "data": "09/11/2024",
+    
+        "mandante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 2,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 10,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 10,
+        "data": "10/11/2024",
+    
+        "mandante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 12,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 16,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 10,
+        "data": "10/11/2024",
+    
+        "mandante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 10,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 3,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 10,
+        "data": "10/11/2024",
+    
+        "mandante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 13,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 14,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 6,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+
+        ,"Rodada": 10, "Total de Jogos": 9 
+
+    },
+    
+
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 11,
+        "data": "22/11/2024",
+    
+        "mandante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 1,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 13,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 11,
+        "data": "23/11/2024",
+    
+        "mandante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 12,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 6,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 11,
+        "data": "23/11/2024",
+    
+        "mandante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 11,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 18,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 11,
+        "data": "23/11/2024",
+    
+        "mandante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 15,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 2,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 11,
+        "data": "23/11/2024",
+    
+        "mandante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 7,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 5,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 1
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 11,
+        "data": "23/11/2024",
+    
+        "mandante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 4,
+            "placar": 5
+        },
+    
+        "visitante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 14,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 11,
+        "data": "23/11/2024",
+    
+        "mandante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 3,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 10,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 11,
+        "data": "24/11/2024",
+    
+        "mandante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 17,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 12,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 11,
+        "data": "24/11/2024",
+    
+        "mandante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 12,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 16,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+
+        ,"Rodada": 11, "Total de Jogos": 9 
+
+    },
+    
+    
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 12,
+        "data": "29/11/2024",
+    
+        "mandante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 16,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 17,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 3,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 12,
+        "data": "30/11/2024",
+    
+        "mandante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 12,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 9,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 12,
+        "data": "30/11/2024",
+    
+        "mandante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 7,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 6,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 12,
+        "data": "30/11/2024",
+    
+        "mandante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 3,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 11,
+            "placar": 5
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 3,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 12,
+        "data": "30/11/2024",
+    
+        "mandante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 14,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 18,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 12,
+        "data": "30/11/2024",
+    
+        "mandante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 10,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 4,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 12,
+        "data": "30/11/2024",
+    
+        "mandante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 6,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 1,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 12,
+        "data": "01/12/2024",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 10,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 14,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 12,
+        "data": "01/12/2024",
+    
+        "mandante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 16,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 2,
+            "placar": 4
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 3
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+
+        ,"Rodada": 12, "Total de Jogos": 9 
+    },
+    
+    
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 13,
+        "data": "06/12/2024",
+    
+        "mandante":{
+            "nome": "Stuttgart",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+            "classificacao": 9,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 11,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 5,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 13,
+        "data": "07/12/2024",
+    
+        "mandante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 18,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 12,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 13,
+        "data": "07/12/2024",
+    
+        "mandante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 17,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Leipzig",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+            "classificacao": 4,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 13,
+        "data": "07/12/2024",
+    
+        "mandante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 1,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Heidenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+            "classificacao": 16,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 13,
+        "data": "07/12/2024",
+    
+        "mandante":{
+            "nome": "Frankfurt",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+            "classificacao": 2,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 13,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 13,
+        "data": "07/12/2024",
+    
+        "mandante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 3,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 15,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 13,
+        "data": "07/12/2024",
+    
+        "mandante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 11,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Dortmund",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+            "classificacao": 5,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 13,
+        "data": "08/12/2024",
+    
+        "mandante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 10,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 8,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 13,
+        "data": "08/12/2024",
+    
+        "mandante":{
+            "nome": "Hoffenheim",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+            "classificacao": 14,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 8,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+
+        ,"Rodada": 13, "Total de Jogos": 9 
+    },
+    
+    
+    
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 14,
+        "data": "13/12/2024",
+    
+        "mandante":{
+            "nome": "Freiburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+            "classificacao": 7,
+            "placar": 3
+        },
+    
+        "visitante":{
+            "nome": "Wolfsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+            "classificacao": 5,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 14,
+        "data": "14/12/2024",
+    
+        "mandante":{
+            "nome": "Augsburg",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+            "classificacao": 13,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Leverkusen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+            "classificacao": 3,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 14,
+        "data": "14/12/2024",
+    
+        "mandante":{
+            "nome": "M'gladbach",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+            "classificacao": 11,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Kiel",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+            "classificacao": 17,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 3,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 14,
+        "data": "14/12/2024",
+    
+        "mandante":{
+            "nome": "Mainz 05",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+            "classificacao": 9,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Bayern",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+            "classificacao": 1,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 14,
+        "data": "14/12/2024",
+    
+        "mandante":{
+            "nome": "Union Berlin",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+            "classificacao": 12,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Bochum",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+            "classificacao": 18,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 5,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 1,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Bundesliga",
+        "rodada": 14,
+        "data": "14/12/2024",
+    
+        "mandante":{
+            "nome": "St. Pauli",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+            "classificacao": 15,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Bremen",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+            "classificacao": 11,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 3,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+
+        ,"Rodada": 14, "Total de Jogos": 6 
+
+    }
+    
+    
+
+
+
+
+
+
+
+
+
+]
