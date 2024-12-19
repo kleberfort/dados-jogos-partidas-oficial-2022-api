@@ -2,491 +2,6 @@
 
 
 
-{
-    "descricao": "Premier League",
-    "rodada": 16,
-    "data": "14/12/2024",
-
-    "mandante":{
-        "nome": "Wolves",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
-        "classificacao": 19,
-        "placar": 1
-    },
-
-    "visitante":{
-        "nome": "Ipswich",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/56vquJBk5U16Dng7txLXCw_96x96.png",
-        "classificacao": 18,
-        "placar": 2
-    },
-
-    "estatistiticaJogoMandante":{
-        "escanteiosPrimeiroTempo": 1,
-        "escanteiosSegundoTempo": 6,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 1
-    },
-
-    "estatisticaJogoVisitante":{
-        "escanteiosPrimeiroTempo": 1,
-        "escanteiosSegundoTempo": 2,
-        "golsPrimeiroTempo": 1,
-        "golsSegundoTempo": 1
-    },
-
-    "EstatisticaCartoesMandante":{
-        "cartoesAmareloPrimeiroTempo": 1,
-        "cartoesAmareloSegundoTempo": 1,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 0,
-        "cartoesAmareloSegundoTempo": 2,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    }
-},
-
-{
-    "descricao": "Premier League",
-    "rodada": 16,
-    "data": "14/12/2024",
-
-    "mandante":{
-        "nome": "Newcastle",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
-        "classificacao": 12,
-        "placar": 4
-    },
-
-    "visitante":{
-        "nome": "Leicester",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png",
-        "classificacao": 16,
-        "placar": 0
-    },
-
-    "estatistiticaJogoMandante":{
-        "escanteiosPrimeiroTempo": 3,
-        "escanteiosSegundoTempo": 2,
-        "golsPrimeiroTempo": 1,
-        "golsSegundoTempo": 3
-    },
-
-    "estatisticaJogoVisitante":{
-        "escanteiosPrimeiroTempo": 2,
-        "escanteiosSegundoTempo": 0,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesMandante":{
-        "cartoesAmareloPrimeiroTempo": 2,
-        "cartoesAmareloSegundoTempo": 1,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 1,
-        "cartoesAmareloSegundoTempo": 2,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    }
-},
-
-{
-    "descricao": "Premier League",
-    "rodada": 16,
-    "data": "14/12/2024",
-
-    "mandante":{
-        "nome": "Liverpool",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-        "classificacao": 1,
-        "placar": 2
-    },
-
-    "visitante":{
-        "nome": "Fulham",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png",
-        "classificacao": 10,
-        "placar": 2
-    },
-
-    "estatistiticaJogoMandante":{
-        "escanteiosPrimeiroTempo": 2,
-        "escanteiosSegundoTempo": 3,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 2
-    },
-
-    "estatisticaJogoVisitante":{
-        "escanteiosPrimeiroTempo": 2,
-        "escanteiosSegundoTempo": 2,
-        "golsPrimeiroTempo": 1,
-        "golsSegundoTempo": 1
-    },
-
-    "EstatisticaCartoesMandante":{
-        "cartoesAmareloPrimeiroTempo": 1,
-        "cartoesAmareloSegundoTempo": 2,
-        "cartoesVermelhoPrimeiroTempo": 1,
-        "cartoesVermelhoSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 3,
-        "cartoesAmareloSegundoTempo": 1,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    }
-},
-
-{
-    "descricao": "Premier League",
-    "rodada": 16,
-    "data": "14/12/2024",
-
-    "mandante":{
-        "nome": "Arsenal",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
-        "classificacao": 3,
-        "placar": 0
-    },
-
-    "visitante":{
-        "nome": "Everton",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
-        "classificacao": 15,
-        "placar": 0
-    },
-
-    "estatistiticaJogoMandante":{
-        "escanteiosPrimeiroTempo": 5,
-        "escanteiosSegundoTempo": 3,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 0
-    },
-
-    "estatisticaJogoVisitante":{
-        "escanteiosPrimeiroTempo": 1,
-        "escanteiosSegundoTempo": 1,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesMandante":{
-        "cartoesAmareloPrimeiroTempo": 0,
-        "cartoesAmareloSegundoTempo": 0,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 0,
-        "cartoesAmareloSegundoTempo": 3,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    }
-},
-
-{
-    "descricao": "Premier League",
-    "rodada": 16,
-    "data": "14/12/2024",
-
-    "mandante":{
-        "nome": "Forest",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
-        "classificacao": 5,
-        "placar": 2
-    },
-
-    "visitante":{
-        "nome": "Aston Villa",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
-        "classificacao": 6,
-        "placar": 1
-    },
-
-    "estatistiticaJogoMandante":{
-        "escanteiosPrimeiroTempo": 1,
-        "escanteiosSegundoTempo": 3,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 2
-    },
-
-    "estatisticaJogoVisitante":{
-        "escanteiosPrimeiroTempo": 0,
-        "escanteiosSegundoTempo": 3,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 1
-    },
-
-    "EstatisticaCartoesMandante":{
-        "cartoesAmareloPrimeiroTempo": 0,
-        "cartoesAmareloSegundoTempo": 0,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 0,
-        "cartoesAmareloSegundoTempo": 1,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    }
-},
-
-{
-    "descricao": "Premier League",
-    "rodada": 16,
-    "data": "15/12/2024",
-
-    "mandante":{
-        "nome": "Brighton",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
-        "classificacao": 7,
-        "placar": 1
-    },
-
-    "visitante":{
-        "nome": "Crystal Palace",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
-        "classificacao": 17,
-        "placar": 3
-    },
-
-    "estatistiticaJogoMandante":{
-        "escanteiosPrimeiroTempo": 1,
-        "escanteiosSegundoTempo": 7,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 1
-    },
-
-    "estatisticaJogoVisitante":{
-        "escanteiosPrimeiroTempo": 4,
-        "escanteiosSegundoTempo": 1,
-        "golsPrimeiroTempo": 2,
-        "golsSegundoTempo": 1
-    },
-
-    "EstatisticaCartoesMandante":{
-        "cartoesAmareloPrimeiroTempo": 1,
-        "cartoesAmareloSegundoTempo": 0,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 1,
-        "cartoesAmareloSegundoTempo": 3,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    }
-},
-
-{
-    "descricao": "Premier League",
-    "rodada": 16,
-    "data": "15/12/2024",
-
-    "mandante":{
-        "nome": "Man City",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
-        "classificacao": 5,
-        "placar": 1
-    },
-
-    "visitante":{
-        "nome": "Man Utd",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
-        "classificacao": 13,
-        "placar": 2
-    },
-
-    "estatistiticaJogoMandante":{
-        "escanteiosPrimeiroTempo": 4,
-        "escanteiosSegundoTempo": 4,
-        "golsPrimeiroTempo": 1,
-        "golsSegundoTempo": 0
-    },
-
-    "estatisticaJogoVisitante":{
-        "escanteiosPrimeiroTempo": 1,
-        "escanteiosSegundoTempo": 1,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 2
-    },
-
-    "EstatisticaCartoesMandante":{
-        "cartoesAmareloPrimeiroTempo": 1,
-        "cartoesAmareloSegundoTempo": 0,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 1,
-        "cartoesAmareloSegundoTempo": 0,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    }
-},
-
-{
-    "descricao": "Premier League",
-    "rodada": 16,
-    "data": "15/12/2024",
-
-    "mandante":{
-        "nome": "Southampton",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_96x96.png",
-        "classificacao": 20,
-        "placar": 0
-    },
-
-    "visitante":{
-        "nome": "Tottenham ",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
-        "classificacao": 13,
-        "placar": 5
-    },
-
-    "estatistiticaJogoMandante":{
-        "escanteiosPrimeiroTempo": 0,
-        "escanteiosSegundoTempo": 2,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 0
-    },
-
-    "estatisticaJogoVisitante":{
-        "escanteiosPrimeiroTempo": 3,
-        "escanteiosSegundoTempo": 2,
-        "golsPrimeiroTempo": 5,
-        "golsSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesMandante":{
-        "cartoesAmareloPrimeiroTempo": 1,
-        "cartoesAmareloSegundoTempo": 0,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 1,
-        "cartoesAmareloSegundoTempo": 2,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    }
-},
-
-{
-    "descricao": "Premier League",
-    "rodada": 16,
-    "data": "15/12/2024",
-
-    "mandante":{
-        "nome": "Chelsea",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
-        "classificacao": 2,
-        "placar": 2
-    },
-
-    "visitante":{
-        "nome": "Brentford",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
-        "classificacao": 10,
-        "placar": 1
-    },
-
-    "estatistiticaJogoMandante":{
-        "escanteiosPrimeiroTempo": 6,
-        "escanteiosSegundoTempo": 2,
-        "golsPrimeiroTempo": 1,
-        "golsSegundoTempo": 1
-    },
-
-    "estatisticaJogoVisitante":{
-        "escanteiosPrimeiroTempo": 2,
-        "escanteiosSegundoTempo": 3,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 1
-    },
-
-    "EstatisticaCartoesMandante":{
-        "cartoesAmareloPrimeiroTempo": 0,
-        "cartoesAmareloSegundoTempo": 2,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 0,
-        "cartoesAmareloSegundoTempo": 2,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    }
-},
-
-{
-    "descricao": "Premier League",
-    "rodada": 16,
-    "data": "16/12/2024",
-
-    "mandante":{
-        "nome": "Bournemouth",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/IcOt-hrK04B-RlRwI3R0yA_96x96.png",
-        "classificacao": 7,
-        "placar": 1
-    },
-
-    "visitante":{
-        "nome": "West Ham",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
-        "classificacao": 14,
-        "placar": 1
-    },
-
-    "estatistiticaJogoMandante":{
-        "escanteiosPrimeiroTempo": 3,
-        "escanteiosSegundoTempo": 9,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 1
-    },
-
-    "estatisticaJogoVisitante":{
-        "escanteiosPrimeiroTempo": 4,
-        "escanteiosSegundoTempo": 2,
-        "golsPrimeiroTempo": 0,
-        "golsSegundoTempo": 1
-    },
-
-    "EstatisticaCartoesMandante":{
-        "cartoesAmareloPrimeiroTempo": 0,
-        "cartoesAmareloSegundoTempo": 0,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    },
-
-    "EstatisticaCartoesVisitante":{
-        "cartoesAmareloPrimeiroTempo": 1,
-        "cartoesAmareloSegundoTempo": 1,
-        "cartoesVermelhoPrimeiroTempo": 0,
-        "cartoesVermelhoSegundoTempo": 0
-    }
-
-    ,"Rodada": 16, "Total de Jogos": 10 
-},
-
-
-
-
     {
         "descricao": "Premier League",
         "rodada": 1,
@@ -932,7 +447,7 @@
         },
     
         "visitante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 1,
             "placar": 1
@@ -965,9 +480,10 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 1, "Total de Jogos": 10 
     },
     
-
+   
     
     
     {
@@ -1024,7 +540,7 @@
         "data": "24/08/2024",
     
         "mandante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 12,
             "placar": 4
@@ -1448,9 +964,10 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 2, "Total de Jogos": 10 
     },
     
-
+    
     
     
     {
@@ -1802,7 +1319,7 @@
         },
     
         "visitante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 9,
             "placar": 1
@@ -1931,9 +1448,10 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 3, "Total de Jogos": 10 
     },
     
-
+   
     
     
     {
@@ -2326,7 +1844,7 @@
         "data": "15/09/2024",
     
         "mandante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 13,
             "placar": 0
@@ -2414,9 +1932,10 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 4, "Total de Jogos": 10 
     },
     
-
+   
     
     
     {
@@ -2473,7 +1992,7 @@
         "data": "21/09/2024",
     
         "mandante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 13,
             "placar": 3
@@ -2897,9 +2416,10 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 5, "Total de Jogos": 10 
     },
     
-
+   
     
     
     {
@@ -3299,7 +2819,7 @@
         },
     
         "visitante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 10,
             "placar": 3
@@ -3380,9 +2900,10 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 6, "Total de Jogos": 10 
     },
     
-
+   
     
     
     {
@@ -3830,7 +3351,7 @@
         },
     
         "visitante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 8,
             "placar": 2
@@ -3863,9 +3384,10 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 7, "Total de Jogos": 10 
     },
     
-
+    
     
     
     {
@@ -3874,7 +3396,7 @@
         "data": "19/10/2024",
     
         "mandante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 9,
             "placar": 4
@@ -4346,6 +3868,7 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 8, "Total de Jogos": 10 
     },
     
 
@@ -4700,7 +4223,7 @@
         },
     
         "visitante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 8,
             "placar": 0
@@ -4829,9 +4352,10 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 9, "Total de Jogos": 10 
     },
     
-
+    
     
     
     {
@@ -5176,7 +4700,7 @@
         "data": "03/11/2024",
     
         "mandante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 10,
             "placar": 4
@@ -5312,9 +4836,10 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 10, "Total de Jogos": 10 
     },
     
-
+   
     
     
     {
@@ -5611,7 +5136,7 @@
         "data": "10/11/2024",
     
         "mandante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 9,
             "placar": 1
@@ -5795,9 +5320,10 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 11, "Total de Jogos": 10 
     },
     
-  
+   
     
     
     {
@@ -6101,7 +5627,7 @@
         },
     
         "visitante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 11,
             "placar": 4
@@ -6278,9 +5804,11 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 12, "Total de Jogos": 9
     },
     
    
+    
     
     {
         "descricao": "Premier League",
@@ -6576,7 +6104,7 @@
         "data": "01/12/2024",
     
         "mandante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 8,
             "placar": 1
@@ -6760,9 +6288,10 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 13, "Total de Jogos": 10 
     },
     
-
+    
     
     
     {
@@ -7210,7 +6739,7 @@
         },
     
         "visitante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 8,
             "placar": 0
@@ -7243,9 +6772,11 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 14, "Total de Jogos": 10 
     },
     
-
+   
+    
     
     {
         "descricao": "Premier League",
@@ -7589,7 +7120,7 @@
         "data": "08/12/2024",
     
         "mandante":{
-            "nome": "Tottenham",
+            "nome": "Tottenham ",
             "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
             "classificacao": 11,
             "placar": 3
@@ -7677,8 +7208,494 @@
             "cartoesVermelhoPrimeiroTempo": 0,
             "cartoesVermelhoSegundoTempo": 0
         }
+        ,"Rodada": 15, "Total de Jogos": 10 
+    },
+    
+    
+    
+    
+    {
+        "descricao": "Premier League",
+        "rodada": 16,
+        "data": "14/12/2024",
+    
+        "mandante":{
+            "nome": "Wolves",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
+            "classificacao": 19,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Ipswich",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/56vquJBk5U16Dng7txLXCw_96x96.png",
+            "classificacao": 18,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 6,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Premier League",
+        "rodada": 16,
+        "data": "14/12/2024",
+    
+        "mandante":{
+            "nome": "Newcastle",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
+            "classificacao": 12,
+            "placar": 4
+        },
+    
+        "visitante":{
+            "nome": "Leicester",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png",
+            "classificacao": 16,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 3
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 0,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 2,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Premier League",
+        "rodada": 16,
+        "data": "14/12/2024",
+    
+        "mandante":{
+            "nome": "Liverpool",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
+            "classificacao": 1,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Fulham",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png",
+            "classificacao": 10,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 1,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 3,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Premier League",
+        "rodada": 16,
+        "data": "14/12/2024",
+    
+        "mandante":{
+            "nome": "Arsenal",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
+            "classificacao": 3,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Everton",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
+            "classificacao": 15,
+            "placar": 0
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 5,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Premier League",
+        "rodada": 16,
+        "data": "14/12/2024",
+    
+        "mandante":{
+            "nome": "Forest",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
+            "classificacao": 5,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Aston Villa",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+            "classificacao": 6,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Premier League",
+        "rodada": 16,
+        "data": "15/12/2024",
+    
+        "mandante":{
+            "nome": "Brighton",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
+            "classificacao": 7,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Crystal Palace",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
+            "classificacao": 17,
+            "placar": 3
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 7,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 2,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 3,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Premier League",
+        "rodada": 16,
+        "data": "15/12/2024",
+    
+        "mandante":{
+            "nome": "Man City",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+            "classificacao": 5,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "Man Utd",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+            "classificacao": 13,
+            "placar": 2
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 4,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 1,
+            "escanteiosSegundoTempo": 1,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 2
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Premier League",
+        "rodada": 16,
+        "data": "15/12/2024",
+    
+        "mandante":{
+            "nome": "Southampton",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_96x96.png",
+            "classificacao": 20,
+            "placar": 0
+        },
+    
+        "visitante":{
+            "nome": "Tottenham ",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
+            "classificacao": 13,
+            "placar": 5
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 0,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 0
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 5,
+            "golsSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Premier League",
+        "rodada": 16,
+        "data": "15/12/2024",
+    
+        "mandante":{
+            "nome": "Chelsea",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+            "classificacao": 2,
+            "placar": 2
+        },
+    
+        "visitante":{
+            "nome": "Brentford",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
+            "classificacao": 10,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 6,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 1,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 2,
+            "escanteiosSegundoTempo": 3,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 2,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+    },
+    
+    {
+        "descricao": "Premier League",
+        "rodada": 16,
+        "data": "16/12/2024",
+    
+        "mandante":{
+            "nome": "Bournemouth",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/IcOt-hrK04B-RlRwI3R0yA_96x96.png",
+            "classificacao": 7,
+            "placar": 1
+        },
+    
+        "visitante":{
+            "nome": "West Ham",
+            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
+            "classificacao": 14,
+            "placar": 1
+        },
+    
+        "estatistiticaJogoMandante":{
+            "escanteiosPrimeiroTempo": 3,
+            "escanteiosSegundoTempo": 9,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "estatisticaJogoVisitante":{
+            "escanteiosPrimeiroTempo": 4,
+            "escanteiosSegundoTempo": 2,
+            "golsPrimeiroTempo": 0,
+            "golsSegundoTempo": 1
+        },
+    
+        "EstatisticaCartoesMandante":{
+            "cartoesAmareloPrimeiroTempo": 0,
+            "cartoesAmareloSegundoTempo": 0,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        },
+    
+        "EstatisticaCartoesVisitante":{
+            "cartoesAmareloPrimeiroTempo": 1,
+            "cartoesAmareloSegundoTempo": 1,
+            "cartoesVermelhoPrimeiroTempo": 0,
+            "cartoesVermelhoSegundoTempo": 0
+        }
+        ,"Rodada": 16, "Total de Jogos": 10     
     }
     
+   
 
 
 ]
