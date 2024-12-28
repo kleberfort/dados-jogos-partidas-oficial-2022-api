@@ -1,6 +1,772 @@
 [
 
 
+    {
+        "descricao" : "Premier League",
+        "rodada" : 17,
+        "data" : "21/12/2024",
+        "mandante" : {
+          "nome" : "Aston Villa",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+          "classificacao" : 7,
+          "placar" : 2,
+          "gols" : [ {
+            "jogador" : "J. Durán",
+            "tempo" : "16"
+          }, {
+            "jogador" : "M. Rogers",
+            "tempo" : "65"
+          } ]
+        },
+        "visitante" : {
+          "nome" : "Man City",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+          "classificacao" : 5,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "P. Foden",
+            "tempo" : "90+3"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 4,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 1
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 3,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 1
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 3,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 44,
+          "finalizacoes" : 11,
+          "finalizacoesGol" : 6,
+          "faltas" : 14,
+          "passes" : 428,
+          "desarmes" : 22,
+          "impedimentos" : 3,
+          "laterais" : 13,
+          "tiroDeMeta" : 6
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 56,
+          "finalizacoes" : 12,
+          "finalizacoesGol" : 6,
+          "faltas" : 7,
+          "passes" : 537,
+          "desarmes" : 6,
+          "impedimentos" : 0,
+          "laterais" : 10,
+          "tiroDeMeta" : 4
+        }
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 17,
+        "data" : "21/12/2024",
+        "mandante" : {
+          "nome" : "West Ham",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
+          "classificacao" : 14,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "M. Kudus",
+            "tempo" : "58"
+          } ]
+        },
+        "visitante" : {
+          "nome" : "Brighton",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
+          "classificacao" : 9,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "M. Wieffer",
+            "tempo" : "51"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 6,
+          "escanteiosSegundoTempo" : 2,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 1
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 0,
+          "escanteiosSegundoTempo" : 4,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 1
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 46,
+          "finalizacoes" : 11,
+          "finalizacoesGol" : 4,
+          "faltas" : 14,
+          "passes" : 372,
+          "desarmes" : 26,
+          "impedimentos" : 5,
+          "laterais" : 21,
+          "tiroDeMeta" : 7
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 54,
+          "finalizacoes" : 12,
+          "finalizacoesGol" : 6,
+          "faltas" : 20,
+          "passes" : 438,
+          "desarmes" : 18,
+          "impedimentos" : 1,
+          "laterais" : 13,
+          "tiroDeMeta" : 2
+        }
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 17,
+        "data" : "21/12/2024",
+        "mandante" : {
+          "nome" : "Ipswich",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/56vquJBk5U16Dng7txLXCw_96x96.png",
+          "classificacao" : 18,
+          "placar" : 0,
+          "gols" : [ ]
+        },
+        "visitante" : {
+          "nome" : "Newcastle",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
+          "classificacao" : 12,
+          "placar" : 4,
+          "gols" : [ {
+            "jogador" : "A. Isak",
+            "tempo" : "1"
+          }, {
+            "jogador" : "J. Murphy",
+            "tempo" : "32"
+          }, {
+            "jogador" : "A. Isak",
+            "tempo" : "45+2"
+          }, {
+            "jogador" : "A. Isak",
+            "tempo" : "54"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 0,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 3,
+          "golsSegundoTempo" : 1
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 42,
+          "finalizacoes" : 10,
+          "finalizacoesGol" : 2,
+          "faltas" : 9,
+          "passes" : 431,
+          "desarmes" : 10,
+          "impedimentos" : 3,
+          "laterais" : 11,
+          "tiroDeMeta" : 8
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 58,
+          "finalizacoes" : 15,
+          "finalizacoesGol" : 7,
+          "faltas" : 7,
+          "passes" : 616,
+          "desarmes" : 15,
+          "impedimentos" : 1,
+          "laterais" : 19,
+          "tiroDeMeta" : 8
+        }
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 17,
+        "data" : "21/12/2024",
+        "mandante" : {
+          "nome" : "Brentford",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
+          "classificacao" : 11,
+          "placar" : 0,
+          "gols" : [ ]
+        },
+        "visitante" : {
+          "nome" : "Forest",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
+          "classificacao" : 4,
+          "placar" : 2,
+          "gols" : [ {
+            "jogador" : "O. Aina",
+            "tempo" : "38"
+          }, {
+            "jogador" : "A. Elanga",
+            "tempo" : "51"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 4,
+          "escanteiosSegundoTempo" : 5,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 4,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 1
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 3,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 64,
+          "finalizacoes" : 7,
+          "finalizacoesGol" : 3,
+          "faltas" : 10,
+          "passes" : 532,
+          "desarmes" : 17,
+          "impedimentos" : 1,
+          "laterais" : 14,
+          "tiroDeMeta" : 6
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 36,
+          "finalizacoes" : 10,
+          "finalizacoesGol" : 6,
+          "faltas" : 14,
+          "passes" : 303,
+          "desarmes" : 20,
+          "impedimentos" : 3,
+          "laterais" : 16,
+          "tiroDeMeta" : 10
+        }
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 17,
+        "data" : "21/12/2024",
+        "mandante" : {
+          "nome" : "Crystal Palace",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
+          "classificacao" : 15,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "I. Sarr",
+            "tempo" : "11"
+          } ]
+        },
+        "visitante" : {
+          "nome" : "Arsenal",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
+          "classificacao" : 4,
+          "placar" : 5,
+          "gols" : [ {
+            "jogador" : "G. Jesus",
+            "tempo" : "6"
+          }, {
+            "jogador" : "G. Jesus",
+            "tempo" : "15"
+          }, {
+            "jogador" : "K. Havertz",
+            "tempo" : "38"
+          }, {
+            "jogador" : "G. Martinelli",
+            "tempo" : "60"
+          }, {
+            "jogador" : "D. Rice",
+            "tempo" : "84"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 2,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 0
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 3,
+          "golsSegundoTempo" : 2
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 42,
+          "finalizacoes" : 15,
+          "finalizacoesGol" : 6,
+          "faltas" : 9,
+          "passes" : 392,
+          "desarmes" : 25,
+          "impedimentos" : 1,
+          "laterais" : 14,
+          "tiroDeMeta" : 3
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 58,
+          "finalizacoes" : 14,
+          "finalizacoesGol" : 6,
+          "faltas" : 8,
+          "passes" : 552,
+          "desarmes" : 14,
+          "impedimentos" : 0,
+          "laterais" : 21,
+          "tiroDeMeta" : 5
+        }
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 17,
+        "data" : "22/12/2024",
+        "mandante" : {
+          "nome" : "Man Utd",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+          "classificacao" : 13,
+          "placar" : 0,
+          "gols" : [ ]
+        },
+        "visitante" : {
+          "nome" : "Bournemouth",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/IcOt-hrK04B-RlRwI3R0yA_96x96.png",
+          "classificacao" : 8,
+          "placar" : 3,
+          "gols" : [ {
+            "jogador" : "D. Huijsen",
+            "tempo" : "29"
+          }, {
+            "jogador" : "J. Kluivert",
+            "tempo" : "61"
+          }, {
+            "jogador" : "A. Semenyo",
+            "tempo" : "63"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 5,
+          "escanteiosSegundoTempo" : 8,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 0,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 2
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 60,
+          "finalizacoes" : 23,
+          "finalizacoesGol" : 7,
+          "faltas" : 11,
+          "passes" : 492,
+          "desarmes" : 19,
+          "impedimentos" : 0,
+          "laterais" : 19,
+          "tiroDeMeta" : 4
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 40,
+          "finalizacoes" : 10,
+          "finalizacoesGol" : 5,
+          "faltas" : 11,
+          "passes" : 337,
+          "desarmes" : 25,
+          "impedimentos" : 2,
+          "laterais" : 17,
+          "tiroDeMeta" : 12
+        }
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 17,
+        "data" : "22/12/2024",
+        "mandante" : {
+          "nome" : "Leicester",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png",
+          "classificacao" : 17,
+          "placar" : 0,
+          "gols" : [ ]
+        },
+        "visitante" : {
+          "nome" : "Wolves",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
+          "classificacao" : 19,
+          "placar" : 3,
+          "gols" : [ {
+            "jogador" : "G. Guedes",
+            "tempo" : "19"
+          }, {
+            "jogador" : "R. Gomes",
+            "tempo" : "36"
+          }, {
+            "jogador" : "M. Cunha",
+            "tempo" : "44"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 4,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 0,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 3,
+          "golsSegundoTempo" : 0
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 54,
+          "finalizacoes" : 9,
+          "finalizacoesGol" : 5,
+          "faltas" : 15,
+          "passes" : 546,
+          "desarmes" : 18,
+          "impedimentos" : 1,
+          "laterais" : 20,
+          "tiroDeMeta" : 6
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 46,
+          "finalizacoes" : 8,
+          "finalizacoesGol" : 4,
+          "faltas" : 16,
+          "passes" : 479,
+          "desarmes" : 20,
+          "impedimentos" : 1,
+          "laterais" : 8,
+          "tiroDeMeta" : 5
+        }
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 17,
+        "data" : "22/12/2024",
+        "mandante" : {
+          "nome" : "Fulham",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png",
+          "classificacao" : 10,
+          "placar" : 0,
+          "gols" : [ ]
+        },
+        "visitante" : {
+          "nome" : "Southampton",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_96x96.png",
+          "classificacao" : 20,
+          "placar" : 0,
+          "gols" : [ ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 5,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 4,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 57,
+          "finalizacoes" : 15,
+          "finalizacoesGol" : 5,
+          "faltas" : 8,
+          "passes" : 538,
+          "desarmes" : 10,
+          "impedimentos" : 1,
+          "laterais" : 26,
+          "tiroDeMeta" : 3
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 43,
+          "finalizacoes" : 5,
+          "finalizacoesGol" : 1,
+          "faltas" : 15,
+          "passes" : 419,
+          "desarmes" : 19,
+          "impedimentos" : 2,
+          "laterais" : 14,
+          "tiroDeMeta" : 11
+        }
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 17,
+        "data" : "22/12/2024",
+        "mandante" : {
+          "nome" : "Everton",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
+          "classificacao" : 16,
+          "placar" : 0,
+          "gols" : [ ]
+        },
+        "visitante" : {
+          "nome" : "Chelsea",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+          "classificacao" : 2,
+          "placar" : 0,
+          "gols" : [ ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 0,
+          "escanteiosSegundoTempo" : 2,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 3,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 25,
+          "finalizacoes" : 5,
+          "finalizacoesGol" : 4,
+          "faltas" : 20,
+          "passes" : 209,
+          "desarmes" : 30,
+          "impedimentos" : 2,
+          "laterais" : 7,
+          "tiroDeMeta" : 11
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 75,
+          "finalizacoes" : 12,
+          "finalizacoesGol" : 5,
+          "faltas" : 12,
+          "passes" : 642,
+          "desarmes" : 23,
+          "impedimentos" : 1,
+          "laterais" : 20,
+          "tiroDeMeta" : 1
+        }
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 17,
+        "data" : "22/12/2024",
+        "mandante" : {
+          "nome" : "Tottenham ",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
+          "classificacao" : 11,
+          "placar" : 3,
+          "gols" : [ {
+            "jogador" : "J. Maddison",
+            "tempo" : "41"
+          }, {
+            "jogador" : "D. Kulusevski",
+            "tempo" : "72"
+          }, {
+            "jogador" : "D. Solanke",
+            "tempo" : "83"
+          } ]
+        },
+        "visitante" : {
+          "nome" : "Liverpool",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
+          "classificacao" : 1,
+          "placar" : 6,
+          "gols" : [ {
+            "jogador" : "L. Díaz",
+            "tempo" : "23"
+          }, {
+            "jogador" : "A. Mac Allister",
+            "tempo" : "36"
+          }, {
+            "jogador" : "D. Szoboszlai",
+            "tempo" : "45+1"
+          }, {
+            "jogador" : "M. Salah",
+            "tempo" : "54"
+          }, {
+            "jogador" : "M. Salah",
+            "tempo" : "61"
+          }, {
+            "jogador" : "L. Díaz",
+            "tempo" : "85"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 6,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 2
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 3,
+          "golsPrimeiroTempo" : 3,
+          "golsSegundoTempo" : 3
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 52,
+          "finalizacoes" : 9,
+          "finalizacoesGol" : 5,
+          "faltas" : 7,
+          "passes" : 547,
+          "desarmes" : 20,
+          "impedimentos" : 4,
+          "laterais" : 18,
+          "tiroDeMeta" : 15
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 48,
+          "finalizacoes" : 24,
+          "finalizacoesGol" : 12,
+          "faltas" : 9,
+          "passes" : 502,
+          "desarmes" : 27,
+          "impedimentos" : 4,
+          "laterais" : 10,
+          "tiroDeMeta" : 7
+        }
+      },
+      
+
 
     {
         "descricao": "Premier League",
