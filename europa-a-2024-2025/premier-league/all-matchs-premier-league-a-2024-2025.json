@@ -2958,486 +2958,741 @@
       
 
 
-    {
-        "descricao": "Premier League",
-        "rodada": 1,
-        "data": "16/08/2024",
-    
-        "mandante":{
-            "nome": "Man Utd",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
-            "classificacao": 1,
-            "placar": 1
+      {
+        "descricao" : "Premier League",
+        "rodada" : 1,
+        "data" : "16/08/2024",
+        "mandante" : {
+          "nome" : "Man Utd",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+          "classificacao" : 1,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "J. Zirkzee",
+            "tempo" : "87"
+          } ]
         },
-    
-        "visitante":{
-            "nome": "Fulham",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png",
-            "classificacao": 1,
-            "placar": 0
+        "visitante" : {
+          "nome" : "Fulham",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png",
+          "classificacao" : 1,
+          "placar" : 0,
+          "gols" : [ ]
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 5,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 5,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 1
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 7,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 7,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 55,
+          "finalizacoes" : 14,
+          "finalizacoesGol" : 5,
+          "faltas" : 12,
+          "passes" : 482,
+          "desarmes" : 21,
+          "impedimentos" : 3,
+          "laterais" : 15,
+          "tiroDeMeta" : 6
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 45,
+          "finalizacoes" : 10,
+          "finalizacoesGol" : 2,
+          "faltas" : 10,
+          "passes" : 384,
+          "desarmes" : 24,
+          "impedimentos" : 1,
+          "laterais" : 15,
+          "tiroDeMeta" : 10
         }
-    },
-    
-    {
-        "descricao": "Premier League",
-        "rodada": 1,
-        "data": "17/08/2024",
-    
-        "mandante":{
-            "nome": "Ipswich",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/56vquJBk5U16Dng7txLXCw_96x96.png",
-            "classificacao": 1,
-            "placar": 0
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 1,
+        "data" : "17/08/2024",
+        "mandante" : {
+          "nome" : "Ipswich",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/56vquJBk5U16Dng7txLXCw_96x96.png",
+          "classificacao" : 1,
+          "placar" : 0,
+          "gols" : [ ]
         },
-    
-        "visitante":{
-            "nome": "Liverpool",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-            "classificacao": 1,
-            "placar": 2
+        "visitante" : {
+          "nome" : "Liverpool",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
+          "classificacao" : 1,
+          "placar" : 2,
+          "gols" : [ {
+            "jogador" : "D. Jota",
+            "tempo" : "60"
+          }, {
+            "jogador" : "M. Salah",
+            "tempo" : "65"
+          } ]
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 6,
-            "escanteiosSegundoTempo": 4,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 2
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 6,
+          "escanteiosSegundoTempo" : 4,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 2
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 3,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 3,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 38,
+          "finalizacoes" : 7,
+          "finalizacoesGol" : 2,
+          "faltas" : 9,
+          "passes" : 347,
+          "desarmes" : 20,
+          "impedimentos" : 5,
+          "laterais" : 14,
+          "tiroDeMeta" : 6
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 62,
+          "finalizacoes" : 18,
+          "finalizacoesGol" : 5,
+          "faltas" : 18,
+          "passes" : 570,
+          "desarmes" : 9,
+          "impedimentos" : 0,
+          "laterais" : 24,
+          "tiroDeMeta" : 4
         }
-    },
-    
-    {
-        "descricao": "Premier League",
-        "rodada": 1,
-        "data": "17/08/2024",
-    
-        "mandante":{
-            "nome": "Forest",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
-            "classificacao": 1,
-            "placar": 1
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 1,
+        "data" : "17/08/2024",
+        "mandante" : {
+          "nome" : "Forest",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
+          "classificacao" : 1,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "C. Wood",
+            "tempo" : "23"
+          } ]
         },
-    
-        "visitante":{
-            "nome": "Bournemouth",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/IcOt-hrK04B-RlRwI3R0yA_96x96.png",
-            "classificacao": 1,
-            "placar": 1
+        "visitante" : {
+          "nome" : "Bournemouth",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/IcOt-hrK04B-RlRwI3R0yA_96x96.png",
+          "classificacao" : 1,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "A. Semenyo",
+            "tempo" : "86"
+          } ]
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 0,
+          "escanteiosSegundoTempo" : 2,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 0
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 3,
+          "escanteiosSegundoTempo" : 3,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 1
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 53,
+          "finalizacoes" : 14,
+          "finalizacoesGol" : 8,
+          "faltas" : 17,
+          "passes" : 503,
+          "desarmes" : 24,
+          "impedimentos" : 1,
+          "laterais" : 23,
+          "tiroDeMeta" : 13
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 47,
+          "finalizacoes" : 13,
+          "finalizacoesGol" : 4,
+          "faltas" : 8,
+          "passes" : 432,
+          "desarmes" : 18,
+          "impedimentos" : 4,
+          "laterais" : 18,
+          "tiroDeMeta" : 6
         }
-    },
-    
-    {
-        "descricao": "Premier League",
-        "rodada": 1,
-        "data": "17/08/2024",
-    
-        "mandante":{
-            "nome": "Newcastle",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
-            "classificacao": 1,
-            "placar": 1
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 1,
+        "data" : "17/08/2024",
+        "mandante" : {
+          "nome" : "Newcastle",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
+          "classificacao" : 1,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "Joelinton",
+            "tempo" : "45"
+          } ]
         },
-    
-        "visitante":{
-            "nome": "Southampton",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_96x96.png",
-            "classificacao": 1,
-            "placar": 0
+        "visitante" : {
+          "nome" : "Southampton",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_96x96.png",
+          "classificacao" : 1,
+          "placar" : 0,
+          "gols" : [ ]
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 3,
-            "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 3,
+          "escanteiosSegundoTempo" : 0,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 0
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 11,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 11,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 1,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 1,
+          "cartoesVermelhoSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 22,
+          "finalizacoes" : 3,
+          "finalizacoesGol" : 1,
+          "faltas" : 15,
+          "passes" : 181,
+          "desarmes" : 16,
+          "impedimentos" : 1,
+          "laterais" : 11,
+          "tiroDeMeta" : 10
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 78,
+          "finalizacoes" : 19,
+          "finalizacoesGol" : 4,
+          "faltas" : 16,
+          "passes" : 649,
+          "desarmes" : 13,
+          "impedimentos" : 2,
+          "laterais" : 18,
+          "tiroDeMeta" : 3
         }
-    },
-    
-    {
-        "descricao": "Premier League",
-        "rodada": 1,
-        "data": "17/08/2024",
-    
-        "mandante":{
-            "nome": "Everton",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
-            "classificacao": 1,
-            "placar": 0
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 1,
+        "data" : "17/08/2024",
+        "mandante" : {
+          "nome" : "Everton",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
+          "classificacao" : 1,
+          "placar" : 0,
+          "gols" : [ ]
         },
-    
-        "visitante":{
-            "nome": "Brighton",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
-            "classificacao": 1,
-            "placar": 3
+        "visitante" : {
+          "nome" : "Brighton",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
+          "classificacao" : 1,
+          "placar" : 3,
+          "gols" : [ {
+            "jogador" : "K. Mitoma",
+            "tempo" : "25"
+          }, {
+            "jogador" : "D. Welbeck",
+            "tempo" : "56"
+          }, {
+            "jogador" : "S. Adingra",
+            "tempo" : "87"
+          } ]
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 0,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 0,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 4,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 2
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 4,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 2
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 1
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 1
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 38,
+          "finalizacoes" : 9,
+          "finalizacoesGol" : 1,
+          "faltas" : 8,
+          "passes" : 344,
+          "desarmes" : 23,
+          "impedimentos" : 7,
+          "laterais" : 27,
+          "tiroDeMeta" : 4
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 62,
+          "finalizacoes" : 10,
+          "finalizacoesGol" : 5,
+          "faltas" : 8,
+          "passes" : 575,
+          "desarmes" : 21,
+          "impedimentos" : 1,
+          "laterais" : 14,
+          "tiroDeMeta" : 12
         }
-    },
-    
-    {
-        "descricao": "Premier League",
-        "rodada": 1,
-        "data": "17/08/2024",
-    
-        "mandante":{
-            "nome": "Arsenal",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
-            "classificacao": 1,
-            "placar": 2
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 1,
+        "data" : "17/08/2024",
+        "mandante" : {
+          "nome" : "Arsenal",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
+          "classificacao" : 1,
+          "placar" : 2,
+          "gols" : [ {
+            "jogador" : "K. Havertz",
+            "tempo" : "25"
+          }, {
+            "jogador" : "B. Saka",
+            "tempo" : "74"
+          } ]
         },
-    
-        "visitante":{
-            "nome": "Wolves",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
-            "classificacao": 1,
-            "placar": 0
+        "visitante" : {
+          "nome" : "Wolves",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
+          "classificacao" : 1,
+          "placar" : 0,
+          "gols" : [ ]
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 4,
-            "escanteiosSegundoTempo": 4,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 4,
+          "escanteiosSegundoTempo" : 4,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 1
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 0,
+          "escanteiosSegundoTempo" : 2,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 2,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 53,
+          "finalizacoes" : 18,
+          "finalizacoesGol" : 6,
+          "faltas" : 17,
+          "passes" : 420,
+          "desarmes" : 18,
+          "impedimentos" : 0,
+          "laterais" : 18,
+          "tiroDeMeta" : 6
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 47,
+          "finalizacoes" : 9,
+          "finalizacoesGol" : 3,
+          "faltas" : 14,
+          "passes" : 375,
+          "desarmes" : 19,
+          "impedimentos" : 1,
+          "laterais" : 15,
+          "tiroDeMeta" : 8
         }
-    },
-    
-    {
-        "descricao": "Premier League",
-        "rodada": 1,
-        "data": "17/08/2024",
-    
-        "mandante":{
-            "nome": "West Ham",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
-            "classificacao": 1,
-            "placar": 1
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 1,
+        "data" : "17/08/2024",
+        "mandante" : {
+          "nome" : "West Ham",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
+          "classificacao" : 1,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "L. Paquetá (Pên.)",
+            "tempo" : "37"
+          } ]
         },
-    
-        "visitante":{
-            "nome": "Aston Villa",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
-            "classificacao": 1,
-            "placar": 2
+        "visitante" : {
+          "nome" : "Aston Villa",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+          "classificacao" : 1,
+          "placar" : 2,
+          "gols" : [ {
+            "jogador" : "A. Onana",
+            "tempo" : "4"
+          }, {
+            "jogador" : "J. Durán",
+            "tempo" : "79"
+          } ]
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 3,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 3,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 0
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 2,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 1
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 52,
+          "finalizacoes" : 14,
+          "finalizacoesGol" : 3,
+          "faltas" : 18,
+          "passes" : 417,
+          "desarmes" : 14,
+          "impedimentos" : 1,
+          "laterais" : 14,
+          "tiroDeMeta" : 7
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 48,
+          "finalizacoes" : 15,
+          "finalizacoesGol" : 3,
+          "faltas" : 11,
+          "passes" : 394,
+          "desarmes" : 24,
+          "impedimentos" : 1,
+          "laterais" : 19,
+          "tiroDeMeta" : 6
         }
-    },
-    
-    {
-        "descricao": "Premier League",
-        "rodada": 1,
-        "data": "18/08/2024",
-    
-        "mandante":{
-            "nome": "Brentford",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
-            "classificacao": 1,
-            "placar": 2
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 1,
+        "data" : "18/08/2024",
+        "mandante" : {
+          "nome" : "Brentford",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
+          "classificacao" : 1,
+          "placar" : 2,
+          "gols" : [ {
+            "jogador" : "B. Mbeumo",
+            "tempo" : "29"
+          }, {
+            "jogador" : "Y. Wissa",
+            "tempo" : "76"
+          } ]
         },
-    
-        "visitante":{
-            "nome": "Crystal Palace",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
-            "classificacao": 1,
-            "placar": 1
+        "visitante" : {
+          "nome" : "Crystal Palace",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
+          "classificacao" : 1,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "E. Pinnock (AG)",
+            "tempo" : "57"
+          } ]
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 2,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 1
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 1,
-            "escanteiosSegundoTempo": 6,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 6,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 1
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 1,
-            "cartoesAmareloSegundoTempo": 0,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 1,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 2,
-            "cartoesAmareloSegundoTempo": 3,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 3,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 46,
+          "finalizacoes" : 9,
+          "finalizacoesGol" : 5,
+          "faltas" : 6,
+          "passes" : 403,
+          "desarmes" : 19,
+          "impedimentos" : 1,
+          "laterais" : 14,
+          "tiroDeMeta" : 8
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 54,
+          "finalizacoes" : 14,
+          "finalizacoesGol" : 6,
+          "faltas" : 15,
+          "passes" : 481,
+          "desarmes" : 22,
+          "impedimentos" : 3,
+          "laterais" : 18,
+          "tiroDeMeta" : 10
         }
-    },
-    
-    {
-        "descricao": "Premier League",
-        "rodada": 1,
-        "data": "18/08/2024",
-    
-        "mandante":{
-            "nome": "Chelsea",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
-            "classificacao": 1,
-            "placar": 0
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 1,
+        "data" : "18/08/2024",
+        "mandante" : {
+          "nome" : "Chelsea",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+          "classificacao" : 1,
+          "placar" : 0,
+          "gols" : [ ]
         },
-    
-        "visitante":{
-            "nome": "Man City",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
-            "classificacao": 1,
-            "placar": 2
+        "visitante" : {
+          "nome" : "Man City",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+          "classificacao" : 1,
+          "placar" : 2,
+          "gols" : [ {
+            "jogador" : "E. Haaland",
+            "tempo" : "18"
+          }, {
+            "jogador" : "M. Kovačić",
+            "tempo" : "84"
+          } ]
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 0
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 2,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 2,
-            "escanteiosSegundoTempo": 1,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 1
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 1
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 48,
+          "finalizacoes" : 10,
+          "finalizacoesGol" : 3,
+          "faltas" : 12,
+          "passes" : 490,
+          "desarmes" : 20,
+          "impedimentos" : 2,
+          "laterais" : 17,
+          "tiroDeMeta" : 6
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 52,
+          "finalizacoes" : 11,
+          "finalizacoesGol" : 5,
+          "faltas" : 9,
+          "passes" : 535,
+          "desarmes" : 16,
+          "impedimentos" : 1,
+          "laterais" : 18,
+          "tiroDeMeta" : 5
         }
-    },
-    
-    {
-        "descricao": "Premier League",
-        "rodada": 1,
-        "data": "19/08/2024",
-    
-        "mandante":{
-            "nome": "Leicester",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png",
-            "classificacao": 1,
-            "placar": 1
+      }
+      ,
+      
+      {
+        "descricao" : "Premier League",
+        "rodada" : 1,
+        "data" : "19/08/2024",
+        "mandante" : {
+          "nome" : "Leicester",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png",
+          "classificacao" : 1,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "J. Vardy",
+            "tempo" : "57"
+          } ]
         },
-    
-        "visitante":{
-            "nome": "Tottenham ",
-            "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
-            "classificacao": 1,
-            "placar": 1
+        "visitante" : {
+          "nome" : "Tottenham ",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
+          "classificacao" : 1,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "P. Porro",
+            "tempo" : "29"
+          } ]
         },
-    
-        "estatistiticaJogoMandante":{
-            "escanteiosPrimeiroTempo": 0,
-            "escanteiosSegundoTempo": 2,
-            "golsPrimeiroTempo": 0,
-            "golsSegundoTempo": 1
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 0,
+          "escanteiosSegundoTempo" : 2,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 1
         },
-    
-        "estatisticaJogoVisitante":{
-            "escanteiosPrimeiroTempo": 9,
-            "escanteiosSegundoTempo": 4,
-            "golsPrimeiroTempo": 1,
-            "golsSegundoTempo": 0
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 9,
+          "escanteiosSegundoTempo" : 4,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesMandante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
         },
-    
-        "EstatisticaCartoesVisitante":{
-            "cartoesAmareloPrimeiroTempo": 0,
-            "cartoesAmareloSegundoTempo": 1,
-            "cartoesVermelhoPrimeiroTempo": 0,
-            "cartoesVermelhoSegundoTempo": 0
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 30,
+          "finalizacoes" : 7,
+          "finalizacoesGol" : 3,
+          "faltas" : 11,
+          "passes" : 275,
+          "desarmes" : 22,
+          "impedimentos" : 2,
+          "laterais" : 16,
+          "tiroDeMeta" : 6
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 70,
+          "finalizacoes" : 15,
+          "finalizacoesGol" : 7,
+          "faltas" : 12,
+          "passes" : 671,
+          "desarmes" : 23,
+          "impedimentos" : 1,
+          "laterais" : 18,
+          "tiroDeMeta" : 6
         }
         ,"Rodada": 1, "Total de Jogos": 10 
-    },
+      }
+      
+      
+      ,
     
    
     
