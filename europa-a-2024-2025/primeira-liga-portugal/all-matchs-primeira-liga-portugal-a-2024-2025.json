@@ -542,10 +542,84 @@
           "laterais" : 19,
           "tiroDeMeta" : 7
         }
-        ,"Rodada": 17, "Total de Jogos": 8 
-      }
+      },
+
+
+      {
+        "descricao" : "Liga Portugal Betclic",
+        "rodada" : 17,
+        "data" : "06/01/2025",
+        "mandante" : {
+          "nome" : "Gil Vicente",
+          "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+          "classificacao" : 11,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "F. Correia",
+            "tempo" : "38"
+          } ]
+        },
+        "visitante" : {
+          "nome" : "Rio Ave",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png",
+          "classificacao" : 10,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "B. Aguilera",
+            "tempo" : "59"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 3,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 0
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 0,
+          "escanteiosSegundoTempo" : 4,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 1
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 57,
+          "finalizacoes" : 13,
+          "finalizacoesGol" : 4,
+          "faltas" : 8,
+          "passes" : 545,
+          "desarmes" : 26,
+          "impedimentos" : 2,
+          "laterais" : 18,
+          "tiroDeMeta" : 5
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 43,
+          "finalizacoes" : 14,
+          "finalizacoesGol" : 4,
+          "faltas" : 13,
+          "passes" : 413,
+          "desarmes" : 22,
+          "impedimentos" : 1,
+          "laterais" : 20,
+          "tiroDeMeta" : 11
+        }
+        ,"Rodada": 17, "Total de Jogos": 9 
+      },
       
-     ,
+      
+
 
     {
         "descricao" : "Liga Portugal Betclic",
