@@ -687,8 +687,86 @@
           "laterais" : 16,
           "tiroDeMeta" : 13
         }
-        ,"Rodada": 20, "Total de Jogos": 9 
+      },
+
+      {
+        "descricao" : "Premier League",
+        "rodada" : 20,
+        "data" : "06/01/2025",
+        "mandante" : {
+          "nome" : "Wolves",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
+          "classificacao" : 17,
+          "placar" : 0,
+          "gols" : [ ]
+        },
+        "visitante" : {
+          "nome" : "Forest",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
+          "classificacao" : 3,
+          "placar" : 3,
+          "gols" : [ {
+            "jogador" : "M. Gibbs-White",
+            "tempo" : "7"
+          }, {
+            "jogador" : "C. Wood",
+            "tempo" : "44"
+          }, {
+            "jogador" : "T. Awoniyi",
+            "tempo" : "90+4"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 3,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 0
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 1,
+          "escanteiosSegundoTempo" : 2,
+          "golsPrimeiroTempo" : 2,
+          "golsSegundoTempo" : 1
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 0,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 61,
+          "finalizacoes" : 13,
+          "finalizacoesGol" : 6,
+          "faltas" : 10,
+          "passes" : 549,
+          "desarmes" : 13,
+          "impedimentos" : 1,
+          "laterais" : 18,
+          "tiroDeMeta" : 9
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 39,
+          "finalizacoes" : 11,
+          "finalizacoesGol" : 3,
+          "faltas" : 8,
+          "passes" : 361,
+          "desarmes" : 18,
+          "impedimentos" : 4,
+          "laterais" : 15,
+          "tiroDeMeta" : 8
+        }
+        ,"Rodada": 20, "Total de Jogos": 10 
       }
+      
+    
+      
       
      
       
