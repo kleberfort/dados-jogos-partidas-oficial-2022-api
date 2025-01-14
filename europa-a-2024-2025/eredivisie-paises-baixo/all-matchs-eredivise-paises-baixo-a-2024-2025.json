@@ -1,5 +1,700 @@
 [
 
+    {
+  "descricao" : "Eredivisie",
+  "rodada" : 18,
+  "data" : "10/01/2025",
+  "mandante" : {
+    "nome" : "Fortuna",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/yggtmgEdp8JilDkQFFfqkA_96x96.png",
+    "classificacao" : 8,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "GA Eagles",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/KPnQQv6PNQxcHPlpi4rC-g_96x96.png",
+    "classificacao" : 7,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "J. Breum",
+      "tempo" : "27"
+    }, {
+      "jogador" : "J. Breum",
+      "tempo" : "47"
+    }, {
+      "jogador" : "J. Breum",
+      "tempo" : "87"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 6,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 2
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 56,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 3,
+    "faltas" : 12,
+    "passes" : 455,
+    "desarmes" : 14,
+    "impedimentos" : 0,
+    "laterais" : 13,
+    "tiroDeMeta" : 8
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 44,
+    "finalizacoes" : 21,
+    "finalizacoesGol" : 6,
+    "faltas" : 13,
+    "passes" : 370,
+    "desarmes" : 7,
+    "impedimentos" : 3,
+    "laterais" : 22,
+    "tiroDeMeta" : 8
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 18,
+  "data" : "11/01/2025",
+  "mandante" : {
+    "nome" : "Heracles",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/EDWW-98PyPcSLD3Qm2oZZg_96x96.png",
+    "classificacao" : 15,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "J. Hoogma",
+      "tempo" : "90+1"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Sparta",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/-zNS1knZ46R8EM_FRWN01w_96x96.png",
+    "classificacao" : 16,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "S. Mito",
+      "tempo" : "52"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 7,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 58,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 4,
+    "faltas" : 7,
+    "passes" : 491,
+    "desarmes" : 14,
+    "impedimentos" : 1,
+    "laterais" : 20,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 42,
+    "finalizacoes" : 21,
+    "finalizacoesGol" : 12,
+    "faltas" : 13,
+    "passes" : 355,
+    "desarmes" : 19,
+    "impedimentos" : 1,
+    "laterais" : 16,
+    "tiroDeMeta" : 5
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 18,
+  "data" : "11/01/2025",
+  "mandante" : {
+    "nome" : "Ajax",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/WIAAdPpdzFwVKU7maFvJ6w_96x96.png",
+    "classificacao" : 2,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "S. Berghuis (Pên.)",
+      "tempo" : "4"
+    }, {
+      "jogador" : "K. Taylor",
+      "tempo" : "41"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Waalwijk",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/pPk9dz2N7A7YWQkhABIiCQ_96x96.png",
+    "classificacao" : 18,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "M. Ihattaren",
+      "tempo" : "86"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 60,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 4,
+    "faltas" : 7,
+    "passes" : 643,
+    "desarmes" : 15,
+    "impedimentos" : 5,
+    "laterais" : 12,
+    "tiroDeMeta" : 3
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 40,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 3,
+    "faltas" : 17,
+    "passes" : 436,
+    "desarmes" : 12,
+    "impedimentos" : 0,
+    "laterais" : 11,
+    "tiroDeMeta" : 10
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 18,
+  "data" : "11/01/2025",
+  "mandante" : {
+    "nome" : "Zwolle",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/wG9B0Qx4RzFdcpLmKnjHLQ_96x96.png",
+    "classificacao" : 13,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "NEC",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/z6E6BNnp8PjBXtfAiZ6yNg_96x96.png",
+    "classificacao" : 12,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "K. Ogawa",
+      "tempo" : "23"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 62,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 3,
+    "faltas" : 9,
+    "passes" : 569,
+    "desarmes" : 13,
+    "impedimentos" : 0,
+    "laterais" : 30,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 38,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 3,
+    "faltas" : 14,
+    "passes" : 340,
+    "desarmes" : 21,
+    "impedimentos" : 2,
+    "laterais" : 27,
+    "tiroDeMeta" : 9
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 18,
+  "data" : "11/01/2025",
+  "mandante" : {
+    "nome" : "PSV",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/FylTPR72JXIGFzqwQocSAQ_96x96.png",
+    "classificacao" : 1,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "L. de Jong",
+      "tempo" : "68"
+    }, {
+      "jogador" : "L. de Jong (Pên.)",
+      "tempo" : "85"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "AZ",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Lhhh1mbsrqH2K1AfXFazrQ_96x96.png",
+    "classificacao" : 5,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "M. Lahdo",
+      "tempo" : "41"
+    }, {
+      "jogador" : "M. Meerdink",
+      "tempo" : "74"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 10,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 79,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 3,
+    "faltas" : 7,
+    "passes" : 760,
+    "desarmes" : 12,
+    "impedimentos" : 2,
+    "laterais" : 32,
+    "tiroDeMeta" : 4
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 21,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 5,
+    "faltas" : 8,
+    "passes" : 206,
+    "desarmes" : 27,
+    "impedimentos" : 1,
+    "laterais" : 15,
+    "tiroDeMeta" : 13
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 18,
+  "data" : "12/01/2025",
+  "mandante" : {
+    "nome" : "Twente",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/APPtKtO4wP6dQme5I1MSlA_96x96.png",
+    "classificacao" : 6,
+    "placar" : 6,
+    "gols" : [ {
+      "jogador" : "S. Steijn",
+      "tempo" : "12"
+    }, {
+      "jogador" : "S. Steijn",
+      "tempo" : "36"
+    }, {
+      "jogador" : "S. Steijn (Pên.)",
+      "tempo" : "50"
+    }, {
+      "jogador" : "van Wolfswinkel",
+      "tempo" : "68"
+    }, {
+      "jogador" : "M. Sadílek",
+      "tempo" : "79"
+    }, {
+      "jogador" : "C. Eiting",
+      "tempo" : "90+1"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Willem II",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/dJxW7JzpyiA_hNx-Lf-bww_96x96.png",
+    "classificacao" : 9,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "R. Behounek",
+      "tempo" : "31"
+    }, {
+      "jogador" : "P. Joosten",
+      "tempo" : "40"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 4
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 64,
+    "finalizacoes" : 21,
+    "finalizacoesGol" : 12,
+    "faltas" : 6,
+    "passes" : 659,
+    "desarmes" : 15,
+    "impedimentos" : 2,
+    "laterais" : 18,
+    "tiroDeMeta" : 2
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 36,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 3,
+    "faltas" : 8,
+    "passes" : 366,
+    "desarmes" : 17,
+    "impedimentos" : 1,
+    "laterais" : 15,
+    "tiroDeMeta" : 5
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 18,
+  "data" : "12/01/2025",
+  "mandante" : {
+    "nome" : "Feyenoord",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/36g41WN3WdjCRsSFiurazw_96x96.png",
+    "classificacao" : 4,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "S. Giménez (Pên.)",
+      "tempo" : "81"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Utrecht",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Xf2ldClrgyjAQGXtqliERg_96x96.png",
+    "classificacao" : 3,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "N. B. V. Nielsen",
+      "tempo" : "60"
+    }, {
+      "jogador" : "P. Aaronson",
+      "tempo" : "65"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 76,
+    "finalizacoes" : 16,
+    "finalizacoesGol" : 5,
+    "faltas" : 1,
+    "passes" : 709,
+    "desarmes" : 11,
+    "impedimentos" : 1,
+    "laterais" : 24,
+    "tiroDeMeta" : 8
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 24,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 3,
+    "faltas" : 7,
+    "passes" : 231,
+    "desarmes" : 23,
+    "impedimentos" : 2,
+    "laterais" : 15,
+    "tiroDeMeta" : 19
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 18,
+  "data" : "12/01/2025",
+  "mandante" : {
+    "nome" : "Groningen",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/efkaF1E3Z9UbMSO0VC9WJQ_96x96.png",
+    "classificacao" : 14,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Almere City",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/kOBM_7hmtOCsUfPtIr7ksw_96x96.png",
+    "classificacao" : 17,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 11,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 62,
+    "finalizacoes" : 19,
+    "finalizacoesGol" : 5,
+    "faltas" : 3,
+    "passes" : 487,
+    "desarmes" : 16,
+    "impedimentos" : 2,
+    "laterais" : 27,
+    "tiroDeMeta" : 2
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 38,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 1,
+    "faltas" : 12,
+    "passes" : 315,
+    "desarmes" : 18,
+    "impedimentos" : 2,
+    "laterais" : 27,
+    "tiroDeMeta" : 13
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 18,
+  "data" : "12/01/2025",
+  "mandante" : {
+    "nome" : "NAC Breda",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/5QzjC5uajTeyHE_fjTlWSQ_96x96.png",
+    "classificacao" : 10,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "E. Már Ómarsson",
+      "tempo" : "19"
+    }, {
+      "jogador" : "E. Már Ómarsson",
+      "tempo" : "75"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Heerenveen",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Qa7g4ljRDZbBcmibwsRePA_96x96.png",
+    "classificacao" : 11,
+    "placar" : 4,
+    "gols" : [ {
+      "jogador" : "J. Trenskow",
+      "tempo" : "7"
+    }, {
+      "jogador" : "A. Jahanbakhsh",
+      "tempo" : "13"
+    }, {
+      "jogador" : "N. S. Hopland",
+      "tempo" : "28"
+    }, {
+      "jogador" : "I. Sebaoui",
+      "tempo" : "90+5"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 6,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 3,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 54,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 6,
+    "faltas" : 8,
+    "passes" : 485,
+    "desarmes" : 14,
+    "impedimentos" : 1,
+    "laterais" : 23,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 46,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 6,
+    "faltas" : 14,
+    "passes" : 432,
+    "desarmes" : 18,
+    "impedimentos" : 0,
+    "laterais" : 20,
+    "tiroDeMeta" : 6
+  }
+    ,"Rodada": 18, "Total de Jogos": 9 
+}
+
+,
+
 
     {
         "descricao" : "Eredivisie",
