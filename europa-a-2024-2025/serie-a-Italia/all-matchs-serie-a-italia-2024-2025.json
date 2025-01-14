@@ -1,5 +1,740 @@
 [
 
+     {
+  "descricao" : "Serie A",
+  "rodada" : 20,
+  "data" : "10/01/2025",
+  "mandante" : {
+    "nome" : "Lazio",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png",
+    "classificacao" : 4,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "B. Dia",
+      "tempo" : "34"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Como",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png",
+    "classificacao" : 16,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "P. Cutrone",
+      "tempo" : "72"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 4,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 36,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 4,
+    "faltas" : 14,
+    "passes" : 268,
+    "desarmes" : 16,
+    "impedimentos" : 1,
+    "laterais" : 15,
+    "tiroDeMeta" : 15
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 64,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 4,
+    "faltas" : 15,
+    "passes" : 475,
+    "desarmes" : 21,
+    "impedimentos" : 0,
+    "laterais" : 16,
+    "tiroDeMeta" : 2
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 20,
+  "data" : "11/01/2025",
+  "mandante" : {
+    "nome" : "Udinese",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png",
+    "classificacao" : 9,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Atalanta",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png",
+    "classificacao" : 2,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 46,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 3,
+    "faltas" : 4,
+    "passes" : 418,
+    "desarmes" : 23,
+    "impedimentos" : 0,
+    "laterais" : 22,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 54,
+    "finalizacoes" : 4,
+    "finalizacoesGol" : 2,
+    "faltas" : 16,
+    "passes" : 493,
+    "desarmes" : 22,
+    "impedimentos" : 2,
+    "laterais" : 23,
+    "tiroDeMeta" : 5
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 20,
+  "data" : "11/01/2025",
+  "mandante" : {
+    "nome" : "Empoli",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png",
+    "classificacao" : 13,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "L. Cacace",
+      "tempo" : "47"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Lecce",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png",
+    "classificacao" : 17,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "T. Morente",
+      "tempo" : "6"
+    }, {
+      "jogador" : "N. Krstović",
+      "tempo" : "11"
+    }, {
+      "jogador" : "N. Krstović",
+      "tempo" : "90+1"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 50,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 5,
+    "faltas" : 11,
+    "passes" : 375,
+    "desarmes" : 26,
+    "impedimentos" : 2,
+    "laterais" : 34,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 50,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 6,
+    "faltas" : 21,
+    "passes" : 405,
+    "desarmes" : 25,
+    "impedimentos" : 3,
+    "laterais" : 24,
+    "tiroDeMeta" : 13
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 20,
+  "data" : "11/01/2025",
+  "mandante" : {
+    "nome" : "Torino",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png",
+    "classificacao" : 11,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "N. Vlašić",
+      "tempo" : "45+1"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Juventus",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png",
+    "classificacao" : 5,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "K. Yıldız",
+      "tempo" : "8"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 42,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 2,
+    "faltas" : 18,
+    "passes" : 360,
+    "desarmes" : 15,
+    "impedimentos" : 1,
+    "laterais" : 12,
+    "tiroDeMeta" : 2
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 58,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 9,
+    "faltas" : 9,
+    "passes" : 533,
+    "desarmes" : 11,
+    "impedimentos" : 2,
+    "laterais" : 19,
+    "tiroDeMeta" : 6
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 20,
+  "data" : "11/01/2025",
+  "mandante" : {
+    "nome" : "Milan",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png",
+    "classificacao" : 8,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "Á. Morata",
+      "tempo" : "51"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Cagliari",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png",
+    "classificacao" : 18,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "N. Zortea",
+      "tempo" : "55"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 6,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 68,
+    "finalizacoes" : 24,
+    "finalizacoesGol" : 11,
+    "faltas" : 9,
+    "passes" : 535,
+    "desarmes" : 16,
+    "impedimentos" : 3,
+    "laterais" : 18,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 32,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 2,
+    "faltas" : 11,
+    "passes" : 254,
+    "desarmes" : 16,
+    "impedimentos" : 5,
+    "laterais" : 10,
+    "tiroDeMeta" : 20
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 20,
+  "data" : "12/01/2025",
+  "mandante" : {
+    "nome" : "Genoa",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png",
+    "classificacao" : 13,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "M. Frendrup",
+      "tempo" : "65"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Parma",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png",
+    "classificacao" : 17,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 61,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 4,
+    "faltas" : 10,
+    "passes" : 547,
+    "desarmes" : 19,
+    "impedimentos" : 2,
+    "laterais" : 19,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 39,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 3,
+    "faltas" : 10,
+    "passes" : 346,
+    "desarmes" : 27,
+    "impedimentos" : 3,
+    "laterais" : 19,
+    "tiroDeMeta" : 8
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 20,
+  "data" : "12/01/2025",
+  "mandante" : {
+    "nome" : "Venezia",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png",
+    "classificacao" : 19,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Inter",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png",
+    "classificacao" : 3,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "M. Darmian",
+      "tempo" : "16"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 41,
+    "finalizacoes" : 7,
+    "finalizacoesGol" : 2,
+    "faltas" : 12,
+    "passes" : 379,
+    "desarmes" : 12,
+    "impedimentos" : 2,
+    "laterais" : 18,
+    "tiroDeMeta" : 9
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 59,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 6,
+    "faltas" : 11,
+    "passes" : 550,
+    "desarmes" : 14,
+    "impedimentos" : 4,
+    "laterais" : 17,
+    "tiroDeMeta" : 3
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 20,
+  "data" : "12/01/2025",
+  "mandante" : {
+    "nome" : "Bologna",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png",
+    "classificacao" : 8,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "T. Dallinga",
+      "tempo" : "61"
+    }, {
+      "jogador" : "L. Ferguson (Pên.)",
+      "tempo" : "65"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Roma",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png",
+    "classificacao" : 10,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "A. Saelemaekers",
+      "tempo" : "58"
+    }, {
+      "jogador" : "A. Dovbyk (Pên.)",
+      "tempo" : "90+8"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 54,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 8,
+    "faltas" : 18,
+    "passes" : 469,
+    "desarmes" : 10,
+    "impedimentos" : 2,
+    "laterais" : 19,
+    "tiroDeMeta" : 3
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 46,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 4,
+    "faltas" : 10,
+    "passes" : 392,
+    "desarmes" : 16,
+    "impedimentos" : 2,
+    "laterais" : 18,
+    "tiroDeMeta" : 8
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 20,
+  "data" : "12/01/2025",
+  "mandante" : {
+    "nome" : "Napoli",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png",
+    "classificacao" : 1,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "L. Montipò (AG)",
+      "tempo" : "5"
+    }, {
+      "jogador" : "F. Anguissa",
+      "tempo" : "61"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Verona",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png",
+    "classificacao" : 17,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 69,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 3,
+    "faltas" : 6,
+    "passes" : 703,
+    "desarmes" : 15,
+    "impedimentos" : 0,
+    "laterais" : 18,
+    "tiroDeMeta" : 4
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 31,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 2,
+    "faltas" : 5,
+    "passes" : 318,
+    "desarmes" : 18,
+    "impedimentos" : 1,
+    "laterais" : 12,
+    "tiroDeMeta" : 9
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 20,
+  "data" : "13/01/2025",
+  "mandante" : {
+    "nome" : "Monza",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png",
+    "classificacao" : 20,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "P. Ciurria",
+      "tempo" : "44"
+    }, {
+      "jogador" : "D. Maldini",
+      "tempo" : "63"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Fiorentina",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png",
+    "classificacao" : 6,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "L. Beltrán (Pên.)",
+      "tempo" : "74"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 4,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 34,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 3,
+    "faltas" : 26,
+    "passes" : 310,
+    "desarmes" : 15,
+    "impedimentos" : 0,
+    "laterais" : 12,
+    "tiroDeMeta" : 8
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 66,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 2,
+    "faltas" : 9,
+    "passes" : 587,
+    "desarmes" : 16,
+    "impedimentos" : 1,
+    "laterais" : 15,
+    "tiroDeMeta" : 4
+  }
+     ,"Rodada": 20, "Total de Jogos": 10 
+}
+
+,
+
 
      {
         "descricao" : "Serie A",
