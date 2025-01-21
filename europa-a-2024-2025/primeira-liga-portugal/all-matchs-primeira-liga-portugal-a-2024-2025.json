@@ -1,5 +1,701 @@
 [
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 18,
+    "data" : "17/01/2025",
+    "mandante" : {
+      "nome" : "Benfica",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png",
+      "classificacao" : 3,
+      "placar" : 4,
+      "gols" : [ {
+        "jogador" : "L. Barreiro",
+        "tempo" : "11"
+      }, {
+        "jogador" : "L. Barreiro",
+        "tempo" : "36"
+      }, {
+        "jogador" : "L. Barreiro",
+        "tempo" : "67"
+      }, {
+        "jogador" : "O. Kökçü",
+        "tempo" : "80"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Famalicão",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 9,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 3,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 58,
+      "finalizacoes" : 22,
+      "finalizacoesGol" : 12,
+      "faltas" : 13,
+      "passes" : 506,
+      "desarmes" : 24,
+      "impedimentos" : 4,
+      "laterais" : 15,
+      "tiroDeMeta" : 5
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 42,
+      "finalizacoes" : 1,
+      "finalizacoesGol" : 0,
+      "faltas" : 8,
+      "passes" : 368,
+      "desarmes" : 16,
+      "impedimentos" : 0,
+      "laterais" : 24,
+      "tiroDeMeta" : 6
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 18,
+    "data" : "18/01/2025",
+    "mandante" : {
+      "nome" : "Santa Clara",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png",
+      "classificacao" : 5,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "V. Lopes",
+        "tempo" : "36"
+      }, {
+        "jogador" : "Gabriel Silva",
+        "tempo" : "63"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Estoril",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png",
+      "classificacao" : 12,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "J. Carvalho",
+        "tempo" : "2"
+      }, {
+        "jogador" : "Y. Begraoui",
+        "tempo" : "30"
+      }, {
+        "jogador" : "J. Carvalho",
+        "tempo" : "68"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 60,
+      "finalizacoes" : 15,
+      "finalizacoesGol" : 5,
+      "faltas" : 14,
+      "passes" : 443,
+      "desarmes" : 26,
+      "impedimentos" : 1,
+      "laterais" : 20,
+      "tiroDeMeta" : 12
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 40,
+      "finalizacoes" : 8,
+      "finalizacoesGol" : 3,
+      "faltas" : 16,
+      "passes" : 313,
+      "desarmes" : 26,
+      "impedimentos" : 2,
+      "laterais" : 20,
+      "tiroDeMeta" : 9
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 18,
+    "data" : "18/01/2025",
+    "mandante" : {
+      "nome" : "Rio Ave",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png",
+      "classificacao" : 11,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Sporting",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png",
+      "classificacao" : 1,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "A. Santos (AG)",
+        "tempo" : "3"
+      }, {
+        "jogador" : "M. Hjulmand (Pên.)",
+        "tempo" : "23"
+      }, {
+        "jogador" : "V. Gyökeres",
+        "tempo" : "88"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 6,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 46,
+      "finalizacoes" : 2,
+      "finalizacoesGol" : 0,
+      "faltas" : 16,
+      "passes" : 400,
+      "desarmes" : 19,
+      "impedimentos" : 1,
+      "laterais" : 16,
+      "tiroDeMeta" : 8
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 54,
+      "finalizacoes" : 29,
+      "finalizacoesGol" : 13,
+      "faltas" : 11,
+      "passes" : 472,
+      "desarmes" : 16,
+      "impedimentos" : 3,
+      "laterais" : 18,
+      "tiroDeMeta" : 2
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 18,
+    "data" : "18/01/2025",
+    "mandante" : {
+      "nome" : "Vitória",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png",
+      "classificacao" : 6,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "D. Michel",
+        "tempo" : "20"
+      }, {
+        "jogador" : "N. Santos",
+        "tempo" : "40"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Arouca",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png",
+      "classificacao" : 16,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "T. Esgaio",
+        "tempo" : "56"
+      }, {
+        "jogador" : "C. Lamba",
+        "tempo" : "72"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 7,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 52,
+      "finalizacoes" : 17,
+      "finalizacoesGol" : 7,
+      "faltas" : 13,
+      "passes" : 420,
+      "desarmes" : 14,
+      "impedimentos" : 0,
+      "laterais" : 35,
+      "tiroDeMeta" : 11
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 48,
+      "finalizacoes" : 19,
+      "finalizacoesGol" : 6,
+      "faltas" : 9,
+      "passes" : 389,
+      "desarmes" : 19,
+      "impedimentos" : 1,
+      "laterais" : 26,
+      "tiroDeMeta" : 6
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 18,
+    "data" : "19/01/2025",
+    "mandante" : {
+      "nome" : "Moreirense",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png",
+      "classificacao" : 8,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Farense",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 17,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 66,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 4,
+      "faltas" : 16,
+      "passes" : 491,
+      "desarmes" : 18,
+      "impedimentos" : 2,
+      "laterais" : 30,
+      "tiroDeMeta" : 5
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 34,
+      "finalizacoes" : 5,
+      "finalizacoesGol" : 0,
+      "faltas" : 14,
+      "passes" : 255,
+      "desarmes" : 18,
+      "impedimentos" : 2,
+      "laterais" : 16,
+      "tiroDeMeta" : 11
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 18,
+    "data" : "19/01/2025",
+    "mandante" : {
+      "nome" : "Nacional",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png",
+      "classificacao" : 15,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "B. Costa (Pên.)",
+        "tempo" : "20"
+      }, {
+        "jogador" : "Dudu",
+        "tempo" : "34"
+      }, {
+        "jogador" : "Hadji",
+        "tempo" : "45+6"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "AVS",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 16,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "R. Ribeiro",
+        "tempo" : "45+3"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 3,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 49,
+      "finalizacoes" : 17,
+      "finalizacoesGol" : 7,
+      "faltas" : 12,
+      "passes" : 365,
+      "desarmes" : 18,
+      "impedimentos" : 1,
+      "laterais" : 25,
+      "tiroDeMeta" : 10
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 51,
+      "finalizacoes" : 13,
+      "finalizacoesGol" : 3,
+      "faltas" : 14,
+      "passes" : 369,
+      "desarmes" : 14,
+      "impedimentos" : 0,
+      "laterais" : 18,
+      "tiroDeMeta" : 7
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 18,
+    "data" : "19/01/2025",
+    "mandante" : {
+      "nome" : "Estrela Amadora",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 14,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Braga",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png",
+      "classificacao" : 4,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "A. E. Ouazzani",
+        "tempo" : "90+3"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 7,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 26,
+      "finalizacoes" : 7,
+      "finalizacoesGol" : 3,
+      "faltas" : 21,
+      "passes" : 220,
+      "desarmes" : 19,
+      "impedimentos" : 1,
+      "laterais" : 16,
+      "tiroDeMeta" : 8
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 74,
+      "finalizacoes" : 13,
+      "finalizacoesGol" : 5,
+      "faltas" : 10,
+      "passes" : 650,
+      "desarmes" : 20,
+      "impedimentos" : 3,
+      "laterais" : 24,
+      "tiroDeMeta" : 2
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 18,
+    "data" : "19/01/2025",
+    "mandante" : {
+      "nome" : "Gil Vicente",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 12,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "P. Felipe",
+        "tempo" : "11"
+      }, {
+        "jogador" : "J. Sá",
+        "tempo" : "53"
+      }, {
+        "jogador" : "F. Correia (Pên.)",
+        "tempo" : "90+4"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Porto",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png",
+      "classificacao" : 3,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "G. Borges",
+        "tempo" : "48"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 3,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 4,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 2
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 41,
+      "finalizacoes" : 8,
+      "finalizacoesGol" : 3,
+      "faltas" : 10,
+      "passes" : 299,
+      "desarmes" : 20,
+      "impedimentos" : 3,
+      "laterais" : 15,
+      "tiroDeMeta" : 14
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 59,
+      "finalizacoes" : 18,
+      "finalizacoesGol" : 3,
+      "faltas" : 18,
+      "passes" : 410,
+      "desarmes" : 12,
+      "impedimentos" : 0,
+      "laterais" : 24,
+      "tiroDeMeta" : 4
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 18,
+    "data" : "20/01/2025",
+    "mandante" : {
+      "nome" : "Boavista",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png",
+      "classificacao" : 18,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "B. Onyemaechi",
+        "tempo" : "45"
+      }, {
+        "jogador" : "R. Boženík",
+        "tempo" : "90+3"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Casa Pia",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 7,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "R. Abascal (AG)",
+        "tempo" : "30"
+      }, {
+        "jogador" : "F. Ferreira (AG)",
+        "tempo" : "43"
+      }, {
+        "jogador" : "J. Livolant",
+        "tempo" : "50"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 1
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 36,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 5,
+      "faltas" : 13,
+      "passes" : 292,
+      "desarmes" : 7,
+      "impedimentos" : 6,
+      "laterais" : 14,
+      "tiroDeMeta" : 5
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 64,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 6,
+      "faltas" : 14,
+      "passes" : 550,
+      "desarmes" : 11,
+      "impedimentos" : 3,
+      "laterais" : 18,
+      "tiroDeMeta" : 5
+    }
+    ,"Rodada": 18, "Total de Jogos": 9 
+  }
+  
 
+
+  ,
 
     {
         "descricao" : "Liga Portugal Betclic",
