@@ -2,6 +2,796 @@
 
   {
     "descricao" : "Premier League",
+    "rodada" : 22,
+    "data" : "18/01/2025",
+    "mandante" : {
+      "nome" : "Newcastle",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
+      "classificacao" : 4,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "B. Guimarães",
+        "tempo" : "25"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Bournemouth",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/IcOt-hrK04B-RlRwI3R0yA_96x96.png",
+      "classificacao" : 8,
+      "placar" : 4,
+      "gols" : [ {
+        "jogador" : "J. Kluivert",
+        "tempo" : "6"
+      }, {
+        "jogador" : "J. Kluivert",
+        "tempo" : "44"
+      }, {
+        "jogador" : "J. Kluivert",
+        "tempo" : "90+2"
+      }, {
+        "jogador" : "M. Kerkez",
+        "tempo" : "90+6"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 5,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 4,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 55,
+      "finalizacoes" : 13,
+      "finalizacoesGol" : 5,
+      "faltas" : 7,
+      "passes" : 395,
+      "desarmes" : 17,
+      "impedimentos" : 1,
+      "laterais" : 29,
+      "tiroDeMeta" : 9
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 45,
+      "finalizacoes" : 19,
+      "finalizacoesGol" : 10,
+      "faltas" : 18,
+      "passes" : 321,
+      "desarmes" : 21,
+      "impedimentos" : 0,
+      "laterais" : 15,
+      "tiroDeMeta" : 8
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Premier League",
+    "rodada" : 22,
+    "data" : "18/01/2025",
+    "mandante" : {
+      "nome" : "West Ham",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
+      "classificacao" : 13,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Crystal Palace",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
+      "classificacao" : 15,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "J. Mateta",
+        "tempo" : "48"
+      }, {
+        "jogador" : "J. Mateta (Pên.)",
+        "tempo" : "89"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 54,
+      "finalizacoes" : 7,
+      "finalizacoesGol" : 0,
+      "faltas" : 13,
+      "passes" : 547,
+      "desarmes" : 11,
+      "impedimentos" : 1,
+      "laterais" : 10,
+      "tiroDeMeta" : 5
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 46,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 7,
+      "faltas" : 10,
+      "passes" : 474,
+      "desarmes" : 19,
+      "impedimentos" : 0,
+      "laterais" : 20,
+      "tiroDeMeta" : 6
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Premier League",
+    "rodada" : 22,
+    "data" : "18/01/2025",
+    "mandante" : {
+      "nome" : "Leicester",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png",
+      "classificacao" : 19,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Fulham",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png",
+      "classificacao" : 10,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "E. Smith Rowe",
+        "tempo" : "48"
+      }, {
+        "jogador" : "A. Traoré",
+        "tempo" : "68"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 39,
+      "finalizacoes" : 8,
+      "finalizacoesGol" : 4,
+      "faltas" : 8,
+      "passes" : 380,
+      "desarmes" : 11,
+      "impedimentos" : 2,
+      "laterais" : 18,
+      "tiroDeMeta" : 10
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 61,
+      "finalizacoes" : 17,
+      "finalizacoesGol" : 2,
+      "faltas" : 8,
+      "passes" : 590,
+      "desarmes" : 21,
+      "impedimentos" : 2,
+      "laterais" : 19,
+      "tiroDeMeta" : 4
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Premier League",
+    "rodada" : 22,
+    "data" : "18/01/2025",
+    "mandante" : {
+      "nome" : "Brentford",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
+      "classificacao" : 11,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Liverpool",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
+      "classificacao" : 1,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "D. Núñez",
+        "tempo" : "90+1"
+      }, {
+        "jogador" : "D. Núñez",
+        "tempo" : "90+3"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 9,
+      "escanteiosSegundoTempo" : 6,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 39,
+      "finalizacoes" : 11,
+      "finalizacoesGol" : 6,
+      "faltas" : 6,
+      "passes" : 319,
+      "desarmes" : 12,
+      "impedimentos" : 6,
+      "laterais" : 11,
+      "tiroDeMeta" : 14
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 61,
+      "finalizacoes" : 37,
+      "finalizacoesGol" : 8,
+      "faltas" : 14,
+      "passes" : 484,
+      "desarmes" : 10,
+      "impedimentos" : 0,
+      "laterais" : 10,
+      "tiroDeMeta" : 3
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Premier League",
+    "rodada" : 22,
+    "data" : "18/01/2025",
+    "mandante" : {
+      "nome" : "Arsenal",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
+      "classificacao" : 2,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "G. Martinelli",
+        "tempo" : "35"
+      }, {
+        "jogador" : "K. Havertz",
+        "tempo" : "55"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Aston Villa",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+      "classificacao" : 8,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "Y. Tielemans",
+        "tempo" : "60"
+      }, {
+        "jogador" : "O. Watkins",
+        "tempo" : "68"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 5,
+      "escanteiosSegundoTempo" : 5,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 66,
+      "finalizacoes" : 18,
+      "finalizacoesGol" : 6,
+      "faltas" : 10,
+      "passes" : 483,
+      "desarmes" : 12,
+      "impedimentos" : 3,
+      "laterais" : 12,
+      "tiroDeMeta" : 3
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 34,
+      "finalizacoes" : 8,
+      "finalizacoesGol" : 4,
+      "faltas" : 18,
+      "passes" : 262,
+      "desarmes" : 17,
+      "impedimentos" : 2,
+      "laterais" : 10,
+      "tiroDeMeta" : 11
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Premier League",
+    "rodada" : 22,
+    "data" : "19/01/2025",
+    "mandante" : {
+      "nome" : "Forest",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
+      "classificacao" : 3,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "E. Anderson",
+        "tempo" : "11"
+      }, {
+        "jogador" : "C. Hudson-Odoi",
+        "tempo" : "28"
+      }, {
+        "jogador" : "C. Wood",
+        "tempo" : "41"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Southampton",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_96x96.png",
+      "classificacao" : 20,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "J. Bednarek",
+        "tempo" : "60"
+      }, {
+        "jogador" : "P. Onuachu",
+        "tempo" : "90+1"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 3,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 45,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 5,
+      "faltas" : 4,
+      "passes" : 386,
+      "desarmes" : 19,
+      "impedimentos" : 3,
+      "laterais" : 16,
+      "tiroDeMeta" : 3
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 55,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 4,
+      "faltas" : 18,
+      "passes" : 475,
+      "desarmes" : 11,
+      "impedimentos" : 0,
+      "laterais" : 12,
+      "tiroDeMeta" : 6
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Premier League",
+    "rodada" : 22,
+    "data" : "19/01/2025",
+    "mandante" : {
+      "nome" : "Man Utd",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+      "classificacao" : 13,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "B. Fernandes (Pên.)",
+        "tempo" : "23"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Brighton",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
+      "classificacao" : 10,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "Y. Minteh",
+        "tempo" : "5"
+      }, {
+        "jogador" : "K. Mitoma",
+        "tempo" : "60"
+      }, {
+        "jogador" : "G. Rutter",
+        "tempo" : "76"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 52,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 1,
+      "faltas" : 13,
+      "passes" : 463,
+      "desarmes" : 18,
+      "impedimentos" : 3,
+      "laterais" : 19,
+      "tiroDeMeta" : 3
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 48,
+      "finalizacoes" : 6,
+      "finalizacoesGol" : 3,
+      "faltas" : 12,
+      "passes" : 437,
+      "desarmes" : 22,
+      "impedimentos" : 3,
+      "laterais" : 19,
+      "tiroDeMeta" : 9
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Premier League",
+    "rodada" : 22,
+    "data" : "19/01/2025",
+    "mandante" : {
+      "nome" : "Everton",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
+      "classificacao" : 16,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "D. Calvert-Lewin",
+        "tempo" : "13"
+      }, {
+        "jogador" : "I. Ndiaye",
+        "tempo" : "30"
+      }, {
+        "jogador" : "A. Gray (AG)",
+        "tempo" : "45+7"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Tottenham ",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
+      "classificacao" : 15,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "D. Kulusevski",
+        "tempo" : "77"
+      }, {
+        "jogador" : "Richarlison",
+        "tempo" : "90+2"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 3,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 5,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 35,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 6,
+      "faltas" : 14,
+      "passes" : 326,
+      "desarmes" : 23,
+      "impedimentos" : 2,
+      "laterais" : 16,
+      "tiroDeMeta" : 7
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 65,
+      "finalizacoes" : 11,
+      "finalizacoesGol" : 6,
+      "faltas" : 14,
+      "passes" : 612,
+      "desarmes" : 20,
+      "impedimentos" : 1,
+      "laterais" : 25,
+      "tiroDeMeta" : 12
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Premier League",
+    "rodada" : 22,
+    "data" : "19/01/2025",
+    "mandante" : {
+      "nome" : "Ipswich",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/56vquJBk5U16Dng7txLXCw_96x96.png",
+      "classificacao" : 18,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Man City",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+      "classificacao" : 8,
+      "placar" : 6,
+      "gols" : [ {
+        "jogador" : "P. Foden",
+        "tempo" : "27"
+      }, {
+        "jogador" : "M. Kovačić",
+        "tempo" : "30"
+      }, {
+        "jogador" : "P. Foden",
+        "tempo" : "42"
+      }, {
+        "jogador" : "J. Doku",
+        "tempo" : "49"
+      }, {
+        "jogador" : "E. Haaland",
+        "tempo" : "57"
+      }, {
+        "jogador" : "J. McAtee",
+        "tempo" : "69"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 3,
+      "golsSegundoTempo" : 3
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 33,
+      "finalizacoes" : 8,
+      "finalizacoesGol" : 4,
+      "faltas" : 4,
+      "passes" : 353,
+      "desarmes" : 13,
+      "impedimentos" : 1,
+      "laterais" : 8,
+      "tiroDeMeta" : 10
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 67,
+      "finalizacoes" : 17,
+      "finalizacoesGol" : 9,
+      "faltas" : 7,
+      "passes" : 747,
+      "desarmes" : 14,
+      "impedimentos" : 1,
+      "laterais" : 11,
+      "tiroDeMeta" : 2
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Premier League",
+    "rodada" : 22,
+    "data" : "20/01/2025",
+    "mandante" : {
+      "nome" : "Chelsea",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+      "classificacao" : 6,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "T. Adarabioyo",
+        "tempo" : "24"
+      }, {
+        "jogador" : "M. Cucurella",
+        "tempo" : "60"
+      }, {
+        "jogador" : "N. Madueke",
+        "tempo" : "65"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Wolves",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
+      "classificacao" : 17,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "M. Doherty",
+        "tempo" : "45+5"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 63,
+      "finalizacoes" : 19,
+      "finalizacoesGol" : 7,
+      "faltas" : 8,
+      "passes" : 567,
+      "desarmes" : 9,
+      "impedimentos" : 5,
+      "laterais" : 19,
+      "tiroDeMeta" : 6
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 37,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 4,
+      "faltas" : 14,
+      "passes" : 333,
+      "desarmes" : 21,
+      "impedimentos" : 2,
+      "laterais" : 17,
+      "tiroDeMeta" : 7
+    }
+    ,"Rodada": 22, "Total de Jogos": 10 
+  }
+  
+ 
+  ,
+
+  {
+    "descricao" : "Premier League",
     "rodada" : 21,
     "data" : "14/01/2025",
     "mandante" : {
