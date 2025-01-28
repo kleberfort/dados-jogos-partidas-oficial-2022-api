@@ -672,8 +672,86 @@
       "laterais" : 13,
       "tiroDeMeta" : 6
     }
-    ,"Rodada": 21, "Total de Jogos": 9 
+
   }
+
+  ,
+
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 21,
+    "data" : "27/01/2025",
+    "mandante" : {
+      "nome" : "Alavés",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/RUcTOeFcBc7q7uku1nR_iQ_96x96.png",
+      "classificacao" : 17,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "K. García (Pên.)",
+        "tempo" : "6"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Celta",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
+      "classificacao" : 13,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "P. Durán",
+        "tempo" : "66"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 50,
+      "finalizacoes" : 3,
+      "finalizacoesGol" : 1,
+      "faltas" : 15,
+      "passes" : 473,
+      "desarmes" : 26,
+      "impedimentos" : 1,
+      "laterais" : 17,
+      "tiroDeMeta" : 8
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 50,
+      "finalizacoes" : 5,
+      "finalizacoesGol" : 2,
+      "faltas" : 14,
+      "passes" : 464,
+      "desarmes" : 14,
+      "impedimentos" : 0,
+      "laterais" : 33,
+      "tiroDeMeta" : 11
+    }
+    ,"Rodada": 21, "Total de Jogos": 10 
+  }
+  
+  
+  
   
   
 
