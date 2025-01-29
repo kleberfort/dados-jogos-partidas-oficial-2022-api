@@ -12992,8 +12992,82 @@
           "laterais" : 13,
           "tiroDeMeta" : 5
         }
-        ,"Rodada": 17, "Total de Jogos": 9    
       }
+      ,
+      
+      {
+        "descricao" : "Eredivisie",
+        "rodada" : 17,
+        "data" : "28/01/2025",
+        "mandante" : {
+          "nome" : "Heracles",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/EDWW-98PyPcSLD3Qm2oZZg_96x96.png",
+          "classificacao" : 15,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "L. Kulenović",
+            "tempo" : "20"
+          } ]
+        },
+        "visitante" : {
+          "nome" : "Groningen",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/efkaF1E3Z9UbMSO0VC9WJQ_96x96.png",
+          "classificacao" : 14,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "R. Postema (Pên.)",
+            "tempo" : "50"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 3,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 0
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 0,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 1
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 2,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 50,
+          "finalizacoes" : 17,
+          "finalizacoesGol" : 4,
+          "faltas" : 20,
+          "passes" : 367,
+          "desarmes" : 20,
+          "impedimentos" : 5,
+          "laterais" : 15,
+          "tiroDeMeta" : 6
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 50,
+          "finalizacoes" : 7,
+          "finalizacoesGol" : 2,
+          "faltas" : 12,
+          "passes" : 403,
+          "desarmes" : 14,
+          "impedimentos" : 2,
+          "laterais" : 18,
+          "tiroDeMeta" : 14
+        }
+        ,"Rodada": 17, "Total de Jogos": 9     
+      }
+      
       
  
    
