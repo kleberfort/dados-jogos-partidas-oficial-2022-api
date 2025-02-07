@@ -14184,8 +14184,88 @@
           "laterais" : 20,
           "tiroDeMeta" : 7
         }
-        ,"Rodada": 14, "Total de Jogos": 10 
+ 
       }
+
+      ,
+
+      {
+  "descricao" : "Serie A",
+  "rodada" : 14,
+  "data" : "06/02/2025",
+  "mandante" : {
+    "nome" : "Fiorentina",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png",
+    "classificacao" : 6,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "L. Ranieri",
+      "tempo" : "59"
+    }, {
+      "jogador" : "M. Kean",
+      "tempo" : "68"
+    }, {
+      "jogador" : "M. Kean",
+      "tempo" : "89"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Inter",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png",
+    "classificacao" : 2,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 3
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 6,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 28,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 6,
+    "faltas" : 11,
+    "passes" : 248,
+    "desarmes" : 4,
+    "impedimentos" : 3,
+    "laterais" : 17,
+    "tiroDeMeta" : 14
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 72,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 2,
+    "faltas" : 10,
+    "passes" : 627,
+    "desarmes" : 16,
+    "impedimentos" : 2,
+    "laterais" : 17,
+    "tiroDeMeta" : 4
+  }
+  ,"Rodada": 14, "Total de Jogos": 10 
+}
+
+
       
     
       
