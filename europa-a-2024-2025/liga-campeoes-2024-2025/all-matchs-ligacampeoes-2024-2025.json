@@ -1,6 +1,1407 @@
 [
 
 
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Young Boys",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/XL7qUB8QiLkk4w8K3jAMBg_96x96.png",
+      "classificacao" : 36,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Crvena zvezda",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/i26ntB7bZFvS6GkKj_gGcQ_96x96.png",
+      "classificacao" : 32,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "G. Kanga",
+        "tempo" : "69"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 6,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 41,
+      "finalizacoes" : 8,
+      "finalizacoesGol" : 3,
+      "faltas" : 13,
+      "passes" : 296,
+      "desarmes" : 22,
+      "impedimentos" : 2,
+      "laterais" : 13,
+      "tiroDeMeta" : 6
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 59,
+      "finalizacoes" : 18,
+      "finalizacoesGol" : 3,
+      "faltas" : 10,
+      "passes" : 419,
+      "desarmes" : 12,
+      "impedimentos" : 3,
+      "laterais" : 29,
+      "tiroDeMeta" : 12
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Stuttgart",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+      "classificacao" : 24,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "W. Pacho (AG)",
+        "tempo" : "77"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "PSG",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+      "classificacao" : 22,
+      "placar" : 4,
+      "gols" : [ {
+        "jogador" : "B. Barcola",
+        "tempo" : "6"
+      }, {
+        "jogador" : "O. Dembélé",
+        "tempo" : "17"
+      }, {
+        "jogador" : "O. Dembélé",
+        "tempo" : "35"
+      }, {
+        "jogador" : "O. Dembélé",
+        "tempo" : "54"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 5,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 3,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 42,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 2,
+      "faltas" : 10,
+      "passes" : 424,
+      "desarmes" : 28,
+      "impedimentos" : 3,
+      "laterais" : 19,
+      "tiroDeMeta" : 4
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 58,
+      "finalizacoes" : 13,
+      "finalizacoesGol" : 6,
+      "faltas" : 8,
+      "passes" : 607,
+      "desarmes" : 17,
+      "impedimentos" : 3,
+      "laterais" : 24,
+      "tiroDeMeta" : 4
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Brest",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/HNqZwlu71GHXo60XjYrPxg_96x96.png",
+      "classificacao" : 13,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Real Madrid",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+      "classificacao" : 16,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "Rodrygo",
+        "tempo" : "27"
+      }, {
+        "jogador" : "J. Bellingham",
+        "tempo" : "56"
+      }, {
+        "jogador" : "Rodrygo",
+        "tempo" : "78"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 41,
+      "finalizacoes" : 23,
+      "finalizacoesGol" : 5,
+      "faltas" : 11,
+      "passes" : 417,
+      "desarmes" : 17,
+      "impedimentos" : 2,
+      "laterais" : 20,
+      "tiroDeMeta" : 6
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 59,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 6,
+      "faltas" : 12,
+      "passes" : 620,
+      "desarmes" : 19,
+      "impedimentos" : 1,
+      "laterais" : 15,
+      "tiroDeMeta" : 12
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Sporting",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png",
+      "classificacao" : 23,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "C. Harder",
+        "tempo" : "77"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Bologna",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png",
+      "classificacao" : 28,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "T. Pobega",
+        "tempo" : "21"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 3,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 57,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 5,
+      "faltas" : 18,
+      "passes" : 439,
+      "desarmes" : 15,
+      "impedimentos" : 1,
+      "laterais" : 14,
+      "tiroDeMeta" : 13
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 43,
+      "finalizacoes" : 11,
+      "finalizacoesGol" : 2,
+      "faltas" : 29,
+      "passes" : 316,
+      "desarmes" : 18,
+      "impedimentos" : 0,
+      "laterais" : 18,
+      "tiroDeMeta" : 2
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Sturm",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/A5aNjxC7AJ2C__lAkU9Plg_96x96.png",
+      "classificacao" : 33,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "A. Malić",
+        "tempo" : "42"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Leipzig",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+      "classificacao" : 30,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 5,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 40,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 5,
+      "faltas" : 13,
+      "passes" : 308,
+      "desarmes" : 25,
+      "impedimentos" : 2,
+      "laterais" : 21,
+      "tiroDeMeta" : 9
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 60,
+      "finalizacoes" : 15,
+      "finalizacoesGol" : 5,
+      "faltas" : 10,
+      "passes" : 450,
+      "desarmes" : 24,
+      "impedimentos" : 6,
+      "laterais" : 27,
+      "tiroDeMeta" : 8
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "RB Salzburg",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/vQhr4NoE_4Yg1IhUZvbRNw_96x96.png",
+      "classificacao" : 34,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "A. Daghim",
+        "tempo" : "90+1"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Atl. Madrid",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/pEqmA7CL-VRo4Llq3rwIPA_96x96.png",
+      "classificacao" : 5,
+      "placar" : 4,
+      "gols" : [ {
+        "jogador" : "G. Simeone",
+        "tempo" : "5"
+      }, {
+        "jogador" : "A. Griezmann",
+        "tempo" : "13"
+      }, {
+        "jogador" : "A. Griezmann",
+        "tempo" : "45+1"
+      }, {
+        "jogador" : "M. Llorente",
+        "tempo" : "63"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 3,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 50,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 3,
+      "faltas" : 10,
+      "passes" : 545,
+      "desarmes" : 20,
+      "impedimentos" : 3,
+      "laterais" : 15,
+      "tiroDeMeta" : 6
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 50,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 8,
+      "faltas" : 10,
+      "passes" : 554,
+      "desarmes" : 18,
+      "impedimentos" : 0,
+      "laterais" : 14,
+      "tiroDeMeta" : 6
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "PSV",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/FylTPR72JXIGFzqwQocSAQ_96x96.png",
+      "classificacao" : 19,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "J. Bakayoko",
+        "tempo" : "35"
+      }, {
+        "jogador" : "I. Saibari",
+        "tempo" : "45"
+      }, {
+        "jogador" : "R. Pepi",
+        "tempo" : "45+5"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Liverpool",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png",
+      "classificacao" : 1,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "C. Gakpo (Pên.)",
+        "tempo" : "28"
+      }, {
+        "jogador" : "H. Elliott",
+        "tempo" : "40"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 6,
+      "golsPrimeiroTempo" : 3,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 1
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 53,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 5,
+      "faltas" : 11,
+      "passes" : 516,
+      "desarmes" : 27,
+      "impedimentos" : 3,
+      "laterais" : 10,
+      "tiroDeMeta" : 3
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 47,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 5,
+      "faltas" : 11,
+      "passes" : 454,
+      "desarmes" : 16,
+      "impedimentos" : 1,
+      "laterais" : 17,
+      "tiroDeMeta" : 7
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Man City",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+      "classificacao" : 25,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "M. Kovačić",
+        "tempo" : "53"
+      }, {
+        "jogador" : "J. Ordóñez (AG)",
+        "tempo" : "62"
+      }, {
+        "jogador" : "Savinho",
+        "tempo" : "77"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Club Brugge",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/5FQBXpID1LAQJb0BOnmTpw_96x96.png",
+      "classificacao" : 20,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "R. Onyedika",
+        "tempo" : "45"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 3
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 74,
+      "finalizacoes" : 17,
+      "finalizacoesGol" : 6,
+      "faltas" : 2,
+      "passes" : 815,
+      "desarmes" : 13,
+      "impedimentos" : 1,
+      "laterais" : 13,
+      "tiroDeMeta" : 3
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 26,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 5,
+      "faltas" : 3,
+      "passes" : 292,
+      "desarmes" : 10,
+      "impedimentos" : 1,
+      "laterais" : 11,
+      "tiroDeMeta" : 12
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Lille",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/D2AQe8qoyPIP4K8MzLvwuA_96x96.png",
+      "classificacao" : 12,
+      "placar" : 6,
+      "gols" : [ {
+        "jogador" : "O. Sahraoui",
+        "tempo" : "4"
+      }, {
+        "jogador" : "G. Trauner (AG)",
+        "tempo" : "38"
+      }, {
+        "jogador" : "A. Gomes",
+        "tempo" : "57"
+      }, {
+        "jogador" : "J. David",
+        "tempo" : "74"
+      }, {
+        "jogador" : "G. Trauner (AG)",
+        "tempo" : "76"
+      }, {
+        "jogador" : "R. Cabella",
+        "tempo" : "80"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Feyenoord",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/36g41WN3WdjCRsSFiurazw_96x96.png",
+      "classificacao" : 11,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "S. Giménez",
+        "tempo" : "14"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 5,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 4
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 62,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 5,
+      "faltas" : 6,
+      "passes" : 570,
+      "desarmes" : 15,
+      "impedimentos" : 0,
+      "laterais" : 17,
+      "tiroDeMeta" : 6
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 38,
+      "finalizacoes" : 7,
+      "finalizacoesGol" : 3,
+      "faltas" : 11,
+      "passes" : 349,
+      "desarmes" : 10,
+      "impedimentos" : 2,
+      "laterais" : 13,
+      "tiroDeMeta" : 7
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Juventus",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png",
+      "classificacao" : 17,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Benfica",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png",
+      "classificacao" : 21,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "V. Pavlidis",
+        "tempo" : "16"
+      }, {
+        "jogador" : "O. Kökçü",
+        "tempo" : "80"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 67,
+      "finalizacoes" : 17,
+      "finalizacoesGol" : 4,
+      "faltas" : 8,
+      "passes" : 621,
+      "desarmes" : 20,
+      "impedimentos" : 3,
+      "laterais" : 21,
+      "tiroDeMeta" : 3
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 33,
+      "finalizacoes" : 15,
+      "finalizacoesGol" : 6,
+      "faltas" : 7,
+      "passes" : 311,
+      "desarmes" : 34,
+      "impedimentos" : 0,
+      "laterais" : 25,
+      "tiroDeMeta" : 7
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Inter",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png",
+      "classificacao" : 4,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "L. Martínez (Pên.)",
+        "tempo" : "4"
+      }, {
+        "jogador" : "L. Martínez",
+        "tempo" : "16"
+      }, {
+        "jogador" : "L. Martínez",
+        "tempo" : "67"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "AS Monaco",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/RX0XTi5Dtg4joMtuHNmYKg_96x96.png",
+      "classificacao" : 10,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 1,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 64,
+      "finalizacoes" : 20,
+      "finalizacoesGol" : 7,
+      "faltas" : 12,
+      "passes" : 710,
+      "desarmes" : 15,
+      "impedimentos" : 2,
+      "laterais" : 14,
+      "tiroDeMeta" : 1
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 36,
+      "finalizacoes" : 4,
+      "finalizacoesGol" : 0,
+      "faltas" : 5,
+      "passes" : 403,
+      "desarmes" : 6,
+      "impedimentos" : 1,
+      "laterais" : 15,
+      "tiroDeMeta" : 15
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Dinamo",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/izGdPix_nDr8lff08dKicA_96x96.png",
+      "classificacao" : 26,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "M. Baturina",
+        "tempo" : "19"
+      }, {
+        "jogador" : "M. Pjaca",
+        "tempo" : "60"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Milan",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png",
+      "classificacao" : 6,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "C. Pulišić",
+        "tempo" : "53"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 4,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 43,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 5,
+      "faltas" : 11,
+      "passes" : 360,
+      "desarmes" : 23,
+      "impedimentos" : 5,
+      "laterais" : 17,
+      "tiroDeMeta" : 8
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 57,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 5,
+      "faltas" : 16,
+      "passes" : 472,
+      "desarmes" : 24,
+      "impedimentos" : 0,
+      "laterais" : 27,
+      "tiroDeMeta" : 4
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Girona",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/sHiSmLm_rA0BOC5MfrNt8A_96x96.png",
+      "classificacao" : 31,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "A. Danjuma",
+        "tempo" : "28"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Arsenal",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
+      "classificacao" : 3,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "Jorginho (Pên.)",
+        "tempo" : "38"
+      }, {
+        "jogador" : "E. Nwaneri",
+        "tempo" : "42"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 9,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 4,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 39,
+      "finalizacoes" : 7,
+      "finalizacoesGol" : 3,
+      "faltas" : 13,
+      "passes" : 311,
+      "desarmes" : 10,
+      "impedimentos" : 1,
+      "laterais" : 8,
+      "tiroDeMeta" : 9
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 61,
+      "finalizacoes" : 16,
+      "finalizacoesGol" : 6,
+      "faltas" : 13,
+      "passes" : 474,
+      "desarmes" : 16,
+      "impedimentos" : 2,
+      "laterais" : 12,
+      "tiroDeMeta" : 3
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Bayern",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+      "classificacao" : 15,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "T. Müller",
+        "tempo" : "8"
+      }, {
+        "jogador" : "H. Kane",
+        "tempo" : "63"
+      }, {
+        "jogador" : "K. Coman",
+        "tempo" : "84"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Slovan",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/At_RY6yVgrmSW0hTKQ6X6Q_96x96.png",
+      "classificacao" : 35,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "M. Tolić",
+        "tempo" : "90"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 6,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 75,
+      "finalizacoes" : 35,
+      "finalizacoesGol" : 9,
+      "faltas" : 11,
+      "passes" : 769,
+      "desarmes" : 21,
+      "impedimentos" : 0,
+      "laterais" : 13,
+      "tiroDeMeta" : 2
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 25,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 4,
+      "faltas" : 7,
+      "passes" : 273,
+      "desarmes" : 20,
+      "impedimentos" : 2,
+      "laterais" : 4,
+      "tiroDeMeta" : 13
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Dortmund",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+      "classificacao" : 14,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "S. Guirassy",
+        "tempo" : "17"
+      }, {
+        "jogador" : "S. Guirassy",
+        "tempo" : "44"
+      }, {
+        "jogador" : "R. Bensebaini",
+        "tempo" : "79"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Shakhtar",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/3rx1dndeeE1gb97w6et-GA_96x96.png",
+      "classificacao" : 27,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "M. Gomes",
+        "tempo" : "50"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 45,
+      "finalizacoes" : 15,
+      "finalizacoesGol" : 7,
+      "faltas" : 10,
+      "passes" : 440,
+      "desarmes" : 15,
+      "impedimentos" : 1,
+      "laterais" : 12,
+      "tiroDeMeta" : 3
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 55,
+      "finalizacoes" : 7,
+      "finalizacoesGol" : 2,
+      "faltas" : 9,
+      "passes" : 536,
+      "desarmes" : 27,
+      "impedimentos" : 1,
+      "laterais" : 14,
+      "tiroDeMeta" : 7
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Leverkusen",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+      "classificacao" : 8,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "F. Wirtz",
+        "tempo" : "32"
+      }, {
+        "jogador" : "N. Tella",
+        "tempo" : "64"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Sparta Praha",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/fVL-ka8BmNfPNZWDYElVLw_96x96.png",
+      "classificacao" : 29,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 7,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 71,
+      "finalizacoes" : 26,
+      "finalizacoesGol" : 10,
+      "faltas" : 5,
+      "passes" : 760,
+      "desarmes" : 8,
+      "impedimentos" : 0,
+      "laterais" : 12,
+      "tiroDeMeta" : 10
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 29,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 1,
+      "faltas" : 6,
+      "passes" : 313,
+      "desarmes" : 18,
+      "impedimentos" : 1,
+      "laterais" : 9,
+      "tiroDeMeta" : 9
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Barcelona",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
+      "classificacao" : 2,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "L. Yamal",
+        "tempo" : "47"
+      }, {
+        "jogador" : "R. Araújo",
+        "tempo" : "72"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Atalanta",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png",
+      "classificacao" : 7,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "Éderson",
+        "tempo" : "67"
+      }, {
+        "jogador" : "M. Pašalić",
+        "tempo" : "79"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 7,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 4,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 68,
+      "finalizacoes" : 16,
+      "finalizacoesGol" : 7,
+      "faltas" : 7,
+      "passes" : 633,
+      "desarmes" : 13,
+      "impedimentos" : 1,
+      "laterais" : 17,
+      "tiroDeMeta" : 7
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 32,
+      "finalizacoes" : 8,
+      "finalizacoesGol" : 4,
+      "faltas" : 13,
+      "passes" : 289,
+      "desarmes" : 12,
+      "impedimentos" : 6,
+      "laterais" : 16,
+      "tiroDeMeta" : 7
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "UEFA Champions League",
+    "rodada" : 8,
+    "data" : "29/01/2025",
+    "mandante" : {
+      "nome" : "Aston Villa",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+      "classificacao" : 9,
+      "placar" : 4,
+      "gols" : [ {
+        "jogador" : "M. Rogers",
+        "tempo" : "3"
+      }, {
+        "jogador" : "M. Rogers",
+        "tempo" : "5"
+      }, {
+        "jogador" : "O. Watkins",
+        "tempo" : "60"
+      }, {
+        "jogador" : "M. Rogers",
+        "tempo" : "90+1"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Celtic",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/2d1R7XIFALAHj2A9ECBJeA_96x96.png",
+      "classificacao" : 18,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "A. Idah",
+        "tempo" : "36"
+      }, {
+        "jogador" : "A. Idah",
+        "tempo" : "38"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 58,
+      "finalizacoes" : 20,
+      "finalizacoesGol" : 8,
+      "faltas" : 4,
+      "passes" : 507,
+      "desarmes" : 12,
+      "impedimentos" : 3,
+      "laterais" : 15,
+      "tiroDeMeta" : 3
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 42,
+      "finalizacoes" : 6,
+      "finalizacoesGol" : 4,
+      "faltas" : 15,
+      "passes" : 359,
+      "desarmes" : 18,
+      "impedimentos" : 2,
+      "laterais" : 14,
+      "tiroDeMeta" : 3
+    }
+    ,"Rodada": 8, "Total de Jogos": 18 
+  }
+  
+  
+
+  ,
 
     {
         "descricao" : "UEFA Champions League",
