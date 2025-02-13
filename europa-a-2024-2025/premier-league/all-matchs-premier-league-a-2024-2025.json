@@ -17517,9 +17517,90 @@
       "laterais" : 16,
       "tiroDeMeta" : 5
     }
-    ,"Rodada": 15, "Total de Jogos": 9 
+  }
+
+  ,
+  
+  {
+    "descricao" : "Premier League",
+    "rodada" : 15,
+    "data" : "12/02/2025",
+    "mandante" : {
+      "nome" : "Everton",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
+      "classificacao" : 16,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "Beto",
+        "tempo" : "11"
+      }, {
+        "jogador" : "J. Tarkowski",
+        "tempo" : "90+8"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Liverpool",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
+      "classificacao" : 1,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "A. Mac Allister",
+        "tempo" : "16"
+      }, {
+        "jogador" : "M. Salah",
+        "tempo" : "73"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 3,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 37,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 3,
+      "faltas" : 9,
+      "passes" : 307,
+      "desarmes" : 19,
+      "impedimentos" : 3,
+      "laterais" : 19,
+      "tiroDeMeta" : 2
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 63,
+      "finalizacoes" : 6,
+      "finalizacoesGol" : 4,
+      "faltas" : 20,
+      "passes" : 546,
+      "desarmes" : 18,
+      "impedimentos" : 2,
+      "laterais" : 19,
+      "tiroDeMeta" : 10
+    }
+    ,"Rodada": 15, "Total de Jogos": 10
   }
   
+
  
   
   ,
