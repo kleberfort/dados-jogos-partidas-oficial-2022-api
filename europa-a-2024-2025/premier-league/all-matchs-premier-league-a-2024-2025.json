@@ -1,5 +1,87 @@
 [
 
+  {
+  "descricao" : "Premier League",
+  "rodada" : 29,
+  "data" : "19/02/2025",
+  "mandante" : {
+    "nome" : "Aston Villa",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+    "classificacao" : 9,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "Y. Tielemans",
+      "tempo" : "38"
+    }, {
+      "jogador" : "O. Watkins",
+      "tempo" : "45+3"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Liverpool",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
+    "classificacao" : 1,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "M. Salah",
+      "tempo" : "29"
+    }, {
+      "jogador" : "T. Alexander-Arnold",
+      "tempo" : "61"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 6,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 52,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 4,
+    "faltas" : 8,
+    "passes" : 449,
+    "desarmes" : 22,
+    "impedimentos" : 3,
+    "laterais" : 12,
+    "tiroDeMeta" : 15
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 48,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 3,
+    "faltas" : 6,
+    "passes" : 407,
+    "desarmes" : 16,
+    "impedimentos" : 2,
+    "laterais" : 16,
+    "tiroDeMeta" : 6
+  }
+  ,"Rodada": 29, "Total de Jogos": 1 
+}
+
+
+
+  ,
 
   {
     "descricao" : "Premier League",
