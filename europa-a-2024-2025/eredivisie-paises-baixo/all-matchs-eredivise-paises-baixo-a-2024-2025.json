@@ -597,8 +597,81 @@
       "laterais" : 16,
       "tiroDeMeta" : 8
     }
-    ,"Rodada": 23, "Total de Jogos": 8 
+    
   }
+  ,
+
+  {
+    "descricao" : "Eredivisie",
+    "rodada" : 23,
+    "data" : "23/02/2025",
+    "mandante" : {
+      "nome" : "AZ",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Lhhh1mbsrqH2K1AfXFazrQ_96x96.png",
+      "classificacao" : 6,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "Z. Buurmeester",
+        "tempo" : "52"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Fortuna",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/yggtmgEdp8JilDkQFFfqkA_96x96.png",
+      "classificacao" : 11,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 5,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 53,
+      "finalizacoes" : 15,
+      "finalizacoesGol" : 6,
+      "faltas" : 13,
+      "passes" : 478,
+      "desarmes" : 14,
+      "impedimentos" : 2,
+      "laterais" : 18,
+      "tiroDeMeta" : 4
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 47,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 4,
+      "faltas" : 13,
+      "passes" : 429,
+      "desarmes" : 30,
+      "impedimentos" : 2,
+      "laterais" : 12,
+      "tiroDeMeta" : 9
+    }
+    ,"Rodada": 23, "Total de Jogos": 9 
+  }
+  
+
   
   
 
