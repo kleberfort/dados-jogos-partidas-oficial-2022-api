@@ -12743,10 +12743,89 @@
           "laterais" : 10,
           "tiroDeMeta" : 9
         }
+        
+      }
+      
+   ,
+
+      {
+        "descricao" : "Serie A",
+        "rodada" : 9,
+        "data" : "27/02/2025",
+        "mandante" : {
+          "nome" : "Bologna",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png",
+          "classificacao" : 8,
+          "placar" : 2,
+          "gols" : [ {
+            "jogador" : "S. Castro",
+            "tempo" : "48"
+          }, {
+            "jogador" : "D. Ndoye",
+            "tempo" : "82"
+          } ]
+        },
+        "visitante" : {
+          "nome" : "Milan",
+          "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png",
+          "classificacao" : 7,
+          "placar" : 1,
+          "gols" : [ {
+            "jogador" : "R. Leão",
+            "tempo" : "43"
+          } ]
+        },
+        "estatistiticaJogoMandante" : {
+          "escanteiosPrimeiroTempo" : 3,
+          "escanteiosSegundoTempo" : 1,
+          "golsPrimeiroTempo" : 0,
+          "golsSegundoTempo" : 2
+        },
+        "estatisticaJogoVisitante" : {
+          "escanteiosPrimeiroTempo" : 2,
+          "escanteiosSegundoTempo" : 3,
+          "golsPrimeiroTempo" : 1,
+          "golsSegundoTempo" : 0
+        },
+        "EstatisticaCartoesMandante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 1,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "EstatisticaCartoesVisitante" : {
+          "cartoesAmareloPrimeiroTempo" : 0,
+          "cartoesAmareloSegundoTempo" : 2,
+          "cartoesVermelhoPrimeiroTempo" : 0,
+          "cartoesVermelhoSegundoTempo" : 0
+        },
+        "estatisticaGeralMandante" : {
+          "posseBola" : 57,
+          "finalizacoes" : 14,
+          "finalizacoesGol" : 4,
+          "faltas" : 13,
+          "passes" : 450,
+          "desarmes" : 11,
+          "impedimentos" : 2,
+          "laterais" : 23,
+          "tiroDeMeta" : 3
+        },
+        "estatisticaGeralVisitante" : {
+          "posseBola" : 43,
+          "finalizacoes" : 8,
+          "finalizacoesGol" : 4,
+          "faltas" : 15,
+          "passes" : 335,
+          "desarmes" : 20,
+          "impedimentos" : 2,
+          "laterais" : 18,
+          "tiroDeMeta" : 13
+        }
         ,"Rodada": 9, "Total de Jogos": 10 
       }
       
-   
+     
+      
       
       ,
       
