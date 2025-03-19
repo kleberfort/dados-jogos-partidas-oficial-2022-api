@@ -1,6 +1,777 @@
 [
 
 
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 28,
+    "data" : "14/03/2025",
+    "mandante" : {
+      "nome" : "Las Palmas",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/yOIfuEFVFzu1dD8HiJt9vA_96x96.png",
+      "classificacao" : 19,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "F. Silva (Pên.)",
+        "tempo" : "90"
+      }, {
+        "jogador" : "A. Moleiro",
+        "tempo" : "90+5"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Alavés",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/RUcTOeFcBc7q7uku1nR_iQ_96x96.png",
+      "classificacao" : 18,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "T. Martínez",
+        "tempo" : "7"
+      }, {
+        "jogador" : "J. Guridi",
+        "tempo" : "63"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 61,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 7,
+      "faltas" : 10,
+      "passes" : 438,
+      "desarmes" : 6,
+      "impedimentos" : 1,
+      "laterais" : 34,
+      "tiroDeMeta" : 8
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 39,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 3,
+      "faltas" : 22,
+      "passes" : 292,
+      "desarmes" : 13,
+      "impedimentos" : 3,
+      "laterais" : 18,
+      "tiroDeMeta" : 13
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 28,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Real Valladolid",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/DdERt3jquzbYD95zvHQJWw_96x96.png",
+      "classificacao" : 20,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Celta",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
+      "classificacao" : 9,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "M. Alonso (Pên.)",
+        "tempo" : "83"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 39,
+      "finalizacoes" : 5,
+      "finalizacoesGol" : 2,
+      "faltas" : 9,
+      "passes" : 364,
+      "desarmes" : 15,
+      "impedimentos" : 2,
+      "laterais" : 15,
+      "tiroDeMeta" : 9
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 61,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 1,
+      "faltas" : 15,
+      "passes" : 567,
+      "desarmes" : 8,
+      "impedimentos" : 2,
+      "laterais" : 25,
+      "tiroDeMeta" : 5
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 28,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Mallorca",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Ss21P4CUmigjrEtcoapjVg_96x96.png",
+      "classificacao" : 8,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "T. Asano",
+        "tempo" : "65"
+      }, {
+        "jogador" : "V. Muriqi (Pên.)",
+        "tempo" : "90+7"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Espanyol",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/TKitIqelDyN6M-kYt4Uc0g_96x96.png",
+      "classificacao" : 15,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "V. Muriqi (AG)",
+        "tempo" : "53"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 62,
+      "finalizacoes" : 20,
+      "finalizacoesGol" : 7,
+      "faltas" : 10,
+      "passes" : 440,
+      "desarmes" : 11,
+      "impedimentos" : 3,
+      "laterais" : 21,
+      "tiroDeMeta" : 4
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 38,
+      "finalizacoes" : 2,
+      "finalizacoesGol" : 0,
+      "faltas" : 12,
+      "passes" : 275,
+      "desarmes" : 13,
+      "impedimentos" : 0,
+      "laterais" : 13,
+      "tiroDeMeta" : 12
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 28,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Villarreal",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
+      "classificacao" : 5,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "J. Foyth",
+        "tempo" : "7"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Real Madrid",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+      "classificacao" : 2,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "K. Mbappé",
+        "tempo" : "17"
+      }, {
+        "jogador" : "K. Mbappé",
+        "tempo" : "23"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 5,
+      "escanteiosSegundoTempo" : 6,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 46,
+      "finalizacoes" : 23,
+      "finalizacoesGol" : 10,
+      "faltas" : 17,
+      "passes" : 465,
+      "desarmes" : 25,
+      "impedimentos" : 1,
+      "laterais" : 19,
+      "tiroDeMeta" : 2
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 54,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 5,
+      "faltas" : 3,
+      "passes" : 597,
+      "desarmes" : 20,
+      "impedimentos" : 3,
+      "laterais" : 14,
+      "tiroDeMeta" : 10
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 28,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Girona",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/sHiSmLm_rA0BOC5MfrNt8A_96x96.png",
+      "classificacao" : 13,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "C. Stuani",
+        "tempo" : "64"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Valencia",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png",
+      "classificacao" : 17,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "D. López",
+        "tempo" : "58"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 6,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 56,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 4,
+      "faltas" : 12,
+      "passes" : 515,
+      "desarmes" : 8,
+      "impedimentos" : 2,
+      "laterais" : 24,
+      "tiroDeMeta" : 9
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 44,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 2,
+      "faltas" : 5,
+      "passes" : 403,
+      "desarmes" : 17,
+      "impedimentos" : 2,
+      "laterais" : 14,
+      "tiroDeMeta" : 9
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 28,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Leganés",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Id84F7Ji9rZGVacaazlBYA_96x96.png",
+      "classificacao" : 18,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "D. Raba",
+        "tempo" : "29"
+      }, {
+        "jogador" : "D. Raba",
+        "tempo" : "44"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Real Betis",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/XDClkrMKtkm3UTP2YKN6oQ_96x96.png",
+      "classificacao" : 6,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "Isco (Pên.)",
+        "tempo" : "64"
+      }, {
+        "jogador" : "C. Bakambu",
+        "tempo" : "78"
+      }, {
+        "jogador" : "C. Hernández",
+        "tempo" : "82"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 3
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 35,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 4,
+      "faltas" : 16,
+      "passes" : 298,
+      "desarmes" : 20,
+      "impedimentos" : 4,
+      "laterais" : 20,
+      "tiroDeMeta" : 14
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 65,
+      "finalizacoes" : 21,
+      "finalizacoesGol" : 6,
+      "faltas" : 5,
+      "passes" : 547,
+      "desarmes" : 16,
+      "impedimentos" : 1,
+      "laterais" : 27,
+      "tiroDeMeta" : 3
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 28,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Sevilla",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png",
+      "classificacao" : 10,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Athletic Club",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/OSL_5Zm6kYPP1J17Bo5uDA_96x96.png",
+      "classificacao" : 4,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "Y. Álvarez",
+        "tempo" : "84"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 3,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 62,
+      "finalizacoes" : 11,
+      "finalizacoesGol" : 4,
+      "faltas" : 13,
+      "passes" : 512,
+      "desarmes" : 20,
+      "impedimentos" : 1,
+      "laterais" : 30,
+      "tiroDeMeta" : 7
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 38,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 4,
+      "faltas" : 13,
+      "passes" : 307,
+      "desarmes" : 13,
+      "impedimentos" : 3,
+      "laterais" : 29,
+      "tiroDeMeta" : 10
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 28,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Rayo Vallecano",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/i5LifmxEVIl0sbvIysiyhw_96x96.png",
+      "classificacao" : 9,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "Ó. Trejo",
+        "tempo" : "58"
+      }, {
+        "jogador" : "P. Díaz",
+        "tempo" : "72"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Real Sociedad",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_96x96.png",
+      "classificacao" : 12,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "M. Zubimendi",
+        "tempo" : "20"
+      }, {
+        "jogador" : "A. Mariezkurrena",
+        "tempo" : "80"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 56,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 5,
+      "faltas" : 16,
+      "passes" : 451,
+      "desarmes" : 15,
+      "impedimentos" : 2,
+      "laterais" : 20,
+      "tiroDeMeta" : 4
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 44,
+      "finalizacoes" : 8,
+      "finalizacoesGol" : 4,
+      "faltas" : 9,
+      "passes" : 362,
+      "desarmes" : 20,
+      "impedimentos" : 5,
+      "laterais" : 24,
+      "tiroDeMeta" : 8
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 28,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Osasuna",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png",
+      "classificacao" : 14,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "A. Budimir (Pên.)",
+        "tempo" : "45"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Getafe",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png",
+      "classificacao" : 13,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "R. Terrats",
+        "tempo" : "55"
+      }, {
+        "jogador" : "R. Terrats",
+        "tempo" : "71"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 62,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 4,
+      "faltas" : 19,
+      "passes" : 453,
+      "desarmes" : 14,
+      "impedimentos" : 2,
+      "laterais" : 30,
+      "tiroDeMeta" : 4
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 38,
+      "finalizacoes" : 7,
+      "finalizacoesGol" : 4,
+      "faltas" : 15,
+      "passes" : 283,
+      "desarmes" : 20,
+      "impedimentos" : 2,
+      "laterais" : 32,
+      "tiroDeMeta" : 6
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 28,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Atl. Madrid",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/pEqmA7CL-VRo4Llq3rwIPA_96x96.png",
+      "classificacao" : 3,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "J. Álvarez",
+        "tempo" : "45"
+      }, {
+        "jogador" : "A. Sørloth",
+        "tempo" : "70"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Barcelona",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
+      "classificacao" : 2,
+      "placar" : 4,
+      "gols" : [ {
+        "jogador" : "R. Lewandowski",
+        "tempo" : "72"
+      }, {
+        "jogador" : "F. Torres",
+        "tempo" : "78"
+      }, {
+        "jogador" : "L. Yamal",
+        "tempo" : "90+2"
+      }, {
+        "jogador" : "F. Torres",
+        "tempo" : "90+8"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 6,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 4
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 34,
+      "finalizacoes" : 7,
+      "finalizacoesGol" : 2,
+      "faltas" : 10,
+      "passes" : 319,
+      "desarmes" : 18,
+      "impedimentos" : 2,
+      "laterais" : 18,
+      "tiroDeMeta" : 16
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 66,
+      "finalizacoes" : 13,
+      "finalizacoesGol" : 6,
+      "faltas" : 11,
+      "passes" : 639,
+      "desarmes" : 22,
+      "impedimentos" : 0,
+      "laterais" : 13,
+      "tiroDeMeta" : 7
+    }
+    ,"Rodada": 28, "Total de Jogos": 10 
+  }
+  
+  
+
+  ,
+
+
 
   {
     "descricao" : "LaLiga",
