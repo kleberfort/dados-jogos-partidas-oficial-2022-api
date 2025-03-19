@@ -3,6 +3,678 @@
 
   {
     "descricao" : "Liga Portugal Betclic",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Farense",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 17,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Braga",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png",
+      "classificacao" : 4,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "G. Martínez",
+        "tempo" : "70"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 10,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 44,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 3,
+      "faltas" : 19,
+      "passes" : 297,
+      "desarmes" : 16,
+      "impedimentos" : 4,
+      "laterais" : 33,
+      "tiroDeMeta" : 6
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 56,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 4,
+      "faltas" : 14,
+      "passes" : 405,
+      "desarmes" : 13,
+      "impedimentos" : 0,
+      "laterais" : 25,
+      "tiroDeMeta" : 9
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Gil Vicente",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 14,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Santa Clara",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png",
+      "classificacao" : 5,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "J. Costa",
+        "tempo" : "27"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 67,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 2,
+      "faltas" : 13,
+      "passes" : 575,
+      "desarmes" : 9,
+      "impedimentos" : 0,
+      "laterais" : 36,
+      "tiroDeMeta" : 3
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 33,
+      "finalizacoes" : 3,
+      "finalizacoesGol" : 1,
+      "faltas" : 21,
+      "passes" : 285,
+      "desarmes" : 18,
+      "impedimentos" : 6,
+      "laterais" : 16,
+      "tiroDeMeta" : 12
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Porto",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png",
+      "classificacao" : 4,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "R. Mora",
+        "tempo" : "18"
+      }, {
+        "jogador" : "F. Vieira",
+        "tempo" : "61"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "AVS",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 16,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 68,
+      "finalizacoes" : 20,
+      "finalizacoesGol" : 10,
+      "faltas" : 19,
+      "passes" : 651,
+      "desarmes" : 12,
+      "impedimentos" : 1,
+      "laterais" : 20,
+      "tiroDeMeta" : 5
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 32,
+      "finalizacoes" : 8,
+      "finalizacoesGol" : 2,
+      "faltas" : 8,
+      "passes" : 298,
+      "desarmes" : 18,
+      "impedimentos" : 0,
+      "laterais" : 17,
+      "tiroDeMeta" : 15
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Sporting",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png",
+      "classificacao" : 1,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "I. Fresneda",
+        "tempo" : "1"
+      }, {
+        "jogador" : "V. Gyökeres (Pên.)",
+        "tempo" : "64"
+      }, {
+        "jogador" : "G. Catamo",
+        "tempo" : "88"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Famalicão",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 9,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "Ó. Aranda (Pên.)",
+        "tempo" : "35"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 7,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 1
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 53,
+      "finalizacoes" : 18,
+      "finalizacoesGol" : 9,
+      "faltas" : 10,
+      "passes" : 448,
+      "desarmes" : 17,
+      "impedimentos" : 0,
+      "laterais" : 21,
+      "tiroDeMeta" : 10
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 47,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 3,
+      "faltas" : 13,
+      "passes" : 398,
+      "desarmes" : 14,
+      "impedimentos" : 1,
+      "laterais" : 20,
+      "tiroDeMeta" : 10
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Arouca",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png",
+      "classificacao" : 12,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "M. Sylla",
+        "tempo" : "13"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Estoril",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png",
+      "classificacao" : 8,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "A. Marqués (Pên.)",
+        "tempo" : "90+2"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 36,
+      "finalizacoes" : 3,
+      "finalizacoesGol" : 1,
+      "faltas" : 14,
+      "passes" : 286,
+      "desarmes" : 26,
+      "impedimentos" : 5,
+      "laterais" : 26,
+      "tiroDeMeta" : 8
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 64,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 3,
+      "faltas" : 14,
+      "passes" : 518,
+      "desarmes" : 18,
+      "impedimentos" : 3,
+      "laterais" : 31,
+      "tiroDeMeta" : 3
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Nacional",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png",
+      "classificacao" : 13,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "D. Penha",
+        "tempo" : "45+4"
+      }, {
+        "jogador" : "Paulinho Bóia",
+        "tempo" : "60"
+      }, {
+        "jogador" : "Joel",
+        "tempo" : "75"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Casa Pia",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 7,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "G. Larrazabal",
+        "tempo" : "49"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 46,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 6,
+      "faltas" : 11,
+      "passes" : 295,
+      "desarmes" : 8,
+      "impedimentos" : 1,
+      "laterais" : 25,
+      "tiroDeMeta" : 12
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 54,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 3,
+      "faltas" : 13,
+      "passes" : 337,
+      "desarmes" : 8,
+      "impedimentos" : 2,
+      "laterais" : 19,
+      "tiroDeMeta" : 5
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Rio Ave",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png",
+      "classificacao" : 11,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "B. Aguilera",
+        "tempo" : "64"
+      }, {
+        "jogador" : "Clayton",
+        "tempo" : "75"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Benfica",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png",
+      "classificacao" : 2,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "O. Kökçü",
+        "tempo" : "30"
+      }, {
+        "jogador" : "V. Pavlidis (Pên.)",
+        "tempo" : "53"
+      }, {
+        "jogador" : "K. Aktürkoğlu",
+        "tempo" : "80"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 7,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 40,
+      "finalizacoes" : 7,
+      "finalizacoesGol" : 2,
+      "faltas" : 16,
+      "passes" : 313,
+      "desarmes" : 5,
+      "impedimentos" : 0,
+      "laterais" : 16,
+      "tiroDeMeta" : 8
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 60,
+      "finalizacoes" : 20,
+      "finalizacoesGol" : 8,
+      "faltas" : 12,
+      "passes" : 462,
+      "desarmes" : 14,
+      "impedimentos" : 2,
+      "laterais" : 17,
+      "tiroDeMeta" : 5
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Vitória",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png",
+      "classificacao" : 6,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "T. Händel",
+        "tempo" : "10"
+      }, {
+        "jogador" : "T. Arcanjo",
+        "tempo" : "66"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Estrela Amadora",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 15,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 7,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 61,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 6,
+      "faltas" : 15,
+      "passes" : 581,
+      "desarmes" : 10,
+      "impedimentos" : 0,
+      "laterais" : 22,
+      "tiroDeMeta" : 6
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 39,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 0,
+      "faltas" : 17,
+      "passes" : 370,
+      "desarmes" : 18,
+      "impedimentos" : 4,
+      "laterais" : 22,
+      "tiroDeMeta" : 8
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Moreirense",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png",
+      "classificacao" : 13,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "Alan (Pên.)",
+        "tempo" : "31"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Boavista",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png",
+      "classificacao" : 18,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 6,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 3,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 1
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 57,
+      "finalizacoes" : 21,
+      "finalizacoesGol" : 3,
+      "faltas" : 14,
+      "passes" : 480,
+      "desarmes" : 12,
+      "impedimentos" : 1,
+      "laterais" : 18,
+      "tiroDeMeta" : 5
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 43,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 4,
+      "faltas" : 16,
+      "passes" : 367,
+      "desarmes" : 15,
+      "impedimentos" : 0,
+      "laterais" : 20,
+      "tiroDeMeta" : 17
+    }
+    ,"Rodada": 26, "Total de Jogos": 9 
+  }
+  
+ 
+  ,
+
+  {
+    "descricao" : "Liga Portugal Betclic",
     "rodada" : 25,
     "data" : "07/03/2025",
     "mandante" : {
