@@ -3,6 +3,602 @@
 
   {
     "descricao" : "Ligue 1",
+    "rodada" : 26,
+    "data" : "14/03/2025",
+    "mandante" : {
+      "nome" : "Nice",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Llrxrqsc3Tw4JzE6xM7GWw_96x96.png",
+      "classificacao" : 3,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "E. Guessand",
+        "tempo" : "37"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Auxerre",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/jX0oM3wnm6cWOGKoUR3AyA_96x96.png",
+      "classificacao" : 11,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "F. Ayé",
+        "tempo" : "90+4"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 1
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 51,
+      "finalizacoes" : 20,
+      "finalizacoesGol" : 6,
+      "faltas" : 14,
+      "passes" : 436,
+      "desarmes" : 17,
+      "impedimentos" : 2,
+      "laterais" : 22,
+      "tiroDeMeta" : 4
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 49,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 4,
+      "faltas" : 18,
+      "passes" : 418,
+      "desarmes" : 19,
+      "impedimentos" : 0,
+      "laterais" : 18,
+      "tiroDeMeta" : 14
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Ligue 1",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Nantes",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/r3qizrAtoAXPICgYjFYCyA_96x96.png",
+      "classificacao" : 14,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "M. Mohamed",
+        "tempo" : "83"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Lille",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/D2AQe8qoyPIP4K8MzLvwuA_96x96.png",
+      "classificacao" : 5,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 1
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 32,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 3,
+      "faltas" : 9,
+      "passes" : 297,
+      "desarmes" : 15,
+      "impedimentos" : 0,
+      "laterais" : 7,
+      "tiroDeMeta" : 9
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 68,
+      "finalizacoes" : 13,
+      "finalizacoesGol" : 4,
+      "faltas" : 15,
+      "passes" : 661,
+      "desarmes" : 19,
+      "impedimentos" : 2,
+      "laterais" : 20,
+      "tiroDeMeta" : 4
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Ligue 1",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Angers",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Be-wAQaZCDYKCGls1191zg_96x96.png",
+      "classificacao" : 14,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "AS Monaco",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/RX0XTi5Dtg4joMtuHNmYKg_96x96.png",
+      "classificacao" : 4,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "M. Biereth",
+        "tempo" : "77"
+      }, {
+        "jogador" : "M. Akliouche (Pên.)",
+        "tempo" : "88"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 7,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 43,
+      "finalizacoes" : 6,
+      "finalizacoesGol" : 2,
+      "faltas" : 12,
+      "passes" : 424,
+      "desarmes" : 21,
+      "impedimentos" : 1,
+      "laterais" : 13,
+      "tiroDeMeta" : 8
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 57,
+      "finalizacoes" : 16,
+      "finalizacoesGol" : 5,
+      "faltas" : 11,
+      "passes" : 545,
+      "desarmes" : 22,
+      "impedimentos" : 0,
+      "laterais" : 12,
+      "tiroDeMeta" : 5
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Ligue 1",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Lens",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/TUvwItKazVFpgThEhhlN1Q_96x96.png",
+      "classificacao" : 8,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "W. Saïd",
+        "tempo" : "47"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Rennes",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/guI8eg4hoTyIp6rO1opjxA_96x96.png",
+      "classificacao" : 12,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 45,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 4,
+      "faltas" : 17,
+      "passes" : 432,
+      "desarmes" : 28,
+      "impedimentos" : 4,
+      "laterais" : 14,
+      "tiroDeMeta" : 3
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 55,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 5,
+      "faltas" : 14,
+      "passes" : 519,
+      "desarmes" : 21,
+      "impedimentos" : 0,
+      "laterais" : 16,
+      "tiroDeMeta" : 4
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Ligue 1",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Lyon",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/SrKK55dUkCxe4mJsyshfCg_96x96.png",
+      "classificacao" : 6,
+      "placar" : 4,
+      "gols" : [ {
+        "jogador" : "A. Lacazette (Pên.)",
+        "tempo" : "22"
+      }, {
+        "jogador" : "M. Fofana",
+        "tempo" : "78"
+      }, {
+        "jogador" : "G. Mikautadze",
+        "tempo" : "82"
+      }, {
+        "jogador" : "T. Almada",
+        "tempo" : "90+6"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Le Havre",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/BRitaBE1_mjMJguk6xzTRw_96x96.png",
+      "classificacao" : 16,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "A. Touré (Pên.)",
+        "tempo" : "31"
+      }, {
+        "jogador" : "J. Casimir",
+        "tempo" : "45+1"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 3
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 67,
+      "finalizacoes" : 16,
+      "finalizacoesGol" : 7,
+      "faltas" : 20,
+      "passes" : 608,
+      "desarmes" : 20,
+      "impedimentos" : 2,
+      "laterais" : 18,
+      "tiroDeMeta" : 6
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 33,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 5,
+      "faltas" : 12,
+      "passes" : 299,
+      "desarmes" : 24,
+      "impedimentos" : 0,
+      "laterais" : 11,
+      "tiroDeMeta" : 6
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Ligue 1",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Brest",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/HNqZwlu71GHXo60XjYrPxg_96x96.png",
+      "classificacao" : 9,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Reims",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/NWzvJ-A3j8HQkeQZ0sJP1w_96x96.png",
+      "classificacao" : 15,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 1
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 72,
+      "finalizacoes" : 11,
+      "finalizacoesGol" : 0,
+      "faltas" : 9,
+      "passes" : 649,
+      "desarmes" : 18,
+      "impedimentos" : 1,
+      "laterais" : 18,
+      "tiroDeMeta" : 8
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 28,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 2,
+      "faltas" : 13,
+      "passes" : 256,
+      "desarmes" : 6,
+      "impedimentos" : 1,
+      "laterais" : 17,
+      "tiroDeMeta" : 11
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Ligue 1",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Strasbourg",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Eb9xtMpUy8FXQ0RCKvLxcg_96x96.png",
+      "classificacao" : 7,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "F. Lemaréchal",
+        "tempo" : "47"
+      }, {
+        "jogador" : "Andrey Santos",
+        "tempo" : "54"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Toulouse",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/DrzFcMWJgtG1nDSdfN0dBA_96x96.png",
+      "classificacao" : 10,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "F. Magri",
+        "tempo" : "3"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 57,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 3,
+      "faltas" : 10,
+      "passes" : 580,
+      "desarmes" : 15,
+      "impedimentos" : 0,
+      "laterais" : 12,
+      "tiroDeMeta" : 8
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 43,
+      "finalizacoes" : 11,
+      "finalizacoesGol" : 7,
+      "faltas" : 14,
+      "passes" : 426,
+      "desarmes" : 13,
+      "impedimentos" : 1,
+      "laterais" : 12,
+      "tiroDeMeta" : 5
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Ligue 1",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "PSG",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+      "classificacao" : 1,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "O. Dembélé",
+        "tempo" : "17"
+      }, {
+        "jogador" : "N. Mendes",
+        "tempo" : "42"
+      }, {
+        "jogador" : "P. Lirola (AG)",
+        "tempo" : "76"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Marseille",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png",
+      "classificacao" : 2,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "A. Gouiri",
+        "tempo" : "51"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 60,
+      "finalizacoes" : 16,
+      "finalizacoesGol" : 5,
+      "faltas" : 7,
+      "passes" : 611,
+      "desarmes" : 20,
+      "impedimentos" : 4,
+      "laterais" : 12,
+      "tiroDeMeta" : 7
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 40,
+      "finalizacoes" : 11,
+      "finalizacoesGol" : 2,
+      "faltas" : 9,
+      "passes" : 405,
+      "desarmes" : 25,
+      "impedimentos" : 4,
+      "laterais" : 16,
+      "tiroDeMeta" : 8
+    }
+    ,"Rodada": 26, "Total de Jogos": 8 
+  }
+  
+  
+  ,
+
+  {
+    "descricao" : "Ligue 1",
     "rodada" : 25,
     "data" : "07/03/2025",
     "mandante" : {
