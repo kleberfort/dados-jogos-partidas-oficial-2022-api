@@ -1,5 +1,704 @@
 [
 
+  {
+    "descricao" : "Bundesliga",
+    "rodada" : 26,
+    "data" : "14/03/2025",
+    "mandante" : {
+      "nome" : "St. Pauli",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png",
+      "classificacao" : 15,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "N. Weißhaupt",
+        "tempo" : "51"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Hoffenheim",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png",
+      "classificacao" : 13,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 8,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 44,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 5,
+      "faltas" : 6,
+      "passes" : 369,
+      "desarmes" : 6,
+      "impedimentos" : 2,
+      "laterais" : 23,
+      "tiroDeMeta" : 5
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 56,
+      "finalizacoes" : 4,
+      "finalizacoesGol" : 0,
+      "faltas" : 8,
+      "passes" : 487,
+      "desarmes" : 20,
+      "impedimentos" : 3,
+      "laterais" : 27,
+      "tiroDeMeta" : 6
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Bundesliga",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Bremen",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png",
+      "classificacao" : 12,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "R. Schmid",
+        "tempo" : "38"
+      }, {
+        "jogador" : "A. Silva (Pên.)",
+        "tempo" : "45+1"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "M'gladbach",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png",
+      "classificacao" : 9,
+      "placar" : 4,
+      "gols" : [ {
+        "jogador" : "A. Pléa (Pên.)",
+        "tempo" : "7"
+      }, {
+        "jogador" : "A. Pléa",
+        "tempo" : "28"
+      }, {
+        "jogador" : "A. Pléa",
+        "tempo" : "47"
+      }, {
+        "jogador" : "T. Kleindienst",
+        "tempo" : "81"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 53,
+      "finalizacoes" : 23,
+      "finalizacoesGol" : 2,
+      "faltas" : 10,
+      "passes" : 474,
+      "desarmes" : 13,
+      "impedimentos" : 3,
+      "laterais" : 25,
+      "tiroDeMeta" : 7
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 47,
+      "finalizacoes" : 13,
+      "finalizacoesGol" : 7,
+      "faltas" : 7,
+      "passes" : 441,
+      "desarmes" : 18,
+      "impedimentos" : 2,
+      "laterais" : 11,
+      "tiroDeMeta" : 14
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Bundesliga",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Augsburg",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png",
+      "classificacao" : 11,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "P. Tietz",
+        "tempo" : "53"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Wolfsburg",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png",
+      "classificacao" : 7,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 42,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 2,
+      "faltas" : 7,
+      "passes" : 392,
+      "desarmes" : 13,
+      "impedimentos" : 2,
+      "laterais" : 20,
+      "tiroDeMeta" : 12
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 58,
+      "finalizacoes" : 13,
+      "finalizacoesGol" : 2,
+      "faltas" : 9,
+      "passes" : 532,
+      "desarmes" : 15,
+      "impedimentos" : 1,
+      "laterais" : 21,
+      "tiroDeMeta" : 8
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Bundesliga",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Mainz 05",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png",
+      "classificacao" : 3,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "J. Burkardt",
+        "tempo" : "34"
+      }, {
+        "jogador" : "A. Hanche-Olsen",
+        "tempo" : "74"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Freiburg",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png",
+      "classificacao" : 5,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "M. Gregoritsch",
+        "tempo" : "58"
+      }, {
+        "jogador" : "L. Kübler",
+        "tempo" : "79"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 1,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 44,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 4,
+      "faltas" : 7,
+      "passes" : 376,
+      "desarmes" : 7,
+      "impedimentos" : 0,
+      "laterais" : 19,
+      "tiroDeMeta" : 11
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 56,
+      "finalizacoes" : 24,
+      "finalizacoesGol" : 8,
+      "faltas" : 7,
+      "passes" : 459,
+      "desarmes" : 6,
+      "impedimentos" : 1,
+      "laterais" : 24,
+      "tiroDeMeta" : 8
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Bundesliga",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Union Berlin",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png",
+      "classificacao" : 14,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "B. Hollerbach",
+        "tempo" : "83"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Bayern",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+      "classificacao" : 1,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "L. Sané",
+        "tempo" : "75"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 8,
+      "escanteiosSegundoTempo" : 6,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 20,
+      "finalizacoes" : 7,
+      "finalizacoesGol" : 3,
+      "faltas" : 13,
+      "passes" : 180,
+      "desarmes" : 17,
+      "impedimentos" : 1,
+      "laterais" : 9,
+      "tiroDeMeta" : 13
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 80,
+      "finalizacoes" : 18,
+      "finalizacoesGol" : 4,
+      "faltas" : 8,
+      "passes" : 741,
+      "desarmes" : 12,
+      "impedimentos" : 1,
+      "laterais" : 18,
+      "tiroDeMeta" : 5
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Bundesliga",
+    "rodada" : 26,
+    "data" : "15/03/2025",
+    "mandante" : {
+      "nome" : "Leipzig",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png",
+      "classificacao" : 7,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "X. Simons",
+        "tempo" : "18"
+      }, {
+        "jogador" : "L. Openda",
+        "tempo" : "48"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Dortmund",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
+      "classificacao" : 11,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 10,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 34,
+      "finalizacoes" : 15,
+      "finalizacoesGol" : 5,
+      "faltas" : 14,
+      "passes" : 300,
+      "desarmes" : 19,
+      "impedimentos" : 3,
+      "laterais" : 11,
+      "tiroDeMeta" : 11
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 66,
+      "finalizacoes" : 25,
+      "finalizacoesGol" : 9,
+      "faltas" : 10,
+      "passes" : 593,
+      "desarmes" : 11,
+      "impedimentos" : 1,
+      "laterais" : 27,
+      "tiroDeMeta" : 4
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Bundesliga",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Bochum",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png",
+      "classificacao" : 16,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "G. Holtmann",
+        "tempo" : "73"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Frankfurt",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+      "classificacao" : 4,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "R. Kristensen",
+        "tempo" : "27"
+      }, {
+        "jogador" : "J. Bahoya",
+        "tempo" : "32"
+      }, {
+        "jogador" : "M. Batshuayi",
+        "tempo" : "90+6"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 5,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 50,
+      "finalizacoes" : 17,
+      "finalizacoesGol" : 7,
+      "faltas" : 7,
+      "passes" : 419,
+      "desarmes" : 15,
+      "impedimentos" : 7,
+      "laterais" : 26,
+      "tiroDeMeta" : 5
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 50,
+      "finalizacoes" : 18,
+      "finalizacoesGol" : 7,
+      "faltas" : 9,
+      "passes" : 427,
+      "desarmes" : 17,
+      "impedimentos" : 2,
+      "laterais" : 24,
+      "tiroDeMeta" : 7
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Bundesliga",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Heidenheim",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png",
+      "classificacao" : 18,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "M. Pieringer",
+        "tempo" : "33"
+      }, {
+        "jogador" : "B. Zivzivadze",
+        "tempo" : "47"
+      }, {
+        "jogador" : "S. Conteh",
+        "tempo" : "90+3"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Kiel",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png",
+      "classificacao" : 17,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "P. Harres",
+        "tempo" : "87"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 3,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 38,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 5,
+      "faltas" : 15,
+      "passes" : 320,
+      "desarmes" : 24,
+      "impedimentos" : 1,
+      "laterais" : 17,
+      "tiroDeMeta" : 14
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 62,
+      "finalizacoes" : 16,
+      "finalizacoesGol" : 4,
+      "faltas" : 13,
+      "passes" : 524,
+      "desarmes" : 13,
+      "impedimentos" : 1,
+      "laterais" : 21,
+      "tiroDeMeta" : 6
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Bundesliga",
+    "rodada" : 26,
+    "data" : "16/03/2025",
+    "mandante" : {
+      "nome" : "Stuttgart",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png",
+      "classificacao" : 10,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "E. Demirović",
+        "tempo" : "14"
+      }, {
+        "jogador" : "N. Woltemade",
+        "tempo" : "48"
+      }, {
+        "jogador" : "G. Xhaka (AG)",
+        "tempo" : "62"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Leverkusen",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png",
+      "classificacao" : 2,
+      "placar" : 4,
+      "gols" : [ {
+        "jogador" : "J. Frimpong",
+        "tempo" : "56"
+      }, {
+        "jogador" : "P. Hincapié",
+        "tempo" : "67"
+      }, {
+        "jogador" : "A. Stiller (AG)",
+        "tempo" : "88"
+      }, {
+        "jogador" : "P. Schick",
+        "tempo" : "90+4"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 5,
+      "escanteiosSegundoTempo" : 5,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 4
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 43,
+      "finalizacoes" : 11,
+      "finalizacoesGol" : 6,
+      "faltas" : 13,
+      "passes" : 352,
+      "desarmes" : 18,
+      "impedimentos" : 1,
+      "laterais" : 19,
+      "tiroDeMeta" : 7
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 57,
+      "finalizacoes" : 16,
+      "finalizacoesGol" : 4,
+      "faltas" : 14,
+      "passes" : 438,
+      "desarmes" : 11,
+      "impedimentos" : 3,
+      "laterais" : 25,
+      "tiroDeMeta" : 6
+    }
+    ,"Rodada": 26, "Total de Jogos": 9 
+  }
+  
+  
+
+  ,
 
   {
     "descricao" : "Bundesliga",
