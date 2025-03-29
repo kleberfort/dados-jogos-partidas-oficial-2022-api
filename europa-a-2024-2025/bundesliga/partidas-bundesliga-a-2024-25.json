@@ -1,1 +1,3713 @@
+[
 
+
+
+    {
+        "rodada": "1",
+        "data": "23/08/2024 15:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "24/08/2024 10:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "24/08/2024 10:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "24/08/2024 10:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "24/08/2024 10:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "24/08/2024 10:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "24/08/2024 13:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "25/08/2024 10:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "25/08/2024 12:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      }
+    
+  ,
+  
+      {
+        "rodada": "2",
+        "data": "30/08/2024 15:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "31/08/2024 10:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "31/08/2024 10:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "31/08/2024 10:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "31/08/2024 10:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "31/08/2024 10:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "31/08/2024 13:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "01/09/2024 10:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "01/09/2024 12:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "3",
+        "data": "13/09/2024 15:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "14/09/2024 10:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "14/09/2024 10:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "14/09/2024 10:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "14/09/2024 10:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "14/09/2024 10:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "14/09/2024 13:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "15/09/2024 10:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "15/09/2024 12:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "4",
+        "data": "20/09/2024 15:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "21/09/2024 10:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "21/09/2024 10:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "21/09/2024 10:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "21/09/2024 10:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "21/09/2024 13:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "22/09/2024 10:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "22/09/2024 12:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "22/09/2024 14:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "5",
+        "data": "27/09/2024 15:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "28/09/2024 10:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "28/09/2024 10:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "28/09/2024 10:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "28/09/2024 10:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "28/09/2024 10:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "28/09/2024 13:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "29/09/2024 10:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "29/09/2024 12:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "6",
+        "data": "04/10/2024 15:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "05/10/2024 10:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "05/10/2024 10:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "05/10/2024 10:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "05/10/2024 10:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "05/10/2024 13:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "06/10/2024 10:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "06/10/2024 12:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "06/10/2024 14:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "7",
+        "data": "18/10/2024 15:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "19/10/2024 10:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "19/10/2024 10:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "19/10/2024 10:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "19/10/2024 10:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "19/10/2024 10:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "19/10/2024 13:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "20/10/2024 10:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "20/10/2024 12:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "8",
+        "data": "25/10/2024 15:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "26/10/2024 10:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "26/10/2024 10:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "26/10/2024 10:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "26/10/2024 10:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "26/10/2024 13:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "27/10/2024 11:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "27/10/2024 13:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "27/10/2024 15:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "9",
+        "data": "01/11/2024 16:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "02/11/2024 11:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "02/11/2024 11:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "02/11/2024 11:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "02/11/2024 11:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "02/11/2024 11:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "02/11/2024 14:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "03/11/2024 11:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "03/11/2024 13:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "10",
+        "data": "08/11/2024 16:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "09/11/2024 11:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "09/11/2024 11:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "09/11/2024 11:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "09/11/2024 11:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "09/11/2024 14:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "10/11/2024 11:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "10/11/2024 13:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "10/11/2024 15:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "11",
+        "data": "22/11/2024 16:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "23/11/2024 11:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "23/11/2024 11:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "23/11/2024 11:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "23/11/2024 11:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "23/11/2024 11:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "23/11/2024 14:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "24/11/2024 11:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "24/11/2024 13:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "12",
+        "data": "29/11/2024 16:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "30/11/2024 11:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "30/11/2024 11:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "30/11/2024 11:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "30/11/2024 11:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "30/11/2024 11:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "30/11/2024 14:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "01/12/2024 11:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "01/12/2024 13:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "13",
+        "data": "06/12/2024 16:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "07/12/2024 11:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "07/12/2024 11:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "07/12/2024 11:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "07/12/2024 11:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "07/12/2024 11:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "07/12/2024 14:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "08/12/2024 11:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "08/12/2024 13:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "14",
+        "data": "13/12/2024 16:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "14/12/2024 11:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "14/12/2024 11:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "14/12/2024 11:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "14/12/2024 11:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "14/12/2024 14:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "15/12/2024 11:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "15/12/2024 13:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "15/12/2024 15:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "15",
+        "data": "20/12/2024 16:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "21/12/2024 11:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "21/12/2024 11:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "21/12/2024 11:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "21/12/2024 11:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "21/12/2024 11:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "21/12/2024 14:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "22/12/2024 11:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "22/12/2024 13:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "16",
+        "data": "10/01/2025 16:45",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "11/01/2025 11:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "11/01/2025 11:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "11/01/2025 11:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "11/01/2025 11:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "11/01/2025 11:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "11/01/2025 14:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "12/01/2025 11:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "12/01/2025 13:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "17",
+        "data": "14/01/2025 14:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "14/01/2025 16:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "14/01/2025 16:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "14/01/2025 16:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "15/01/2025 14:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "15/01/2025 16:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "15/01/2025 16:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "15/01/2025 16:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "15/01/2025 16:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "18",
+        "data": "17/01/2025 16:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "18/01/2025 11:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "18/01/2025 11:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "18/01/2025 11:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "18/01/2025 11:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "18/01/2025 11:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "18/01/2025 14:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "19/01/2025 11:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "19/01/2025 13:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "19",
+        "data": "24/01/2025 16:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "25/01/2025 11:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "25/01/2025 11:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "25/01/2025 11:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "25/01/2025 11:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "25/01/2025 11:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "25/01/2025 14:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "26/01/2025 11:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "26/01/2025 13:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "20",
+        "data": "31/01/2025 16:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "01/02/2025 11:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "01/02/2025 11:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "01/02/2025 11:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "01/02/2025 11:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "01/02/2025 11:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "01/02/2025 14:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "02/02/2025 11:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "02/02/2025 13:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "21",
+        "data": "07/02/2025 16:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "08/02/2025 11:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "08/02/2025 11:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "08/02/2025 11:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "08/02/2025 11:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "08/02/2025 11:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "08/02/2025 14:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "09/02/2025 11:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "09/02/2025 13:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "22",
+        "data": "14/02/2025 16:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "15/02/2025 11:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "15/02/2025 11:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "15/02/2025 11:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "15/02/2025 11:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "15/02/2025 14:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "16/02/2025 11:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "16/02/2025 13:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "16/02/2025 15:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "23",
+        "data": "21/02/2025 16:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "22/02/2025 11:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "22/02/2025 11:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "22/02/2025 11:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "22/02/2025 11:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "22/02/2025 14:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "23/02/2025 11:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "23/02/2025 13:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "23/02/2025 15:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "24",
+        "data": "28/02/2025 16:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "01/03/2025 11:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "01/03/2025 11:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "01/03/2025 11:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "01/03/2025 11:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "01/03/2025 11:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "01/03/2025 14:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "02/03/2025 11:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "02/03/2025 13:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "25",
+        "data": "07/03/2025 16:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "08/03/2025 11:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "08/03/2025 11:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "08/03/2025 11:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "08/03/2025 11:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "08/03/2025 11:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "08/03/2025 14:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "09/03/2025 11:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "09/03/2025 13:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "26",
+        "data": "14/03/2025 16:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "15/03/2025 11:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "15/03/2025 11:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "15/03/2025 11:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "15/03/2025 11:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "15/03/2025 14:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "16/03/2025 11:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "16/03/2025 13:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "16/03/2025 15:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "27",
+        "data": "28/03/2025 16:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "29/03/2025 11:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "29/03/2025 11:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "29/03/2025 11:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "29/03/2025 11:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "29/03/2025 11:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "29/03/2025 14:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "30/03/2025 10:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "30/03/2025 12:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "28",
+        "data": "04/04/2025 15:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "05/04/2025 10:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "05/04/2025 10:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "05/04/2025 10:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "05/04/2025 10:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "05/04/2025 10:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "05/04/2025 13:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "06/04/2025 10:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "06/04/2025 12:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "29",
+        "data": "11/04/2025 15:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "12/04/2025 10:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "12/04/2025 10:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "12/04/2025 10:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "12/04/2025 10:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "12/04/2025 10:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "12/04/2025 13:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "13/04/2025 10:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "13/04/2025 12:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "30",
+        "data": "19/04/2025 10:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "19/04/2025 10:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "19/04/2025 10:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "19/04/2025 10:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "19/04/2025 10:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "19/04/2025 13:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "20/04/2025 10:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "20/04/2025 12:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "20/04/2025 14:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "31",
+        "data": "25/04/2025 15:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "26/04/2025 10:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "26/04/2025 10:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "26/04/2025 10:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "26/04/2025 10:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "26/04/2025 10:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "26/04/2025 13:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "27/04/2025 10:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "27/04/2025 12:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "32",
+        "data": "02/05/2025 15:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "03/05/2025 10:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "03/05/2025 10:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "03/05/2025 10:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "03/05/2025 10:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "03/05/2025 13:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "04/05/2025 10:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "04/05/2025 12:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "04/05/2025 14:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "33",
+        "data": "09/05/2025 15:30",
+        "mandante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "10/05/2025 10:30",
+        "mandante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "10/05/2025 10:30",
+        "mandante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "10/05/2025 10:30",
+        "mandante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "10/05/2025 10:30",
+        "mandante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        },
+        "visitante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "10/05/2025 13:30",
+        "mandante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        },
+        "visitante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "11/05/2025 10:30",
+        "mandante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "11/05/2025 12:30",
+        "mandante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "11/05/2025 14:30",
+        "mandante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "34",
+        "data": "17/05/2025 10:30",
+        "mandante": {
+          "nome": "Heidenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bremen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 10:30",
+        "mandante": {
+          "nome": "Mainz 05",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Leverkusen",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 10:30",
+        "mandante": {
+          "nome": "Dortmund",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Kiel",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 10:30",
+        "mandante": {
+          "nome": "M'gladbach",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Wolfsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 10:30",
+        "mandante": {
+          "nome": "Augsburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Union Berlin",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 10:30",
+        "mandante": {
+          "nome": "St. Pauli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bochum",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 10:30",
+        "mandante": {
+          "nome": "Leipzig",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Stuttgart",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 10:30",
+        "mandante": {
+          "nome": "Freiburg",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Frankfurt",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 10:30",
+        "mandante": {
+          "nome": "Hoffenheim",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bayern",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+        }
+      }
+
+]
