@@ -2629,10 +2629,88 @@
       "laterais" : 30,
       "tiroDeMeta" : 4
     }
-    ,"Rodada": 24, "Total de Jogos": 8
   }
   
 
+  ,
+
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 24,
+    "data" : "28/03/2025",
+    "mandante" : {
+      "nome" : "Gil Vicente",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 14,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Benfica",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png",
+      "classificacao" : 2,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "F. Aursnes",
+        "tempo" : "22"
+      }, {
+        "jogador" : "A. Belotti",
+        "tempo" : "51"
+      }, {
+        "jogador" : "Á. Di María (Pên.)",
+        "tempo" : "90+7"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 43,
+      "finalizacoes" : 7,
+      "finalizacoesGol" : 2,
+      "faltas" : 9,
+      "passes" : 418,
+      "desarmes" : 18,
+      "impedimentos" : 0,
+      "laterais" : 17,
+      "tiroDeMeta" : 11
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 57,
+      "finalizacoes" : 18,
+      "finalizacoesGol" : 7,
+      "faltas" : 16,
+      "passes" : 569,
+      "desarmes" : 18,
+      "impedimentos" : 0,
+      "laterais" : 17,
+      "tiroDeMeta" : 5
+    }
+    ,"Rodada": 24, "Total de Jogos": 9 
+  }
+  
+  
 
   ,
 
