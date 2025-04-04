@@ -1,7 +1,7 @@
 [
 
 
-  
+
   {
     "descricao" : "Eredivisie",
     "rodada" : 27,
@@ -1893,9 +1893,172 @@
       "laterais" : 18,
       "tiroDeMeta" : 13
     }
-    ,"Rodada": 25, "Total de Jogos": 7 
+ 
+  }
+  ,
+
+  {
+    "descricao" : "Eredivisie",
+    "rodada" : 25,
+    "data" : "01/04/2025",
+    "mandante" : {
+      "nome" : "AZ",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Lhhh1mbsrqH2K1AfXFazrQ_96x96.png",
+      "classificacao" : 6,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "T. Parrott",
+        "tempo" : "13"
+      }, {
+        "jogador" : "M. Meerdink",
+        "tempo" : "84"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Waalwijk",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/pPk9dz2N7A7YWQkhABIiCQ_96x96.png",
+      "classificacao" : 18,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "M. Kramer",
+        "tempo" : "62"
+      }, {
+        "jogador" : "C. Lokesa",
+        "tempo" : "82"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 6,
+      "escanteiosSegundoTempo" : 6,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 62,
+      "finalizacoes" : 24,
+      "finalizacoesGol" : 6,
+      "faltas" : 10,
+      "passes" : 566,
+      "desarmes" : 10,
+      "impedimentos" : 0,
+      "laterais" : 21,
+      "tiroDeMeta" : 1
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 38,
+      "finalizacoes" : 6,
+      "finalizacoesGol" : 2,
+      "faltas" : 10,
+      "passes" : 339,
+      "desarmes" : 21,
+      "impedimentos" : 1,
+      "laterais" : 10,
+      "tiroDeMeta" : 10
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Eredivisie",
+    "rodada" : 25,
+    "data" : "02/04/2025",
+    "mandante" : {
+      "nome" : "Feyenoord",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/36g41WN3WdjCRsSFiurazw_96x96.png",
+      "classificacao" : 4,
+      "placar" : 4,
+      "gols" : [ {
+        "jogador" : "A. H. Moussa",
+        "tempo" : "10"
+      }, {
+        "jogador" : "I. Paixão",
+        "tempo" : "33"
+      }, {
+        "jogador" : "I. Paixão",
+        "tempo" : "82"
+      }, {
+        "jogador" : "I. Osman",
+        "tempo" : "90"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Groningen",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/efkaF1E3Z9UbMSO0VC9WJQ_96x96.png",
+      "classificacao" : 8,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "J. Schreuders",
+        "tempo" : "37"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 0,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 48,
+      "finalizacoes" : 13,
+      "finalizacoesGol" : 7,
+      "faltas" : 7,
+      "passes" : 529,
+      "desarmes" : 20,
+      "impedimentos" : 2,
+      "laterais" : 16,
+      "tiroDeMeta" : 2
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 52,
+      "finalizacoes" : 6,
+      "finalizacoesGol" : 1,
+      "faltas" : 8,
+      "passes" : 574,
+      "desarmes" : 19,
+      "impedimentos" : 2,
+      "laterais" : 14,
+      "tiroDeMeta" : 7
+    }
+    ,"Rodada": 25, "Total de Jogos": 9 
   }
   
+
 
 
 
