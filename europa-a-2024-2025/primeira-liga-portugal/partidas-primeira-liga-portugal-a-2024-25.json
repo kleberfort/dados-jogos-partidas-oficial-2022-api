@@ -1,1 +1,3712 @@
+[
 
+
+    {
+        "rodada": "1",
+        "data": "09/08/2024 16:15",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "10/08/2024 11:30",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "10/08/2024 14:00",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "10/08/2024 16:30",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "11/08/2024 11:30",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "11/08/2024 14:00",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "11/08/2024 14:00",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "11/08/2024 16:30",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "12/08/2024 16:15",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "2",
+        "data": "16/08/2024 13:00",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "16/08/2024 16:15",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "17/08/2024 11:30",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "17/08/2024 14:00",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "17/08/2024 16:30",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "18/08/2024 11:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "18/08/2024 14:00",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "18/08/2024 16:30",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "19/08/2024 16:15",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      }
+,
+      {
+        "rodada": "3",
+        "data": "23/08/2024 16:15",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "24/08/2024 11:30",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "24/08/2024 14:00",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "24/08/2024 16:30",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "24/08/2024 16:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "25/08/2024 11:30",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "25/08/2024 14:00",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "25/08/2024 16:30",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "25/08/2024 16:30",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "4",
+        "data": "30/08/2024 16:15",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "31/08/2024 11:30",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "31/08/2024 14:00",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "31/08/2024 14:00",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "31/08/2024 16:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "01/09/2024 11:30",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "01/09/2024 14:00",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "01/09/2024 16:30",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "01/09/2024 16:30",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      }
+,
+      {
+        "rodada": "5",
+        "data": "13/09/2024 16:15",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "14/09/2024 11:30",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "14/09/2024 14:00",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "14/09/2024 16:30",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "14/09/2024 16:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "15/09/2024 11:30",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "15/09/2024 14:00",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "15/09/2024 16:30",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "16/09/2024 16:15",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "6",
+        "data": "20/09/2024 16:15",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "21/09/2024 11:30",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "21/09/2024 11:30",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "21/09/2024 14:00",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "21/09/2024 16:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "22/09/2024 11:30",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "22/09/2024 14:00",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "22/09/2024 16:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "23/09/2024 16:15",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "7",
+        "data": "27/09/2024 16:15",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "28/09/2024 11:30",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "28/09/2024 14:00",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "28/09/2024 16:30",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "29/09/2024 11:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "29/09/2024 14:00",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "29/09/2024 16:30",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "29/09/2024 16:30",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "30/09/2024 16:15",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      }
+,
+      {
+        "rodada": "8",
+        "data": "04/10/2024 16:15",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "05/10/2024 11:30",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "05/10/2024 11:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "05/10/2024 14:00",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "05/10/2024 16:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "06/10/2024 11:30",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "06/10/2024 11:30",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "06/10/2024 16:30",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "19/12/2024 14:00",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "9",
+        "data": "25/10/2024 14:45",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "25/10/2024 16:45",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "26/10/2024 11:30",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "26/10/2024 14:00",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "26/10/2024 16:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "27/10/2024 12:30",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "27/10/2024 15:00",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "27/10/2024 17:30",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "28/10/2024 17:15",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "10",
+        "data": "01/11/2024 17:15",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "02/11/2024 12:30",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "02/11/2024 15:00",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "02/11/2024 17:30",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "03/11/2024 12:30",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "03/11/2024 15:00",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "03/11/2024 15:00",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "03/11/2024 17:30",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "04/11/2024 17:15",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "11",
+        "data": "08/11/2024 17:15",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "09/11/2024 12:30",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "09/11/2024 12:30",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "09/11/2024 15:00",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "09/11/2024 17:30",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "10/11/2024 12:30",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "10/11/2024 13:30",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "10/11/2024 15:45",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "10/11/2024 17:45",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "12",
+        "data": "29/11/2024 17:15",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "30/11/2024 12:30",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "30/11/2024 15:00",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "30/11/2024 17:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "01/12/2024 12:30",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "01/12/2024 15:00",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "01/12/2024 17:30",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "02/12/2024 15:45",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "02/12/2024 17:45",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      }
+,
+      {
+        "rodada": "13",
+        "data": "05/12/2024 17:15",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "06/12/2024 17:15",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "07/12/2024 12:30",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "07/12/2024 15:00",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "07/12/2024 15:00",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "07/12/2024 17:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "08/12/2024 12:30",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "08/12/2024 15:00",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "09/12/2024 17:15",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "14",
+        "data": "14/12/2024 12:30",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "14/12/2024 15:00",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "14/12/2024 17:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "15/12/2024 12:30",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "15/12/2024 15:00",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "15/12/2024 17:30",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "16/12/2024 15:45",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "16/12/2024 17:15",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "16/12/2024 17:45",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "15",
+        "data": "20/12/2024 17:15",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "21/12/2024 12:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "21/12/2024 15:00",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "21/12/2024 17:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "22/12/2024 14:00",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "22/12/2024 17:30",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "23/12/2024 15:45",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "23/12/2024 15:45",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "23/12/2024 17:45",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "16",
+        "data": "27/12/2024 17:15",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "28/12/2024 12:30",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "28/12/2024 15:00",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "28/12/2024 17:30",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "29/12/2024 12:30",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "29/12/2024 12:30",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "29/12/2024 15:00",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "29/12/2024 17:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "30/12/2024 17:15",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "17",
+        "data": "03/01/2025 17:15",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "04/01/2025 12:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "04/01/2025 15:00",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "04/01/2025 17:30",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "05/01/2025 12:30",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "05/01/2025 15:00",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "05/01/2025 17:30",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "06/01/2025 17:15",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "12/01/2025 12:30",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "18",
+        "data": "17/01/2025 17:15",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "18/01/2025 12:30",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "18/01/2025 15:00",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "18/01/2025 17:30",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "19/01/2025 12:30",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "19/01/2025 12:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "19/01/2025 15:00",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "19/01/2025 17:30",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "20/01/2025 17:15",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      }
+,
+      {
+        "rodada": "19",
+        "data": "24/01/2025 17:15",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "25/01/2025 12:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "25/01/2025 12:30",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "25/01/2025 15:00",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "25/01/2025 17:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "26/01/2025 12:30",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "26/01/2025 15:00",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "26/01/2025 17:30",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "27/01/2025 17:15",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      }
+,
+      {
+        "rodada": "20",
+        "data": "31/01/2025 17:15",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "01/02/2025 12:30",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "01/02/2025 12:30",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "01/02/2025 15:00",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "01/02/2025 17:30",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "02/02/2025 15:00",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "02/02/2025 17:30",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "03/02/2025 15:45",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "03/02/2025 17:45",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "21",
+        "data": "07/02/2025 17:15",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "08/02/2025 12:30",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "08/02/2025 15:00",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "08/02/2025 17:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "09/02/2025 12:30",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "09/02/2025 12:30",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "09/02/2025 15:00",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "09/02/2025 17:30",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "10/02/2025 17:15",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "22",
+        "data": "14/02/2025 17:15",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "15/02/2025 12:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "15/02/2025 14:00",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "15/02/2025 15:00",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "15/02/2025 17:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "16/02/2025 12:30",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "16/02/2025 15:00",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "16/02/2025 17:30",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "17/02/2025 17:15",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      }
+,
+      {
+        "rodada": "23",
+        "data": "21/02/2025 17:15",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "22/02/2025 12:30",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "22/02/2025 15:00",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "22/02/2025 17:30",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "23/02/2025 12:30",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "23/02/2025 12:30",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "23/02/2025 15:00",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "23/02/2025 17:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "24/02/2025 17:15",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "24",
+        "data": "01/03/2025 12:30",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "01/03/2025 15:00",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "01/03/2025 17:30",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "02/03/2025 12:30",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "02/03/2025 12:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "02/03/2025 15:00",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "02/03/2025 17:30",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "03/03/2025 17:15",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "28/03/2025 17:15",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "25",
+        "data": "07/03/2025 17:15",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "08/03/2025 12:30",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "08/03/2025 15:00",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "08/03/2025 15:00",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "08/03/2025 17:30",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "09/03/2025 12:30",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "09/03/2025 15:00",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "09/03/2025 17:30",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "10/03/2025 17:15",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "26",
+        "data": "15/03/2025 12:30",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "15/03/2025 12:30",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "15/03/2025 15:00",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "15/03/2025 17:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "16/03/2025 12:30",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "16/03/2025 12:30",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "16/03/2025 15:00",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "16/03/2025 17:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "16/03/2025 17:30",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      }
+,
+      {
+        "rodada": "27",
+        "data": "29/03/2025 12:30",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "29/03/2025 15:00",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "29/03/2025 17:30",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "29/03/2025 21:00",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "29/03/2025 21:00",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "30/03/2025 11:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "30/03/2025 11:30",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "30/03/2025 14:00",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "30/03/2025 16:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "28",
+        "data": "04/04/2025 16:15",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "05/04/2025 14:00",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "05/04/2025 16:30",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "06/04/2025 11:30",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "06/04/2025 14:00",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "06/04/2025 16:30",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "07/04/2025 14:45",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "07/04/2025 16:15",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "07/04/2025 16:45",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "29",
+        "data": "11/04/2025 16:15",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "12/04/2025 11:30",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "12/04/2025 11:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "12/04/2025 14:00",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "12/04/2025 16:30",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "13/04/2025 11:30",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "13/04/2025 14:00",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "13/04/2025 14:00",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "13/04/2025 16:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "30",
+        "data": "18/04/2025 11:30",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "18/04/2025 11:30",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "18/04/2025 14:00",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "18/04/2025 16:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "19/04/2025 11:30",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "19/04/2025 11:30",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "19/04/2025 14:00",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "19/04/2025 14:00",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "19/04/2025 16:30",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "31",
+        "data": "25/04/2025 16:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "26/04/2025 11:30",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "26/04/2025 14:00",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "26/04/2025 15:00",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "26/04/2025 16:30",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "27/04/2025 11:30",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "27/04/2025 14:00",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "27/04/2025 14:00",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "27/04/2025 16:30",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "32",
+        "data": "02/05/2025 16:15",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "03/05/2025 11:30",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "03/05/2025 11:30",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "03/05/2025 14:00",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "03/05/2025 15:00",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "03/05/2025 16:30",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "04/05/2025 11:30",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "04/05/2025 14:00",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "04/05/2025 16:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      }
+,
+      {
+        "rodada": "33",
+        "data": "10/05/2025 11:30",
+        "mandante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "10/05/2025 11:30",
+        "mandante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        },
+        "visitante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "10/05/2025 14:00",
+        "mandante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "10/05/2025 16:30",
+        "mandante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "10/05/2025 16:30",
+        "mandante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "11/05/2025 11:30",
+        "mandante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "11/05/2025 14:00",
+        "mandante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "11/05/2025 14:00",
+        "mandante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "11/05/2025 16:30",
+        "mandante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "34",
+        "data": "17/05/2025 11:30",
+        "mandante": {
+          "nome": "AVS",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Moreirense",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 11:30",
+        "mandante": {
+          "nome": "Estoril",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Estrela Amadora",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 11:30",
+        "mandante": {
+          "nome": "Famalicão",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Casa Pia",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 11:30",
+        "mandante": {
+          "nome": "Arouca",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png"
+        },
+        "visitante": {
+          "nome": "Boavista",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 11:30",
+        "mandante": {
+          "nome": "Porto",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Nacional",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 11:30",
+        "mandante": {
+          "nome": "Rio Ave",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Gil Vicente",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 11:30",
+        "mandante": {
+          "nome": "Farense",
+          "imagem": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png"
+        },
+        "visitante": {
+          "nome": "Santa Clara",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 11:30",
+        "mandante": {
+          "nome": "Sporting",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Vitória",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "17/05/2025 11:30",
+        "mandante": {
+          "nome": "Braga",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Benfica",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png"
+        }
+      }
+
+
+
+]
