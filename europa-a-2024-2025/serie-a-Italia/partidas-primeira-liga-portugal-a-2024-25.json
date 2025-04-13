@@ -1,1 +1,4605 @@
+[
 
+
+    {
+        "rodada": "1",
+        "data": "17/08/2024 13:30",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "17/08/2024 13:30",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "17/08/2024 15:45",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "17/08/2024 15:45",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "18/08/2024 13:30",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "18/08/2024 13:30",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "18/08/2024 15:45",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "18/08/2024 15:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "19/08/2024 13:30",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "1",
+        "data": "19/08/2024 15:45",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "2",
+        "data": "24/08/2024 13:30",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "24/08/2024 13:30",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "24/08/2024 15:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "24/08/2024 15:45",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "25/08/2024 13:30",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "25/08/2024 13:30",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "25/08/2024 15:45",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "25/08/2024 15:45",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "26/08/2024 13:30",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "2",
+        "data": "26/08/2024 15:45",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "3",
+        "data": "30/08/2024 13:30",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "30/08/2024 15:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "31/08/2024 13:30",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "31/08/2024 13:30",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "31/08/2024 15:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "31/08/2024 15:45",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "01/09/2024 13:30",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "01/09/2024 13:30",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "01/09/2024 15:45",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "3",
+        "data": "01/09/2024 15:45",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "4",
+        "data": "14/09/2024 10:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "14/09/2024 13:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "14/09/2024 15:45",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "15/09/2024 07:30",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "15/09/2024 10:00",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "15/09/2024 10:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "15/09/2024 13:00",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "15/09/2024 15:45",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "16/09/2024 13:30",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "4",
+        "data": "16/09/2024 15:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "5",
+        "data": "20/09/2024 13:30",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "20/09/2024 15:45",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "21/09/2024 10:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "21/09/2024 13:00",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "21/09/2024 15:45",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "22/09/2024 07:30",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "22/09/2024 10:00",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "22/09/2024 13:00",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "22/09/2024 15:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "5",
+        "data": "24/09/2024 15:45",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "6",
+        "data": "27/09/2024 15:45",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "28/09/2024 10:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "28/09/2024 13:00",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "28/09/2024 15:45",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "29/09/2024 07:30",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "29/09/2024 10:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "29/09/2024 10:00",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "29/09/2024 13:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "29/09/2024 15:45",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "6",
+        "data": "30/09/2024 15:45",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "7",
+        "data": "04/10/2024 13:30",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "04/10/2024 15:45",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "05/10/2024 10:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "05/10/2024 13:00",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "05/10/2024 15:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "06/10/2024 07:30",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "06/10/2024 10:00",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "06/10/2024 10:00",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "06/10/2024 13:00",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "7",
+        "data": "06/10/2024 15:45",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "8",
+        "data": "19/10/2024 10:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "19/10/2024 10:00",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "19/10/2024 13:00",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "19/10/2024 15:45",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "20/10/2024 07:30",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "20/10/2024 10:00",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "20/10/2024 10:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "20/10/2024 13:00",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "20/10/2024 15:45",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "8",
+        "data": "21/10/2024 15:45",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "9",
+        "data": "25/10/2024 13:30",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "25/10/2024 15:45",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "26/10/2024 10:00",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "26/10/2024 15:45",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "27/10/2024 08:30",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "27/10/2024 11:00",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "27/10/2024 11:00",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "27/10/2024 14:00",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "27/10/2024 16:45",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "9",
+        "data": "27/02/2025 16:45",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "10",
+        "data": "29/10/2024 14:30",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "29/10/2024 14:30",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "29/10/2024 16:45",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "30/10/2024 14:30",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "30/10/2024 14:30",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "30/10/2024 16:45",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "30/10/2024 16:45",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "31/10/2024 14:30",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "31/10/2024 16:45",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "10",
+        "data": "31/10/2024 16:45",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "11",
+        "data": "02/11/2024 11:00",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "02/11/2024 14:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "02/11/2024 16:45",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "03/11/2024 08:30",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "03/11/2024 11:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "03/11/2024 14:00",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "03/11/2024 16:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "04/11/2024 14:30",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "04/11/2024 14:30",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "11",
+        "data": "04/11/2024 16:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "12",
+        "data": "07/11/2024 16:45",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "08/11/2024 16:45",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "09/11/2024 11:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "09/11/2024 14:00",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "09/11/2024 16:45",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "10/11/2024 08:30",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "10/11/2024 11:00",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "10/11/2024 11:00",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "10/11/2024 14:00",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "12",
+        "data": "10/11/2024 16:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "13",
+        "data": "23/11/2024 11:00",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "23/11/2024 14:00",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "23/11/2024 16:45",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "24/11/2024 08:30",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "24/11/2024 11:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "24/11/2024 11:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "24/11/2024 14:00",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "24/11/2024 16:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "25/11/2024 14:30",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "13",
+        "data": "25/11/2024 16:45",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "14",
+        "data": "29/11/2024 16:45",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "30/11/2024 11:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "30/11/2024 14:00",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "30/11/2024 16:45",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "01/12/2024 08:30",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "01/12/2024 11:00",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "01/12/2024 11:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "01/12/2024 16:45",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "02/12/2024 16:45",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "14",
+        "data": "06/02/2025 16:45",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "15",
+        "data": "06/12/2024 14:30",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "06/12/2024 16:45",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "07/12/2024 11:00",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "07/12/2024 14:00",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "07/12/2024 16:45",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "08/12/2024 08:30",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "08/12/2024 11:00",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "08/12/2024 14:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "08/12/2024 16:45",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "15",
+        "data": "09/12/2024 16:45",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "16",
+        "data": "13/12/2024 16:45",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "14/12/2024 11:00",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "14/12/2024 14:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "14/12/2024 16:45",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "15/12/2024 08:30",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "15/12/2024 11:00",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "15/12/2024 11:00",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "15/12/2024 14:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "15/12/2024 16:45",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "16",
+        "data": "16/12/2024 16:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "17",
+        "data": "20/12/2024 16:45",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "21/12/2024 11:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "21/12/2024 14:00",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "21/12/2024 16:45",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "22/12/2024 08:30",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "22/12/2024 11:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "22/12/2024 14:00",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "22/12/2024 16:45",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "23/12/2024 14:30",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "17",
+        "data": "23/12/2024 16:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "18",
+        "data": "28/12/2024 11:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "28/12/2024 11:00",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "28/12/2024 14:00",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "28/12/2024 16:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "29/12/2024 08:30",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "29/12/2024 11:00",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "29/12/2024 14:00",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "29/12/2024 16:45",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "30/12/2024 14:30",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "18",
+        "data": "30/12/2024 16:45",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "19",
+        "data": "04/01/2025 11:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "04/01/2025 14:00",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "04/01/2025 16:45",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "05/01/2025 08:30",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "05/01/2025 11:00",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "05/01/2025 14:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "05/01/2025 16:45",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "14/01/2025 14:30",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "14/01/2025 16:45",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "19",
+        "data": "15/01/2025 16:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "20",
+        "data": "10/01/2025 16:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "11/01/2025 11:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "11/01/2025 11:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "11/01/2025 14:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "11/01/2025 16:45",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "12/01/2025 08:30",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "12/01/2025 11:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "12/01/2025 14:00",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "12/01/2025 16:45",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "20",
+        "data": "13/01/2025 16:45",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "21",
+        "data": "17/01/2025 16:45",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "18/01/2025 11:00",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "18/01/2025 14:00",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "18/01/2025 16:45",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "19/01/2025 08:30",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "19/01/2025 11:00",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "19/01/2025 11:00",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "19/01/2025 14:00",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "19/01/2025 16:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "21",
+        "data": "20/01/2025 16:45",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "22",
+        "data": "24/01/2025 16:45",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "25/01/2025 11:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "25/01/2025 14:00",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "25/01/2025 16:45",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "26/01/2025 08:30",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "26/01/2025 11:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "26/01/2025 14:00",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "26/01/2025 16:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "27/01/2025 14:30",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "22",
+        "data": "27/01/2025 16:45",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "23",
+        "data": "31/01/2025 16:45",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "01/02/2025 11:00",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "01/02/2025 11:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "01/02/2025 14:00",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "01/02/2025 16:45",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "02/02/2025 08:30",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "02/02/2025 11:00",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "02/02/2025 14:00",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "02/02/2025 16:45",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "23",
+        "data": "03/02/2025 16:45",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "24",
+        "data": "07/02/2025 16:45",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "08/02/2025 11:00",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "08/02/2025 14:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "08/02/2025 16:45",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "09/02/2025 08:30",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "09/02/2025 11:00",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "09/02/2025 11:00",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "09/02/2025 14:00",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "09/02/2025 16:45",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "24",
+        "data": "10/02/2025 16:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "25",
+        "data": "14/02/2025 16:45",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "15/02/2025 11:00",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "15/02/2025 14:00",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "15/02/2025 16:45",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "16/02/2025 08:30",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "16/02/2025 11:00",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "16/02/2025 11:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "16/02/2025 14:00",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "16/02/2025 16:45",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "25",
+        "data": "17/02/2025 16:45",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "26",
+        "data": "21/02/2025 16:45",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "22/02/2025 11:00",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "22/02/2025 11:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "22/02/2025 14:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "22/02/2025 16:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "23/02/2025 08:30",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "23/02/2025 11:00",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "23/02/2025 14:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "23/02/2025 16:45",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "26",
+        "data": "24/02/2025 16:45",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "27",
+        "data": "28/02/2025 16:45",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "01/03/2025 11:00",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "01/03/2025 14:00",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "01/03/2025 16:45",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "02/03/2025 08:30",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "02/03/2025 11:00",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "02/03/2025 11:00",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "02/03/2025 14:00",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "02/03/2025 16:45",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "27",
+        "data": "03/03/2025 16:45",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "28",
+        "data": "07/03/2025 16:45",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "08/03/2025 11:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "08/03/2025 11:00",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "08/03/2025 14:00",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "08/03/2025 16:45",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "09/03/2025 08:30",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "09/03/2025 11:00",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "09/03/2025 14:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "09/03/2025 16:45",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "28",
+        "data": "10/03/2025 16:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "29",
+        "data": "14/03/2025 16:45",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "15/03/2025 11:00",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "15/03/2025 11:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "15/03/2025 14:00",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "15/03/2025 16:45",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "16/03/2025 08:30",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "16/03/2025 11:00",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "16/03/2025 12:00",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "16/03/2025 14:00",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "29",
+        "data": "16/03/2025 16:45",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "30",
+        "data": "29/03/2025 11:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "29/03/2025 11:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "29/03/2025 14:00",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "29/03/2025 16:45",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "30/03/2025 07:30",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "30/03/2025 10:00",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "30/03/2025 13:00",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "30/03/2025 15:45",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "31/03/2025 13:30",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "30",
+        "data": "31/03/2025 15:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "31",
+        "data": "04/04/2025 15:45",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "05/04/2025 10:00",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "05/04/2025 13:00",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "05/04/2025 15:45",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "06/04/2025 07:30",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "06/04/2025 10:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "06/04/2025 10:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "06/04/2025 13:00",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "06/04/2025 15:45",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "31",
+        "data": "07/04/2025 15:45",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "32",
+        "data": "11/04/2025 15:45",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "12/04/2025 10:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "12/04/2025 13:00",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "12/04/2025 15:45",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "13/04/2025 07:30",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "13/04/2025 10:00",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "13/04/2025 10:00",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "13/04/2025 13:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "13/04/2025 15:45",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "32",
+        "data": "14/04/2025 15:45",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "33",
+        "data": "19/04/2025 10:00",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "19/04/2025 13:00",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "19/04/2025 15:45",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "20/04/2025 10:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "20/04/2025 13:00",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "20/04/2025 15:45",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "21/04/2025 07:30",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "21/04/2025 10:00",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "21/04/2025 13:00",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "33",
+        "data": "21/04/2025 15:45",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "34",
+        "data": "27/04/2025 10:00",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "27/04/2025 10:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "27/04/2025 10:00",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "27/04/2025 10:00",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "27/04/2025 10:00",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "27/04/2025 10:00",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "27/04/2025 10:00",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "27/04/2025 10:00",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "27/04/2025 10:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "34",
+        "data": "27/04/2025 10:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "35",
+        "data": "04/05/2025 10:00",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "35",
+        "data": "04/05/2025 10:00",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "35",
+        "data": "04/05/2025 10:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "35",
+        "data": "04/05/2025 10:00",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "35",
+        "data": "04/05/2025 10:00",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "35",
+        "data": "04/05/2025 10:00",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "35",
+        "data": "04/05/2025 10:00",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "35",
+        "data": "04/05/2025 10:00",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "35",
+        "data": "04/05/2025 10:00",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "35",
+        "data": "04/05/2025 10:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "36",
+        "data": "11/05/2025 10:00",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "36",
+        "data": "11/05/2025 10:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "36",
+        "data": "11/05/2025 10:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "36",
+        "data": "11/05/2025 10:00",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "36",
+        "data": "11/05/2025 10:00",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "36",
+        "data": "11/05/2025 10:00",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "36",
+        "data": "11/05/2025 10:00",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "36",
+        "data": "11/05/2025 10:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "36",
+        "data": "11/05/2025 10:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "36",
+        "data": "11/05/2025 10:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "37",
+        "data": "18/05/2025 10:00",
+        "mandante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        }
+      },
+      {
+        "rodada": "37",
+        "data": "18/05/2025 10:00",
+        "mandante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        }
+      },
+      {
+        "rodada": "37",
+        "data": "18/05/2025 10:00",
+        "mandante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        }
+      },
+      {
+        "rodada": "37",
+        "data": "18/05/2025 10:00",
+        "mandante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "37",
+        "data": "18/05/2025 10:00",
+        "mandante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        }
+      },
+      {
+        "rodada": "37",
+        "data": "18/05/2025 10:00",
+        "mandante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        }
+      },
+      {
+        "rodada": "37",
+        "data": "18/05/2025 10:00",
+        "mandante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        }
+      },
+      {
+        "rodada": "37",
+        "data": "18/05/2025 10:00",
+        "mandante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        },
+        "visitante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        }
+      },
+      {
+        "rodada": "37",
+        "data": "18/05/2025 10:00",
+        "mandante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        }
+      },
+      {
+        "rodada": "37",
+        "data": "18/05/2025 10:00",
+        "mandante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        }
+      }
+,
+      {
+        "rodada": "38",
+        "data": "25/05/2025 10:00",
+        "mandante": {
+          "nome": "Atalanta",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Parma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+        }
+      },
+      {
+        "rodada": "38",
+        "data": "25/05/2025 10:00",
+        "mandante": {
+          "nome": "Bologna",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Genoa",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+        }
+      },
+      {
+        "rodada": "38",
+        "data": "25/05/2025 10:00",
+        "mandante": {
+          "nome": "Como",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Inter",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+        }
+      },
+      {
+        "rodada": "38",
+        "data": "25/05/2025 10:00",
+        "mandante": {
+          "nome": "Empoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+        },
+        "visitante": {
+          "nome": "Verona",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+        }
+      },
+      {
+        "rodada": "38",
+        "data": "25/05/2025 10:00",
+        "mandante": {
+          "nome": "Lazio",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+        },
+        "visitante": {
+          "nome": "Lecce",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+        }
+      },
+      {
+        "rodada": "38",
+        "data": "25/05/2025 10:00",
+        "mandante": {
+          "nome": "Milan",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Monza",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+        }
+      },
+      {
+        "rodada": "38",
+        "data": "25/05/2025 10:00",
+        "mandante": {
+          "nome": "Napoli",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+        },
+        "visitante": {
+          "nome": "Cagliari",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+        }
+      },
+      {
+        "rodada": "38",
+        "data": "25/05/2025 10:00",
+        "mandante": {
+          "nome": "Torino",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Roma",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+        }
+      },
+      {
+        "rodada": "38",
+        "data": "25/05/2025 10:00",
+        "mandante": {
+          "nome": "Udinese",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+        },
+        "visitante": {
+          "nome": "Fiorentina",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+        }
+      },
+      {
+        "rodada": "38",
+        "data": "25/05/2025 10:00",
+        "mandante": {
+          "nome": "Venezia",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
+        },
+        "visitante": {
+          "nome": "Juventus",
+          "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+        }
+      }
+
+
+
+
+]
