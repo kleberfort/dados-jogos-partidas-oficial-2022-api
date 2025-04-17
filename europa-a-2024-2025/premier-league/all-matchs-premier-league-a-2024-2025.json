@@ -2957,8 +2957,95 @@
     "laterais" : 25,
     "tiroDeMeta" : 8
   }
-  ,"Rodada": 29, "Total de Jogos": 9 
+
 }
+
+,
+
+  {
+  "descricao" : "Premier League",
+  "rodada" : 29,
+  "data" : "16/04/2025",
+  "mandante" : {
+    "nome" : "Newcastle",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
+    "classificacao" : 4,
+    "placar" : 5,
+    "gols" : [ {
+      "jogador" : "J. Murphy",
+      "tempo" : "14"
+    }, {
+      "jogador" : "M. Guéhi (AG)",
+      "tempo" : "38"
+    }, {
+      "jogador" : "H. Barnes",
+      "tempo" : "45+3"
+    }, {
+      "jogador" : "F. Schär",
+      "tempo" : "45+8"
+    }, {
+      "jogador" : "A. Isak",
+      "tempo" : "58"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Crystal Palace",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
+    "classificacao" : 12,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 4,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 60,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 7,
+    "faltas" : 9,
+    "passes" : 536,
+    "desarmes" : 8,
+    "impedimentos" : 2,
+    "laterais" : 15,
+    "tiroDeMeta" : 4
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 40,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 4,
+    "faltas" : 15,
+    "passes" : 361,
+    "desarmes" : 11,
+    "impedimentos" : 1,
+    "laterais" : 20,
+    "tiroDeMeta" : 5
+  }
+    ,"Rodada": 29, "Total de Jogos": 10 
+}
+
+
+
 
 
 
