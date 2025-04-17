@@ -2528,6 +2528,80 @@
       "tiroDeMeta" : 5
     }
   }
+ ,
+
+{
+  "descricao" : "Ligue 1",
+  "rodada" : 26,
+  "data" : "16/03/2025",
+  "mandante" : {
+    "nome" : "Montpellier",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/fL5Nk_2eUanYiOSB9AnBpQ_96x96.png",
+    "classificacao" : 18,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Saint-Étienne",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/dH6Te3EMILwG9ulAl8O_rA_96x96.png",
+    "classificacao" : 17,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "L. Stassin",
+      "tempo" : "11"
+    }, {
+      "jogador" : "L. Stassin",
+      "tempo" : "53"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 3,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 41,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 3,
+    "faltas" : 4,
+    "passes" : 206,
+    "desarmes" : 16,
+    "impedimentos" : 0,
+    "laterais" : 17,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 59,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 6,
+    "faltas" : 7,
+    "passes" : 317,
+    "desarmes" : 19,
+    "impedimentos" : 0,
+    "laterais" : 19,
+    "tiroDeMeta" : 7
+  }
+}
+
   ,
   
   {
