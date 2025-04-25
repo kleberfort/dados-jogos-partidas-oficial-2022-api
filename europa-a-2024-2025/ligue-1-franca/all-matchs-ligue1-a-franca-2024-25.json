@@ -681,8 +681,84 @@
       "laterais" : 24,
       "tiroDeMeta" : 8
     }
-    ,"Rodada": 30, "Total de Jogos": 9 
+  
   }
+
+,
+  {
+    "descricao" : "Ligue 1",
+    "rodada" : 29,
+    "data" : "22/04/2025",
+    "mandante" : {
+      "nome" : "Nantes",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/r3qizrAtoAXPICgYjFYCyA_96x96.png",
+      "classificacao" : 14,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "D. Augusto",
+        "tempo" : "83"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "PSG",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",
+      "classificacao" : 1,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "Vitinha",
+        "tempo" : "33"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 25,
+      "finalizacoes" : 8,
+      "finalizacoesGol" : 2,
+      "faltas" : 5,
+      "passes" : 266,
+      "desarmes" : 18,
+      "impedimentos" : 1,
+      "laterais" : 21,
+      "tiroDeMeta" : 8
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 75,
+      "finalizacoes" : 10,
+      "finalizacoesGol" : 5,
+      "faltas" : 9,
+      "passes" : 842,
+      "desarmes" : 18,
+      "impedimentos" : 1,
+      "laterais" : 16,
+      "tiroDeMeta" : 3
+    }
+    ,"Rodada": 29, "Total de Jogos": 10 
+  }
+  
+ 
   
  
 
