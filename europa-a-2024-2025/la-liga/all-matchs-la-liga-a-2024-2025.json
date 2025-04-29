@@ -731,9 +731,83 @@
       "laterais" : 17,
       "tiroDeMeta" : 4
     }
-    ,"Rodada": 33, "Total de Jogos": 10 
   }
   
+
+  ,
+
+{
+  "descricao" : "LaLiga",
+  "rodada" : 26,
+  "data" : "27/04/2025",
+  "mandante" : {
+    "nome" : "Villarreal",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
+    "classificacao" : 6,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "Y. Pino",
+      "tempo" : "52"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Espanyol",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/TKitIqelDyN6M-kYt4Uc0g_96x96.png",
+    "classificacao" : 13,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 45,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 5,
+    "faltas" : 19,
+    "passes" : 341,
+    "desarmes" : 14,
+    "impedimentos" : 1,
+    "laterais" : 13,
+    "tiroDeMeta" : 14
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 55,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 1,
+    "faltas" : 11,
+    "passes" : 430,
+    "desarmes" : 10,
+    "impedimentos" : 0,
+    "laterais" : 13,
+    "tiroDeMeta" : 9
+  }
+  ,"Rodada": 26, "Total de Jogos": 10 
+}
+
+
+
 
 
   ,
