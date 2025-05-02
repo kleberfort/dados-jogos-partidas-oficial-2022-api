@@ -692,8 +692,85 @@
       "laterais" : 21,
       "tiroDeMeta" : 9
     }
-    ,"Rodada": 34, "Total de Jogos": 9 
   }
+
+
+  ,
+
+  {
+    "descricao" : "Premier League",
+    "rodada" : 34,
+    "data" : "01/05/2025",
+    "mandante" : {
+      "nome" : "Forest",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
+      "classificacao" : 6,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Brentford",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
+      "classificacao" : 11,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "K. Schade",
+        "tempo" : "44"
+      }, {
+        "jogador" : "Y. Wissa",
+        "tempo" : "70"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 3,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 55,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 5,
+      "faltas" : 10,
+      "passes" : 381,
+      "desarmes" : 8,
+      "impedimentos" : 4,
+      "laterais" : 20,
+      "tiroDeMeta" : 4
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 45,
+      "finalizacoes" : 11,
+      "finalizacoesGol" : 3,
+      "faltas" : 12,
+      "passes" : 323,
+      "desarmes" : 16,
+      "impedimentos" : 0,
+      "laterais" : 10,
+      "tiroDeMeta" : 12
+    }
+    ,"Rodada": 34, "Total de Jogos": 10 
+  }
+  
+ 
   
  
 
