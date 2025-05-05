@@ -296,7 +296,7 @@
       "finalizacoes" : 10,
       "finalizacoesGol" : 5,
       "faltas" : 6,
-      "passes" : 378,
+      "passes" : 377,
       "desarmes" : 15,
       "impedimentos" : 3,
       "laterais" : 16,
@@ -361,8 +361,8 @@
       "finalizacoes" : 5,
       "finalizacoesGol" : 4,
       "faltas" : 12,
-      "passes" : 156,
-      "desarmes" : 21,
+      "passes" : 154,
+      "desarmes" : 19,
       "impedimentos" : 3,
       "laterais" : 11,
       "tiroDeMeta" : 12
@@ -372,14 +372,320 @@
       "finalizacoes" : 24,
       "finalizacoesGol" : 7,
       "faltas" : 15,
-      "passes" : 704,
-      "desarmes" : 15,
+      "passes" : 702,
+      "desarmes" : 16,
       "impedimentos" : 1,
       "laterais" : 20,
       "tiroDeMeta" : 3
     }
-    ,"Rodada": 34, "Total de Jogos": 5 
   }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 34,
+    "data" : "04/05/2025",
+    "mandante" : {
+      "nome" : "Real Madrid",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+      "classificacao" : 2,
+      "placar" : 3,
+      "gols" : [ {
+        "jogador" : "A. Güler",
+        "tempo" : "33"
+      }, {
+        "jogador" : "K. Mbappé",
+        "tempo" : "39"
+      }, {
+        "jogador" : "K. Mbappé",
+        "tempo" : "48"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Celta",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png",
+      "classificacao" : 7,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "J. Rodríguez",
+        "tempo" : "69"
+      }, {
+        "jogador" : "W. Swedberg",
+        "tempo" : "76"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 2,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 54,
+      "finalizacoes" : 17,
+      "finalizacoesGol" : 6,
+      "faltas" : 5,
+      "passes" : 605,
+      "desarmes" : 12,
+      "impedimentos" : 0,
+      "laterais" : 9,
+      "tiroDeMeta" : 7
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 46,
+      "finalizacoes" : 14,
+      "finalizacoesGol" : 7,
+      "faltas" : 11,
+      "passes" : 518,
+      "desarmes" : 17,
+      "impedimentos" : 1,
+      "laterais" : 9,
+      "tiroDeMeta" : 14
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 34,
+    "data" : "04/05/2025",
+    "mandante" : {
+      "nome" : "Sevilla",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png",
+      "classificacao" : 15,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "K. Salas",
+        "tempo" : "21"
+      }, {
+        "jogador" : "I. Romero",
+        "tempo" : "70"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Leganés",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Id84F7Ji9rZGVacaazlBYA_96x96.png",
+      "classificacao" : 19,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "M. E. Haddadi",
+        "tempo" : "7"
+      }, {
+        "jogador" : "J. Hernández",
+        "tempo" : "73"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 4,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 1
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 4,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 57,
+      "finalizacoes" : 25,
+      "finalizacoesGol" : 7,
+      "faltas" : 17,
+      "passes" : 407,
+      "desarmes" : 19,
+      "impedimentos" : 2,
+      "laterais" : 18,
+      "tiroDeMeta" : 6
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 43,
+      "finalizacoes" : 9,
+      "finalizacoesGol" : 3,
+      "faltas" : 12,
+      "passes" : 318,
+      "desarmes" : 18,
+      "impedimentos" : 1,
+      "laterais" : 13,
+      "tiroDeMeta" : 16
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 34,
+    "data" : "04/05/2025",
+    "mandante" : {
+      "nome" : "Espanyol",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/TKitIqelDyN6M-kYt4Uc0g_96x96.png",
+      "classificacao" : 14,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "R. Fernández",
+        "tempo" : "28"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Real Betis",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/XDClkrMKtkm3UTP2YKN6oQ_96x96.png",
+      "classificacao" : 6,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "G. Lo Celso",
+        "tempo" : "85"
+      }, {
+        "jogador" : "Antony",
+        "tempo" : "90+1"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 0,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 1,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 5,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 0,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 37,
+      "finalizacoes" : 11,
+      "finalizacoesGol" : 5,
+      "faltas" : 16,
+      "passes" : 325,
+      "desarmes" : 15,
+      "impedimentos" : 5,
+      "laterais" : 10,
+      "tiroDeMeta" : 6
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 63,
+      "finalizacoes" : 20,
+      "finalizacoesGol" : 10,
+      "faltas" : 10,
+      "passes" : 558,
+      "desarmes" : 14,
+      "impedimentos" : 1,
+      "laterais" : 8,
+      "tiroDeMeta" : 8
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "LaLiga",
+    "rodada" : 34,
+    "data" : "04/05/2025",
+    "mandante" : {
+      "nome" : "Real Sociedad",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_96x96.png",
+      "classificacao" : 11,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "visitante" : {
+      "nome" : "Athletic Club",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/OSL_5Zm6kYPP1J17Bo5uDA_96x96.png",
+      "classificacao" : 4,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 5,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 1,
+      "escanteiosSegundoTempo" : 2,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 1,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 59,
+      "finalizacoes" : 12,
+      "finalizacoesGol" : 3,
+      "faltas" : 18,
+      "passes" : 505,
+      "desarmes" : 22,
+      "impedimentos" : 3,
+      "laterais" : 23,
+      "tiroDeMeta" : 4
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 41,
+      "finalizacoes" : 3,
+      "finalizacoesGol" : 1,
+      "faltas" : 13,
+      "passes" : 353,
+      "desarmes" : 14,
+      "impedimentos" : 1,
+      "laterais" : 20,
+      "tiroDeMeta" : 5
+    }
+    ,"Rodada": 34, "Total de Jogos": 9 
+  }
+  
+
   
 
 
