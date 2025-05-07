@@ -133,23 +133,23 @@
       "cartoesVermelhoSegundoTempo" : 1
     },
     "estatisticaGeralMandante" : {
-      "posseBola" : 48,
+      "posseBola" : 47,
       "finalizacoes" : 14,
       "finalizacoesGol" : 6,
       "faltas" : 22,
-      "passes" : 271,
-      "desarmes" : 21,
+      "passes" : 269,
+      "desarmes" : 23,
       "impedimentos" : 4,
       "laterais" : 32,
       "tiroDeMeta" : 4
     },
     "estatisticaGeralVisitante" : {
-      "posseBola" : 52,
+      "posseBola" : 53,
       "finalizacoes" : 9,
       "finalizacoesGol" : 4,
       "faltas" : 19,
-      "passes" : 306,
-      "desarmes" : 10,
+      "passes" : 314,
+      "desarmes" : 14,
       "impedimentos" : 0,
       "laterais" : 26,
       "tiroDeMeta" : 8
@@ -209,23 +209,23 @@
       "cartoesVermelhoSegundoTempo" : 0
     },
     "estatisticaGeralMandante" : {
-      "posseBola" : 46,
-      "finalizacoes" : 16,
+      "posseBola" : 47,
+      "finalizacoes" : 17,
       "finalizacoesGol" : 1,
       "faltas" : 15,
-      "passes" : 327,
-      "desarmes" : 8,
+      "passes" : 330,
+      "desarmes" : 7,
       "impedimentos" : 2,
       "laterais" : 20,
       "tiroDeMeta" : 9
     },
     "estatisticaGeralVisitante" : {
-      "posseBola" : 54,
-      "finalizacoes" : 11,
+      "posseBola" : 53,
+      "finalizacoes" : 10,
       "finalizacoesGol" : 4,
       "faltas" : 13,
-      "passes" : 400,
-      "desarmes" : 13,
+      "passes" : 398,
+      "desarmes" : 16,
       "impedimentos" : 1,
       "laterais" : 18,
       "tiroDeMeta" : 11
@@ -286,7 +286,7 @@
       "finalizacoes" : 17,
       "finalizacoesGol" : 4,
       "faltas" : 15,
-      "passes" : 590,
+      "passes" : 592,
       "desarmes" : 15,
       "impedimentos" : 1,
       "laterais" : 24,
@@ -297,11 +297,11 @@
       "finalizacoes" : 5,
       "finalizacoesGol" : 3,
       "faltas" : 15,
-      "passes" : 292,
+      "passes" : 293,
       "desarmes" : 14,
       "impedimentos" : 1,
       "laterais" : 18,
-      "tiroDeMeta" : 12
+      "tiroDeMeta" : 13
     }
   }
   ,
@@ -358,22 +358,22 @@
       "cartoesVermelhoSegundoTempo" : 0
     },
     "estatisticaGeralMandante" : {
-      "posseBola" : 48,
+      "posseBola" : 49,
       "finalizacoes" : 10,
       "finalizacoesGol" : 2,
       "faltas" : 15,
-      "passes" : 446,
+      "passes" : 450,
       "desarmes" : 19,
       "impedimentos" : 0,
       "laterais" : 21,
       "tiroDeMeta" : 9
     },
     "estatisticaGeralVisitante" : {
-      "posseBola" : 52,
+      "posseBola" : 51,
       "finalizacoes" : 10,
       "finalizacoesGol" : 3,
       "faltas" : 13,
-      "passes" : 483,
+      "passes" : 477,
       "desarmes" : 22,
       "impedimentos" : 3,
       "laterais" : 15,
@@ -429,7 +429,7 @@
       "finalizacoes" : 15,
       "finalizacoesGol" : 3,
       "faltas" : 14,
-      "passes" : 465,
+      "passes" : 463,
       "desarmes" : 10,
       "impedimentos" : 2,
       "laterais" : 21,
@@ -440,7 +440,7 @@
       "finalizacoes" : 4,
       "finalizacoesGol" : 1,
       "faltas" : 14,
-      "passes" : 267,
+      "passes" : 270,
       "desarmes" : 7,
       "impedimentos" : 0,
       "laterais" : 19,
@@ -505,8 +505,8 @@
       "finalizacoes" : 16,
       "finalizacoesGol" : 3,
       "faltas" : 13,
-      "passes" : 605,
-      "desarmes" : 21,
+      "passes" : 604,
+      "desarmes" : 20,
       "impedimentos" : 1,
       "laterais" : 37,
       "tiroDeMeta" : 1
@@ -516,14 +516,165 @@
       "finalizacoes" : 1,
       "finalizacoesGol" : 1,
       "faltas" : 11,
-      "passes" : 254,
+      "passes" : 253,
       "desarmes" : 21,
       "impedimentos" : 3,
       "laterais" : 14,
       "tiroDeMeta" : 14
     }
-    ,"Rodada": 32, "Total de Jogos": 7 
   }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 32,
+    "data" : "05/05/2025",
+    "mandante" : {
+      "nome" : "Rio Ave",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png",
+      "classificacao" : 13,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "Clayton (Pên.)",
+        "tempo" : "79"
+      }, {
+        "jogador" : "M. Neto",
+        "tempo" : "90+7"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Estrela Amadora",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 15,
+      "placar" : 0,
+      "gols" : [ ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 4,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 0
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 3,
+      "cartoesAmareloSegundoTempo" : 1,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 4,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 47,
+      "finalizacoes" : 19,
+      "finalizacoesGol" : 6,
+      "faltas" : 17,
+      "passes" : 258,
+      "desarmes" : 16,
+      "impedimentos" : 5,
+      "laterais" : 16,
+      "tiroDeMeta" : 5
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 53,
+      "finalizacoes" : 8,
+      "finalizacoesGol" : 3,
+      "faltas" : 16,
+      "passes" : 297,
+      "desarmes" : 27,
+      "impedimentos" : 4,
+      "laterais" : 22,
+      "tiroDeMeta" : 10
+    }
+  }
+  ,
+  
+  {
+    "descricao" : "Liga Portugal Betclic",
+    "rodada" : 32,
+    "data" : "05/05/2025",
+    "mandante" : {
+      "nome" : "AVS",
+      "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+      "classificacao" : 17,
+      "placar" : 1,
+      "gols" : [ {
+        "jogador" : "Nenê",
+        "tempo" : "62"
+      } ]
+    },
+    "visitante" : {
+      "nome" : "Boavista",
+      "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png",
+      "classificacao" : 18,
+      "placar" : 2,
+      "gols" : [ {
+        "jogador" : "S. Pérez",
+        "tempo" : "67"
+      }, {
+        "jogador" : "A. Diaby",
+        "tempo" : "89"
+      } ]
+    },
+    "estatistiticaJogoMandante" : {
+      "escanteiosPrimeiroTempo" : 3,
+      "escanteiosSegundoTempo" : 1,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 1
+    },
+    "estatisticaJogoVisitante" : {
+      "escanteiosPrimeiroTempo" : 2,
+      "escanteiosSegundoTempo" : 3,
+      "golsPrimeiroTempo" : 0,
+      "golsSegundoTempo" : 2
+    },
+    "EstatisticaCartoesMandante" : {
+      "cartoesAmareloPrimeiroTempo" : 2,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "EstatisticaCartoesVisitante" : {
+      "cartoesAmareloPrimeiroTempo" : 0,
+      "cartoesAmareloSegundoTempo" : 2,
+      "cartoesVermelhoPrimeiroTempo" : 0,
+      "cartoesVermelhoSegundoTempo" : 0
+    },
+    "estatisticaGeralMandante" : {
+      "posseBola" : 45,
+      "finalizacoes" : 13,
+      "finalizacoesGol" : 5,
+      "faltas" : 21,
+      "passes" : 332,
+      "desarmes" : 10,
+      "impedimentos" : 2,
+      "laterais" : 22,
+      "tiroDeMeta" : 7
+    },
+    "estatisticaGeralVisitante" : {
+      "posseBola" : 55,
+      "finalizacoes" : 13,
+      "finalizacoesGol" : 2,
+      "faltas" : 12,
+      "passes" : 401,
+      "desarmes" : 11,
+      "impedimentos" : 1,
+      "laterais" : 19,
+      "tiroDeMeta" : 5
+    }
+    ,"Rodada": 32, "Total de Jogos": 8 
+  }
+  
+
   
   
 ,
