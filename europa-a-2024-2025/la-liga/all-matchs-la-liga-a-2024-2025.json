@@ -682,11 +682,83 @@
       "laterais" : 20,
       "tiroDeMeta" : 5
     }
-    ,"Rodada": 34, "Total de Jogos": 9 
+    
   }
   
 
-  
+  ,
+
+{
+  "descricao" : "LaLiga",
+  "rodada" : 34,
+  "data" : "05/05/2025",
+  "mandante" : {
+    "nome" : "Girona",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/sHiSmLm_rA0BOC5MfrNt8A_96x96.png",
+    "classificacao" : 17,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "C. Stuani",
+      "tempo" : "10"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Mallorca",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Ss21P4CUmigjrEtcoapjVg_96x96.png",
+    "classificacao" : 9,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 47,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 6,
+    "faltas" : 11,
+    "passes" : 454,
+    "desarmes" : 15,
+    "impedimentos" : 1,
+    "laterais" : 15,
+    "tiroDeMeta" : 9
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 53,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 1,
+    "faltas" : 14,
+    "passes" : 500,
+    "desarmes" : 9,
+    "impedimentos" : 1,
+    "laterais" : 20,
+    "tiroDeMeta" : 7
+  }
+  ,"Rodada": 34, "Total de Jogos": 10 
+}
+
+
 
 
 
