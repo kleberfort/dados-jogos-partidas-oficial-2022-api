@@ -1,1 +1,4606 @@
+[
 
+        {
+      "rodada": "1",
+      "data": "04/04/2025 19:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "04/04/2025 21:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "04/04/2025 21:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "05/04/2025 16:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "05/04/2025 16:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "05/04/2025 18:30",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "06/04/2025 19:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "06/04/2025 19:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "06/04/2025 20:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "07/04/2025 19:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    }
+,
+    {
+      "rodada": "2",
+      "data": "10/04/2025 19:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "10/04/2025 21:30",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "12/04/2025 16:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "12/04/2025 18:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "12/04/2025 19:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "12/04/2025 19:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "12/04/2025 20:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "13/04/2025 16:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "13/04/2025 16:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "13/04/2025 19:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    }
+,
+    {
+      "rodada": "3",
+      "data": "15/04/2025 19:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "16/04/2025 20:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "16/04/2025 20:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "16/04/2025 21:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "17/04/2025 19:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "17/04/2025 20:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "17/04/2025 20:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "17/04/2025 20:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "17/04/2025 21:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "17/04/2025 21:35",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    }
+,
+    {
+      "rodada": "4",
+      "data": "19/04/2025 16:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "20/04/2025 16:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "20/04/2025 18:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "20/04/2025 19:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "20/04/2025 20:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "21/04/2025 18:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "21/04/2025 19:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "21/04/2025 21:30",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "22/04/2025 19:30",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "22/04/2025 20:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    }
+,
+    {
+      "rodada": "5",
+      "data": "24/04/2025 21:35",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "25/04/2025 19:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "25/04/2025 21:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "26/04/2025 16:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "26/04/2025 20:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "27/04/2025 16:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "27/04/2025 16:30",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "27/04/2025 17:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "27/04/2025 19:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "28/04/2025 19:30",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    }
+,
+    {
+      "rodada": "6",
+      "data": "02/05/2025 21:35",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "03/05/2025 16:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "03/05/2025 20:30",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "04/05/2025 16:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "04/05/2025 18:30",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "04/05/2025 18:30",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "04/05/2025 20:30",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "05/05/2025 19:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "06/05/2025 19:30",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "06/05/2025 21:30",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    }
+,
+    {
+      "rodada": "7",
+      "data": "08/05/2025 21:35",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "10/05/2025 16:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "10/05/2025 18:30",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "11/05/2025 16:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "11/05/2025 18:30",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "11/05/2025 18:30",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "12/05/2025 19:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "12/05/2025 21:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "14/05/2025 19:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "14/05/2025 19:30",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    }
+,
+    {
+      "rodada": "8",
+      "data": "15/05/2025 21:35",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "16/05/2025 19:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "17/05/2025 16:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "17/05/2025 18:30",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "17/05/2025 20:30",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "18/05/2025 16:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "18/05/2025 16:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "18/05/2025 18:30",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "19/05/2025 19:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "19/05/2025 21:35",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    }
+,
+    {
+      "rodada": "9",
+      "data": "23/05/2025 21:35",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "24/05/2025 16:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "24/05/2025 18:30",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "24/05/2025 20:30",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "25/05/2025 18:30",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "25/05/2025 20:30",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "26/05/2025 19:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "26/05/2025 20:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "26/05/2025 21:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "27/05/2025 19:30",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    }
+,
+    {
+      "rodada": "10",
+      "data": "29/05/2025 21:35",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "30/05/2025 19:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "31/05/2025 16:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "31/05/2025 18:30",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "31/05/2025 20:30",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "01/06/2025 16:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "01/06/2025 18:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "01/06/2025 20:30",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "02/06/2025 19:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "02/06/2025 21:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    }
+,
+    {
+      "rodada": "11",
+      "data": "05/06/2025 21:35",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "06/06/2025 16:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "07/06/2025 16:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "08/06/2025 16:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "08/06/2025 20:30",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "14/06/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "14/06/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "14/06/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "14/06/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "14/06/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    }
+,
+    {
+      "rodada": "12",
+      "data": "17/06/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "17/06/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "17/06/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "17/06/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "17/06/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "17/06/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "17/06/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "17/06/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "17/06/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "17/06/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    }
+,
+    {
+      "rodada": "13",
+      "data": "21/06/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "21/06/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "21/06/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "21/06/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "21/06/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "21/06/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "21/06/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "21/06/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "21/06/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "21/06/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    }
+,
+    {
+      "rodada": "14",
+      "data": "28/06/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "28/06/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "28/06/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "28/06/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "28/06/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "28/06/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "28/06/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "28/06/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "28/06/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "28/06/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    }
+,
+    {
+      "rodada": "15",
+      "data": "05/07/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "05/07/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "05/07/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "05/07/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "05/07/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "05/07/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "05/07/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "05/07/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "05/07/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "05/07/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    }
+,
+    {
+      "rodada": "16",
+      "data": "12/07/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "12/07/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "12/07/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "12/07/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "12/07/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "12/07/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "12/07/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "12/07/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "12/07/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "12/07/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    }
+,
+    {
+      "rodada": "17",
+      "data": "19/07/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "19/07/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "19/07/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "19/07/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "19/07/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "19/07/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "19/07/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "19/07/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "19/07/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "19/07/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    }
+,
+    {
+      "rodada": "18",
+      "data": "22/07/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "22/07/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "22/07/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "22/07/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "22/07/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "22/07/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "22/07/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "22/07/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "22/07/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "22/07/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    }
+,
+    {
+      "rodada": "19",
+      "data": "26/07/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "26/07/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "26/07/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "26/07/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "26/07/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "26/07/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "26/07/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "26/07/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "26/07/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "26/07/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    }
+,
+    {
+      "rodada": "20",
+      "data": "02/08/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "02/08/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "02/08/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "02/08/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "02/08/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "02/08/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "02/08/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "02/08/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "02/08/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "02/08/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    }
+,
+    {
+      "rodada": "21",
+      "data": "09/08/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "09/08/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "09/08/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "09/08/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "09/08/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "09/08/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "09/08/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "09/08/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "09/08/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "09/08/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    }
+,
+    {
+      "rodada": "22",
+      "data": "15/08/2025 09:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "16/08/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "16/08/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "16/08/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "16/08/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "16/08/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "16/08/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "16/08/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "16/08/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "16/08/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    }
+,
+    {
+      "rodada": "23",
+      "data": "22/08/2025 09:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "22/08/2025 09:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "23/08/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "23/08/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "23/08/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "23/08/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "23/08/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "23/08/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "23/08/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "23/08/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    }
+,
+    {
+      "rodada": "24",
+      "data": "30/08/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "30/08/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "30/08/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "30/08/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "30/08/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "30/08/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "30/08/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "30/08/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "30/08/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "30/08/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    }
+,
+    {
+      "rodada": "25",
+      "data": "13/09/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "13/09/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "13/09/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "13/09/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "13/09/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "13/09/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "13/09/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "13/09/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "13/09/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "13/09/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    }
+,
+    {
+      "rodada": "26",
+      "data": "20/09/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "20/09/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "20/09/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "20/09/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "20/09/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "20/09/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "20/09/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "20/09/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "20/09/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "20/09/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    }
+,
+    {
+      "rodada": "27",
+      "data": "23/09/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "23/09/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "23/09/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "23/09/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "23/09/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "23/09/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "23/09/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "23/09/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "23/09/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "23/09/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    }
+,
+    {
+      "rodada": "28",
+      "data": "27/09/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "27/09/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "27/09/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "27/09/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "27/09/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "27/09/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "27/09/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "27/09/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "27/09/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "27/09/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    }
+,
+    {
+      "rodada": "29",
+      "data": "04/10/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "04/10/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "04/10/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "04/10/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "04/10/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "04/10/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "04/10/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "04/10/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "04/10/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "04/10/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    }
+,
+    {
+      "rodada": "30",
+      "data": "07/10/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "07/10/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "07/10/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "07/10/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "07/10/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "07/10/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "07/10/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "07/10/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "07/10/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "07/10/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    }
+,
+    {
+      "rodada": "31",
+      "data": "11/10/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "11/10/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "11/10/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "11/10/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "11/10/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "11/10/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "11/10/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "11/10/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "11/10/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "11/10/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    }
+,
+    {
+      "rodada": "32",
+      "data": "18/10/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "18/10/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "18/10/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "18/10/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "18/10/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "18/10/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "18/10/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "18/10/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "18/10/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "18/10/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    }
+,
+    {
+      "rodada": "33",
+      "data": "25/10/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "25/10/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "25/10/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "25/10/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "25/10/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "25/10/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "25/10/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "25/10/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "25/10/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "25/10/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    }
+,
+    {
+      "rodada": "34",
+      "data": "01/11/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "01/11/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "01/11/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "01/11/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "01/11/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "01/11/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "01/11/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "01/11/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "01/11/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "01/11/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    }
+,
+    {
+      "rodada": "35",
+      "data": "04/11/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "04/11/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "04/11/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "04/11/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "04/11/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "04/11/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "04/11/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "04/11/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "04/11/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "04/11/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    }
+,
+    {
+      "rodada": "36",
+      "data": "08/11/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "08/11/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "08/11/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "08/11/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "08/11/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "08/11/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "08/11/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "08/11/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "08/11/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "08/11/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    }
+,
+    {
+      "rodada": "37",
+      "data": "15/11/2025 15:00",
+      "mandante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "15/11/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "15/11/2025 15:00",
+      "mandante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "15/11/2025 15:00",
+      "mandante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "15/11/2025 15:00",
+      "mandante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      },
+      "visitante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "15/11/2025 15:00",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "15/11/2025 15:00",
+      "mandante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      },
+      "visitante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "15/11/2025 15:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "15/11/2025 15:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "15/11/2025 15:00",
+      "mandante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      },
+      "visitante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      }
+    }
+  
+,
+    {
+      "rodada": "38",
+      "data": "22/11/2025 15:00",
+      "mandante": {
+        "nome": "Amazonas",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/Amazonas_2024.svg"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "22/11/2025 15:00",
+      "mandante": {
+        "nome": "Athletic Club",
+        "imagem": "https://s.sde.globo.com/media/organizations/2025/01/22/Athletic_Club-mineiro.svg"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/29/Paysandu.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "22/11/2025 15:00",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR.svg"
+      },
+      "visitante": {
+        "nome": "América-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/07/America-MG-branco.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "22/11/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-SP",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/15/BFC.svg"
+      },
+      "visitante": {
+        "nome": "Avaí",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/05/12/ava%C3%AD.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "22/11/2025 15:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/21/CHAPECOENSE-2018.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "22/11/2025 15:00",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/26/Cuiaba_EC.svg"
+      },
+      "visitante": {
+        "nome": "Criciúma",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/03/28/Criciuma-2024.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "22/11/2025 15:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Novohorizontino.svg"
+      },
+      "visitante": {
+        "nome": "CRB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/coritiba.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "22/11/2025 15:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/12/27/Oper%C3%A1rio-PR.svg"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ferroviaria_Araraquara.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "22/11/2025 15:00",
+      "mandante": {
+        "nome": "Remo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg"
+      },
+      "visitante": {
+        "nome": "Goiás",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/03/01/GOIAS-2021.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "22/11/2025 15:00",
+      "mandante": {
+        "nome": "Vila Nova",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/07/vilanova.svg"
+      },
+      "visitante": {
+        "nome": "Volta Redonda",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/27/Volta-Redonda-2020.svg"
+      }
+    }
+
+
+
+
+
+]
