@@ -1,1 +1,4605 @@
+[
 
+    {
+      "rodada": "1",
+      "data": "29/03/2025 18:30",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "29/03/2025 18:30",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "29/03/2025 18:30",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "29/03/2025 18:30",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "29/03/2025 18:30",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "29/03/2025 21:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "30/03/2025 16:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "30/03/2025 18:30",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "30/03/2025 20:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "31/03/2025 20:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    }
+,
+    {
+      "rodada": "2",
+      "data": "05/04/2025 18:30",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "05/04/2025 18:30",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "05/04/2025 21:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "06/04/2025 16:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "06/04/2025 16:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "06/04/2025 18:30",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "06/04/2025 18:30",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "06/04/2025 18:30",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "06/04/2025 18:30",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "06/04/2025 20:30",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    }
+,
+    {
+      "rodada": "3",
+      "data": "12/04/2025 16:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "12/04/2025 16:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "12/04/2025 18:30",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "12/04/2025 21:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "13/04/2025 16:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "13/04/2025 17:30",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "13/04/2025 17:30",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "13/04/2025 19:30",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "13/04/2025 20:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "13/04/2025 20:30",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    }
+,
+    {
+      "rodada": "4",
+      "data": "15/04/2025 21:30",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "16/04/2025 18:30",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "16/04/2025 19:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "16/04/2025 19:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "16/04/2025 19:30",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "16/04/2025 19:30",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "16/04/2025 21:30",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "16/04/2025 21:30",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "16/04/2025 21:30",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "17/04/2025 21:30",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    }
+,
+    {
+      "rodada": "5",
+      "data": "19/04/2025 16:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "19/04/2025 18:30",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "19/04/2025 21:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "20/04/2025 11:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "20/04/2025 16:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "20/04/2025 16:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "20/04/2025 18:30",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "20/04/2025 18:30",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "20/04/2025 20:30",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "21/04/2025 20:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    }
+,
+    {
+      "rodada": "6",
+      "data": "26/04/2025 16:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "26/04/2025 18:30",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "26/04/2025 18:30",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "26/04/2025 20:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "26/04/2025 21:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "27/04/2025 16:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "27/04/2025 18:30",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "27/04/2025 18:30",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "27/04/2025 18:30",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "27/04/2025 20:30",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    }
+,
+    {
+      "rodada": "7",
+      "data": "02/05/2025 21:30",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "03/05/2025 18:30",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "03/05/2025 18:30",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "03/05/2025 18:30",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "03/05/2025 21:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "04/05/2025 16:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "04/05/2025 16:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "04/05/2025 18:30",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "05/05/2025 19:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "05/05/2025 20:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    }
+,
+    {
+      "rodada": "8",
+      "data": "10/05/2025 16:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "10/05/2025 18:30",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "10/05/2025 18:30",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "10/05/2025 18:30",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "10/05/2025 21:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "11/05/2025 16:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "11/05/2025 17:30",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "11/05/2025 17:30",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "11/05/2025 20:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "12/05/2025 20:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    }
+,
+    {
+      "rodada": "9",
+      "data": "17/05/2025 16:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "17/05/2025 18:30",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "17/05/2025 21:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "18/05/2025 16:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "18/05/2025 16:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "18/05/2025 16:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "18/05/2025 18:30",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "18/05/2025 18:30",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "18/05/2025 20:30",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "18/05/2025 20:30",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    }
+,
+    {
+      "rodada": "10",
+      "data": "24/05/2025 16:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "24/05/2025 18:30",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "24/05/2025 18:30",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "24/05/2025 21:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "25/05/2025 11:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "25/05/2025 16:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "25/05/2025 16:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "25/05/2025 18:30",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "25/05/2025 20:30",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "26/05/2025 20:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    }
+,
+    {
+      "rodada": "11",
+      "data": "31/05/2025 16:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "31/05/2025 21:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "01/06/2025 11:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "01/06/2025 16:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "01/06/2025 16:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "01/06/2025 18:30",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "01/06/2025 18:30",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "01/06/2025 18:30",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "01/06/2025 19:30",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "01/06/2025 20:30",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    }
+,
+    {
+      "rodada": "12",
+      "data": "11/06/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "11/06/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "11/06/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "11/06/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "12/06/2025 19:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "12/06/2025 19:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "12/06/2025 19:30",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "12/06/2025 20:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "12/06/2025 21:30",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "12/06/2025 21:30",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    }
+,
+    {
+      "rodada": "13",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    }
+,
+    {
+      "rodada": "14",
+      "data": "16/07/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    }
+,
+    {
+      "rodada": "15",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    }
+,
+    {
+      "rodada": "16",
+      "data": "23/07/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "23/07/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "23/07/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "23/07/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "23/07/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "23/07/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "23/07/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "23/07/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "23/07/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "23/07/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    }
+,
+    {
+      "rodada": "17",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    }
+,
+    {
+      "rodada": "18",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    }
+,
+    {
+      "rodada": "19",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    }
+,
+    {
+      "rodada": "20",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "20",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    }
+,
+    {
+      "rodada": "21",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "21",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    }
+,
+    {
+      "rodada": "22",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "22",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    }
+,
+    {
+      "rodada": "23",
+      "data": "14/09/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "14/09/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "14/09/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "14/09/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "14/09/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "14/09/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "14/09/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "14/09/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "14/09/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "23",
+      "data": "14/09/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    }
+,
+    {
+      "rodada": "24",
+      "data": "21/09/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "21/09/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "21/09/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "21/09/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "21/09/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "21/09/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "21/09/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "21/09/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "21/09/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "24",
+      "data": "21/09/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    }
+,
+    {
+      "rodada": "25",
+      "data": "28/09/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "28/09/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "28/09/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "28/09/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "28/09/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "28/09/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "28/09/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "28/09/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "28/09/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "25",
+      "data": "28/09/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    }
+,
+    {
+      "rodada": "26",
+      "data": "01/10/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "01/10/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "01/10/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "01/10/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "01/10/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "01/10/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "01/10/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "01/10/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "01/10/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "26",
+      "data": "01/10/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    }
+,
+    {
+      "rodada": "27",
+      "data": "16/10/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "16/10/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "16/10/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "16/10/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "16/10/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "16/10/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "16/10/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "16/10/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "16/10/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "27",
+      "data": "16/10/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    }
+,
+    {
+      "rodada": "28",
+      "data": "26/10/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "26/10/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "26/10/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "26/10/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "26/10/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "26/10/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "26/10/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "26/10/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "26/10/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "28",
+      "data": "26/10/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    }
+,
+    {
+      "rodada": "29",
+      "data": "05/11/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "05/11/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "05/11/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "05/11/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "05/11/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "05/11/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "05/11/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "05/11/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "05/11/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "29",
+      "data": "05/11/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    }
+,
+    {
+      "rodada": "30",
+      "data": "19/11/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "19/11/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "19/11/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "19/11/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "19/11/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "19/11/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "19/11/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "19/11/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "19/11/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "30",
+      "data": "19/11/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    }
+,
+    {
+      "rodada": "31",
+      "data": "23/11/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "23/11/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "23/11/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "23/11/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "23/11/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "23/11/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "23/11/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "23/11/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "23/11/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "31",
+      "data": "23/11/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    }
+,
+    {
+      "rodada": "32",
+      "data": "30/11/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "30/11/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "30/11/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "30/11/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "30/11/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "30/11/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "30/11/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "30/11/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "30/11/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "32",
+      "data": "30/11/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    }
+,
+    {
+      "rodada": "33",
+      "data": "03/12/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "03/12/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "03/12/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "03/12/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "03/12/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "03/12/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "03/12/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "03/12/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "03/12/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "33",
+      "data": "03/12/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    }
+,
+    {
+      "rodada": "34",
+      "data": "07/12/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "07/12/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "07/12/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "07/12/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "07/12/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "07/12/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "07/12/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "07/12/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "07/12/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "34",
+      "data": "07/12/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    }
+,
+    {
+      "rodada": "35",
+      "data": "10/12/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "10/12/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "10/12/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "10/12/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "10/12/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "10/12/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "10/12/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "10/12/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "10/12/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "35",
+      "data": "10/12/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    }
+,
+    {
+      "rodada": "36",
+      "data": "14/12/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "14/12/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "14/12/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "14/12/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "14/12/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "14/12/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "14/12/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "14/12/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "14/12/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "36",
+      "data": "14/12/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    }
+,
+    {
+      "rodada": "37",
+      "data": "17/12/2025 15:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "17/12/2025 15:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "17/12/2025 15:00",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "17/12/2025 15:00",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "17/12/2025 15:00",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "17/12/2025 15:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "17/12/2025 15:00",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "17/12/2025 15:00",
+      "mandante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "17/12/2025 15:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      },
+      "visitante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      }
+    },
+    {
+      "rodada": "37",
+      "data": "17/12/2025 15:00",
+      "mandante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      },
+      "visitante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      }
+    }
+,
+    {
+      "rodada": "38",
+      "data": "21/12/2025 15:00",
+      "mandante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/10/atletico-mg.svg"
+      },
+      "visitante": {
+        "nome": "Vasco",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/04/vasco_SVG.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "21/12/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-svg.svg"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/09/19/Fortaleza_2021_1.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "21/12/2025 15:00",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/10/10/ceara.svg"
+      },
+      "visitante": {
+        "nome": "Palmeiras",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "21/12/2025 15:00",
+      "mandante": {
+        "nome": "Corinthians",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/10/09/Corinthians_2024_Q4ahot4.svg"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/04/29/Juventude-2021-01.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "21/12/2025 15:00",
+      "mandante": {
+        "nome": "Fluminense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg"
+      },
+      "visitante": {
+        "nome": "Bahia",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/bahia.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "21/12/2025 15:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg"
+      },
+      "visitante": {
+        "nome": "RB Bragantino",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/06/28/bragantino.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "21/12/2025 15:00",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/08/20/mirassol-novo-svg-71690.svg"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/04/10/Flamengo-2018.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "21/12/2025 15:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg"
+      },
+      "visitante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://s.sde.globo.com/media/organizations/2021/02/13/cruzeiro_2021.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "21/12/2025 15:00",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sport.svg"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg"
+      }
+    },
+    {
+      "rodada": "38",
+      "data": "21/12/2025 15:00",
+      "mandante": {
+        "nome": "Vitória",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-svg-69281.svg"
+      },
+      "visitante": {
+        "nome": "São Paulo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg"
+      }
+    }
+
+
+
+
+
+]
