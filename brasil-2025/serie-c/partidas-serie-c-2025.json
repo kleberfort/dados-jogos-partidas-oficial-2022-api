@@ -1,1 +1,2305 @@
+[
 
+
+        {
+      "rodada": "1",
+      "data": "12/04/2025 16:00",
+      "mandante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      },
+      "visitante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "12/04/2025 16:00",
+      "mandante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      },
+      "visitante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "12/04/2025 16:00",
+      "mandante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      },
+      "visitante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "12/04/2025 16:00",
+      "mandante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "13/04/2025 16:00",
+      "mandante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      },
+      "visitante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "13/04/2025 16:00",
+      "mandante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      },
+      "visitante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "13/04/2025 16:00",
+      "mandante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      },
+      "visitante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "13/04/2025 16:00",
+      "mandante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      },
+      "visitante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "13/04/2025 16:00",
+      "mandante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      },
+      "visitante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      }
+    },
+    {
+      "rodada": "1",
+      "data": "14/04/2025 20:00",
+      "mandante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      },
+      "visitante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      }
+    }
+,
+    {
+      "rodada": "2",
+      "data": "19/04/2025 17:00",
+      "mandante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "19/04/2025 17:00",
+      "mandante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      },
+      "visitante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "19/04/2025 19:30",
+      "mandante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      },
+      "visitante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "19/04/2025 19:30",
+      "mandante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      },
+      "visitante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "20/04/2025 16:30",
+      "mandante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      },
+      "visitante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "20/04/2025 16:30",
+      "mandante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "20/04/2025 19:00",
+      "mandante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      },
+      "visitante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "20/04/2025 19:00",
+      "mandante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      },
+      "visitante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "21/04/2025 19:30",
+      "mandante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      },
+      "visitante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      }
+    },
+    {
+      "rodada": "2",
+      "data": "21/04/2025 19:30",
+      "mandante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      },
+      "visitante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      }
+    }
+,
+    {
+      "rodada": "3",
+      "data": "26/04/2025 17:00",
+      "mandante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      },
+      "visitante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "26/04/2025 17:00",
+      "mandante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      },
+      "visitante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "26/04/2025 19:30",
+      "mandante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      },
+      "visitante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "26/04/2025 19:30",
+      "mandante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      },
+      "visitante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "27/04/2025 16:30",
+      "mandante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      },
+      "visitante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "27/04/2025 16:30",
+      "mandante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "27/04/2025 19:00",
+      "mandante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      },
+      "visitante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "27/04/2025 19:00",
+      "mandante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      },
+      "visitante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "28/04/2025 19:30",
+      "mandante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      },
+      "visitante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      }
+    },
+    {
+      "rodada": "3",
+      "data": "28/04/2025 19:30",
+      "mandante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      },
+      "visitante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      }
+    }
+,
+    {
+      "rodada": "4",
+      "data": "03/05/2025 17:00",
+      "mandante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      },
+      "visitante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "03/05/2025 17:00",
+      "mandante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      },
+      "visitante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "03/05/2025 19:30",
+      "mandante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      },
+      "visitante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "03/05/2025 19:30",
+      "mandante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      },
+      "visitante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "04/05/2025 16:30",
+      "mandante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "04/05/2025 16:30",
+      "mandante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      },
+      "visitante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "04/05/2025 19:00",
+      "mandante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "04/05/2025 19:00",
+      "mandante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      },
+      "visitante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "05/05/2025 19:30",
+      "mandante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      },
+      "visitante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      }
+    },
+    {
+      "rodada": "4",
+      "data": "05/05/2025 19:30",
+      "mandante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      },
+      "visitante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      }
+    }
+,
+    {
+      "rodada": "5",
+      "data": "10/05/2025 17:00",
+      "mandante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      },
+      "visitante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "10/05/2025 17:00",
+      "mandante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      },
+      "visitante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "10/05/2025 19:30",
+      "mandante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      },
+      "visitante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "10/05/2025 19:30",
+      "mandante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      },
+      "visitante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "11/05/2025 16:30",
+      "mandante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      },
+      "visitante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "11/05/2025 16:30",
+      "mandante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      },
+      "visitante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "11/05/2025 19:00",
+      "mandante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      },
+      "visitante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "11/05/2025 19:00",
+      "mandante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      },
+      "visitante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "12/05/2025 19:30",
+      "mandante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      },
+      "visitante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      }
+    },
+    {
+      "rodada": "5",
+      "data": "12/05/2025 19:30",
+      "mandante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      }
+    }
+,
+    {
+      "rodada": "6",
+      "data": "17/05/2025 16:00",
+      "mandante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "17/05/2025 17:00",
+      "mandante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      },
+      "visitante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "18/05/2025 16:00",
+      "mandante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      },
+      "visitante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "18/05/2025 16:00",
+      "mandante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "18/05/2025 16:00",
+      "mandante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      },
+      "visitante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "18/05/2025 16:00",
+      "mandante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      },
+      "visitante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "18/05/2025 16:00",
+      "mandante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      },
+      "visitante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "18/05/2025 19:30",
+      "mandante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      },
+      "visitante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "19/05/2025 16:30",
+      "mandante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      },
+      "visitante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      }
+    },
+    {
+      "rodada": "6",
+      "data": "19/05/2025 19:30",
+      "mandante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      },
+      "visitante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      }
+    }
+,
+    {
+      "rodada": "7",
+      "data": "24/05/2025 16:00",
+      "mandante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      },
+      "visitante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "24/05/2025 16:00",
+      "mandante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      },
+      "visitante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "24/05/2025 16:00",
+      "mandante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      },
+      "visitante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "25/05/2025 10:00",
+      "mandante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      },
+      "visitante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "25/05/2025 16:00",
+      "mandante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      },
+      "visitante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "25/05/2025 16:00",
+      "mandante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      },
+      "visitante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "25/05/2025 16:00",
+      "mandante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      },
+      "visitante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "25/05/2025 16:00",
+      "mandante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "25/05/2025 16:00",
+      "mandante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      },
+      "visitante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      }
+    },
+    {
+      "rodada": "7",
+      "data": "25/05/2025 16:00",
+      "mandante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      },
+      "visitante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      }
+    }
+,
+    {
+      "rodada": "8",
+      "data": "31/05/2025 16:00",
+      "mandante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      },
+      "visitante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "31/05/2025 16:00",
+      "mandante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      },
+      "visitante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "31/05/2025 16:00",
+      "mandante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      },
+      "visitante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "31/05/2025 16:00",
+      "mandante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      },
+      "visitante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "31/05/2025 16:00",
+      "mandante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      },
+      "visitante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "01/06/2025 16:00",
+      "mandante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      },
+      "visitante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "01/06/2025 16:00",
+      "mandante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "01/06/2025 16:00",
+      "mandante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "01/06/2025 16:00",
+      "mandante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      },
+      "visitante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      }
+    },
+    {
+      "rodada": "8",
+      "data": "01/06/2025 16:00",
+      "mandante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      },
+      "visitante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      }
+    }
+,
+    {
+      "rodada": "9",
+      "data": "15/06/2025 15:00",
+      "mandante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      },
+      "visitante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "15/06/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      },
+      "visitante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "15/06/2025 15:00",
+      "mandante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      },
+      "visitante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "15/06/2025 15:00",
+      "mandante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      },
+      "visitante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "15/06/2025 15:00",
+      "mandante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      },
+      "visitante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "15/06/2025 15:00",
+      "mandante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      },
+      "visitante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "15/06/2025 15:00",
+      "mandante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      },
+      "visitante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "15/06/2025 15:00",
+      "mandante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      },
+      "visitante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "15/06/2025 15:00",
+      "mandante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      },
+      "visitante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      }
+    },
+    {
+      "rodada": "9",
+      "data": "15/06/2025 15:00",
+      "mandante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      },
+      "visitante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      }
+    }
+,
+    {
+      "rodada": "10",
+      "data": "29/06/2025 15:00",
+      "mandante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      },
+      "visitante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "29/06/2025 15:00",
+      "mandante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "29/06/2025 15:00",
+      "mandante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      },
+      "visitante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "29/06/2025 15:00",
+      "mandante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      },
+      "visitante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "29/06/2025 15:00",
+      "mandante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "29/06/2025 15:00",
+      "mandante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      },
+      "visitante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "29/06/2025 15:00",
+      "mandante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      },
+      "visitante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "29/06/2025 15:00",
+      "mandante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      },
+      "visitante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "29/06/2025 15:00",
+      "mandante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      },
+      "visitante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      }
+    },
+    {
+      "rodada": "10",
+      "data": "29/06/2025 15:00",
+      "mandante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      },
+      "visitante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      }
+    }
+,
+    {
+      "rodada": "11",
+      "data": "06/07/2025 15:00",
+      "mandante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      },
+      "visitante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "06/07/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      },
+      "visitante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "06/07/2025 15:00",
+      "mandante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      },
+      "visitante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "06/07/2025 15:00",
+      "mandante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      },
+      "visitante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "06/07/2025 15:00",
+      "mandante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      },
+      "visitante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "06/07/2025 15:00",
+      "mandante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "06/07/2025 15:00",
+      "mandante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      },
+      "visitante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "06/07/2025 15:00",
+      "mandante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      },
+      "visitante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "06/07/2025 15:00",
+      "mandante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      },
+      "visitante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "06/07/2025 15:00",
+      "mandante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      },
+      "visitante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      }
+    }
+,
+    {
+      "rodada": "12",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      },
+      "visitante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      },
+      "visitante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      },
+      "visitante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      },
+      "visitante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      },
+      "visitante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      },
+      "visitante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      },
+      "visitante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      },
+      "visitante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "13/07/2025 15:00",
+      "mandante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      },
+      "visitante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      }
+    }
+,
+    {
+      "rodada": "13",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      },
+      "visitante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      },
+      "visitante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      },
+      "visitante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      },
+      "visitante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      },
+      "visitante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      },
+      "visitante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      },
+      "visitante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      },
+      "visitante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "20/07/2025 15:00",
+      "mandante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      },
+      "visitante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      }
+    }
+,
+    {
+      "rodada": "14",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      },
+      "visitante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      },
+      "visitante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      },
+      "visitante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      },
+      "visitante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      },
+      "visitante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      },
+      "visitante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      },
+      "visitante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      },
+      "visitante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      },
+      "visitante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "27/07/2025 15:00",
+      "mandante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      },
+      "visitante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      }
+    }
+,
+    {
+      "rodada": "15",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      },
+      "visitante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      },
+      "visitante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      },
+      "visitante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      },
+      "visitante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      },
+      "visitante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      },
+      "visitante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      },
+      "visitante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "03/08/2025 15:00",
+      "mandante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      },
+      "visitante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      }
+    }
+,
+    {
+      "rodada": "16",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      },
+      "visitante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      },
+      "visitante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      },
+      "visitante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      },
+      "visitante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      },
+      "visitante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      },
+      "visitante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      },
+      "visitante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      }
+    },
+    {
+      "rodada": "16",
+      "data": "10/08/2025 15:00",
+      "mandante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      },
+      "visitante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      }
+    }
+,
+    {
+      "rodada": "17",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      },
+      "visitante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      },
+      "visitante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      },
+      "visitante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      },
+      "visitante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      },
+      "visitante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      },
+      "visitante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      },
+      "visitante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      },
+      "visitante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      },
+      "visitante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      }
+    },
+    {
+      "rodada": "17",
+      "data": "17/08/2025 15:00",
+      "mandante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      }
+    }
+,
+    {
+      "rodada": "18",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      },
+      "visitante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      },
+      "visitante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      },
+      "visitante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      },
+      "visitante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      },
+      "visitante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      },
+      "visitante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      },
+      "visitante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      },
+      "visitante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      },
+      "visitante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      }
+    },
+    {
+      "rodada": "18",
+      "data": "24/08/2025 15:00",
+      "mandante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      },
+      "visitante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      }
+    }
+,
+    {
+      "rodada": "19",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "ABC",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/11/14/ABC-RN.svg"
+      },
+      "visitante": {
+        "nome": "Itabaiana",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/08/28/itabaiana.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Anápolis",
+        "imagem": "https://s.sde.globo.com/media/organizations/2024/02/20/An%C3%A1polis_Cib1JGm.svg"
+      },
+      "visitante": {
+        "nome": "Botafogo-PB",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/02/12/botsvg.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Brusque",
+        "imagem": "https://s.sde.globo.com/media/organizations/2020/09/06/brusque.svg"
+      },
+      "visitante": {
+        "nome": "CSA",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/csa.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Confiança",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/09/10/Confianca.svg"
+      },
+      "visitante": {
+        "nome": "Retrô",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/01/02/svg.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Floresta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/01/Floresta_Esporte_Clube.svg"
+      },
+      "visitante": {
+        "nome": "São Bernardo",
+        "imagem": "https://s.sde.globo.com/media/organizations/2022/01/20/Sao_Bernardo.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Maringá",
+        "imagem": "https://s.sde.globo.com/media/organizations/2023/05/03/Maring%C3%A1_MfSJ40V.svg"
+      },
+      "visitante": {
+        "nome": "Caxias",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/05/svg-caxias.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Náutico",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/03/Nautico.svg"
+      },
+      "visitante": {
+        "nome": "Ituano",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/08/Ituano_Futebol_Clube.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Ponte Preta",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/03/17/ponte-preta.svg"
+      },
+      "visitante": {
+        "nome": "Londrina",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/londrina.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Tombense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/01/21/Tombense.svg"
+      },
+      "visitante": {
+        "nome": "Guarani",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/guarani.svg"
+      }
+    },
+    {
+      "rodada": "19",
+      "data": "31/08/2025 15:00",
+      "mandante": {
+        "nome": "Ypiranga",
+        "imagem": "https://s.sde.globo.com/media/organizations/2019/05/13/YpirangaRSSVG.svg"
+      },
+      "visitante": {
+        "nome": "Figueirense",
+        "imagem": "https://s.sde.globo.com/media/organizations/2018/03/11/figueirense.svg"
+      }
+    }
+
+
+
+]
