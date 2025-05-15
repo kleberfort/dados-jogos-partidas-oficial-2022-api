@@ -2,6 +2,693 @@
 
 {
   "descricao" : "Eredivisie",
+  "rodada" : 33,
+  "data" : "14/05/2025",
+  "mandante" : {
+    "nome" : "Willem II",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/dJxW7JzpyiA_hNx-Lf-bww_96x96.png",
+    "classificacao" : 16,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "J. Bosch",
+      "tempo" : "72"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Zwolle",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/wG9B0Qx4RzFdcpLmKnjHLQ_96x96.png",
+    "classificacao" : 14,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "Y. Namli",
+      "tempo" : "26"
+    }, {
+      "jogador" : "E. Reijnders",
+      "tempo" : "79"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 6,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 42,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 3,
+    "faltas" : 11,
+    "passes" : 350,
+    "desarmes" : 26,
+    "impedimentos" : 3,
+    "laterais" : 26,
+    "tiroDeMeta" : 10
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 58,
+    "finalizacoes" : 16,
+    "finalizacoesGol" : 6,
+    "faltas" : 8,
+    "passes" : 478,
+    "desarmes" : 19,
+    "impedimentos" : 1,
+    "laterais" : 23,
+    "tiroDeMeta" : 10
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 33,
+  "data" : "14/05/2025",
+  "mandante" : {
+    "nome" : "PSV",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/FylTPR72JXIGFzqwQocSAQ_96x96.png",
+    "classificacao" : 2,
+    "placar" : 4,
+    "gols" : [ {
+      "jogador" : "M. Tillman",
+      "tempo" : "18"
+    }, {
+      "jogador" : "I. Saibari",
+      "tempo" : "21"
+    }, {
+      "jogador" : "I. Saibari",
+      "tempo" : "35"
+    }, {
+      "jogador" : "M. Tillman",
+      "tempo" : "40"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Heracles",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/EDWW-98PyPcSLD3Qm2oZZg_96x96.png",
+    "classificacao" : 12,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "M. Engels",
+      "tempo" : "75"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 8,
+    "golsPrimeiroTempo" : 4,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 68,
+    "finalizacoes" : 30,
+    "finalizacoesGol" : 11,
+    "faltas" : 7,
+    "passes" : 582,
+    "desarmes" : 16,
+    "impedimentos" : 0,
+    "laterais" : 15,
+    "tiroDeMeta" : 4
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 32,
+    "finalizacoes" : 3,
+    "finalizacoesGol" : 2,
+    "faltas" : 8,
+    "passes" : 280,
+    "desarmes" : 14,
+    "impedimentos" : 0,
+    "laterais" : 11,
+    "tiroDeMeta" : 18
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 33,
+  "data" : "14/05/2025",
+  "mandante" : {
+    "nome" : "NEC",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/z6E6BNnp8PjBXtfAiZ6yNg_96x96.png",
+    "classificacao" : 13,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "B. Pereira",
+      "tempo" : "31"
+    }, {
+      "jogador" : "B. Linssen",
+      "tempo" : "67"
+    }, {
+      "jogador" : "B. Linssen",
+      "tempo" : "70"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "NAC Breda",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/5QzjC5uajTeyHE_fjTlWSQ_96x96.png",
+    "classificacao" : 15,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 45,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 5,
+    "faltas" : 5,
+    "passes" : 442,
+    "desarmes" : 11,
+    "impedimentos" : 1,
+    "laterais" : 25,
+    "tiroDeMeta" : 8
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 55,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 0,
+    "faltas" : 9,
+    "passes" : 536,
+    "desarmes" : 14,
+    "impedimentos" : 2,
+    "laterais" : 11,
+    "tiroDeMeta" : 8
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 33,
+  "data" : "14/05/2025",
+  "mandante" : {
+    "nome" : "GA Eagles",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/KPnQQv6PNQxcHPlpi4rC-g_96x96.png",
+    "classificacao" : 7,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "M. Suray",
+      "tempo" : "89"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Heerenveen",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Qa7g4ljRDZbBcmibwsRePA_96x96.png",
+    "classificacao" : 8,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 50,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 5,
+    "faltas" : 8,
+    "passes" : 434,
+    "desarmes" : 12,
+    "impedimentos" : 0,
+    "laterais" : 16,
+    "tiroDeMeta" : 13
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 50,
+    "finalizacoes" : 20,
+    "finalizacoesGol" : 5,
+    "faltas" : 11,
+    "passes" : 421,
+    "desarmes" : 11,
+    "impedimentos" : 0,
+    "laterais" : 15,
+    "tiroDeMeta" : 9
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 33,
+  "data" : "14/05/2025",
+  "mandante" : {
+    "nome" : "Feyenoord",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/36g41WN3WdjCRsSFiurazw_96x96.png",
+    "classificacao" : 3,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "I. Paixão",
+      "tempo" : "45+4"
+    }, {
+      "jogador" : "A. Ueda",
+      "tempo" : "69"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Waalwijk",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/pPk9dz2N7A7YWQkhABIiCQ_96x96.png",
+    "classificacao" : 17,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 54,
+    "finalizacoes" : 22,
+    "finalizacoesGol" : 5,
+    "faltas" : 9,
+    "passes" : 511,
+    "desarmes" : 8,
+    "impedimentos" : 0,
+    "laterais" : 16,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 46,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 1,
+    "faltas" : 4,
+    "passes" : 436,
+    "desarmes" : 20,
+    "impedimentos" : 1,
+    "laterais" : 10,
+    "tiroDeMeta" : 14
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 33,
+  "data" : "14/05/2025",
+  "mandante" : {
+    "nome" : "Utrecht",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Xf2ldClrgyjAQGXtqliERg_96x96.png",
+    "classificacao" : 4,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "P. Aaronson",
+      "tempo" : "36"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Sparta",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/-zNS1knZ46R8EM_FRWN01w_96x96.png",
+    "classificacao" : 10,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "T. Lauritsen",
+      "tempo" : "12"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 7,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 47,
+    "finalizacoes" : 32,
+    "finalizacoesGol" : 9,
+    "faltas" : 11,
+    "passes" : 382,
+    "desarmes" : 18,
+    "impedimentos" : 0,
+    "laterais" : 24,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 53,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 4,
+    "faltas" : 9,
+    "passes" : 464,
+    "desarmes" : 16,
+    "impedimentos" : 2,
+    "laterais" : 18,
+    "tiroDeMeta" : 15
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 33,
+  "data" : "14/05/2025",
+  "mandante" : {
+    "nome" : "Twente",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/APPtKtO4wP6dQme5I1MSlA_96x96.png",
+    "classificacao" : 5,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "R. van Wolfswinkel",
+      "tempo" : "13"
+    }, {
+      "jogador" : "M. Vlap",
+      "tempo" : "23"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "AZ",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Lhhh1mbsrqH2K1AfXFazrQ_96x96.png",
+    "classificacao" : 6,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "R. van Bommel",
+      "tempo" : "3"
+    }, {
+      "jogador" : "S. Mijnans",
+      "tempo" : "45+1"
+    }, {
+      "jogador" : "D. Kasius",
+      "tempo" : "71"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 7,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 51,
+    "finalizacoes" : 20,
+    "finalizacoesGol" : 6,
+    "faltas" : 8,
+    "passes" : 453,
+    "desarmes" : 5,
+    "impedimentos" : 3,
+    "laterais" : 17,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 49,
+    "finalizacoes" : 16,
+    "finalizacoesGol" : 7,
+    "faltas" : 10,
+    "passes" : 427,
+    "desarmes" : 15,
+    "impedimentos" : 2,
+    "laterais" : 10,
+    "tiroDeMeta" : 7
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 33,
+  "data" : "14/05/2025",
+  "mandante" : {
+    "nome" : "Groningen",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/efkaF1E3Z9UbMSO0VC9WJQ_96x96.png",
+    "classificacao" : 11,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "T. v. Bergen",
+      "tempo" : "52"
+    }, {
+      "jogador" : "T. Blokzijl",
+      "tempo" : "90+9"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Ajax",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/WIAAdPpdzFwVKU7maFvJ6w_96x96.png",
+    "classificacao" : 1,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "A. Gaaei",
+      "tempo" : "27"
+    }, {
+      "jogador" : "W. Weghorst",
+      "tempo" : "68"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 5,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 1
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 47,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 6,
+    "faltas" : 15,
+    "passes" : 452,
+    "desarmes" : 19,
+    "impedimentos" : 0,
+    "laterais" : 21,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 53,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 3,
+    "faltas" : 13,
+    "passes" : 524,
+    "desarmes" : 15,
+    "impedimentos" : 1,
+    "laterais" : 17,
+    "tiroDeMeta" : 11
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 33,
+  "data" : "14/05/2025",
+  "mandante" : {
+    "nome" : "Almere City",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/kOBM_7hmtOCsUfPtIr7ksw_96x96.png",
+    "classificacao" : 18,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "J. Kadile",
+      "tempo" : "14"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Fortuna",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/yggtmgEdp8JilDkQFFfqkA_96x96.png",
+    "classificacao" : 9,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "B. Radulović",
+      "tempo" : "79"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 52,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 5,
+    "faltas" : 12,
+    "passes" : 400,
+    "desarmes" : 28,
+    "impedimentos" : 3,
+    "laterais" : 20,
+    "tiroDeMeta" : 9
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 48,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 2,
+    "faltas" : 11,
+    "passes" : 365,
+    "desarmes" : 22,
+    "impedimentos" : 2,
+    "laterais" : 26,
+    "tiroDeMeta" : 6
+  },"Rodada": 33, "Total de Jogos": 9 
+}
+
+
+
+  ,
+
+{
+  "descricao" : "Eredivisie",
   "rodada" : 32,
   "data" : "09/05/2025",
   "mandante" : {
