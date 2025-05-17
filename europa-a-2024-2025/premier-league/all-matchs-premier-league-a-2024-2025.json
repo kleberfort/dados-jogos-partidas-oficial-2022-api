@@ -3,6 +3,153 @@
 
   {
   "descricao" : "Premier League",
+  "rodada" : 37,
+  "data" : "16/05/2025",
+  "mandante" : {
+    "nome" : "Aston Villa",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+    "classificacao" : 6,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "E. Konsa",
+      "tempo" : "59"
+    }, {
+      "jogador" : "B. Kamara",
+      "tempo" : "73"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Tottenham ",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
+    "classificacao" : 17,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 7,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 68,
+    "finalizacoes" : 18,
+    "finalizacoesGol" : 7,
+    "faltas" : 5,
+    "passes" : 581,
+    "desarmes" : 16,
+    "impedimentos" : 1,
+    "laterais" : 12,
+    "tiroDeMeta" : 2
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 32,
+    "finalizacoes" : 3,
+    "finalizacoesGol" : 1,
+    "faltas" : 12,
+    "passes" : 271,
+    "desarmes" : 9,
+    "impedimentos" : 0,
+    "laterais" : 14,
+    "tiroDeMeta" : 10
+  }
+}
+,
+
+{
+  "descricao" : "Premier League",
+  "rodada" : 37,
+  "data" : "16/05/2025",
+  "mandante" : {
+    "nome" : "Chelsea",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+    "classificacao" : 5,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "M. Cucurella",
+      "tempo" : "71"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Man Utd",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+    "classificacao" : 16,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 5,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 47,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 3,
+    "faltas" : 10,
+    "passes" : 403,
+    "desarmes" : 18,
+    "impedimentos" : 3,
+    "laterais" : 15,
+    "tiroDeMeta" : 2
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 53,
+    "finalizacoes" : 4,
+    "finalizacoesGol" : 1,
+    "faltas" : 14,
+    "passes" : 471,
+    "desarmes" : 23,
+    "impedimentos" : 2,
+    "laterais" : 19,
+    "tiroDeMeta" : 10
+  },"Rodada": 37, "Total de Jogos": 2 
+}
+
+
+
+  ,
+
+
+  {
+  "descricao" : "Premier League",
   "rodada" : 36,
   "data" : "10/05/2025",
   "mandante" : {
