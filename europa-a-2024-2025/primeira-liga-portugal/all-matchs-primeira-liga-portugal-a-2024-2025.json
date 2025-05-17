@@ -1,5 +1,158 @@
 [
 
+
+{
+  "descricao" : "Liga Portugal Betclic",
+  "rodada" : 34,
+  "data" : "16/05/2025",
+  "mandante" : {
+    "nome" : "Rio Ave",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png",
+    "classificacao" : 11,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "F. Petrasso",
+      "tempo" : "38"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Gil Vicente",
+    "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+    "classificacao" : 14,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "S. Bermejo",
+      "tempo" : "42"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 54,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 3,
+    "faltas" : 11,
+    "passes" : 433,
+    "desarmes" : 14,
+    "impedimentos" : 2,
+    "laterais" : 21,
+    "tiroDeMeta" : 4
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 46,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 3,
+    "faltas" : 8,
+    "passes" : 369,
+    "desarmes" : 17,
+    "impedimentos" : 2,
+    "laterais" : 19,
+    "tiroDeMeta" : 3
+  }
+}
+,
+
+{
+  "descricao" : "Liga Portugal Betclic",
+  "rodada" : 34,
+  "data" : "16/05/2025",
+  "mandante" : {
+    "nome" : "Famalicão",
+    "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+    "classificacao" : 8,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "S. Elisor",
+      "tempo" : "37"
+    }, {
+      "jogador" : "S. Elisor",
+      "tempo" : "72"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Casa Pia",
+    "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+    "classificacao" : 7,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "G. Larrazabal",
+      "tempo" : "54"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 6,
+    "escanteiosSegundoTempo" : 7,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 3,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 55,
+    "finalizacoes" : 18,
+    "finalizacoesGol" : 4,
+    "faltas" : 14,
+    "passes" : 360,
+    "desarmes" : 10,
+    "impedimentos" : 1,
+    "laterais" : 19,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 45,
+    "finalizacoes" : 5,
+    "finalizacoesGol" : 1,
+    "faltas" : 15,
+    "passes" : 311,
+    "desarmes" : 15,
+    "impedimentos" : 0,
+    "laterais" : 22,
+    "tiroDeMeta" : 9
+  },"Rodada": 34, "Total de Jogos": 2 
+}
+
+
+
+  ,
+
 {
   "descricao" : "Liga Portugal Betclic",
   "rodada" : 33,
