@@ -1,5 +1,769 @@
 [
 
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 37,
+  "data" : "17/05/2025",
+  "mandante" : {
+    "nome" : "Genoa",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png",
+    "classificacao" : 13,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "A. Pinamonti",
+      "tempo" : "37"
+    }, {
+      "jogador" : "A. Pinamonti",
+      "tempo" : "58"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Atalanta",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png",
+    "classificacao" : 3,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "I. Sulemana",
+      "tempo" : "47"
+    }, {
+      "jogador" : "D. Maldini",
+      "tempo" : "63"
+    }, {
+      "jogador" : "M. Retegui",
+      "tempo" : "89"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 3
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 56,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 5,
+    "faltas" : 10,
+    "passes" : 463,
+    "desarmes" : 13,
+    "impedimentos" : 0,
+    "laterais" : 15,
+    "tiroDeMeta" : 10
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 44,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 6,
+    "faltas" : 14,
+    "passes" : 377,
+    "desarmes" : 13,
+    "impedimentos" : 0,
+    "laterais" : 20,
+    "tiroDeMeta" : 7
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 37,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Roma",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png",
+    "classificacao" : 6,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "G. Mancini",
+      "tempo" : "3"
+    }, {
+      "jogador" : "L. Paredes",
+      "tempo" : "58"
+    }, {
+      "jogador" : "B. Cristante",
+      "tempo" : "87"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Milan",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png",
+    "classificacao" : 8,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "J. Félix",
+      "tempo" : "39"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 1,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 54,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 6,
+    "faltas" : 12,
+    "passes" : 553,
+    "desarmes" : 12,
+    "impedimentos" : 0,
+    "laterais" : 6,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 46,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 3,
+    "faltas" : 16,
+    "passes" : 475,
+    "desarmes" : 14,
+    "impedimentos" : 0,
+    "laterais" : 9,
+    "tiroDeMeta" : 3
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 37,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Parma",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png",
+    "classificacao" : 16,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Napoli",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png",
+    "classificacao" : 1,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 28,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 4,
+    "faltas" : 13,
+    "passes" : 205,
+    "desarmes" : 16,
+    "impedimentos" : 0,
+    "laterais" : 19,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 72,
+    "finalizacoes" : 7,
+    "finalizacoesGol" : 2,
+    "faltas" : 16,
+    "passes" : 528,
+    "desarmes" : 8,
+    "impedimentos" : 2,
+    "laterais" : 21,
+    "tiroDeMeta" : 2
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 37,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Monza",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png",
+    "classificacao" : 20,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "S. Birindelli",
+      "tempo" : "30"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Empoli",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png",
+    "classificacao" : 18,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "L. Colombo",
+      "tempo" : "49"
+    }, {
+      "jogador" : "M. Viti",
+      "tempo" : "51"
+    }, {
+      "jogador" : "S. Pizzignacco (AG)",
+      "tempo" : "59"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 3
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 68,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 4,
+    "faltas" : 8,
+    "passes" : 653,
+    "desarmes" : 11,
+    "impedimentos" : 3,
+    "laterais" : 16,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 32,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 4,
+    "faltas" : 16,
+    "passes" : 297,
+    "desarmes" : 12,
+    "impedimentos" : 1,
+    "laterais" : 20,
+    "tiroDeMeta" : 6
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 37,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Lecce",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png",
+    "classificacao" : 19,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "Y. Ramadani",
+      "tempo" : "46"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Torino",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png",
+    "classificacao" : 11,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 42,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 4,
+    "faltas" : 13,
+    "passes" : 326,
+    "desarmes" : 9,
+    "impedimentos" : 2,
+    "laterais" : 26,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 58,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 4,
+    "faltas" : 8,
+    "passes" : 455,
+    "desarmes" : 10,
+    "impedimentos" : 1,
+    "laterais" : 23,
+    "tiroDeMeta" : 9
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 37,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Juventus",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png",
+    "classificacao" : 4,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "N. González",
+      "tempo" : "61"
+    }, {
+      "jogador" : "D. Vlahović",
+      "tempo" : "88"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Udinese",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png",
+    "classificacao" : 12,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 9,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 64,
+    "finalizacoes" : 24,
+    "finalizacoesGol" : 7,
+    "faltas" : 9,
+    "passes" : 470,
+    "desarmes" : 12,
+    "impedimentos" : 1,
+    "laterais" : 21,
+    "tiroDeMeta" : 4
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 36,
+    "finalizacoes" : 7,
+    "finalizacoesGol" : 2,
+    "faltas" : 13,
+    "passes" : 263,
+    "desarmes" : 14,
+    "impedimentos" : 1,
+    "laterais" : 29,
+    "tiroDeMeta" : 14
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 37,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Inter",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png",
+    "classificacao" : 2,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "Y. Bisseck",
+      "tempo" : "45+2"
+    }, {
+      "jogador" : "D. Dumfries",
+      "tempo" : "79"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Lazio",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png",
+    "classificacao" : 5,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "Pedro",
+      "tempo" : "72"
+    }, {
+      "jogador" : "Pedro (Pên.)",
+      "tempo" : "90"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 56,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 3,
+    "faltas" : 14,
+    "passes" : 530,
+    "desarmes" : 15,
+    "impedimentos" : 1,
+    "laterais" : 19,
+    "tiroDeMeta" : 3
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 44,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 4,
+    "faltas" : 10,
+    "passes" : 424,
+    "desarmes" : 10,
+    "impedimentos" : 0,
+    "laterais" : 12,
+    "tiroDeMeta" : 3
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 37,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Verona",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png",
+    "classificacao" : 15,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "D. Lazović",
+      "tempo" : "69"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Como",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png",
+    "classificacao" : 10,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "M. Caqueret",
+      "tempo" : "29"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 3,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 32,
+    "finalizacoes" : 16,
+    "finalizacoesGol" : 3,
+    "faltas" : 13,
+    "passes" : 242,
+    "desarmes" : 21,
+    "impedimentos" : 1,
+    "laterais" : 22,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 68,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 5,
+    "faltas" : 10,
+    "passes" : 551,
+    "desarmes" : 8,
+    "impedimentos" : 2,
+    "laterais" : 15,
+    "tiroDeMeta" : 10
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 37,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Fiorentina",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png",
+    "classificacao" : 9,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "F. Parisi",
+      "tempo" : "13"
+    }, {
+      "jogador" : "A. Richardson",
+      "tempo" : "67"
+    }, {
+      "jogador" : "M. Kean",
+      "tempo" : "84"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Bologna",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png",
+    "classificacao" : 7,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "T. Dallinga",
+      "tempo" : "61"
+    }, {
+      "jogador" : "R. Orsolini",
+      "tempo" : "79"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 1
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 40,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 5,
+    "faltas" : 21,
+    "passes" : 328,
+    "desarmes" : 8,
+    "impedimentos" : 4,
+    "laterais" : 15,
+    "tiroDeMeta" : 11
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 60,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 3,
+    "faltas" : 17,
+    "passes" : 477,
+    "desarmes" : 11,
+    "impedimentos" : 1,
+    "laterais" : 21,
+    "tiroDeMeta" : 2
+  }
+}
+,
+
+{
+  "descricao" : "Serie A",
+  "rodada" : 37,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Cagliari",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png",
+    "classificacao" : 14,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "Y. Mina",
+      "tempo" : "11"
+    }, {
+      "jogador" : "R. Piccoli",
+      "tempo" : "41"
+    }, {
+      "jogador" : "A. Deiola",
+      "tempo" : "71"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Venezia",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png",
+    "classificacao" : 17,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 6,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 43,
+    "finalizacoes" : 20,
+    "finalizacoesGol" : 5,
+    "faltas" : 7,
+    "passes" : 353,
+    "desarmes" : 18,
+    "impedimentos" : 2,
+    "laterais" : 15,
+    "tiroDeMeta" : 12
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 57,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 1,
+    "faltas" : 9,
+    "passes" : 488,
+    "desarmes" : 8,
+    "impedimentos" : 1,
+    "laterais" : 19,
+    "tiroDeMeta" : 6
+  },"Rodada": 37, "Total de Jogos": 10 
+}
+
+
+
+  ,
+
 {
   "descricao" : "Serie A",
   "rodada" : 36,
