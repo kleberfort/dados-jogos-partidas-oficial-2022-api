@@ -1,6 +1,736 @@
 [
 
 
+  {
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 9,
+  "data" : "17/05/2025",
+  "mandante" : {
+    "nome" : "Ceará",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png",
+    "classificacao" : 6,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "L. Mugni",
+      "tempo" : "9"
+    }, {
+      "jogador" : "Galeano",
+      "tempo" : "61"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Sport",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png",
+    "classificacao" : 20,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 42,
+    "finalizacoes" : 7,
+    "finalizacoesGol" : 3,
+    "faltas" : 14,
+    "passes" : 334,
+    "desarmes" : 24,
+    "impedimentos" : 3,
+    "laterais" : 16,
+    "tiroDeMeta" : 10
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 58,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 4,
+    "faltas" : 16,
+    "passes" : 452,
+    "desarmes" : 10,
+    "impedimentos" : 2,
+    "laterais" : 25,
+    "tiroDeMeta" : 3
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 9,
+  "data" : "17/05/2025",
+  "mandante" : {
+    "nome" : "Vasco",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
+    "classificacao" : 17,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "N. Moreira",
+      "tempo" : "3"
+    }, {
+      "jogador" : "P. Vegetti",
+      "tempo" : "46"
+    }, {
+      "jogador" : "P. Vegetti",
+      "tempo" : "80"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Fortaleza",
+    "imagem" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+    "classificacao" : 11,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 1
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 1
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 50,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 7,
+    "faltas" : 12,
+    "passes" : 413,
+    "desarmes" : 9,
+    "impedimentos" : 3,
+    "laterais" : 18,
+    "tiroDeMeta" : 11
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 50,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 3,
+    "faltas" : 11,
+    "passes" : 393,
+    "desarmes" : 17,
+    "impedimentos" : 1,
+    "laterais" : 18,
+    "tiroDeMeta" : 6
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 9,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "São Paulo",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
+    "classificacao" : 17,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "R. Arboleda",
+      "tempo" : "49"
+    }, {
+      "jogador" : "A. Silva (Pên.)",
+      "tempo" : "85"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Grêmio",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
+    "classificacao" : 16,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "A. Aravena",
+      "tempo" : "37"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 4,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 61,
+    "finalizacoes" : 20,
+    "finalizacoesGol" : 5,
+    "faltas" : 14,
+    "passes" : 484,
+    "desarmes" : 16,
+    "impedimentos" : 1,
+    "laterais" : 18,
+    "tiroDeMeta" : 0
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 39,
+    "finalizacoes" : 3,
+    "finalizacoesGol" : 3,
+    "faltas" : 13,
+    "passes" : 325,
+    "desarmes" : 8,
+    "impedimentos" : 0,
+    "laterais" : 29,
+    "tiroDeMeta" : 11
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 9,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Juventude",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
+    "classificacao" : 18,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "E. Batalla",
+      "tempo" : "55"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Fluminense",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
+    "classificacao" : 6,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "Hércules",
+      "tempo" : "58"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 33,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 1,
+    "faltas" : 18,
+    "passes" : 256,
+    "desarmes" : 19,
+    "impedimentos" : 0,
+    "laterais" : 15,
+    "tiroDeMeta" : 10
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 67,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 7,
+    "faltas" : 13,
+    "passes" : 568,
+    "desarmes" : 12,
+    "impedimentos" : 0,
+    "laterais" : 19,
+    "tiroDeMeta" : 6
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 9,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Corinthians",
+    "imagem" : "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png",
+    "classificacao" : 12,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "Y. Alberto",
+      "tempo" : "66"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Santos",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png",
+    "classificacao" : 19,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 63,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 2,
+    "faltas" : 8,
+    "passes" : 533,
+    "desarmes" : 12,
+    "impedimentos" : 0,
+    "laterais" : 20,
+    "tiroDeMeta" : 4
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 37,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 1,
+    "faltas" : 14,
+    "passes" : 323,
+    "desarmes" : 17,
+    "impedimentos" : 0,
+    "laterais" : 16,
+    "tiroDeMeta" : 8
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 9,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Bahia",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
+    "classificacao" : 8,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "E. Pulga",
+      "tempo" : "23"
+    }, {
+      "jogador" : "M. Araújo",
+      "tempo" : "66"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Vitória",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png",
+    "classificacao" : 16,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "R. Kayzer",
+      "tempo" : "54"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 10,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 1,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 3,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 1
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 46,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 2,
+    "faltas" : 12,
+    "passes" : 333,
+    "desarmes" : 19,
+    "impedimentos" : 0,
+    "laterais" : 11,
+    "tiroDeMeta" : 15
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 54,
+    "finalizacoes" : 23,
+    "finalizacoesGol" : 8,
+    "faltas" : 23,
+    "passes" : 367,
+    "desarmes" : 12,
+    "impedimentos" : 1,
+    "laterais" : 22,
+    "tiroDeMeta" : 5
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 9,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "RB Bragantino",
+    "imagem" : "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png",
+    "classificacao" : 3,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "Gabriel",
+      "tempo" : "24"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Palmeiras",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
+    "classificacao" : 1,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "Murilo",
+      "tempo" : "72"
+    }, {
+      "jogador" : "Maurício",
+      "tempo" : "78"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 7,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 49,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 2,
+    "faltas" : 15,
+    "passes" : 344,
+    "desarmes" : 15,
+    "impedimentos" : 1,
+    "laterais" : 18,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 51,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 5,
+    "faltas" : 12,
+    "passes" : 348,
+    "desarmes" : 20,
+    "impedimentos" : 0,
+    "laterais" : 17,
+    "tiroDeMeta" : 10
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 9,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Flamengo",
+    "imagem" : "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+    "classificacao" : 2,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Botafogo",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
+    "classificacao" : 11,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 4,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 60,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 3,
+    "faltas" : 9,
+    "passes" : 523,
+    "desarmes" : 7,
+    "impedimentos" : 2,
+    "laterais" : 18,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 40,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 2,
+    "faltas" : 23,
+    "passes" : 358,
+    "desarmes" : 20,
+    "impedimentos" : 2,
+    "laterais" : 19,
+    "tiroDeMeta" : 8
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 9,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Internacional",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png",
+    "classificacao" : 15,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "R. Mathias",
+      "tempo" : "77"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Mirassol",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/eQ05kONtFs6kLBgww3MHsg_96x96.png",
+    "classificacao" : 13,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "J. Ribeiro",
+      "tempo" : "8"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 66,
+    "finalizacoes" : 25,
+    "finalizacoesGol" : 11,
+    "faltas" : 10,
+    "passes" : 620,
+    "desarmes" : 25,
+    "impedimentos" : 1,
+    "laterais" : 28,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 34,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 2,
+    "faltas" : 10,
+    "passes" : 324,
+    "desarmes" : 19,
+    "impedimentos" : 3,
+    "laterais" : 21,
+    "tiroDeMeta" : 10
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 9,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Cruzeiro",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png",
+    "classificacao" : 4,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Atlético-MG",
+    "imagem" : "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
+    "classificacao" : 10,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 8,
+    "escanteiosSegundoTempo" : 7,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 53,
+    "finalizacoes" : 21,
+    "finalizacoesGol" : 4,
+    "faltas" : 15,
+    "passes" : 282,
+    "desarmes" : 12,
+    "impedimentos" : 1,
+    "laterais" : 32,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 47,
+    "finalizacoes" : 7,
+    "finalizacoesGol" : 3,
+    "faltas" : 17,
+    "passes" : 268,
+    "desarmes" : 20,
+    "impedimentos" : 2,
+    "laterais" : 28,
+    "tiroDeMeta" : 9
+  },"Rodada": 9, "Total de Jogos": 10 
+}
+
+
+  ,
+
+
 {
   "descricao" : "Brasileirão Betano",
   "rodada" : 8,
