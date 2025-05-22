@@ -51,10 +51,10 @@
   },
   "estatisticaGeralMandante" : {
     "posseBola" : 67,
-    "finalizacoes" : 15,
-    "finalizacoesGol" : 5,
+    "finalizacoes" : 16,
+    "finalizacoesGol" : 6,
     "faltas" : 5,
-    "passes" : 579,
+    "passes" : 578,
     "desarmes" : 11,
     "impedimentos" : 2,
     "laterais" : 31,
@@ -65,10 +65,10 @@
     "finalizacoes" : 12,
     "finalizacoesGol" : 2,
     "faltas" : 11,
-    "passes" : 279,
-    "desarmes" : 4,
+    "passes" : 276,
+    "desarmes" : 3,
     "impedimentos" : 4,
-    "laterais" : 11,
+    "laterais" : 10,
     "tiroDeMeta" : 6
   }
 }
@@ -130,8 +130,8 @@
     "finalizacoes" : 8,
     "finalizacoesGol" : 4,
     "faltas" : 9,
-    "passes" : 300,
-    "desarmes" : 18,
+    "passes" : 298,
+    "desarmes" : 20,
     "impedimentos" : 2,
     "laterais" : 18,
     "tiroDeMeta" : 13
@@ -141,8 +141,8 @@
     "finalizacoes" : 16,
     "finalizacoesGol" : 1,
     "faltas" : 11,
-    "passes" : 514,
-    "desarmes" : 9,
+    "passes" : 511,
+    "desarmes" : 10,
     "impedimentos" : 2,
     "laterais" : 30,
     "tiroDeMeta" : 5
@@ -206,18 +206,18 @@
     "finalizacoes" : 20,
     "finalizacoesGol" : 7,
     "faltas" : 13,
-    "passes" : 528,
-    "desarmes" : 13,
+    "passes" : 529,
+    "desarmes" : 14,
     "impedimentos" : 1,
     "laterais" : 19,
     "tiroDeMeta" : 4
   },
   "estatisticaGeralVisitante" : {
     "posseBola" : 36,
-    "finalizacoes" : 4,
+    "finalizacoes" : 5,
     "finalizacoesGol" : 1,
     "faltas" : 12,
-    "passes" : 308,
+    "passes" : 304,
     "desarmes" : 17,
     "impedimentos" : 2,
     "laterais" : 24,
@@ -489,7 +489,7 @@
   },
   "EstatisticaCartoesVisitante" : {
     "cartoesAmareloPrimeiroTempo" : 1,
-    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
     "cartoesVermelhoPrimeiroTempo" : 0,
     "cartoesVermelhoSegundoTempo" : 0
   },
@@ -550,7 +550,7 @@
   },
   "EstatisticaCartoesMandante" : {
     "cartoesAmareloPrimeiroTempo" : 1,
-    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
     "cartoesVermelhoPrimeiroTempo" : 0,
     "cartoesVermelhoSegundoTempo" : 0
   },
@@ -561,22 +561,22 @@
     "cartoesVermelhoSegundoTempo" : 0
   },
   "estatisticaGeralMandante" : {
-    "posseBola" : 50,
+    "posseBola" : 51,
     "finalizacoes" : 19,
     "finalizacoesGol" : 6,
     "faltas" : 11,
-    "passes" : 378,
-    "desarmes" : 15,
+    "passes" : 384,
+    "desarmes" : 17,
     "impedimentos" : 2,
     "laterais" : 24,
     "tiroDeMeta" : 8
   },
   "estatisticaGeralVisitante" : {
-    "posseBola" : 50,
+    "posseBola" : 49,
     "finalizacoes" : 13,
     "finalizacoesGol" : 3,
-    "faltas" : 19,
-    "passes" : 380,
+    "faltas" : 20,
+    "passes" : 379,
     "desarmes" : 16,
     "impedimentos" : 0,
     "laterais" : 17,
@@ -726,12 +726,6 @@
     "tiroDeMeta" : 4
   },"Rodada": 8, "Total de Jogos": 10 
 }
-
-
-
-
-
-
 
   ,
 
