@@ -2,40 +2,46 @@
 
 
   {
-  "descricao" : "Liga Portugal Betclic",
+  "descricao" : "Eredivisie",
   "rodada" : 34,
-  "data" : "16/05/2025",
+  "data" : "18/05/2025",
   "mandante" : {
-    "nome" : "Rio Ave",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VG25vxdw0DTdTD_MIiil-Q_96x96.png",
+    "nome" : "Sparta",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/-zNS1knZ46R8EM_FRWN01w_96x96.png",
     "classificacao" : 11,
     "placar" : 1,
     "gols" : [ {
-      "jogador" : "F. Petrasso",
-      "tempo" : "38"
+      "jogador" : "G. Zechiël",
+      "tempo" : "52"
     } ]
   },
   "visitante" : {
-    "nome" : "Gil Vicente",
-    "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
-    "classificacao" : 14,
-    "placar" : 1,
+    "nome" : "PSV",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/FylTPR72JXIGFzqwQocSAQ_96x96.png",
+    "classificacao" : 1,
+    "placar" : 3,
     "gols" : [ {
-      "jogador" : "S. Bermejo",
-      "tempo" : "42"
+      "jogador" : "I. Perišić",
+      "tempo" : "27"
+    }, {
+      "jogador" : "L. de Jong",
+      "tempo" : "58"
+    }, {
+      "jogador" : "M. Tillman",
+      "tempo" : "84"
     } ]
   },
   "estatistiticaJogoMandante" : {
-    "escanteiosPrimeiroTempo" : 4,
-    "escanteiosSegundoTempo" : 2,
-    "golsPrimeiroTempo" : 1,
-    "golsSegundoTempo" : 0
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
   },
   "estatisticaJogoVisitante" : {
-    "escanteiosPrimeiroTempo" : 3,
-    "escanteiosSegundoTempo" : 4,
+    "escanteiosPrimeiroTempo" : 7,
+    "escanteiosSegundoTempo" : 2,
     "golsPrimeiroTempo" : 1,
-    "golsSegundoTempo" : 0
+    "golsSegundoTempo" : 2
   },
   "EstatisticaCartoesMandante" : {
     "cartoesAmareloPrimeiroTempo" : 1,
@@ -44,214 +50,229 @@
     "cartoesVermelhoSegundoTempo" : 0
   },
   "EstatisticaCartoesVisitante" : {
-    "cartoesAmareloPrimeiroTempo" : 0,
-    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
     "cartoesVermelhoPrimeiroTempo" : 0,
     "cartoesVermelhoSegundoTempo" : 0
   },
   "estatisticaGeralMandante" : {
-    "posseBola" : 54,
-    "finalizacoes" : 6,
-    "finalizacoesGol" : 3,
-    "faltas" : 11,
-    "passes" : 431,
+    "posseBola" : 31,
+    "finalizacoes" : 5,
+    "finalizacoesGol" : 2,
+    "faltas" : 9,
+    "passes" : 266,
     "desarmes" : 16,
     "impedimentos" : 2,
-    "laterais" : 21,
-    "tiroDeMeta" : 4
+    "laterais" : 12,
+    "tiroDeMeta" : 8
   },
   "estatisticaGeralVisitante" : {
-    "posseBola" : 46,
-    "finalizacoes" : 11,
-    "finalizacoesGol" : 3,
+    "posseBola" : 69,
+    "finalizacoes" : 25,
+    "finalizacoesGol" : 11,
     "faltas" : 8,
-    "passes" : 370,
-    "desarmes" : 18,
+    "passes" : 577,
+    "desarmes" : 10,
     "impedimentos" : 2,
-    "laterais" : 19,
+    "laterais" : 21,
+    "tiroDeMeta" : 2
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 34,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Heerenveen",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Qa7g4ljRDZbBcmibwsRePA_96x96.png",
+    "classificacao" : 9,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "H. Petrov",
+      "tempo" : "4"
+    }, {
+      "jogador" : "M. Luković (Pên.)",
+      "tempo" : "29"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Feyenoord",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/36g41WN3WdjCRsSFiurazw_96x96.png",
+    "classificacao" : 3,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 43,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 5,
+    "faltas" : 19,
+    "passes" : 344,
+    "desarmes" : 19,
+    "impedimentos" : 3,
+    "laterais" : 22,
+    "tiroDeMeta" : 9
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 57,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 4,
+    "faltas" : 6,
+    "passes" : 454,
+    "desarmes" : 16,
+    "impedimentos" : 2,
+    "laterais" : 18,
+    "tiroDeMeta" : 2
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 34,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Waalwijk",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/pPk9dz2N7A7YWQkhABIiCQ_96x96.png",
+    "classificacao" : 17,
+    "placar" : 5,
+    "gols" : [ {
+      "jogador" : "T. v. d. Loo",
+      "tempo" : "26"
+    }, {
+      "jogador" : "M. Kramer",
+      "tempo" : "48"
+    }, {
+      "jogador" : "Y. Oukili",
+      "tempo" : "70"
+    }, {
+      "jogador" : "M. Ihattaren (Pên.)",
+      "tempo" : "81"
+    }, {
+      "jogador" : "Y. Oukili",
+      "tempo" : "90+2"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "GA Eagles",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/KPnQQv6PNQxcHPlpi4rC-g_96x96.png",
+    "classificacao" : 7,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "F. Stokkers",
+      "tempo" : "4"
+    }, {
+      "jogador" : "J. Breum",
+      "tempo" : "73"
+    }, {
+      "jogador" : "E. Linthorst",
+      "tempo" : "77"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 4
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 7,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 2
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 39,
+    "finalizacoes" : 20,
+    "finalizacoesGol" : 9,
+    "faltas" : 8,
+    "passes" : 349,
+    "desarmes" : 12,
+    "impedimentos" : 0,
+    "laterais" : 12,
+    "tiroDeMeta" : 9
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 61,
+    "finalizacoes" : 29,
+    "finalizacoesGol" : 7,
+    "faltas" : 6,
+    "passes" : 541,
+    "desarmes" : 15,
+    "impedimentos" : 0,
+    "laterais" : 14,
     "tiroDeMeta" : 3
   }
 }
 ,
 
 {
-  "descricao" : "Liga Portugal Betclic",
+  "descricao" : "Eredivisie",
   "rodada" : 34,
-  "data" : "16/05/2025",
+  "data" : "18/05/2025",
   "mandante" : {
-    "nome" : "Famalicão",
-    "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
-    "classificacao" : 8,
+    "nome" : "Zwolle",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/wG9B0Qx4RzFdcpLmKnjHLQ_96x96.png",
+    "classificacao" : 13,
     "placar" : 2,
     "gols" : [ {
-      "jogador" : "S. Elisor",
-      "tempo" : "37"
+      "jogador" : "Y. Namli",
+      "tempo" : "44"
     }, {
-      "jogador" : "S. Elisor",
-      "tempo" : "72"
+      "jogador" : "D. Mbayo",
+      "tempo" : "68"
     } ]
   },
   "visitante" : {
-    "nome" : "Casa Pia",
-    "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
-    "classificacao" : 7,
-    "placar" : 1,
-    "gols" : [ {
-      "jogador" : "G. Larrazabal",
-      "tempo" : "54"
-    } ]
-  },
-  "estatistiticaJogoMandante" : {
-    "escanteiosPrimeiroTempo" : 6,
-    "escanteiosSegundoTempo" : 7,
-    "golsPrimeiroTempo" : 1,
-    "golsSegundoTempo" : 1
-  },
-  "estatisticaJogoVisitante" : {
-    "escanteiosPrimeiroTempo" : 1,
-    "escanteiosSegundoTempo" : 3,
-    "golsPrimeiroTempo" : 0,
-    "golsSegundoTempo" : 1
-  },
-  "EstatisticaCartoesMandante" : {
-    "cartoesAmareloPrimeiroTempo" : 2,
-    "cartoesAmareloSegundoTempo" : 0,
-    "cartoesVermelhoPrimeiroTempo" : 0,
-    "cartoesVermelhoSegundoTempo" : 0
-  },
-  "EstatisticaCartoesVisitante" : {
-    "cartoesAmareloPrimeiroTempo" : 3,
-    "cartoesAmareloSegundoTempo" : 3,
-    "cartoesVermelhoPrimeiroTempo" : 0,
-    "cartoesVermelhoSegundoTempo" : 0
-  },
-  "estatisticaGeralMandante" : {
-    "posseBola" : 55,
-    "finalizacoes" : 18,
-    "finalizacoesGol" : 4,
-    "faltas" : 14,
-    "passes" : 360,
-    "desarmes" : 11,
-    "impedimentos" : 1,
-    "laterais" : 19,
-    "tiroDeMeta" : 6
-  },
-  "estatisticaGeralVisitante" : {
-    "posseBola" : 45,
-    "finalizacoes" : 5,
-    "finalizacoesGol" : 1,
-    "faltas" : 15,
-    "passes" : 311,
-    "desarmes" : 15,
-    "impedimentos" : 0,
-    "laterais" : 22,
-    "tiroDeMeta" : 9
-  }
-}
-,
-
-{
-  "descricao" : "Liga Portugal Betclic",
-  "rodada" : 34,
-  "data" : "17/05/2025",
-  "mandante" : {
-    "nome" : "Braga",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_96x96.png",
-    "classificacao" : 4,
-    "placar" : 1,
-    "gols" : [ {
-      "jogador" : "R. Zalazar (Pên.)",
-      "tempo" : "24"
-    } ]
-  },
-  "visitante" : {
-    "nome" : "Benfica",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_96x96.png",
-    "classificacao" : 2,
-    "placar" : 1,
-    "gols" : [ {
-      "jogador" : "V. Pavlidis",
-      "tempo" : "63"
-    } ]
-  },
-  "estatistiticaJogoMandante" : {
-    "escanteiosPrimeiroTempo" : 4,
-    "escanteiosSegundoTempo" : 2,
-    "golsPrimeiroTempo" : 1,
-    "golsSegundoTempo" : 0
-  },
-  "estatisticaJogoVisitante" : {
-    "escanteiosPrimeiroTempo" : 3,
-    "escanteiosSegundoTempo" : 3,
-    "golsPrimeiroTempo" : 0,
-    "golsSegundoTempo" : 1
-  },
-  "EstatisticaCartoesMandante" : {
-    "cartoesAmareloPrimeiroTempo" : 0,
-    "cartoesAmareloSegundoTempo" : 4,
-    "cartoesVermelhoPrimeiroTempo" : 0,
-    "cartoesVermelhoSegundoTempo" : 0
-  },
-  "EstatisticaCartoesVisitante" : {
-    "cartoesAmareloPrimeiroTempo" : 2,
-    "cartoesAmareloSegundoTempo" : 0,
-    "cartoesVermelhoPrimeiroTempo" : 0,
-    "cartoesVermelhoSegundoTempo" : 0
-  },
-  "estatisticaGeralMandante" : {
-    "posseBola" : 42,
-    "finalizacoes" : 17,
-    "finalizacoesGol" : 7,
-    "faltas" : 15,
-    "passes" : 342,
-    "desarmes" : 22,
-    "impedimentos" : 1,
-    "laterais" : 12,
-    "tiroDeMeta" : 10
-  },
-  "estatisticaGeralVisitante" : {
-    "posseBola" : 58,
-    "finalizacoes" : 13,
-    "finalizacoesGol" : 2,
-    "faltas" : 8,
-    "passes" : 494,
-    "desarmes" : 16,
-    "impedimentos" : 3,
-    "laterais" : 24,
-    "tiroDeMeta" : 8
-  }
-}
-,
-
-{
-  "descricao" : "Liga Portugal Betclic",
-  "rodada" : 34,
-  "data" : "17/05/2025",
-  "mandante" : {
-    "nome" : "Sporting",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png",
-    "classificacao" : 1,
-    "placar" : 2,
-    "gols" : [ {
-      "jogador" : "P. Gonçalves",
-      "tempo" : "55"
-    }, {
-      "jogador" : "V. Gyökeres",
-      "tempo" : "82"
-    } ]
-  },
-  "visitante" : {
-    "nome" : "Vitória",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/UkXfMrlrgYiUhK91JaKwYw_96x96.png",
-    "classificacao" : 5,
+    "nome" : "Groningen",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/efkaF1E3Z9UbMSO0VC9WJQ_96x96.png",
+    "classificacao" : 12,
     "placar" : 0,
     "gols" : [ ]
   },
   "estatistiticaJogoMandante" : {
-    "escanteiosPrimeiroTempo" : 4,
-    "escanteiosSegundoTempo" : 3,
-    "golsPrimeiroTempo" : 0,
-    "golsSegundoTempo" : 2
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
   },
   "estatisticaJogoVisitante" : {
     "escanteiosPrimeiroTempo" : 0,
@@ -260,433 +281,405 @@
     "golsSegundoTempo" : 0
   },
   "EstatisticaCartoesMandante" : {
-    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloPrimeiroTempo" : 0,
     "cartoesAmareloSegundoTempo" : 2,
     "cartoesVermelhoPrimeiroTempo" : 0,
     "cartoesVermelhoSegundoTempo" : 0
   },
   "EstatisticaCartoesVisitante" : {
-    "cartoesAmareloPrimeiroTempo" : 3,
-    "cartoesAmareloSegundoTempo" : 1,
-    "cartoesVermelhoPrimeiroTempo" : 0,
-    "cartoesVermelhoSegundoTempo" : 0
-  },
-  "estatisticaGeralMandante" : {
-    "posseBola" : 54,
-    "finalizacoes" : 18,
-    "finalizacoesGol" : 7,
-    "faltas" : 14,
-    "passes" : 455,
-    "desarmes" : 16,
-    "impedimentos" : 1,
-    "laterais" : 12,
-    "tiroDeMeta" : 2
-  },
-  "estatisticaGeralVisitante" : {
-    "posseBola" : 46,
-    "finalizacoes" : 2,
-    "finalizacoesGol" : 0,
-    "faltas" : 17,
-    "passes" : 396,
-    "desarmes" : 13,
-    "impedimentos" : 2,
-    "laterais" : 12,
-    "tiroDeMeta" : 10
-  }
-}
-,
-
-{
-  "descricao" : "Liga Portugal Betclic",
-  "rodada" : 34,
-  "data" : "17/05/2025",
-  "mandante" : {
-    "nome" : "Farense",
-    "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
-    "classificacao" : 16,
-    "placar" : 1,
-    "gols" : [ {
-      "jogador" : "Neto (Pên.)",
-      "tempo" : "45+7"
-    } ]
-  },
-  "visitante" : {
-    "nome" : "Santa Clara",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png",
-    "classificacao" : 6,
-    "placar" : 2,
-    "gols" : [ {
-      "jogador" : "Gabriel Silva",
-      "tempo" : "42"
-    }, {
-      "jogador" : "Serginho",
-      "tempo" : "48"
-    } ]
-  },
-  "estatistiticaJogoMandante" : {
-    "escanteiosPrimeiroTempo" : 3,
-    "escanteiosSegundoTempo" : 0,
-    "golsPrimeiroTempo" : 1,
-    "golsSegundoTempo" : 0
-  },
-  "estatisticaJogoVisitante" : {
-    "escanteiosPrimeiroTempo" : 3,
-    "escanteiosSegundoTempo" : 3,
-    "golsPrimeiroTempo" : 1,
-    "golsSegundoTempo" : 1
-  },
-  "EstatisticaCartoesMandante" : {
-    "cartoesAmareloPrimeiroTempo" : 1,
-    "cartoesAmareloSegundoTempo" : 1,
-    "cartoesVermelhoPrimeiroTempo" : 0,
-    "cartoesVermelhoSegundoTempo" : 0
-  },
-  "EstatisticaCartoesVisitante" : {
-    "cartoesAmareloPrimeiroTempo" : 2,
-    "cartoesAmareloSegundoTempo" : 3,
-    "cartoesVermelhoPrimeiroTempo" : 0,
-    "cartoesVermelhoSegundoTempo" : 0
-  },
-  "estatisticaGeralMandante" : {
-    "posseBola" : 57,
-    "finalizacoes" : 12,
-    "finalizacoesGol" : 2,
-    "faltas" : 13,
-    "passes" : 380,
-    "desarmes" : 12,
-    "impedimentos" : 1,
-    "laterais" : 35,
-    "tiroDeMeta" : 12
-  },
-  "estatisticaGeralVisitante" : {
-    "posseBola" : 43,
-    "finalizacoes" : 16,
-    "finalizacoesGol" : 5,
-    "faltas" : 20,
-    "passes" : 284,
-    "desarmes" : 18,
-    "impedimentos" : 1,
-    "laterais" : 16,
-    "tiroDeMeta" : 10
-  }
-}
-,
-
-{
-  "descricao" : "Liga Portugal Betclic",
-  "rodada" : 34,
-  "data" : "17/05/2025",
-  "mandante" : {
-    "nome" : "Porto",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png",
-    "classificacao" : 3,
-    "placar" : 3,
-    "gols" : [ {
-      "jogador" : "F. Moura",
-      "tempo" : "1"
-    }, {
-      "jogador" : "S. Aghehowa (Pên.)",
-      "tempo" : "69"
-    }, {
-      "jogador" : "R. Mora",
-      "tempo" : "83"
-    } ]
-  },
-  "visitante" : {
-    "nome" : "Nacional",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/qyy50QMMYekML4pWPjLJkw_96x96.png",
-    "classificacao" : 14,
-    "placar" : 0,
-    "gols" : [ ]
-  },
-  "estatistiticaJogoMandante" : {
-    "escanteiosPrimeiroTempo" : 1,
-    "escanteiosSegundoTempo" : 1,
-    "golsPrimeiroTempo" : 1,
-    "golsSegundoTempo" : 2
-  },
-  "estatisticaJogoVisitante" : {
-    "escanteiosPrimeiroTempo" : 4,
-    "escanteiosSegundoTempo" : 4,
-    "golsPrimeiroTempo" : 0,
-    "golsSegundoTempo" : 0
-  },
-  "EstatisticaCartoesMandante" : {
-    "cartoesAmareloPrimeiroTempo" : 1,
-    "cartoesAmareloSegundoTempo" : 0,
-    "cartoesVermelhoPrimeiroTempo" : 0,
-    "cartoesVermelhoSegundoTempo" : 0
-  },
-  "EstatisticaCartoesVisitante" : {
-    "cartoesAmareloPrimeiroTempo" : 3,
-    "cartoesAmareloSegundoTempo" : 4,
-    "cartoesVermelhoPrimeiroTempo" : 0,
-    "cartoesVermelhoSegundoTempo" : 0
-  },
-  "estatisticaGeralMandante" : {
-    "posseBola" : 63,
-    "finalizacoes" : 10,
-    "finalizacoesGol" : 4,
-    "faltas" : 11,
-    "passes" : 492,
-    "desarmes" : 12,
-    "impedimentos" : 2,
-    "laterais" : 15,
-    "tiroDeMeta" : 4
-  },
-  "estatisticaGeralVisitante" : {
-    "posseBola" : 37,
-    "finalizacoes" : 11,
-    "finalizacoesGol" : 5,
-    "faltas" : 15,
-    "passes" : 285,
-    "desarmes" : 16,
-    "impedimentos" : 1,
-    "laterais" : 11,
-    "tiroDeMeta" : 5
-  }
-}
-,
-
-{
-  "descricao" : "Liga Portugal Betclic",
-  "rodada" : 34,
-  "data" : "17/05/2025",
-  "mandante" : {
-    "nome" : "Arouca",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/MPL7gIc8hdegirtqBZLc2A_96x96.png",
-    "classificacao" : 12,
-    "placar" : 4,
-    "gols" : [ {
-      "jogador" : "M. Puche",
-      "tempo" : "7"
-    }, {
-      "jogador" : "A. Trezza",
-      "tempo" : "17"
-    }, {
-      "jogador" : "H. Araújo",
-      "tempo" : "25"
-    }, {
-      "jogador" : "D. Nandín",
-      "tempo" : "90+4"
-    } ]
-  },
-  "visitante" : {
-    "nome" : "Boavista",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/By55z84mN_FMRPKVlqZiSA_96x96.png",
-    "classificacao" : 18,
-    "placar" : 1,
-    "gols" : [ {
-      "jogador" : "R. Boženík",
-      "tempo" : "22"
-    } ]
-  },
-  "estatistiticaJogoMandante" : {
-    "escanteiosPrimeiroTempo" : 1,
-    "escanteiosSegundoTempo" : 1,
-    "golsPrimeiroTempo" : 3,
-    "golsSegundoTempo" : 1
-  },
-  "estatisticaJogoVisitante" : {
-    "escanteiosPrimeiroTempo" : 5,
-    "escanteiosSegundoTempo" : 6,
-    "golsPrimeiroTempo" : 1,
-    "golsSegundoTempo" : 0
-  },
-  "EstatisticaCartoesMandante" : {
     "cartoesAmareloPrimeiroTempo" : 0,
     "cartoesAmareloSegundoTempo" : 1,
     "cartoesVermelhoPrimeiroTempo" : 0,
     "cartoesVermelhoSegundoTempo" : 0
   },
-  "EstatisticaCartoesVisitante" : {
+  "estatisticaGeralMandante" : {
+    "posseBola" : 60,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 4,
+    "faltas" : 14,
+    "passes" : 545,
+    "desarmes" : 20,
+    "impedimentos" : 1,
+    "laterais" : 18,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 40,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 3,
+    "faltas" : 10,
+    "passes" : 365,
+    "desarmes" : 28,
+    "impedimentos" : 0,
+    "laterais" : 18,
+    "tiroDeMeta" : 13
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 34,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "NAC Breda",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/5QzjC5uajTeyHE_fjTlWSQ_96x96.png",
+    "classificacao" : 15,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "E. Már Ómarsson",
+      "tempo" : "24"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Willem II",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/dJxW7JzpyiA_hNx-Lf-bww_96x96.png",
+    "classificacao" : 16,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "R. Behounek",
+      "tempo" : "45"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
     "cartoesAmareloPrimeiroTempo" : 1,
     "cartoesAmareloSegundoTempo" : 1,
     "cartoesVermelhoPrimeiroTempo" : 0,
     "cartoesVermelhoSegundoTempo" : 0
   },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
   "estatisticaGeralMandante" : {
-    "posseBola" : 58,
-    "finalizacoes" : 14,
-    "finalizacoesGol" : 7,
-    "faltas" : 16,
-    "passes" : 419,
-    "desarmes" : 14,
-    "impedimentos" : 4,
-    "laterais" : 21,
-    "tiroDeMeta" : 13
+    "posseBola" : 56,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 6,
+    "faltas" : 8,
+    "passes" : 519,
+    "desarmes" : 23,
+    "impedimentos" : 2,
+    "laterais" : 14,
+    "tiroDeMeta" : 2
   },
   "estatisticaGeralVisitante" : {
-    "posseBola" : 42,
-    "finalizacoes" : 21,
-    "finalizacoesGol" : 5,
-    "faltas" : 16,
-    "passes" : 288,
-    "desarmes" : 11,
+    "posseBola" : 44,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 6,
+    "faltas" : 9,
+    "passes" : 413,
+    "desarmes" : 17,
+    "impedimentos" : 0,
+    "laterais" : 24,
+    "tiroDeMeta" : 12
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 34,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Heracles",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/EDWW-98PyPcSLD3Qm2oZZg_96x96.png",
+    "classificacao" : 14,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "S. Scheperman",
+      "tempo" : "47"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "NEC",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/z6E6BNnp8PjBXtfAiZ6yNg_96x96.png",
+    "classificacao" : 8,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "S. Hansen",
+      "tempo" : "55"
+    }, {
+      "jogador" : "B. Önal",
+      "tempo" : "63"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 52,
+    "finalizacoes" : 20,
+    "finalizacoesGol" : 7,
+    "faltas" : 10,
+    "passes" : 386,
+    "desarmes" : 13,
     "impedimentos" : 1,
-    "laterais" : 19,
+    "laterais" : 18,
+    "tiroDeMeta" : 1
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 48,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 7,
+    "faltas" : 9,
+    "passes" : 373,
+    "desarmes" : 14,
+    "impedimentos" : 0,
+    "laterais" : 23,
+    "tiroDeMeta" : 11
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 34,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "Fortuna",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/yggtmgEdp8JilDkQFFfqkA_96x96.png",
+    "classificacao" : 10,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Utrecht",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Xf2ldClrgyjAQGXtqliERg_96x96.png",
+    "classificacao" : 4,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 6,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 50,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 3,
+    "faltas" : 8,
+    "passes" : 381,
+    "desarmes" : 18,
+    "impedimentos" : 1,
+    "laterais" : 18,
+    "tiroDeMeta" : 4
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 50,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 5,
+    "faltas" : 21,
+    "passes" : 407,
+    "desarmes" : 20,
+    "impedimentos" : 1,
+    "laterais" : 17,
+    "tiroDeMeta" : 9
+  }
+}
+,
+
+{
+  "descricao" : "Eredivisie",
+  "rodada" : 34,
+  "data" : "18/05/2025",
+  "mandante" : {
+    "nome" : "AZ",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Lhhh1mbsrqH2K1AfXFazrQ_96x96.png",
+    "classificacao" : 5,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "D. M. Wolfe",
+      "tempo" : "64"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Almere City",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/kOBM_7hmtOCsUfPtIr7ksw_96x96.png",
+    "classificacao" : 18,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "T. Robinet",
+      "tempo" : "28"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 59,
+    "finalizacoes" : 16,
+    "finalizacoesGol" : 6,
+    "faltas" : 14,
+    "passes" : 496,
+    "desarmes" : 18,
+    "impedimentos" : 2,
+    "laterais" : 17,
+    "tiroDeMeta" : 3
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 41,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 2,
+    "faltas" : 11,
+    "passes" : 352,
+    "desarmes" : 15,
+    "impedimentos" : 1,
+    "laterais" : 13,
     "tiroDeMeta" : 8
   }
 }
 ,
 
 {
-  "descricao" : "Liga Portugal Betclic",
+  "descricao" : "Eredivisie",
   "rodada" : 34,
-  "data" : "17/05/2025",
+  "data" : "18/05/2025",
   "mandante" : {
-    "nome" : "Estoril",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/M4I8t9zSkfsS-jI-m71ADQ_96x96.png",
-    "classificacao" : 9,
-    "placar" : 4,
+    "nome" : "Ajax",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/WIAAdPpdzFwVKU7maFvJ6w_96x96.png",
+    "classificacao" : 2,
+    "placar" : 2,
     "gols" : [ {
-      "jogador" : "Y. Begraoui",
-      "tempo" : "6"
+      "jogador" : "J. Henderson",
+      "tempo" : "28"
     }, {
-      "jogador" : "Y. Begraoui",
-      "tempo" : "8"
-    }, {
-      "jogador" : "A. Lacximicant",
-      "tempo" : "20"
-    }, {
-      "jogador" : "Y. Begraoui",
-      "tempo" : "23"
+      "jogador" : "W. Weghorst",
+      "tempo" : "90"
     } ]
   },
   "visitante" : {
-    "nome" : "Estrela Amadora",
-    "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
-    "classificacao" : 15,
+    "nome" : "Twente",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/APPtKtO4wP6dQme5I1MSlA_96x96.png",
+    "classificacao" : 6,
     "placar" : 0,
     "gols" : [ ]
   },
   "estatistiticaJogoMandante" : {
-    "escanteiosPrimeiroTempo" : 2,
-    "escanteiosSegundoTempo" : 2,
-    "golsPrimeiroTempo" : 4,
-    "golsSegundoTempo" : 0
-  },
-  "estatisticaJogoVisitante" : {
-    "escanteiosPrimeiroTempo" : 1,
-    "escanteiosSegundoTempo" : 3,
-    "golsPrimeiroTempo" : 0,
-    "golsSegundoTempo" : 0
-  },
-  "EstatisticaCartoesMandante" : {
-    "cartoesAmareloPrimeiroTempo" : 1,
-    "cartoesAmareloSegundoTempo" : 1,
-    "cartoesVermelhoPrimeiroTempo" : 0,
-    "cartoesVermelhoSegundoTempo" : 0
-  },
-  "EstatisticaCartoesVisitante" : {
-    "cartoesAmareloPrimeiroTempo" : 1,
-    "cartoesAmareloSegundoTempo" : 1,
-    "cartoesVermelhoPrimeiroTempo" : 0,
-    "cartoesVermelhoSegundoTempo" : 0
-  },
-  "estatisticaGeralMandante" : {
-    "posseBola" : 50,
-    "finalizacoes" : 10,
-    "finalizacoesGol" : 6,
-    "faltas" : 18,
-    "passes" : 388,
-    "desarmes" : 16,
-    "impedimentos" : 0,
-    "laterais" : 20,
-    "tiroDeMeta" : 9
-  },
-  "estatisticaGeralVisitante" : {
-    "posseBola" : 50,
-    "finalizacoes" : 11,
-    "finalizacoesGol" : 3,
-    "faltas" : 13,
-    "passes" : 377,
-    "desarmes" : 14,
-    "impedimentos" : 4,
-    "laterais" : 19,
-    "tiroDeMeta" : 9
-  }
-}
-,
-
-{
-  "descricao" : "Liga Portugal Betclic",
-  "rodada" : 34,
-  "data" : "17/05/2025",
-  "mandante" : {
-    "nome" : "AVS",
-    "imagem" : "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
-    "classificacao" : 17,
-    "placar" : 0,
-    "gols" : [ ]
-  },
-  "visitante" : {
-    "nome" : "Moreirense",
-    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/GVi9CQNTfywAlEId1LI9-A_96x96.png",
-    "classificacao" : 11,
-    "placar" : 3,
-    "gols" : [ {
-      "jogador" : "Alan",
-      "tempo" : "17"
-    }, {
-      "jogador" : "C. Teguia",
-      "tempo" : "25"
-    }, {
-      "jogador" : "J. Jorquera",
-      "tempo" : "50"
-    } ]
-  },
-  "estatistiticaJogoMandante" : {
-    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosPrimeiroTempo" : 3,
     "escanteiosSegundoTempo" : 1,
-    "golsPrimeiroTempo" : 0,
-    "golsSegundoTempo" : 0
-  },
-  "estatisticaJogoVisitante" : {
-    "escanteiosPrimeiroTempo" : 1,
-    "escanteiosSegundoTempo" : 3,
-    "golsPrimeiroTempo" : 2,
+    "golsPrimeiroTempo" : 1,
     "golsSegundoTempo" : 1
   },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
   "EstatisticaCartoesMandante" : {
-    "cartoesAmareloPrimeiroTempo" : 1,
-    "cartoesAmareloSegundoTempo" : 6,
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
     "cartoesVermelhoPrimeiroTempo" : 0,
     "cartoesVermelhoSegundoTempo" : 0
   },
   "EstatisticaCartoesVisitante" : {
     "cartoesAmareloPrimeiroTempo" : 1,
-    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
     "cartoesVermelhoPrimeiroTempo" : 0,
     "cartoesVermelhoSegundoTempo" : 0
   },
   "estatisticaGeralMandante" : {
-    "posseBola" : 43,
-    "finalizacoes" : 9,
+    "posseBola" : 53,
+    "finalizacoes" : 11,
     "finalizacoesGol" : 3,
-    "faltas" : 24,
-    "passes" : 281,
-    "desarmes" : 21,
-    "impedimentos" : 2,
-    "laterais" : 20,
-    "tiroDeMeta" : 11
-  },
-  "estatisticaGeralVisitante" : {
-    "posseBola" : 57,
-    "finalizacoes" : 19,
-    "finalizacoesGol" : 11,
-    "faltas" : 11,
-    "passes" : 408,
-    "desarmes" : 22,
+    "faltas" : 10,
+    "passes" : 470,
+    "desarmes" : 5,
     "impedimentos" : 4,
     "laterais" : 19,
-    "tiroDeMeta" : 9
+    "tiroDeMeta" : 1
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 47,
+    "finalizacoes" : 7,
+    "finalizacoesGol" : 3,
+    "faltas" : 17,
+    "passes" : 425,
+    "desarmes" : 8,
+    "impedimentos" : 0,
+    "laterais" : 11,
+    "tiroDeMeta" : 10
   },"Rodada": 34, "Total de Jogos": 9 
+
 }
 
-
-
-  ,
+,
 
 {
   "descricao" : "Eredivisie",
