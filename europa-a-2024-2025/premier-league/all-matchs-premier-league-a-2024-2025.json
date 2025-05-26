@@ -1,6 +1,752 @@
 [
 
 
+  {
+  "descricao" : "Premier League",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Wolves",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
+    "classificacao" : 14,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "M. Munetsi",
+      "tempo" : "75"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Brentford",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png",
+    "classificacao" : 9,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "B. Mbeumo",
+      "tempo" : "20"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 5,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 49,
+    "finalizacoes" : 18,
+    "finalizacoesGol" : 6,
+    "faltas" : 7,
+    "passes" : 414,
+    "desarmes" : 25,
+    "impedimentos" : 3,
+    "laterais" : 23,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 51,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 7,
+    "faltas" : 9,
+    "passes" : 454,
+    "desarmes" : 23,
+    "impedimentos" : 1,
+    "laterais" : 19,
+    "tiroDeMeta" : 9
+  }
+}
+,
+
+{
+  "descricao" : "Premier League",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Tottenham ",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_96x96.png",
+    "classificacao" : 17,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "D. Solanke (Pên.)",
+      "tempo" : "17"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Brighton",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
+    "classificacao" : 8,
+    "placar" : 4,
+    "gols" : [ {
+      "jogador" : "J. Hinshelwood",
+      "tempo" : "51"
+    }, {
+      "jogador" : "J. Hinshelwood",
+      "tempo" : "64"
+    }, {
+      "jogador" : "M. O'Riley (Pên.)",
+      "tempo" : "88"
+    }, {
+      "jogador" : "D. Gómez",
+      "tempo" : "90+3"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 7,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 4
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 33,
+    "finalizacoes" : 4,
+    "finalizacoesGol" : 2,
+    "faltas" : 13,
+    "passes" : 271,
+    "desarmes" : 13,
+    "impedimentos" : 1,
+    "laterais" : 21,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 67,
+    "finalizacoes" : 23,
+    "finalizacoesGol" : 8,
+    "faltas" : 8,
+    "passes" : 545,
+    "desarmes" : 18,
+    "impedimentos" : 2,
+    "laterais" : 10,
+    "tiroDeMeta" : 3
+  }
+}
+,
+
+{
+  "descricao" : "Premier League",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Southampton",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/y1V4sm2SEBiWUPRIYl5rfg_96x96.png",
+    "classificacao" : 20,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "R. Stewart",
+      "tempo" : "56"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Arsenal",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
+    "classificacao" : 2,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "K. Tierney",
+      "tempo" : "43"
+    }, {
+      "jogador" : "M. Ødegaard",
+      "tempo" : "90"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 38,
+    "finalizacoes" : 7,
+    "finalizacoesGol" : 2,
+    "faltas" : 7,
+    "passes" : 339,
+    "desarmes" : 18,
+    "impedimentos" : 1,
+    "laterais" : 12,
+    "tiroDeMeta" : 3
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 62,
+    "finalizacoes" : 23,
+    "finalizacoesGol" : 8,
+    "faltas" : 8,
+    "passes" : 533,
+    "desarmes" : 18,
+    "impedimentos" : 1,
+    "laterais" : 14,
+    "tiroDeMeta" : 1
+  }
+}
+,
+
+{
+  "descricao" : "Premier League",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Forest",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
+    "classificacao" : 7,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Chelsea",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+    "classificacao" : 5,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "L. Colwill",
+      "tempo" : "50"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 52,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 2,
+    "faltas" : 10,
+    "passes" : 420,
+    "desarmes" : 14,
+    "impedimentos" : 5,
+    "laterais" : 25,
+    "tiroDeMeta" : 3
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 48,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 2,
+    "faltas" : 11,
+    "passes" : 409,
+    "desarmes" : 15,
+    "impedimentos" : 1,
+    "laterais" : 17,
+    "tiroDeMeta" : 9
+  }
+}
+,
+
+{
+  "descricao" : "Premier League",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Newcastle",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_96x96.png",
+    "classificacao" : 4,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Everton",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
+    "classificacao" : 13,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "C. Alcaraz",
+      "tempo" : "65"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 8,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 65,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 6,
+    "faltas" : 12,
+    "passes" : 525,
+    "desarmes" : 11,
+    "impedimentos" : 0,
+    "laterais" : 22,
+    "tiroDeMeta" : 10
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 35,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 6,
+    "faltas" : 9,
+    "passes" : 288,
+    "desarmes" : 13,
+    "impedimentos" : 0,
+    "laterais" : 16,
+    "tiroDeMeta" : 14
+  }
+}
+,
+
+{
+  "descricao" : "Premier League",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Man Utd",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
+    "classificacao" : 16,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "A. Diallo",
+      "tempo" : "76"
+    }, {
+      "jogador" : "C. Eriksen (Pên.)",
+      "tempo" : "87"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Aston Villa",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+    "classificacao" : 6,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 1,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 67,
+    "finalizacoes" : 26,
+    "finalizacoesGol" : 10,
+    "faltas" : 10,
+    "passes" : 606,
+    "desarmes" : 20,
+    "impedimentos" : 5,
+    "laterais" : 12,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 33,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 1,
+    "faltas" : 10,
+    "passes" : 300,
+    "desarmes" : 9,
+    "impedimentos" : 3,
+    "laterais" : 8,
+    "tiroDeMeta" : 16
+  }
+}
+,
+
+{
+  "descricao" : "Premier League",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Liverpool",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
+    "classificacao" : 1,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "M. Salah",
+      "tempo" : "84"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Crystal Palace",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png",
+    "classificacao" : 12,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "I. Sarr",
+      "tempo" : "9"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 7,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 1
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 69,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 3,
+    "faltas" : 7,
+    "passes" : 633,
+    "desarmes" : 19,
+    "impedimentos" : 1,
+    "laterais" : 16,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 31,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 5,
+    "faltas" : 10,
+    "passes" : 297,
+    "desarmes" : 18,
+    "impedimentos" : 2,
+    "laterais" : 10,
+    "tiroDeMeta" : 13
+  }
+}
+,
+
+{
+  "descricao" : "Premier League",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Ipswich",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/56vquJBk5U16Dng7txLXCw_96x96.png",
+    "classificacao" : 19,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "N. Broadhead",
+      "tempo" : "52"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "West Ham",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/bXkiyIzsbDip3x2FFcUU3A_96x96.png",
+    "classificacao" : 15,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "J. Ward-Prowse",
+      "tempo" : "43"
+    }, {
+      "jogador" : "J. Bowen",
+      "tempo" : "55"
+    }, {
+      "jogador" : "M. Kudus",
+      "tempo" : "87"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 2
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 41,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 4,
+    "faltas" : 10,
+    "passes" : 415,
+    "desarmes" : 11,
+    "impedimentos" : 2,
+    "laterais" : 17,
+    "tiroDeMeta" : 1
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 59,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 6,
+    "faltas" : 9,
+    "passes" : 623,
+    "desarmes" : 25,
+    "impedimentos" : 1,
+    "laterais" : 18,
+    "tiroDeMeta" : 6
+  }
+}
+,
+
+{
+  "descricao" : "Premier League",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Fulham",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png",
+    "classificacao" : 10,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Man City",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+    "classificacao" : 3,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "İ. Gündoğan",
+      "tempo" : "21"
+    }, {
+      "jogador" : "E. Haaland (Pên.)",
+      "tempo" : "72"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 47,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 3,
+    "faltas" : 11,
+    "passes" : 443,
+    "desarmes" : 18,
+    "impedimentos" : 2,
+    "laterais" : 16,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 53,
+    "finalizacoes" : 20,
+    "finalizacoesGol" : 5,
+    "faltas" : 5,
+    "passes" : 495,
+    "desarmes" : 14,
+    "impedimentos" : 0,
+    "laterais" : 17,
+    "tiroDeMeta" : 7
+  }
+}
+,
+
+{
+  "descricao" : "Premier League",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Bournemouth",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/IcOt-hrK04B-RlRwI3R0yA_96x96.png",
+    "classificacao" : 11,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "A. Semenyo",
+      "tempo" : "74"
+    }, {
+      "jogador" : "A. Semenyo",
+      "tempo" : "88"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Leicester",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png",
+    "classificacao" : 18,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 63,
+    "finalizacoes" : 20,
+    "finalizacoesGol" : 7,
+    "faltas" : 19,
+    "passes" : 497,
+    "desarmes" : 15,
+    "impedimentos" : 2,
+    "laterais" : 23,
+    "tiroDeMeta" : 3
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 37,
+    "finalizacoes" : 3,
+    "finalizacoesGol" : 0,
+    "faltas" : 16,
+    "passes" : 301,
+    "desarmes" : 18,
+    "impedimentos" : 2,
+    "laterais" : 9,
+    "tiroDeMeta" : 12
+  },"Rodada": 38, "Total de Jogos": 10 
+}
+
+
+
+,
+
+
 {
   "descricao" : "Premier League",
   "rodada" : 37,
