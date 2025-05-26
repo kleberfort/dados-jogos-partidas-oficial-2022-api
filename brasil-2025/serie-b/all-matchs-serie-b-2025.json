@@ -198,7 +198,7 @@
     "finalizacoes" : 14,
     "finalizacoesGol" : 4,
     "faltas" : 14,
-    "passes" : 372,
+    "passes" : 371,
     "desarmes" : 14,
     "impedimentos" : 1,
     "laterais" : 23,
@@ -209,8 +209,8 @@
     "finalizacoes" : 16,
     "finalizacoesGol" : 6,
     "faltas" : 16,
-    "passes" : 412,
-    "desarmes" : 10,
+    "passes" : 410,
+    "desarmes" : 13,
     "impedimentos" : 0,
     "laterais" : 16,
     "tiroDeMeta" : 8
@@ -290,8 +290,162 @@
     "impedimentos" : 0,
     "laterais" : 18,
     "tiroDeMeta" : 13
-  },"Rodada": 9, "Total de Jogos": 4 
+  }
 }
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 9,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Novorizontino",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png",
+    "classificacao" : 10,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "Nathan Fogaça",
+      "tempo" : "27"
+    }, {
+      "jogador" : "Nathan Fogaça",
+      "tempo" : "60"
+    }, {
+      "jogador" : "Nathan Fogaça",
+      "tempo" : "82"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Paysandu",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/1aw29215gcFtsyu07fCifw_48x48.png",
+    "classificacao" : 19,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "André",
+      "tempo" : "13"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 63,
+    "finalizacoes" : 22,
+    "finalizacoesGol" : 6,
+    "faltas" : 6,
+    "passes" : 563,
+    "desarmes" : 11,
+    "impedimentos" : 3,
+    "laterais" : 20,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 37,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 4,
+    "faltas" : 8,
+    "passes" : 337,
+    "desarmes" : 10,
+    "impedimentos" : 3,
+    "laterais" : 18,
+    "tiroDeMeta" : 10
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 9,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Amazonas",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uuUY0RAXejVcckwdPoVyBQ_96x96.png",
+    "classificacao" : 19,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "Jackson",
+      "tempo" : "51"
+    }, {
+      "jogador" : "Cocote",
+      "tempo" : "84"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Operário-PR",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/GmLvorr4MqC4aRinQQ4Mdw_48x48.png",
+    "classificacao" : 7,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 6,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 42,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 5,
+    "faltas" : 8,
+    "passes" : 232,
+    "desarmes" : 14,
+    "impedimentos" : 4,
+    "laterais" : 18,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 58,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 1,
+    "faltas" : 12,
+    "passes" : 333,
+    "desarmes" : 13,
+    "impedimentos" : 1,
+    "laterais" : 26,
+    "tiroDeMeta" : 11
+  },"Rodada": 9, "Total de Jogos": 6 
+}
+
+
 
 
 
