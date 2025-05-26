@@ -567,28 +567,191 @@
     "cartoesVermelhoSegundoTempo" : 0
   },
   "estatisticaGeralMandante" : {
-    "posseBola" : 43,
+    "posseBola" : 44,
     "finalizacoes" : 2,
     "finalizacoesGol" : 1,
     "faltas" : 13,
-    "passes" : 414,
-    "desarmes" : 14,
+    "passes" : 420,
+    "desarmes" : 13,
     "impedimentos" : 0,
     "laterais" : 13,
     "tiroDeMeta" : 4
   },
   "estatisticaGeralVisitante" : {
-    "posseBola" : 57,
+    "posseBola" : 56,
     "finalizacoes" : 19,
     "finalizacoesGol" : 11,
     "faltas" : 11,
-    "passes" : 554,
-    "desarmes" : 21,
+    "passes" : 555,
+    "desarmes" : 20,
     "impedimentos" : 2,
     "laterais" : 16,
     "tiroDeMeta" : 5
-  },"Rodada": 38, "Total de Jogos": 8 
+  }
 }
+,
+
+{
+  "descricao" : "LaLiga",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Villarreal",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
+    "classificacao" : 5,
+    "placar" : 4,
+    "gols" : [ {
+      "jogador" : "Y. Pino",
+      "tempo" : "4"
+    }, {
+      "jogador" : "P. Gueye",
+      "tempo" : "8"
+    }, {
+      "jogador" : "A. Baena",
+      "tempo" : "39"
+    }, {
+      "jogador" : "P. Gueye",
+      "tempo" : "53"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Sevilla",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png",
+    "classificacao" : 17,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "D. Sow",
+      "tempo" : "29"
+    }, {
+      "jogador" : "R. Martínez",
+      "tempo" : "85"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 3,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 51,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 7,
+    "faltas" : 8,
+    "passes" : 519,
+    "desarmes" : 9,
+    "impedimentos" : 0,
+    "laterais" : 9,
+    "tiroDeMeta" : 13
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 49,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 6,
+    "faltas" : 14,
+    "passes" : 487,
+    "desarmes" : 14,
+    "impedimentos" : 3,
+    "laterais" : 15,
+    "tiroDeMeta" : 8
+  }
+}
+,
+
+{
+  "descricao" : "LaLiga",
+  "rodada" : 38,
+  "data" : "25/05/2025",
+  "mandante" : {
+    "nome" : "Athletic Club",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/OSL_5Zm6kYPP1J17Bo5uDA_96x96.png",
+    "classificacao" : 4,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Barcelona",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
+    "classificacao" : 1,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "R. Lewandowski",
+      "tempo" : "14"
+    }, {
+      "jogador" : "R. Lewandowski",
+      "tempo" : "18"
+    }, {
+      "jogador" : "D. Olmo (Pên.)",
+      "tempo" : "90+4"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 24,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 1,
+    "faltas" : 21,
+    "passes" : 216,
+    "desarmes" : 11,
+    "impedimentos" : 6,
+    "laterais" : 11,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 76,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 4,
+    "faltas" : 10,
+    "passes" : 720,
+    "desarmes" : 17,
+    "impedimentos" : 1,
+    "laterais" : 16,
+    "tiroDeMeta" : 7
+  },"Rodada": 38, "Total de Jogos": 10 
+}
+
+
 
 
 
