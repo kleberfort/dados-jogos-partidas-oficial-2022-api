@@ -55,7 +55,7 @@
     "finalizacoes" : 10,
     "finalizacoesGol" : 5,
     "faltas" : 25,
-    "passes" : 333,
+    "passes" : 335,
     "desarmes" : 14,
     "impedimentos" : 1,
     "laterais" : 20,
@@ -66,8 +66,8 @@
     "finalizacoes" : 19,
     "finalizacoesGol" : 5,
     "faltas" : 11,
-    "passes" : 444,
-    "desarmes" : 21,
+    "passes" : 445,
+    "desarmes" : 20,
     "impedimentos" : 1,
     "laterais" : 23,
     "tiroDeMeta" : 7
@@ -122,11 +122,11 @@
   },
   "estatisticaGeralMandante" : {
     "posseBola" : 45,
-    "finalizacoes" : 11,
-    "finalizacoesGol" : 3,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 4,
     "faltas" : 22,
-    "passes" : 355,
-    "desarmes" : 20,
+    "passes" : 353,
+    "desarmes" : 21,
     "impedimentos" : 1,
     "laterais" : 15,
     "tiroDeMeta" : 9
@@ -136,8 +136,8 @@
     "finalizacoes" : 8,
     "finalizacoesGol" : 2,
     "faltas" : 15,
-    "passes" : 457,
-    "desarmes" : 13,
+    "passes" : 456,
+    "desarmes" : 9,
     "impedimentos" : 0,
     "laterais" : 33,
     "tiroDeMeta" : 9
@@ -189,7 +189,7 @@
   },
   "EstatisticaCartoesVisitante" : {
     "cartoesAmareloPrimeiroTempo" : 0,
-    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 3,
     "cartoesVermelhoPrimeiroTempo" : 0,
     "cartoesVermelhoSegundoTempo" : 0
   },
@@ -271,10 +271,10 @@
   },
   "estatisticaGeralMandante" : {
     "posseBola" : 45,
-    "finalizacoes" : 20,
+    "finalizacoes" : 21,
     "finalizacoesGol" : 6,
     "faltas" : 8,
-    "passes" : 373,
+    "passes" : 370,
     "desarmes" : 11,
     "impedimentos" : 1,
     "laterais" : 15,
@@ -285,8 +285,8 @@
     "finalizacoes" : 16,
     "finalizacoesGol" : 2,
     "faltas" : 10,
-    "passes" : 464,
-    "desarmes" : 12,
+    "passes" : 461,
+    "desarmes" : 11,
     "impedimentos" : 0,
     "laterais" : 18,
     "tiroDeMeta" : 13
@@ -442,8 +442,302 @@
     "impedimentos" : 1,
     "laterais" : 26,
     "tiroDeMeta" : 11
-  },"Rodada": 9, "Total de Jogos": 6 
+  }
 }
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 9,
+  "data" : "26/05/2025",
+  "mandante" : {
+    "nome" : "Criciúma",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png",
+    "classificacao" : 18,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Coritiba",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/LaFlBADLmsjHfGTehCYtuA_48x48.png",
+    "classificacao" : 7,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "V. Paulista",
+      "tempo" : "60"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 6,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 5,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 48,
+    "finalizacoes" : 18,
+    "finalizacoesGol" : 6,
+    "faltas" : 17,
+    "passes" : 385,
+    "desarmes" : 15,
+    "impedimentos" : 0,
+    "laterais" : 25,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 52,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 4,
+    "faltas" : 6,
+    "passes" : 441,
+    "desarmes" : 12,
+    "impedimentos" : 2,
+    "laterais" : 19,
+    "tiroDeMeta" : 10
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 9,
+  "data" : "26/05/2025",
+  "mandante" : {
+    "nome" : "Botafogo-SP",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png",
+    "classificacao" : 19,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "Alexandre Jesus",
+      "tempo" : "1"
+    }, {
+      "jogador" : "Jonathan Cafú",
+      "tempo" : "46"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "CRB",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png",
+    "classificacao" : 6,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "H. Meritão",
+      "tempo" : "63"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 29,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 6,
+    "faltas" : 4,
+    "passes" : 253,
+    "desarmes" : 8,
+    "impedimentos" : 1,
+    "laterais" : 19,
+    "tiroDeMeta" : 10
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 71,
+    "finalizacoes" : 18,
+    "finalizacoesGol" : 5,
+    "faltas" : 6,
+    "passes" : 619,
+    "desarmes" : 10,
+    "impedimentos" : 1,
+    "laterais" : 23,
+    "tiroDeMeta" : 12
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 9,
+  "data" : "27/05/2025",
+  "mandante" : {
+    "nome" : "Cuiabá",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
+    "classificacao" : 11,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "J. Christian",
+      "tempo" : "13"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Vila Nova",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/v3upsCABZm2skuxyszzvwg_96x96.png",
+    "classificacao" : 3,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 5,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 1
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 55,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 6,
+    "faltas" : 17,
+    "passes" : 447,
+    "desarmes" : 12,
+    "impedimentos" : 2,
+    "laterais" : 28,
+    "tiroDeMeta" : 3
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 45,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 2,
+    "faltas" : 11,
+    "passes" : 384,
+    "desarmes" : 10,
+    "impedimentos" : 3,
+    "laterais" : 34,
+    "tiroDeMeta" : 4
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 9,
+  "data" : "27/05/2025",
+  "mandante" : {
+    "nome" : "América-MG",
+    "imagem" : "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
+    "classificacao" : 14,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "W. Bigode",
+      "tempo" : "24"
+    }, {
+      "jogador" : "Miguelito",
+      "tempo" : "28"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Atlético-GO",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/9mqMGndwoR9og_Z0uEl2kw_96x96.png",
+    "classificacao" : 12,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "R. Santos",
+      "tempo" : "36"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 4,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 48,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 5,
+    "faltas" : 17,
+    "passes" : 446,
+    "desarmes" : 10,
+    "impedimentos" : 2,
+    "laterais" : 21,
+    "tiroDeMeta" : 4
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 52,
+    "finalizacoes" : 11,
+    "finalizacoesGol" : 3,
+    "faltas" : 14,
+    "passes" : 479,
+    "desarmes" : 9,
+    "impedimentos" : 1,
+    "laterais" : 21,
+    "tiroDeMeta" : 5
+  },"Rodada": 9, "Total de Jogos": 10 
+}
+
+
 
 
 
