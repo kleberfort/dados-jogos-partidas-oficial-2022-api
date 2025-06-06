@@ -1375,8 +1375,91 @@
     "impedimentos" : 0,
     "laterais" : 21,
     "tiroDeMeta" : 8
-  },"Rodada": 10, "Total de Jogos": 9 
+  } 
 }
+,
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 10,
+  "data" : "04/06/2025",
+  "mandante" : {
+    "nome" : "Botafogo",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
+    "classificacao" : 9,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "G. Mastriani",
+      "tempo" : "45"
+    }, {
+      "jogador" : "A. Telles (Pên.)",
+      "tempo" : "72"
+    }, {
+      "jogador" : "M. Freitas",
+      "tempo" : "77"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Ceará",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png",
+    "classificacao" : 10,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "P. Raul",
+      "tempo" : "57"
+    }, {
+      "jogador" : "P. Raul",
+      "tempo" : "87"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 58,
+    "finalizacoes" : 16,
+    "finalizacoesGol" : 10,
+    "faltas" : 12,
+    "passes" : 514,
+    "desarmes" : 14,
+    "impedimentos" : 2,
+    "laterais" : 21,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 42,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 3,
+    "faltas" : 11,
+    "passes" : 366,
+    "desarmes" : 15,
+    "impedimentos" : 3,
+    "laterais" : 16,
+    "tiroDeMeta" : 7
+  },"Rodada": 10, "Total de Jogos": 10
+}
+
+
 
 
 
