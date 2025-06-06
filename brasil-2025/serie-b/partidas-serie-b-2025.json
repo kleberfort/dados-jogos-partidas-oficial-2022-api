@@ -1210,7 +1210,7 @@
       }
     }
 ,
-    {
+     {
       "rodada": "11",
       "data": "05/06/2025 18:00",
       "mandante": {
@@ -1224,19 +1224,7 @@
     },
     {
       "rodada": "11",
-      "data": "05/06/2025 21:35",
-      "mandante": {
-        "nome": "Cuiabá",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png"
-      },
-      "visitante": {
-        "nome": "Paysandu",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1aw29215gcFtsyu07fCifw_48x48.png"
-      }
-    },
-    {
-      "rodada": "11",
-      "data": "06/06/2025 16:00",
+      "data": "06/06/2025 19:00",
       "mandante": {
         "nome": "Novorizontino",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png"
@@ -1244,6 +1232,18 @@
       "visitante": {
         "nome": "Chapecoense",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/K7JQUKTRsuXfO9YrD5dq5g_96x96.png"
+      }
+    },
+    {
+      "rodada": "11",
+      "data": "06/06/2025 21:35",
+      "mandante": {
+        "nome": "Cuiabá",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png"
+      },
+      "visitante": {
+        "nome": "Paysandu",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1aw29215gcFtsyu07fCifw_48x48.png"
       }
     },
     {
@@ -1296,7 +1296,7 @@
     },
     {
       "rodada": "11",
-      "data": "08/06/2025 20:30",
+      "data": "08/06/2025 19:00",
       "mandante": {
         "nome": "Remo",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bENrK5iSMF6sXrEkDNNxng_96x96.png"
@@ -1320,7 +1320,7 @@
     },
     {
       "rodada": "11",
-      "data": "14/06/2025 15:00",
+      "data": "09/06/2025 19:30",
       "mandante": {
         "nome": "Amazonas",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uuUY0RAXejVcckwdPoVyBQ_96x96.png"
@@ -1333,91 +1333,19 @@
 ,
     {
       "rodada": "12",
-      "data": "16/06/2025 19:00",
+      "data": "13/06/2025 19:00",
       "mandante": {
-        "nome": "Chapecoense",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/K7JQUKTRsuXfO9YrD5dq5g_96x96.png"
+        "nome": "Vila Nova",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v3upsCABZm2skuxyszzvwg_96x96.png"
       },
       "visitante": {
-        "nome": "Ferroviária",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/CD4zI_mvHVrKZaMhYQjiJg_96x96.png"
+        "nome": "América-MG",
+        "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png"
       }
     },
     {
       "rodada": "12",
-      "data": "17/06/2025 15:00",
-      "mandante": {
-        "nome": "Athletic",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S9CYRaQLMRSpASVWqjl17A_96x96.png"
-      },
-      "visitante": {
-        "nome": "Operário-PR",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GmLvorr4MqC4aRinQQ4Mdw_48x48.png"
-      }
-    },
-    {
-      "rodada": "12",
-      "data": "17/06/2025 15:00",
-      "mandante": {
-        "nome": "Athletico",
-        "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png"
-      },
-      "visitante": {
-        "nome": "Remo",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bENrK5iSMF6sXrEkDNNxng_96x96.png"
-      }
-    },
-    {
-      "rodada": "12",
-      "data": "17/06/2025 15:00",
-      "mandante": {
-        "nome": "Atlético-GO",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9mqMGndwoR9og_Z0uEl2kw_96x96.png"
-      },
-      "visitante": {
-        "nome": "Coritiba",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LaFlBADLmsjHfGTehCYtuA_48x48.png"
-      }
-    },
-    {
-      "rodada": "12",
-      "data": "17/06/2025 15:00",
-      "mandante": {
-        "nome": "CRB",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png"
-      },
-      "visitante": {
-        "nome": "Goiás",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_48x48.png"
-      }
-    },
-    {
-      "rodada": "12",
-      "data": "17/06/2025 15:00",
-      "mandante": {
-        "nome": "Criciúma",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png"
-      },
-      "visitante": {
-        "nome": "Amazonas",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uuUY0RAXejVcckwdPoVyBQ_96x96.png"
-      }
-    },
-    {
-      "rodada": "12",
-      "data": "17/06/2025 15:00",
-      "mandante": {
-        "nome": "Novorizontino",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png"
-      },
-      "visitante": {
-        "nome": "Cuiabá",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png"
-      }
-    },
-    {
-      "rodada": "12",
-      "data": "17/06/2025 15:00",
+      "data": "13/06/2025 21:35",
       "mandante": {
         "nome": "Paysandu",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1aw29215gcFtsyu07fCifw_48x48.png"
@@ -1429,14 +1357,86 @@
     },
     {
       "rodada": "12",
-      "data": "17/06/2025 15:00",
+      "data": "14/06/2025 16:00",
       "mandante": {
-        "nome": "Vila Nova",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/v3upsCABZm2skuxyszzvwg_96x96.png"
+        "nome": "CRB",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png"
       },
       "visitante": {
-        "nome": "América-MG",
-        "imagem": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png"
+        "nome": "Goiás",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_48x48.png"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "14/06/2025 18:30",
+      "mandante": {
+        "nome": "Athletico",
+        "imagem": "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png"
+      },
+      "visitante": {
+        "nome": "Remo",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/bENrK5iSMF6sXrEkDNNxng_96x96.png"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "14/06/2025 20:30",
+      "mandante": {
+        "nome": "Athletic",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S9CYRaQLMRSpASVWqjl17A_96x96.png"
+      },
+      "visitante": {
+        "nome": "Operário-PR",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GmLvorr4MqC4aRinQQ4Mdw_48x48.png"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "15/06/2025 16:00",
+      "mandante": {
+        "nome": "Atlético-GO",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/9mqMGndwoR9og_Z0uEl2kw_96x96.png"
+      },
+      "visitante": {
+        "nome": "Coritiba",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LaFlBADLmsjHfGTehCYtuA_48x48.png"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "15/06/2025 16:00",
+      "mandante": {
+        "nome": "Novorizontino",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png"
+      },
+      "visitante": {
+        "nome": "Cuiabá",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "15/06/2025 20:30",
+      "mandante": {
+        "nome": "Criciúma",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png"
+      },
+      "visitante": {
+        "nome": "Amazonas",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uuUY0RAXejVcckwdPoVyBQ_96x96.png"
+      }
+    },
+    {
+      "rodada": "12",
+      "data": "16/06/2025 19:00",
+      "mandante": {
+        "nome": "Chapecoense",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/K7JQUKTRsuXfO9YrD5dq5g_96x96.png"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/CD4zI_mvHVrKZaMhYQjiJg_96x96.png"
       }
     },
     {
@@ -1474,30 +1474,6 @@
       "visitante": {
         "nome": "Criciúma",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png"
-      }
-    },
-    {
-      "rodada": "13",
-      "data": "21/06/2025 15:00",
-      "mandante": {
-        "nome": "Goiás",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_48x48.png"
-      },
-      "visitante": {
-        "nome": "Athletic",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S9CYRaQLMRSpASVWqjl17A_96x96.png"
-      }
-    },
-    {
-      "rodada": "13",
-      "data": "21/06/2025 15:00",
-      "mandante": {
-        "nome": "Operário-PR",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GmLvorr4MqC4aRinQQ4Mdw_48x48.png"
-      },
-      "visitante": {
-        "nome": "Novorizontino",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png"
       }
     },
     {
@@ -1571,23 +1547,35 @@
         "nome": "Volta Redonda",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/DsXF0mAUd6L0JjRhOwsr2w_96x96.png"
       }
+    },
+    {
+      "rodada": "13",
+      "data": "23/06/2025 19:00",
+      "mandante": {
+        "nome": "Operário-PR",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/GmLvorr4MqC4aRinQQ4Mdw_48x48.png"
+      },
+      "visitante": {
+        "nome": "Novorizontino",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "23/06/2025 21:00",
+      "mandante": {
+        "nome": "Goiás",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_48x48.png"
+      },
+      "visitante": {
+        "nome": "Athletic",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/S9CYRaQLMRSpASVWqjl17A_96x96.png"
+      }
     }
 ,
     {
       "rodada": "14",
-      "data": "27/06/2025 19:00",
-      "mandante": {
-        "nome": "Criciúma",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png"
-      },
-      "visitante": {
-        "nome": "Avaí",
-        "imagem": "https://www.escudosfc.com.br/images/avai.gif"
-      }
-    },
-    {
-      "rodada": "14",
-      "data": "28/06/2025 15:00",
+      "data": "26/06/2025 21:35",
       "mandante": {
         "nome": "CRB",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png"
@@ -1599,14 +1587,14 @@
     },
     {
       "rodada": "14",
-      "data": "28/06/2025 15:00",
+      "data": "27/06/2025 19:00",
       "mandante": {
-        "nome": "Cuiabá",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png"
+        "nome": "Criciúma",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png"
       },
       "visitante": {
-        "nome": "Botafogo-SP",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png"
+        "nome": "Avaí",
+        "imagem": "https://www.escudosfc.com.br/images/avai.gif"
       }
     },
     {
@@ -1691,6 +1679,18 @@
       "visitante": {
         "nome": "Amazonas",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/uuUY0RAXejVcckwdPoVyBQ_96x96.png"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "30/06/2025 19:00",
+      "mandante": {
+        "nome": "Paysandu",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1aw29215gcFtsyu07fCifw_48x48.png"
+      },
+      "visitante": {
+        "nome": "Ferroviária",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/CD4zI_mvHVrKZaMhYQjiJg_96x96.png"
       }
     }
 ,
