@@ -1331,7 +1331,7 @@
       }
     }
 ,
-     {
+    {
       "rodada": "12",
       "data": "11/06/2025 15:00",
       "mandante": {
@@ -1454,43 +1454,7 @@
 ,
     {
       "rodada": "13",
-      "data": "13/07/2025 15:00",
-      "mandante": {
-        "nome": "Bahia",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png"
-      },
-      "visitante": {
-        "nome": "Atlético-MG",
-        "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png"
-      }
-    },
-    {
-      "rodada": "13",
-      "data": "13/07/2025 15:00",
-      "mandante": {
-        "nome": "Corinthians",
-        "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"
-      },
-      "visitante": {
-        "nome": "RB Bragantino",
-        "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png"
-      }
-    },
-    {
-      "rodada": "13",
-      "data": "13/07/2025 15:00",
-      "mandante": {
-        "nome": "Cruzeiro",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png"
-      },
-      "visitante": {
-        "nome": "Grêmio",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png"
-      }
-    },
-    {
-      "rodada": "13",
-      "data": "13/07/2025 15:00",
+      "data": "12/07/2025 16:30",
       "mandante": {
         "nome": "Flamengo",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png"
@@ -1502,19 +1466,7 @@
     },
     {
       "rodada": "13",
-      "data": "13/07/2025 15:00",
-      "mandante": {
-        "nome": "Fortaleza",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png"
-      },
-      "visitante": {
-        "nome": "Ceará",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png"
-      }
-    },
-    {
-      "rodada": "13",
-      "data": "13/07/2025 15:00",
+      "data": "12/07/2025 16:30",
       "mandante": {
         "nome": "Internacional",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png"
@@ -1526,14 +1478,26 @@
     },
     {
       "rodada": "13",
-      "data": "13/07/2025 15:00",
+      "data": "12/07/2025 18:30",
       "mandante": {
-        "nome": "Juventude",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png"
+        "nome": "Vasco",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png"
       },
       "visitante": {
-        "nome": "Sport",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png"
+        "nome": "Botafogo",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "12/07/2025 21:00",
+      "mandante": {
+        "nome": "Bahia",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png"
       }
     },
     {
@@ -1562,14 +1526,50 @@
     },
     {
       "rodada": "13",
-      "data": "13/07/2025 15:00",
+      "data": "13/07/2025 19:00",
       "mandante": {
-        "nome": "Vasco",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png"
+        "nome": "Corinthians",
+        "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"
       },
       "visitante": {
-        "nome": "Botafogo",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png"
+        "nome": "RB Bragantino",
+        "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "13/07/2025 20:30",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png"
+      },
+      "visitante": {
+        "nome": "Grêmio",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "13/07/2025 20:30",
+      "mandante": {
+        "nome": "Fortaleza",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png"
+      }
+    },
+    {
+      "rodada": "13",
+      "data": "14/07/2025 20:00",
+      "mandante": {
+        "nome": "Juventude",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png"
+      },
+      "visitante": {
+        "nome": "Sport",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png"
       }
     }
 ,
@@ -1601,54 +1601,6 @@
       "rodada": "14",
       "data": "16/07/2025 15:00",
       "mandante": {
-        "nome": "Botafogo",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png"
-      },
-      "visitante": {
-        "nome": "Vitória",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png"
-      }
-    },
-    {
-      "rodada": "14",
-      "data": "16/07/2025 15:00",
-      "mandante": {
-        "nome": "Ceará",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png"
-      },
-      "visitante": {
-        "nome": "Corinthians",
-        "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"
-      }
-    },
-    {
-      "rodada": "14",
-      "data": "16/07/2025 15:00",
-      "mandante": {
-        "nome": "Fluminense",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png"
-      },
-      "visitante": {
-        "nome": "Cruzeiro",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png"
-      }
-    },
-    {
-      "rodada": "14",
-      "data": "16/07/2025 15:00",
-      "mandante": {
-        "nome": "Grêmio",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png"
-      },
-      "visitante": {
-        "nome": "Fortaleza",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png"
-      }
-    },
-    {
-      "rodada": "14",
-      "data": "16/07/2025 15:00",
-      "mandante": {
         "nome": "Juventude",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png"
       },
@@ -1659,7 +1611,7 @@
     },
     {
       "rodada": "14",
-      "data": "16/07/2025 15:00",
+      "data": "16/07/2025 19:00",
       "mandante": {
         "nome": "Palmeiras",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png"
@@ -1671,7 +1623,43 @@
     },
     {
       "rodada": "14",
-      "data": "16/07/2025 15:00",
+      "data": "16/07/2025 19:30",
+      "mandante": {
+        "nome": "Ceará",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 20:00",
+      "mandante": {
+        "nome": "Santos",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png"
+      },
+      "visitante": {
+        "nome": "Flamengo",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 21:30",
+      "mandante": {
+        "nome": "Botafogo",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png"
+      },
+      "visitante": {
+        "nome": "Vitória",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "16/07/2025 21:30",
       "mandante": {
         "nome": "RB Bragantino",
         "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png"
@@ -1683,44 +1671,32 @@
     },
     {
       "rodada": "14",
-      "data": "16/07/2025 15:00",
+      "data": "17/07/2025 19:30",
       "mandante": {
-        "nome": "Santos",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png"
+        "nome": "Fluminense",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png"
       },
       "visitante": {
-        "nome": "Flamengo",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png"
+        "nome": "Cruzeiro",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png"
+      }
+    },
+    {
+      "rodada": "14",
+      "data": "29/07/2025 20:30",
+      "mandante": {
+        "nome": "Grêmio",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png"
+      },
+      "visitante": {
+        "nome": "Fortaleza",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png"
       }
     }
 ,
     {
       "rodada": "15",
-      "data": "20/07/2025 15:00",
-      "mandante": {
-        "nome": "Cruzeiro",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png"
-      },
-      "visitante": {
-        "nome": "Juventude",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png"
-      }
-    },
-    {
-      "rodada": "15",
-      "data": "20/07/2025 15:00",
-      "mandante": {
-        "nome": "Flamengo",
-        "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png"
-      },
-      "visitante": {
-        "nome": "Fluminense",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png"
-      }
-    },
-    {
-      "rodada": "15",
-      "data": "20/07/2025 15:00",
+      "data": "19/07/2025 16:00",
       "mandante": {
         "nome": "Fortaleza",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png"
@@ -1732,67 +1708,7 @@
     },
     {
       "rodada": "15",
-      "data": "20/07/2025 15:00",
-      "mandante": {
-        "nome": "Internacional",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png"
-      },
-      "visitante": {
-        "nome": "Ceará",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png"
-      }
-    },
-    {
-      "rodada": "15",
-      "data": "20/07/2025 15:00",
-      "mandante": {
-        "nome": "Mirassol",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/eQ05kONtFs6kLBgww3MHsg_96x96.png"
-      },
-      "visitante": {
-        "nome": "Santos",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png"
-      }
-    },
-    {
-      "rodada": "15",
-      "data": "20/07/2025 15:00",
-      "mandante": {
-        "nome": "Palmeiras",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png"
-      },
-      "visitante": {
-        "nome": "Atlético-MG",
-        "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png"
-      }
-    },
-    {
-      "rodada": "15",
-      "data": "20/07/2025 15:00",
-      "mandante": {
-        "nome": "São Paulo",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png"
-      },
-      "visitante": {
-        "nome": "Corinthians",
-        "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"
-      }
-    },
-    {
-      "rodada": "15",
-      "data": "20/07/2025 15:00",
-      "mandante": {
-        "nome": "Sport",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png"
-      },
-      "visitante": {
-        "nome": "Botafogo",
-        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png"
-      }
-    },
-    {
-      "rodada": "15",
-      "data": "20/07/2025 15:00",
+      "data": "19/07/2025 17:30",
       "mandante": {
         "nome": "Vasco",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png"
@@ -1804,7 +1720,55 @@
     },
     {
       "rodada": "15",
-      "data": "20/07/2025 15:00",
+      "data": "19/07/2025 18:30",
+      "mandante": {
+        "nome": "Mirassol",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/eQ05kONtFs6kLBgww3MHsg_96x96.png"
+      },
+      "visitante": {
+        "nome": "Santos",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/VHdNOT6wWOw_vJ38GMjMzg_96x96.png"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "19/07/2025 21:00",
+      "mandante": {
+        "nome": "São Paulo",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png"
+      },
+      "visitante": {
+        "nome": "Corinthians",
+        "imagem": "https://logodetimes.com/times/corinthians/logo-corinthians-4096.png"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 11:00",
+      "mandante": {
+        "nome": "Internacional",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/OWVFKuHrQuf4q2Wk0hEmSA_96x96.png"
+      },
+      "visitante": {
+        "nome": "Ceará",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/mSl0cz3i2t8uv4zcprobOg_96x96.png"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 16:00",
+      "mandante": {
+        "nome": "Cruzeiro",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cfkLbPGt7TD_FSDotajcbA_96x96.png"
+      },
+      "visitante": {
+        "nome": "Juventude",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 16:00",
       "mandante": {
         "nome": "Vitória",
         "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/LHSM6VchpkI4NIptoSTHOg_96x96.png"
@@ -1812,6 +1776,42 @@
       "visitante": {
         "nome": "RB Bragantino",
         "imagem": "https://lh3.ggpht.com/-2H8TG2xgkNM/XioxlJNOhuI/AAAAAAAAExA/Ev9a8vKC-VUstZYHNGP-7Ju9hbvi6BbqQCEwYBhgL/s724/bragantino.png"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 17:30",
+      "mandante": {
+        "nome": "Palmeiras",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png"
+      },
+      "visitante": {
+        "nome": "Atlético-MG",
+        "imagem": "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 17:30",
+      "mandante": {
+        "nome": "Sport",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png"
+      },
+      "visitante": {
+        "nome": "Botafogo",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png"
+      }
+    },
+    {
+      "rodada": "15",
+      "data": "20/07/2025 19:30",
+      "mandante": {
+        "nome": "Flamengo",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png"
+      },
+      "visitante": {
+        "nome": "Fluminense",
+        "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png"
       }
     }
 ,
