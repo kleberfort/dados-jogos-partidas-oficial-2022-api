@@ -3,6 +3,89 @@
 
   {
   "descricao" : "Brasileirão Série B",
+  "rodada" : 16,
+  "data" : "15/07/2025",
+  "mandante" : {
+    "nome" : "Cuiabá",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
+    "classificacao" : 9,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "A. Safira (Pên.)",
+      "tempo" : "29"
+    }, {
+      "jogador" : "C. Alberto",
+      "tempo" : "35"
+    }, {
+      "jogador" : "A. Safira (Pên.)",
+      "tempo" : "74"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Amazonas",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uuUY0RAXejVcckwdPoVyBQ_96x96.png",
+    "classificacao" : 20,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "J. Torres",
+      "tempo" : "4"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 6,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 42,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 4,
+    "faltas" : 12,
+    "passes" : 301,
+    "desarmes" : 9,
+    "impedimentos" : 3,
+    "laterais" : 31,
+    "tiroDeMeta" : 11
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 58,
+    "finalizacoes" : 14,
+    "finalizacoesGol" : 5,
+    "faltas" : 15,
+    "passes" : 412,
+    "desarmes" : 15,
+    "impedimentos" : 3,
+    "laterais" : 23,
+    "tiroDeMeta" : 5
+  },"Rodada": 16, "Total de Jogos": 10 
+}
+
+
+
+,
+
+
+  {
+  "descricao" : "Brasileirão Série B",
   "rodada" : 15,
   "data" : "04/07/2025",
   "mandante" : {
