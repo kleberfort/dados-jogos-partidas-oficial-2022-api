@@ -1170,8 +1170,86 @@
     "impedimentos" : 2,
     "laterais" : 7,
     "tiroDeMeta" : 12
-  },"Rodada": 14, "Total de Jogos": 6
+  }
 }
+
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 14,
+  "data" : "29/07/2025",
+  "mandante" : {
+    "nome" : "Grêmio",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
+    "classificacao" : 14,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "M. Braithwaite (Pên.)",
+      "tempo" : "12"
+    }, {
+      "jogador" : "M. Braithwaite (Pên.)",
+      "tempo" : "17"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Fortaleza",
+    "imagem" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+    "classificacao" : 18,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "Deyverson",
+      "tempo" : "24"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 3,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 41,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 4,
+    "faltas" : 24,
+    "passes" : 357,
+    "desarmes" : 17,
+    "impedimentos" : 0,
+    "laterais" : 18,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 59,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 3,
+    "faltas" : 26,
+    "passes" : 505,
+    "desarmes" : 21,
+    "impedimentos" : 1,
+    "laterais" : 13,
+    "tiroDeMeta" : 10
+  },"Rodada": 14, "Total de Jogos": 7
+}
+
 
 
 ,
