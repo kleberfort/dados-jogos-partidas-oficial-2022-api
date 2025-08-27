@@ -1,6 +1,741 @@
 [
 
 
+
+  {
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 23,
+  "data" : "22/08/2025",
+  "mandante" : {
+    "nome" : "Athletic",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/S9CYRaQLMRSpASVWqjl17A_96x96.png",
+    "classificacao" : 15,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Chapecoense",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/K7JQUKTRsuXfO9YrD5dq5g_96x96.png",
+    "classificacao" : 3,
+    "placar" : 4,
+    "gols" : [ {
+      "jogador" : "G. Augusto",
+      "tempo" : "53"
+    }, {
+      "jogador" : "V. Caetano",
+      "tempo" : "58"
+    }, {
+      "jogador" : "Gabriel Inocêncio",
+      "tempo" : "68"
+    }, {
+      "jogador" : "Perotti",
+      "tempo" : "80"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 4
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 49,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 2,
+    "faltas" : 8,
+    "passes" : 348,
+    "desarmes" : 15,
+    "impedimentos" : 3,
+    "laterais" : 28,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 51,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 7,
+    "faltas" : 7,
+    "passes" : 363,
+    "desarmes" : 11,
+    "impedimentos" : 1,
+    "laterais" : 11,
+    "tiroDeMeta" : 13
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 23,
+  "data" : "23/08/2025",
+  "mandante" : {
+    "nome" : "Criciúma",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/u_L7Mkp33uNmFTv3uUlXeQ_96x96.png",
+    "classificacao" : 7,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "Nicolas",
+      "tempo" : "63"
+    }, {
+      "jogador" : "B. Borasi",
+      "tempo" : "79"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Novorizontino",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/2YeE0Oupr5ApZJR0CyX_3g_96x96.png",
+    "classificacao" : 4,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 3,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 54,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 4,
+    "faltas" : 9,
+    "passes" : 364,
+    "desarmes" : 14,
+    "impedimentos" : 1,
+    "laterais" : 32,
+    "tiroDeMeta" : 8
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 46,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 0,
+    "faltas" : 17,
+    "passes" : 310,
+    "desarmes" : 9,
+    "impedimentos" : 1,
+    "laterais" : 30,
+    "tiroDeMeta" : 13
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 23,
+  "data" : "23/08/2025",
+  "mandante" : {
+    "nome" : "Coritiba",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/LaFlBADLmsjHfGTehCYtuA_48x48.png",
+    "classificacao" : 1,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Remo",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/bENrK5iSMF6sXrEkDNNxng_96x96.png",
+    "classificacao" : 6,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 6,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 1
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 3,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 57,
+    "finalizacoes" : 16,
+    "finalizacoesGol" : 5,
+    "faltas" : 8,
+    "passes" : 422,
+    "desarmes" : 12,
+    "impedimentos" : 1,
+    "laterais" : 35,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 43,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 5,
+    "faltas" : 17,
+    "passes" : 331,
+    "desarmes" : 20,
+    "impedimentos" : 0,
+    "laterais" : 27,
+    "tiroDeMeta" : 8
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 23,
+  "data" : "23/08/2025",
+  "mandante" : {
+    "nome" : "Goiás",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/gb8bo2x00XsbvsVp9nGniA_48x48.png",
+    "classificacao" : 2,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "R. Barcelos (AG)",
+      "tempo" : "54"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "América-MG",
+    "imagem" : "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-512.png",
+    "classificacao" : 16,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 39,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 1,
+    "faltas" : 21,
+    "passes" : 277,
+    "desarmes" : 22,
+    "impedimentos" : 4,
+    "laterais" : 31,
+    "tiroDeMeta" : 4
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 61,
+    "finalizacoes" : 3,
+    "finalizacoesGol" : 1,
+    "faltas" : 14,
+    "passes" : 455,
+    "desarmes" : 20,
+    "impedimentos" : 0,
+    "laterais" : 31,
+    "tiroDeMeta" : 6
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 23,
+  "data" : "23/08/2025",
+  "mandante" : {
+    "nome" : "CRB",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/zEM-aepnkjTSoBMW9LH_Qw_96x96.png",
+    "classificacao" : 10,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Athletico",
+    "imagem" : "https://i.pinimg.com/originals/b8/86/3f/b8863f2e056204741c402d467cbafdea.png",
+    "classificacao" : 13,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "K. Viveros",
+      "tempo" : "48"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 65,
+    "finalizacoes" : 13,
+    "finalizacoesGol" : 2,
+    "faltas" : 11,
+    "passes" : 601,
+    "desarmes" : 13,
+    "impedimentos" : 1,
+    "laterais" : 15,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 35,
+    "finalizacoes" : 16,
+    "finalizacoesGol" : 4,
+    "faltas" : 17,
+    "passes" : 323,
+    "desarmes" : 15,
+    "impedimentos" : 1,
+    "laterais" : 12,
+    "tiroDeMeta" : 12
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 23,
+  "data" : "24/08/2025",
+  "mandante" : {
+    "nome" : "Paysandu",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/1aw29215gcFtsyu07fCifw_48x48.png",
+    "classificacao" : 19,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "Diogo Oliveira",
+      "tempo" : "27"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Operário-PR",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/GmLvorr4MqC4aRinQQ4Mdw_48x48.png",
+    "classificacao" : 13,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "Paraíba",
+      "tempo" : "40"
+    }, {
+      "jogador" : "G. Boschilia (Pên.)",
+      "tempo" : "50"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 7,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 5,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 49,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 2,
+    "faltas" : 8,
+    "passes" : 325,
+    "desarmes" : 12,
+    "impedimentos" : 2,
+    "laterais" : 20,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 51,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 4,
+    "faltas" : 16,
+    "passes" : 359,
+    "desarmes" : 14,
+    "impedimentos" : 2,
+    "laterais" : 18,
+    "tiroDeMeta" : 14
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 23,
+  "data" : "24/08/2025",
+  "mandante" : {
+    "nome" : "Ferroviária",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/CD4zI_mvHVrKZaMhYQjiJg_96x96.png",
+    "classificacao" : 13,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "visitante" : {
+    "nome" : "Volta Redonda",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/DsXF0mAUd6L0JjRhOwsr2w_96x96.png",
+    "classificacao" : 17,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 51,
+    "finalizacoes" : 10,
+    "finalizacoesGol" : 4,
+    "faltas" : 18,
+    "passes" : 449,
+    "desarmes" : 6,
+    "impedimentos" : 4,
+    "laterais" : 18,
+    "tiroDeMeta" : 11
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 49,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 8,
+    "faltas" : 19,
+    "passes" : 421,
+    "desarmes" : 9,
+    "impedimentos" : 2,
+    "laterais" : 10,
+    "tiroDeMeta" : 7
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 23,
+  "data" : "24/08/2025",
+  "mandante" : {
+    "nome" : "Cuiabá",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/j6U8Rgt_6yyf0Egs9nREXw_96x96.png",
+    "classificacao" : 9,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "B. Alves",
+      "tempo" : "19"
+    }, {
+      "jogador" : "A. Safira",
+      "tempo" : "47"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Atlético-GO",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/9mqMGndwoR9og_Z0uEl2kw_96x96.png",
+    "classificacao" : 14,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "Dudu",
+      "tempo" : "14"
+    }, {
+      "jogador" : "F. Martínez",
+      "tempo" : "90"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 44,
+    "finalizacoes" : 19,
+    "finalizacoesGol" : 15,
+    "faltas" : 22,
+    "passes" : 307,
+    "desarmes" : 12,
+    "impedimentos" : 1,
+    "laterais" : 29,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 56,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 3,
+    "faltas" : 16,
+    "passes" : 400,
+    "desarmes" : 14,
+    "impedimentos" : 2,
+    "laterais" : 29,
+    "tiroDeMeta" : 3
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 23,
+  "data" : "25/08/2025",
+  "mandante" : {
+    "nome" : "Botafogo-SP",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/VYXHOgQwI7tw3EyFlWngWg_96x96.png",
+    "classificacao" : 18,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "Marquinho (Pên.)",
+      "tempo" : "59"
+    }, {
+      "jogador" : "R. Carrillo",
+      "tempo" : "87"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Vila Nova",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/v3upsCABZm2skuxyszzvwg_96x96.png",
+    "classificacao" : 7,
+    "placar" : 0,
+    "gols" : [ ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 1
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 62,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 5,
+    "faltas" : 13,
+    "passes" : 417,
+    "desarmes" : 9,
+    "impedimentos" : 0,
+    "laterais" : 35,
+    "tiroDeMeta" : 6
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 38,
+    "finalizacoes" : 6,
+    "finalizacoesGol" : 3,
+    "faltas" : 16,
+    "passes" : 266,
+    "desarmes" : 10,
+    "impedimentos" : 1,
+    "laterais" : 26,
+    "tiroDeMeta" : 8
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Série B",
+  "rodada" : 23,
+  "data" : "26/08/2025",
+  "mandante" : {
+    "nome" : "Avaí",
+    "imagem" : "https://www.escudosfc.com.br/images/avai.gif",
+    "classificacao" : 9,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "T. Roberth",
+      "tempo" : "90+3"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Amazonas",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/uuUY0RAXejVcckwdPoVyBQ_96x96.png",
+    "classificacao" : 20,
+    "placar" : 2,
+    "gols" : [ {
+      "jogador" : "R. Tavares",
+      "tempo" : "55"
+    }, {
+      "jogador" : "Henrique",
+      "tempo" : "90+7"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 7,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 2,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 2
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 4,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 62,
+    "finalizacoes" : 19,
+    "finalizacoesGol" : 4,
+    "faltas" : 16,
+    "passes" : 456,
+    "desarmes" : 8,
+    "impedimentos" : 3,
+    "laterais" : 19,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 38,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 4,
+    "faltas" : 18,
+    "passes" : 286,
+    "desarmes" : 9,
+    "impedimentos" : 0,
+    "laterais" : 20,
+    "tiroDeMeta" : 8
+  },"Rodada": 23, "Total de Jogos": 10 
+}
+
+
+
+  ,
+
+
   {
   "descricao" : "Brasileirão Série B",
   "rodada" : 22,
