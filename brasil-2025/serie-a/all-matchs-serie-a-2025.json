@@ -6050,7 +6050,7 @@
 ,
 
 
-  {
+ {
   "descricao" : "Brasileirão Betano",
   "rodada" : 16,
   "data" : "23/07/2025",
@@ -6563,8 +6563,162 @@
     "impedimentos" : 0,
     "laterais" : 27,
     "tiroDeMeta" : 6
-  },"Rodada": 16, "Total de Jogos": 7 
+  }
 }
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 16,
+  "data" : "24/09/2025",
+  "mandante" : {
+    "nome" : "Vasco",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
+    "classificacao" : 16,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "P. Coutinho",
+      "tempo" : "45+1"
+    }, {
+      "jogador" : "P. Rodríguez",
+      "tempo" : "60"
+    }, {
+      "jogador" : "L. Juba (AG)",
+      "tempo" : "77"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Bahia",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/nIdbR6qIUDyZUBO9vojSPw_96x96.png",
+    "classificacao" : 6,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "M. Sanabria",
+      "tempo" : "31"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 4,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 1,
+    "golsSegundoTempo" : 0
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 1,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 67,
+    "finalizacoes" : 19,
+    "finalizacoesGol" : 6,
+    "faltas" : 20,
+    "passes" : 505,
+    "desarmes" : 18,
+    "impedimentos" : 1,
+    "laterais" : 12,
+    "tiroDeMeta" : 5
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 33,
+    "finalizacoes" : 9,
+    "finalizacoesGol" : 3,
+    "faltas" : 13,
+    "passes" : 259,
+    "desarmes" : 18,
+    "impedimentos" : 1,
+    "laterais" : 10,
+    "tiroDeMeta" : 9
+  }
+}
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 16,
+  "data" : "24/09/2025",
+  "mandante" : {
+    "nome" : "Grêmio",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
+    "classificacao" : 12,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "T. Volpi (Pên.)",
+      "tempo" : "90"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Botafogo",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/KLDWYp-H8CAOT9H_JgizRg_96x96.png",
+    "classificacao" : 5,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "Cuiabano",
+      "tempo" : "53"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 1,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 0,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 4,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 46,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 4,
+    "faltas" : 7,
+    "passes" : 424,
+    "desarmes" : 18,
+    "impedimentos" : 1,
+    "laterais" : 15,
+    "tiroDeMeta" : 7
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 54,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 4,
+    "faltas" : 17,
+    "passes" : 519,
+    "desarmes" : 14,
+    "impedimentos" : 1,
+    "laterais" : 16,
+    "tiroDeMeta" : 11
+  },"Rodada": 16, "Total de Jogos": 9 
+}
+
+
 
 ,
 
