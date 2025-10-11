@@ -9508,7 +9508,87 @@
     "impedimentos" : 0,
     "laterais" : 23,
     "tiroDeMeta" : 7
-  },"Rodada": 14, "Total de Jogos": 8
+  }
+}
+
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 14,
+  "data" : "08/10/2025",
+  "mandante" : {
+    "nome" : "Atlético-MG",
+    "imagem" : "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
+    "classificacao" : 15,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "V. Hugo",
+      "tempo" : "9"
+    }, {
+      "jogador" : "G. Arana",
+      "tempo" : "38"
+    }, {
+      "jogador" : "Rony",
+      "tempo" : "62"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Sport",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/u9Ydy0qt6JJjWhTaI6r10A_96x96.png",
+    "classificacao" : 20,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "D. Lacerda (Pên.)",
+      "tempo" : "82"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 2,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 6,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 2,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 2,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 46,
+    "finalizacoes" : 15,
+    "finalizacoesGol" : 5,
+    "faltas" : 13,
+    "passes" : 419,
+    "desarmes" : 19,
+    "impedimentos" : 2,
+    "laterais" : 7,
+    "tiroDeMeta" : 14
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 54,
+    "finalizacoes" : 19,
+    "finalizacoesGol" : 2,
+    "faltas" : 8,
+    "passes" : 483,
+    "desarmes" : 16,
+    "impedimentos" : 1,
+    "laterais" : 10,
+    "tiroDeMeta" : 3
+  },"Rodada": 14, "Total de Jogos": 9
 }
 
 ,
