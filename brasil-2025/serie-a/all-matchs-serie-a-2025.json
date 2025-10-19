@@ -12322,8 +12322,94 @@
     "impedimentos" : 1,
     "laterais" : 24,
     "tiroDeMeta" : 8
-  },"Rodada": 12, "Total de Jogos": 7
+  }
 }
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 12,
+  "data" : "11/10/2025",
+  "mandante" : {
+    "nome" : "Palmeiras",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/7spurne-xDt2p6C0imYYNA_96x96.png",
+    "classificacao" : 1,
+    "placar" : 4,
+    "gols" : [ {
+      "jogador" : "R. Veiga",
+      "tempo" : "27"
+    }, {
+      "jogador" : "B. Rodrigues",
+      "tempo" : "44"
+    }, {
+      "jogador" : "B. Fuchs",
+      "tempo" : "49"
+    }, {
+      "jogador" : "F. Anderson",
+      "tempo" : "56"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Juventude",
+    "imagem" : "https://ssl.gstatic.com/onebox/media/sports/logos/JrXw-m4Dov0gE2Sh6XJQMQ_96x96.png",
+    "classificacao" : 19,
+    "placar" : 1,
+    "gols" : [ {
+      "jogador" : "R. Sam",
+      "tempo" : "76"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 1,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 2
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 0,
+    "escanteiosSegundoTempo" : 0,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 1
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 67,
+    "finalizacoes" : 19,
+    "finalizacoesGol" : 10,
+    "faltas" : 9,
+    "passes" : 557,
+    "desarmes" : 15,
+    "impedimentos" : 1,
+    "laterais" : 24,
+    "tiroDeMeta" : 9
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 33,
+    "finalizacoes" : 8,
+    "finalizacoesGol" : 1,
+    "faltas" : 15,
+    "passes" : 276,
+    "desarmes" : 21,
+    "impedimentos" : 0,
+    "laterais" : 17,
+    "tiroDeMeta" : 8
+  },"Rodada": 12, "Total de Jogos": 8
+}
+
+
+
+
 
 
 
