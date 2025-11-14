@@ -13413,8 +13413,95 @@
     "impedimentos" : 1,
     "laterais" : 16,
     "tiroDeMeta" : 11
-  },"Rodada": 16, "Total de Jogos": 9 
+  }
 }
+
+,
+
+{
+  "descricao" : "Brasileirão Betano",
+  "rodada" : 16,
+  "data" : "12/11/2025",
+  "mandante" : {
+    "nome" : "Atlético-MG",
+    "imagem" : "https://lh3.googleusercontent.com/-PnSdQx5SHPs/WRnQRxEIdLI/AAAAAAAAEHM/7iiEf5mOu5s4sOFNxio-IOlZ9pdjniFdQCEw/s766/atletico-mineiro.png",
+    "classificacao" : 9,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "Hulk",
+      "tempo" : "8"
+    }, {
+      "jogador" : "V. Hugo",
+      "tempo" : "45+2"
+    }, {
+      "jogador" : "Dudu",
+      "tempo" : "61"
+    } ]
+  },
+  "visitante" : {
+    "nome" : "Fortaleza",
+    "imagem" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FortalezaEsporteClube.svg/1200px-FortalezaEsporteClube.svg.png",
+    "classificacao" : 19,
+    "placar" : 3,
+    "gols" : [ {
+      "jogador" : "Deyverson",
+      "tempo" : "47"
+    }, {
+      "jogador" : "Deyverson (Pên.)",
+      "tempo" : "67"
+    }, {
+      "jogador" : "Deyverson",
+      "tempo" : "90+3"
+    } ]
+  },
+  "estatistiticaJogoMandante" : {
+    "escanteiosPrimeiroTempo" : 5,
+    "escanteiosSegundoTempo" : 4,
+    "golsPrimeiroTempo" : 2,
+    "golsSegundoTempo" : 1
+  },
+  "estatisticaJogoVisitante" : {
+    "escanteiosPrimeiroTempo" : 3,
+    "escanteiosSegundoTempo" : 3,
+    "golsPrimeiroTempo" : 0,
+    "golsSegundoTempo" : 3
+  },
+  "EstatisticaCartoesMandante" : {
+    "cartoesAmareloPrimeiroTempo" : 1,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "EstatisticaCartoesVisitante" : {
+    "cartoesAmareloPrimeiroTempo" : 0,
+    "cartoesAmareloSegundoTempo" : 1,
+    "cartoesVermelhoPrimeiroTempo" : 0,
+    "cartoesVermelhoSegundoTempo" : 0
+  },
+  "estatisticaGeralMandante" : {
+    "posseBola" : 59,
+    "finalizacoes" : 17,
+    "finalizacoesGol" : 8,
+    "faltas" : 15,
+    "passes" : 497,
+    "desarmes" : 18,
+    "impedimentos" : 2,
+    "laterais" : 21,
+    "tiroDeMeta" : 8
+  },
+  "estatisticaGeralVisitante" : {
+    "posseBola" : 41,
+    "finalizacoes" : 12,
+    "finalizacoesGol" : 5,
+    "faltas" : 10,
+    "passes" : 351,
+    "desarmes" : 14,
+    "impedimentos" : 1,
+    "laterais" : 13,
+    "tiroDeMeta" : 6
+  },"Rodada": 16, "Total de Jogos": 10
+}
+
 
 
 
